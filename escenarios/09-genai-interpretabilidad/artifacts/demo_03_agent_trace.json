@@ -1,0 +1,108 @@
+[
+  {
+    "step": 0,
+    "type": "user_request",
+    "detail": "Selecciona clientes Platino con alto riesgo de inactividad y prepara una propuesta de campaña respetando consentimiento, margen y presión comercial."
+  },
+  {
+    "step": 1,
+    "type": "intent",
+    "detail": "reactivación comercial de clientes de alto valor con restricciones de gobierno",
+    "payload": null
+  },
+  {
+    "step": 2,
+    "type": "plan",
+    "detail": "1) obtener cliente con score alto; 2) explicar drivers; 3) consultar reglas CRM; 4) comprobar consentimiento; 5) generar recomendación con cautelas",
+    "payload": null
+  },
+  {
+    "step": 3,
+    "type": "tool_call",
+    "detail": "churn_model.predict_proba + explicación local",
+    "payload": {
+      "target": "label_inactive_90d"
+    }
+  },
+  {
+    "step": 4,
+    "type": "tool_result",
+    "detail": "cliente prioritario y señales principales",
+    "payload": {
+      "score": 0.9469,
+      "signals": [
+        "gross_margin_rate",
+        "margin_gross",
+        "ciudad_Córdoba",
+        "recency_days",
+        "avg_order_value"
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "type": "tool_call",
+    "detail": "rag.retrieve",
+    "payload": {
+      "query": "fidelización CRM consentimiento marketing presión comercial campaña reactivación cupón cliente Platino",
+      "top_k": 5
+    }
+  },
+  {
+    "step": 6,
+    "type": "evidence",
+    "detail": "documentos recuperados",
+    "payload": [
+      {
+        "file_name": "FS-KB-07_Guia_Fidelizacion_CRM_v1.1.docx",
+        "chunk_id": "FS-KB-07-CH000",
+        "score": 0.1638628451698096
+      },
+      {
+        "file_name": "FS-KB-07_Guia_Fidelizacion_CRM_v1.1.docx",
+        "chunk_id": "FS-KB-07-CH001",
+        "score": 0.11081962959762437
+      },
+      {
+        "file_name": "FS-KB-01_Politica_Devoluciones_v1.3_Vigente.docx",
+        "chunk_id": "FS-KB-01-CH004",
+        "score": 0.04477767512222185
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "type": "tool_call",
+    "detail": "crm.lookup",
+    "payload": {
+      "customer_id": null
+    }
+  },
+  {
+    "step": 8,
+    "type": "tool_result",
+    "detail": "crm y consentimiento",
+    "payload": {
+      "customer_id": null,
+      "tier": "",
+      "estado": "",
+      "consentimiento": ""
+    }
+  },
+  {
+    "step": 9,
+    "type": "guardrail",
+    "detail": "verificación de consentimiento y estado de cliente",
+    "payload": {
+      "approved_for_activation": false
+    }
+  },
+  {
+    "step": 10,
+    "type": "final_answer",
+    "detail": "respuesta al usuario",
+    "payload": {
+      "answer": "No se recomienda activar automáticamente la campaña para este cliente. Aunque el score de inactividad es alto, la comprobación de consentimiento/estado no permite una acción directa. Se puede registrar el caso para revisión o buscar otro cliente elegible."
+    }
+  }
+]

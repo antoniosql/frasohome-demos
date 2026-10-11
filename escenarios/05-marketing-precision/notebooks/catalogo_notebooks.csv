@@ -1,0 +1,11 @@
+notebook,caso,tipo,outputs
+Notebook_09_Resolucion_Identidad_Customer360_FraSoHome.ipynb,Resolución de identidad y customer 360,Analítica avanzada,nb09_identity_mapping.csv; nb09_customer360.csv
+Notebook_10_Segmentacion_Valor_CLV_FraSoHome.ipynb,Segmentación de valor omnicanal y CLV,Analítica avanzada,nb10_customer_value_segmentation.csv; nb10_segment_summary.csv
+Notebook_11_Churn_Next_Best_Action_FraSoHome.ipynb,Churn y reactivación con next best action,IA predictiva,nb11_churn_training_dataset.csv; nb11_churn_scoring_latest.csv
+Notebook_12_Propension_Categoria_FraSoHome.ipynb,Propensión de compra por categoría,IA predictiva,nb12_propension_categoria_training.csv; nb12_propension_categoria_scoring.csv
+Notebook_13_Cross_Sell_Basket_Stock_Margen_FraSoHome.ipynb,Cross-sell con stock y margen,Analítica avanzada / recomendación,nb13_cross_sell_rules.csv; nb13_cross_sell_customer_candidates.csv
+Notebook_14_Elasticidad_Promocional_FraSoHome.ipynb,Elasticidad promocional,Analítica avanzada,nb14_promo_scoreboard.csv; nb14_promo_decisions.csv
+Notebook_15_Prediccion_Devolucion_FraSoHome.ipynb,Predicción de devolución,IA predictiva,nb15_return_risk_scoring.csv; nb15_product_return_risk_summary.csv
+Notebook_16_Activacion_Local_Store_Marketing_FraSoHome.ipynb,Activación local con stock,Analítica avanzada / activación,nb16_local_activation_plan.csv; nb16_store_category_summary.csv
+Notebook_17_GenAI_Voz_Cliente_FraSoHome.ipynb,GenAI para voz del cliente,IA generativa,nb17_voc_issue_matrix.csv; nb17_voc_prompt_pack.csv
+Notebook_18_GenAI_Copy_Creatividad_FraSoHome.ipynb,GenAI para copy y creatividad,IA generativa,nb18_genai_copy_briefs.csv; nb18_genai_prompt_library.csv

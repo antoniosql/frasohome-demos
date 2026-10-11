@@ -1,0 +1,73 @@
+﻿dataset,columna,descripcion
+frasohome_people_analytics.csv,employee_id,Identificador anonimizado del empleado.
+frasohome_people_analytics.csv,nombre_anonimizado,Nombre sintético. No corresponde a una persona real.
+frasohome_people_analytics.csv,genero,"Género declarado. Solo debe usarse para auditoría de sesgos, no para tomar decisiones individuales."
+frasohome_people_analytics.csv,edad,Edad en años.
+frasohome_people_analytics.csv,departamento,Área organizativa de FraSoHome.
+frasohome_people_analytics.csv,ubicacion,"Centro, tienda o sede."
+frasohome_people_analytics.csv,rol,Puesto funcional.
+frasohome_people_analytics.csv,nivel,"Nivel del puesto: Junior, Semi Senior, Senior o Manager."
+frasohome_people_analytics.csv,tipo_contrato,Tipo de relación contractual.
+frasohome_people_analytics.csv,jornada,Completa o parcial.
+frasohome_people_analytics.csv,fecha_alta,Fecha de incorporación.
+frasohome_people_analytics.csv,fecha_salida,"Fecha de baja, si aplica."
+frasohome_people_analytics.csv,estado_actual,Activo o Baja a fecha de corte 2026-04-30.
+frasohome_people_analytics.csv,tipo_salida,Voluntaria o involuntaria/fin de contrato.
+frasohome_people_analytics.csv,motivo_salida,Motivo principal de salida registrado por RR.HH.
+frasohome_people_analytics.csv,abandono_voluntario_24m,1 si la persona salió voluntariamente dentro del periodo analizado.
+frasohome_people_analytics.csv,salida_24m,1 si salió por cualquier motivo dentro del periodo analizado.
+frasohome_people_analytics.csv,activo_actual,1 si continúa activo a fecha de corte.
+frasohome_people_analytics.csv,antiguedad_meses,Meses de permanencia hasta fecha de corte o salida.
+frasohome_people_analytics.csv,evaluacion_desempeno_1_5,"Última evaluación de desempeño, escala 1-5."
+frasohome_people_analytics.csv,promociones_24m,Número de promociones o cambios de nivel en 24 meses.
+frasohome_people_analytics.csv,incremento_salarial_12m_pct,Incremento salarial porcentual del último año.
+frasohome_people_analytics.csv,salario_anual_eur,Salario anual bruto estimado en euros.
+frasohome_people_analytics.csv,horas_formacion_12m,Horas de formación recibidas en los últimos 12 meses.
+frasohome_people_analytics.csv,satisfaccion_1_10,"Puntuación de satisfacción laboral, escala 1-10."
+frasohome_people_analytics.csv,engagement_1_10,"Puntuación de compromiso, escala 1-10."
+frasohome_people_analytics.csv,enps,"Employee Net Promoter Score individual simulado, entre -100 y 100."
+frasohome_people_analytics.csv,calidad_manager_1_5,"Percepción de calidad del manager, escala 1-5."
+frasohome_people_analytics.csv,desarrollo_carrera_1_5,"Percepción de oportunidades de desarrollo, escala 1-5."
+frasohome_people_analytics.csv,reconocimiento_1_5,"Percepción de reconocimiento, escala 1-5."
+frasohome_people_analytics.csv,percepcion_salario_1_5,"Percepción de adecuación salarial, escala 1-5."
+frasohome_people_analytics.csv,balance_vida_trabajo_1_5,"Percepción de equilibrio vida-trabajo, escala 1-5."
+frasohome_people_analytics.csv,carga_trabajo_1_5,"Carga de trabajo percibida, escala 1-5."
+frasohome_people_analytics.csv,absentismo_dias_12m,Días de absentismo en 12 meses.
+frasohome_people_analytics.csv,horas_extra_media_mes,Horas extra medias mensuales.
+frasohome_people_analytics.csv,teletrabajo_dias_semana,Días de teletrabajo por semana.
+frasohome_people_analytics.csv,distancia_casa_trabajo_km,Distancia aproximada domicilio-centro.
+frasohome_people_analytics.csv,probabilidad_abandono,Score sintético de probabilidad de abandono entre 0 y 1.
+frasohome_people_analytics.csv,riesgo_abandono,"Segmento de riesgo: Bajo, Medio, Alto o Crítico."
+frasohome_people_analytics.csv,alto_riesgo_flag,1 si probabilidad_abandono >= 0.45.
+frasohome_people_analytics.csv,talento_clave_flag,1 si es perfil de alto desempeño y puesto crítico.
+frasohome_people_analytics.csv,prioridad_retencion,Prioridad orientativa para acciones de retención.
+frasohome_people_analytics.csv,conteo_empleado,Campo auxiliar para agregaciones en Power BI.
+frasohome_people_analytics.csv,comentario_salida,Comentario sintético de entrevista de salida.
+frasohome_people_analytics.csv,comentario_clima,Comentario sintético de encuesta de clima.
+frasohome_rotacion_mensual.csv,periodo_mes,"Mes de análisis, representado como primer día del mes."
+frasohome_rotacion_mensual.csv,departamento,Área organizativa o Total.
+frasohome_rotacion_mensual.csv,headcount_inicio_mes,Plantilla activa al inicio del mes.
+frasohome_rotacion_mensual.csv,altas_mes,Incorporaciones del mes.
+frasohome_rotacion_mensual.csv,bajas_voluntarias_mes,Salidas voluntarias del mes.
+frasohome_rotacion_mensual.csv,bajas_no_voluntarias_mes,Salidas no voluntarias o fin de contrato del mes.
+frasohome_rotacion_mensual.csv,bajas_totales_mes,Total de bajas del mes.
+frasohome_rotacion_mensual.csv,headcount_fin_mes,Plantilla activa al cierre del mes.
+frasohome_rotacion_mensual.csv,tasa_rotacion_voluntaria_pct,Bajas voluntarias / headcount inicio mes * 100.
+frasohome_rotacion_mensual.csv,tasa_rotacion_total_pct,Bajas totales / headcount inicio mes * 100.
+frasohome_rotacion_mensual.csv,empleados_alto_riesgo_fin_mes,Número de activos con alto riesgo al cierre del mes.
+frasohome_rotacion_mensual.csv,talento_clave_alto_riesgo_fin_mes,Activos de talento clave con alto riesgo al cierre del mes.
+frasohome_rotacion_mensual.csv,salario_medio_activos_mes_eur,Salario medio de activos al cierre del mes.
+frasohome_rotacion_mensual.csv,satisfaccion_media_activos_mes,Satisfacción media de activos al cierre del mes.
+frasohome_rotacion_mensual.csv,engagement_medio_activos_mes,Engagement medio de activos al cierre del mes.
+frasohome_rotacion_mensual.csv,area_critica_rotacion_flag,1 si el departamento supera umbral de rotación mensual.
+frasohome_comentarios_salida.csv,employee_id,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,departamento,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,ubicacion,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,rol,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,nivel,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,fecha_salida,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,tipo_salida,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,motivo_salida_sistema,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,comentario_salida,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,satisfaccion_1_10,Campo de comentarios de salida para el laboratorio de prompts.
+frasohome_comentarios_salida.csv,probabilidad_abandono,Campo de comentarios de salida para el laboratorio de prompts.

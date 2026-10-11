@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "1.0",
+  "name": "FraSoHomeContext",
+  "description": "Vocabulario empresarial FraSoHome para comercio omnicanal, inventario, demanda y marketing.",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Comercio esencial",
+      "question": "¿Quién compra qué y mediante qué pedido?"
+    },
+    {
+      "stage": 2,
+      "name": "Detalle y clasificación",
+      "question": "¿Qué líneas componen el pedido y cómo se clasifica cada producto?"
+    },
+    {
+      "stage": 3,
+      "name": "Geografía y preferencia",
+      "question": "¿Dónde opera FraSoHome y qué tienda prefiere cada cliente?"
+    },
+    {
+      "stage": 4,
+      "name": "Operación de tienda y devoluciones",
+      "question": "¿Cómo se conectan venta, pago, tienda, producto y devolución?"
+    },
+    {
+      "stage": 5,
+      "name": "Inventario y señales de demanda",
+      "question": "¿Qué intención digital coincide con riesgo de stock?"
+    },
+    {
+      "stage": 6,
+      "name": "Activación de marketing",
+      "question": "¿Qué campaña, contacto y promoción explican una conversión?"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Customer",
+      "stage": 1,
+      "table": "iq_customer",
+      "keyProperty": "CustomerId",
+      "displayProperty": "CustomerName",
+      "description": "Persona cliente canónica. Se excluyen email y teléfono de la ontología para no exponer PII al agente.",
+      "properties": [
+        { "name": "CustomerId", "column": "customer_id", "type": "String" },
+        { "name": "CustomerName", "column": "customer_name", "type": "String" },
+        { "name": "CustomerTier", "column": "loyalty_tier", "type": "String" },
+        { "name": "CustomerPoints", "column": "loyalty_points", "type": "BigInt" },
+        { "name": "CustomerCity", "column": "city", "type": "String" },
+        { "name": "CustomerProvince", "column": "province", "type": "String" },
+        { "name": "CustomerConsent", "column": "marketing_consent", "type": "Boolean" },
+        { "name": "CustomerStatus", "column": "customer_status", "type": "String" },
+        { "name": "CustomerPreferredChannel", "column": "preferred_channel", "type": "String" }
+      ]
+    },
+    {
+      "name": "Order",
+      "stage": 1,
+      "table": "iq_order",
+      "keyProperty": "OrderId",
+      "displayProperty": "OrderId",
+      "description": "Pedido de comercio electrónico o marketplace realizado por un cliente.",
+      "properties": [
+        { "name": "OrderId", "column": "order_id", "type": "String" },
+        { "name": "OrderDate", "column": "order_date", "type": "DateTime" },
+        { "name": "OrderTotal", "column": "order_total", "type": "Double" },
+        { "name": "OrderCurrency", "column": "currency", "type": "String" },
+        { "name": "OrderShippingCost", "column": "shipping_cost", "type": "Double" },
+        { "name": "OrderStatus", "column": "order_status", "type": "String" },
+        { "name": "OrderOrigin", "column": "order_origin", "type": "String" },
+        { "name": "OrderDestinationCity", "column": "destination_city", "type": "String" }
+      ]
+    },
+    {
+      "name": "Product",
+      "stage": 1,
+      "table": "iq_product",
+      "keyProperty": "ProductId",
+      "displayProperty": "ProductName",
+      "description": "Artículo vendible del catálogo canónico FraSoHome.",
+      "properties": [
+        { "name": "ProductId", "column": "product_id", "type": "String" },
+        { "name": "ProductName", "column": "product_name", "type": "String" },
+        { "name": "ProductCategory", "column": "category_name", "type": "String" },
+        { "name": "ProductSubcategory", "column": "subcategory_name", "type": "String" },
+        { "name": "ProductBrand", "column": "brand", "type": "String" },
+        { "name": "ProductMaterial", "column": "material", "type": "String" },
+        { "name": "ProductColor", "column": "color", "type": "String" },
+        { "name": "ProductSalePrice", "column": "sale_price", "type": "Double" },
+        { "name": "ProductUnitCost", "column": "unit_cost", "type": "Double" },
+        { "name": "ProductStatus", "column": "product_status", "type": "String" }
+      ]
+    },
+    {
+      "name": "OrderLine",
+      "stage": 2,
+      "table": "iq_order_line",
+      "keyProperty": "OrderLineId",
+      "displayProperty": "OrderLineDescription",
+      "description": "Detalle comercial que materializa la relación muchos-a-muchos entre pedido y producto.",
+      "properties": [
+        { "name": "OrderLineId", "column": "order_line_id", "type": "String" },
+        { "name": "OrderLineDescription", "column": "line_description", "type": "String" },
+        { "name": "OrderLineQuantity", "column": "quantity", "type": "BigInt" },
+        { "name": "OrderLineUnitPrice", "column": "unit_price", "type": "Double" },
+        { "name": "OrderLineDiscountPct", "column": "discount_pct", "type": "Double" },
+        { "name": "OrderLineDiscountAmount", "column": "discount_amount", "type": "Double" },
+        { "name": "OrderLineAmount", "column": "line_amount", "type": "Double" }
+      ]
+    },
+    {
+      "name": "Category",
+      "stage": 2,
+      "table": "iq_category",
+      "keyProperty": "CategoryId",
+      "displayProperty": "CategoryName",
+      "description": "Taxonomía comercial normalizada de productos.",
+      "properties": [
+        { "name": "CategoryId", "column": "category_id", "type": "String" },
+        { "name": "CategoryName", "column": "category_name", "type": "String" }
+      ]
+    },
+    {
+      "name": "Store",
+      "stage": 3,
+      "table": "iq_store",
+      "keyProperty": "StoreId",
+      "displayProperty": "StoreName",
+      "description": "Punto de operación físico u online en el que FraSoHome vende o mantiene stock.",
+      "properties": [
+        { "name": "StoreId", "column": "store_id", "type": "String" },
+        { "name": "StoreName", "column": "store_name", "type": "String" },
+        { "name": "StoreLocationType", "column": "location_type", "type": "String" },
+        { "name": "StoreChannel", "column": "store_channel", "type": "String" },
+        { "name": "StoreCity", "column": "city", "type": "String" },
+        { "name": "StoreProvince", "column": "province", "type": "String" },
+        { "name": "StoreRegion", "column": "region_name", "type": "String" },
+        { "name": "StoreStatus", "column": "store_status", "type": "String" }
+      ]
+    },
+    {
+      "name": "Region",
+      "stage": 3,
+      "table": "iq_region",
+      "keyProperty": "RegionId",
+      "displayProperty": "RegionName",
+      "description": "Agrupación geográfica de tiendas con vocabulario normalizado.",
+      "properties": [
+        { "name": "RegionId", "column": "region_id", "type": "String" },
+        { "name": "RegionName", "column": "region_name", "type": "String" }
+      ]
+    },
+    {
+      "name": "StoreSale",
+      "stage": 4,
+      "table": "iq_store_sale",
+      "keyProperty": "StoreSaleId",
+      "displayProperty": "StoreSaleId",
+      "description": "Ticket de venta agregado en punto de venta; unifica sus líneas bajo una operación de negocio.",
+      "properties": [
+        { "name": "StoreSaleId", "column": "sale_id", "type": "String" },
+        { "name": "StoreSaleDate", "column": "sale_date", "type": "DateTime" },
+        { "name": "StoreSaleAmount", "column": "sale_amount", "type": "Double" },
+        { "name": "StoreSaleCurrency", "column": "currency", "type": "String" },
+        { "name": "StoreSaleLineCount", "column": "line_count", "type": "BigInt" },
+        { "name": "StoreSaleChannel", "column": "sale_channel", "type": "String" }
+      ]
+    },
+    {
+      "name": "Payment",
+      "stage": 4,
+      "table": "iq_payment",
+      "keyProperty": "PaymentId",
+      "displayProperty": "PaymentId",
+      "description": "Movimiento de cobro asociado a una venta de tienda.",
+      "properties": [
+        { "name": "PaymentId", "column": "payment_id", "type": "String" },
+        { "name": "PaymentDate", "column": "payment_date", "type": "DateTime" },
+        { "name": "PaymentMethod", "column": "payment_method", "type": "String" },
+        { "name": "PaymentAmount", "column": "payment_amount", "type": "Double" },
+        { "name": "PaymentCurrency", "column": "currency", "type": "String" },
+        { "name": "PaymentStatus", "column": "payment_status", "type": "String" }
+      ]
+    },
+    {
+      "name": "Return",
+      "stage": 4,
+      "table": "iq_return",
+      "keyProperty": "ReturnId",
+      "displayProperty": "ReturnId",
+      "description": "Devolución omnicanal conectable con pedido online o venta de tienda.",
+      "properties": [
+        { "name": "ReturnId", "column": "return_id", "type": "String" },
+        { "name": "ReturnDate", "column": "return_date", "type": "DateTime" },
+        { "name": "ReturnChannel", "column": "return_channel", "type": "String" },
+        { "name": "ReturnReason", "column": "return_reason", "type": "String" },
+        { "name": "ReturnMethod", "column": "return_method", "type": "String" },
+        { "name": "ReturnStatus", "column": "return_status", "type": "String" },
+        { "name": "ReturnAmount", "column": "return_amount", "type": "Double" },
+        { "name": "ReturnCurrency", "column": "currency", "type": "String" },
+        { "name": "ReturnQuantity", "column": "return_quantity", "type": "BigInt" }
+      ]
+    },
+    {
+      "name": "InventoryPosition",
+      "stage": 5,
+      "table": "iq_inventory_position",
+      "keyProperty": "InventoryPositionId",
+      "displayProperty": "InventoryPositionId",
+      "description": "Posición de inventario de un producto en una tienda y momento concretos.",
+      "properties": [
+        { "name": "InventoryPositionId", "column": "inventory_id", "type": "String" },
+        { "name": "InventoryDate", "column": "inventory_date", "type": "DateTime" },
+        { "name": "InventoryClosing", "column": "stock_closing", "type": "Double" },
+        { "name": "InventoryReserved", "column": "stock_reserved", "type": "Double" },
+        { "name": "InventoryInTransit", "column": "stock_in_transit", "type": "Double" },
+        { "name": "InventoryMinimum", "column": "stock_minimum", "type": "Double" },
+        { "name": "InventoryGap", "column": "stock_gap", "type": "Double" },
+        { "name": "InventorySource", "column": "inventory_source", "type": "String" }
+      ]
+    },
+    {
+      "name": "DemandSignal",
+      "stage": 5,
+      "table": "iq_demand_signal",
+      "keyProperty": "DemandSignalId",
+      "displayProperty": "DemandSignalId",
+      "description": "Señal observable de intención digital derivada de un evento web o app; no equivale a una previsión.",
+      "properties": [
+        { "name": "DemandSignalId", "column": "demand_signal_id", "type": "String" },
+        { "name": "DemandSignalDate", "column": "signal_date", "type": "DateTime" },
+        { "name": "DemandSignalType", "column": "signal_type", "type": "String" },
+        { "name": "DemandSignalChannel", "column": "acquisition_channel", "type": "String" },
+        { "name": "DemandSignalPageType", "column": "page_type", "type": "String" },
+        { "name": "DemandSignalSession", "column": "session_id", "type": "String" },
+        { "name": "DemandSignalValue", "column": "signal_value", "type": "Double" },
+        { "name": "DemandSignalLoggedIn", "column": "logged_in", "type": "Boolean" }
+      ]
+    },
+    {
+      "name": "Campaign",
+      "stage": 6,
+      "table": "iq_campaign",
+      "keyProperty": "CampaignId",
+      "displayProperty": "CampaignName",
+      "description": "Iniciativa de marketing con objetivo, audiencia, inversión y resultados agregados.",
+      "properties": [
+        { "name": "CampaignId", "column": "campaign_id", "type": "String" },
+        { "name": "CampaignName", "column": "campaign_name", "type": "String" },
+        { "name": "CampaignObjective", "column": "campaign_objective", "type": "String" },
+        { "name": "CampaignChannel", "column": "campaign_channel", "type": "String" },
+        { "name": "CampaignStart", "column": "campaign_start", "type": "DateTime" },
+        { "name": "CampaignEnd", "column": "campaign_end", "type": "DateTime" },
+        { "name": "CampaignSegment", "column": "target_segment", "type": "String" },
+        { "name": "CampaignState", "column": "campaign_state", "type": "String" },
+        { "name": "CampaignBudget", "column": "planned_budget", "type": "Double" },
+        { "name": "CampaignRevenue", "column": "revenue_30d", "type": "Double" },
+        { "name": "CampaignMargin", "column": "margin_30d", "type": "Double" },
+        { "name": "CampaignConversions", "column": "conversions_30d", "type": "BigInt" }
+      ]
+    },
+    {
+      "name": "Promotion",
+      "stage": 6,
+      "table": "iq_promotion",
+      "keyProperty": "PromotionId",
+      "displayProperty": "PromotionName",
+      "description": "Regla u oferta comercial activada en un periodo, canal y ámbito determinados.",
+      "properties": [
+        { "name": "PromotionId", "column": "promotion_id", "type": "String" },
+        { "name": "PromotionName", "column": "promotion_name", "type": "String" },
+        { "name": "PromotionType", "column": "promotion_type", "type": "String" },
+        { "name": "PromotionStart", "column": "promotion_start", "type": "DateTime" },
+        { "name": "PromotionEnd", "column": "promotion_end", "type": "DateTime" },
+        { "name": "PromotionScope", "column": "promotion_scope", "type": "String" },
+        { "name": "PromotionChannel", "column": "promotion_channel", "type": "String" },
+        { "name": "PromotionDiscountPct", "column": "discount_pct", "type": "Double" },
+        { "name": "PromotionDiscountAmount", "column": "discount_amount", "type": "Double" },
+        { "name": "PromotionCombinable", "column": "combinable", "type": "Boolean" }
+      ]
+    },
+    {
+      "name": "CampaignContact",
+      "stage": 6,
+      "table": "iq_campaign_contact",
+      "keyProperty": "CampaignContactId",
+      "displayProperty": "CampaignContactId",
+      "description": "Interacción de una campaña con un cliente, incluida su entrega, recomendación y conversión.",
+      "properties": [
+        { "name": "CampaignContactId", "column": "contact_id", "type": "String" },
+        { "name": "CampaignContactDate", "column": "contact_date", "type": "DateTime" },
+        { "name": "CampaignContactChannel", "column": "contact_channel", "type": "String" },
+        { "name": "CampaignContactSegment", "column": "assigned_segment", "type": "String" },
+        { "name": "CampaignContactDelivery", "column": "delivery_state", "type": "String" },
+        { "name": "CampaignContactPriority", "column": "contact_priority", "type": "String" },
+        { "name": "CampaignContactConverted", "column": "converted_30d", "type": "Boolean" },
+        { "name": "CampaignContactRevenue", "column": "contact_revenue_30d", "type": "Double" },
+        { "name": "CampaignContactMargin", "column": "contact_margin_30d", "type": "Double" }
+      ]
+    }
+  ],
+  "relationships": [
+    { "name": "CustomerPlacesOrder", "stage": 1, "source": "Customer", "target": "Order", "table": "rel_customer_places_order", "description": "El cliente realiza el pedido." },
+    { "name": "OrderIncludesProduct", "stage": 1, "source": "Order", "target": "Product", "table": "rel_order_includes_product", "description": "Vista simplificada de los productos incluidos en un pedido." },
+    { "name": "OrderHasLine", "stage": 2, "source": "Order", "target": "OrderLine", "table": "rel_order_has_line", "description": "El pedido se descompone en líneas." },
+    { "name": "LineReferencesProduct", "stage": 2, "source": "OrderLine", "target": "Product", "table": "rel_line_references_product", "description": "La línea referencia el producto vendido." },
+    { "name": "ProductInCategory", "stage": 2, "source": "Product", "target": "Category", "table": "rel_product_in_category", "description": "El producto pertenece a una categoría comercial." },
+    { "name": "StoreInRegion", "stage": 3, "source": "Store", "target": "Region", "table": "rel_store_in_region", "description": "La tienda opera en una región." },
+    { "name": "CustomerPrefersStore", "stage": 3, "source": "Customer", "target": "Store", "table": "rel_customer_prefers_store", "description": "Tienda preferida calculada para el cliente." },
+    { "name": "CustomerCompletesSale", "stage": 4, "source": "Customer", "target": "StoreSale", "table": "rel_customer_completes_sale", "description": "El cliente completa una venta identificada en POS." },
+    { "name": "SaleAtStore", "stage": 4, "source": "StoreSale", "target": "Store", "table": "rel_sale_at_store", "description": "La venta ocurre en una tienda." },
+    { "name": "SaleIncludesProduct", "stage": 4, "source": "StoreSale", "target": "Product", "table": "rel_sale_includes_product", "description": "La venta incluye el producto." },
+    { "name": "PaymentSettlesSale", "stage": 4, "source": "Payment", "target": "StoreSale", "table": "rel_payment_settles_sale", "description": "El pago liquida una venta de tienda." },
+    { "name": "ReturnForOrder", "stage": 4, "source": "Return", "target": "Order", "table": "rel_return_for_order", "description": "La devolución se vincula a un pedido online." },
+    { "name": "ReturnForSale", "stage": 4, "source": "Return", "target": "StoreSale", "table": "rel_return_for_sale", "description": "La devolución se vincula a una venta de tienda." },
+    { "name": "ReturnConcernsProduct", "stage": 4, "source": "Return", "target": "Product", "table": "rel_return_concerns_product", "description": "La devolución afecta a un producto." },
+    { "name": "InventoryAtStore", "stage": 5, "source": "InventoryPosition", "target": "Store", "table": "rel_inventory_at_store", "description": "La posición de inventario corresponde a una tienda." },
+    { "name": "InventoryTracksProduct", "stage": 5, "source": "InventoryPosition", "target": "Product", "table": "rel_inventory_tracks_product", "description": "La posición de inventario mide un producto." },
+    { "name": "DemandSignalFromCustomer", "stage": 5, "source": "DemandSignal", "target": "Customer", "table": "rel_signal_from_customer", "description": "La señal se atribuye a un cliente identificado." },
+    { "name": "DemandSignalAboutProduct", "stage": 5, "source": "DemandSignal", "target": "Product", "table": "rel_signal_about_product", "description": "La señal expresa interés por un producto." },
+    { "name": "DemandSignalLeadsToOrder", "stage": 5, "source": "DemandSignal", "target": "Order", "table": "rel_signal_leads_to_order", "description": "La señal culmina en un pedido conocido." },
+    { "name": "CampaignHasContact", "stage": 6, "source": "Campaign", "target": "CampaignContact", "table": "rel_campaign_has_contact", "description": "La campaña genera un contacto." },
+    { "name": "ContactAddressesCustomer", "stage": 6, "source": "CampaignContact", "target": "Customer", "table": "rel_contact_addresses_customer", "description": "El contacto se dirige a un cliente." },
+    { "name": "ContactRecommendsProduct", "stage": 6, "source": "CampaignContact", "target": "Product", "table": "rel_contact_recommends_product", "description": "El contacto recomienda uno o más productos." },
+    { "name": "ContactConvertsToOrder", "stage": 6, "source": "CampaignContact", "target": "Order", "table": "rel_contact_converts_to_order", "description": "El contacto se atribuye a un pedido convertido en 30 días." },
+    { "name": "CampaignOffersPromotion", "stage": 6, "source": "Campaign", "target": "Promotion", "table": "rel_campaign_offers_promotion", "description": "La campaña activa una promoción." },
+    { "name": "PromotionAtStore", "stage": 6, "source": "Promotion", "target": "Store", "table": "rel_promotion_at_store", "description": "La promoción está restringida a una tienda cuando la fuente así lo indica." }
+  ]
+}

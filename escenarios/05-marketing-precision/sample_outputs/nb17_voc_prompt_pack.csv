@@ -1,0 +1,105 @@
+tema_principal,mentions_negativas,sample_channels,guardrails_relevantes,prompt_pack,brief_determinista
+precio_promocion,60,"app_review, email_postcompra, encuesta_tienda, nps_app, nps_email","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: precio_promocion.
+Canales donde aparece: app_review, email_postcompra, encuesta_tienda, nps_app, nps_email.
+Distribución de sentimiento aproximada: {'Positivo': 0.45, 'Neutral': 0.319, 'Negativo': 0.231}.
+Ejemplos de voz del cliente:
+- La relación calidad-precio no me convence y el descuento no compensa del todo.; - El precio está en la media; solo compraría de nuevo con una promoción similar.; - Buen equilibrio entre diseño y precio, especialmente con el descuento aplicado.; - Sin promoción, el precio me parece alto para lo que ofrece el producto.; - El precio está en la media; solo compraría de nuevo con una promoción similar.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'precio_promocion' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+calidad_producto,55,"app_review, email_postcompra, encuesta_tienda, post_devolucion_email, post_soporte_email","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: calidad_producto.
+Canales donde aparece: app_review, email_postcompra, encuesta_tienda, post_devolucion_email, post_soporte_email.
+Distribución de sentimiento aproximada: {'Positivo': 0.402, 'Negativo': 0.316, 'Neutral': 0.282}.
+Ejemplos de voz del cliente:
+- En general bien, pero el acabado del Aplique Boreal ""Star"" podría estar mejor rematado.; - Buen producto, materiales correctos y resultado muy alineado con lo que buscaba.; - El Sofá Zen 120cm no transmite la calidad que esperaba; hay detalles de acabado mejorables.; - Me ha sorprendido para bien la calidad del Cojine Sol ★; transmite solidez y diseño.; - La calidad del Sofá Zen 120cm me ha decepcionado y no se corresponde del todo con el precio.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'calidad_producto' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+medidas_ajuste,36,"app_review, email_postcompra, encuesta_tienda, post_devolucion_email, post_soporte_email","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: medidas_ajuste.
+Canales donde aparece: app_review, email_postcompra, encuesta_tienda, post_devolucion_email, post_soporte_email.
+Distribución de sentimiento aproximada: {'Positivo': 0.527, 'Neutral': 0.257, 'Negativo': 0.216}.
+Ejemplos de voz del cliente:
+- El Cama Nórdico 3 plazas encaja razonablemente, aunque las medidas podrían explicarse mejor.; - Tuve problemas con el ajuste del Sofá Vintage XL (dup); me faltó claridad en dimensiones y fotos.; - Buen ajuste del Armario Sol XL al espacio; la ficha aportaba suficiente información.; - Las medidas del Armario Sol XL encajaban perfectamente y la descripción me ayudó a decidir.; - Las medidas del Cuadro Luna ★ encajaban perfectamente y la descripción me ayudó a decidir.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'medidas_ajuste' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+entrega,32,"Chat, Email, Teléfono, Tienda, WhatsApp","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: entrega.
+Canales donde aparece: Chat, Email, Teléfono, Tienda, WhatsApp.
+Distribución de sentimiento aproximada: {'Neutral': 0.473, 'Negativo': 0.352, 'Positivo': 0.176}.
+Ejemplos de voz del cliente:
+- Mi Lámparas pie Boreal ""Star"" asociado a pedido llegó más tarde de lo previsto y necesito una actualización del envío.; - Mi Lámparas pie Boreal ""Star"" asociado a pedido llegó más tarde de lo previsto y necesito una actualización del envío.; - Tengo una incidencia con la entrega de Sofá Boreal Compact; no coincide con la fecha que aparecía al comprar pedido.; - Necesito ayuda con el seguimiento de O-202400618; el pedido aparece en tránsito y no tengo nueva fecha.; - Necesito ayuda con el seguimiento de pedido; el pedido aparece en tránsito y no tengo nueva fecha.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'entrega' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+entrega_servicio,28,"encuesta_tienda, nps_app, nps_email, post_devolucion_email, post_soporte_email","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: entrega_servicio.
+Canales donde aparece: encuesta_tienda, nps_app, nps_email, post_devolucion_email, post_soporte_email.
+Distribución de sentimiento aproximada: {'Positivo': 0.53, 'Neutral': 0.301, 'Negativo': 0.169}.
+Ejemplos de voz del cliente:
+- Todo llegó en plazo y la experiencia de seguimiento fue cómoda y transparente.; - Todo llegó en plazo y la experiencia de seguimiento fue cómoda y transparente.; - La entrega fue rápida y el proceso de compra resultó muy claro de principio a fin.; - La entrega fue rápida y el proceso de compra resultó muy claro de principio a fin.; - La entrega fue rápida y el proceso de compra resultó muy claro de principio a fin.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'entrega_servicio' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+info producto,27,"Chat, Email, Teléfono, Tienda, WhatsApp","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: info producto.
+Canales donde aparece: Chat, Email, Teléfono, Tienda, WhatsApp.
+Distribución de sentimiento aproximada: {'Negativo': 0.458, 'Neutral': 0.339, 'Positivo': 0.203}.
+Ejemplos de voz del cliente:
+- Necesito más detalle de materiales y dimensiones de P10X1.; - Quiero validar si Mesa Minimal 160cm se adapta bien al espacio que tengo en casa.; - Tengo dudas sobre medidas y encaje de Lámparas mesa Minimal ""Star"" antes de confirmar la compra.; - Tengo dudas sobre medidas y encaje de Sábana Minimal 200x300 antes de confirmar la compra.; - Necesito más detalle de materiales y dimensiones de Lámparas pie Luna ""Star"".
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'info producto' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+cupon,24,"Chat, Email, Teléfono, Tienda, WhatsApp","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: cupon.
+Canales donde aparece: Chat, Email, Teléfono, Tienda, WhatsApp.
+Distribución de sentimiento aproximada: {'Negativo': 0.471, 'Neutral': 0.333, 'Positivo': 0.196}.
+Ejemplos de voz del cliente:
+- El código promocional falla cuando añado Cama Nórdico 3 plazas a la cesta; ¿podéis revisarlo?; - El cupón de la campaña no se ha aplicado correctamente al intentar comprar Sofá Eco 120cm.; - El código promocional falla cuando añado Armario Minimal 120cm a la cesta; ¿podéis revisarlo?; - El cupón de la campaña no se ha aplicado correctamente al intentar comprar Sofá Atlas 3 plazas.; - Estoy intentando usar un descuento recibido por email y el sistema no lo reconoce en checkout.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'cupon' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.
+stock tienda,21,"Chat, Email, Teléfono, Tienda, WhatsApp","Si hay promoción, especificar condiciones de forma legible y consistente. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | No prometer disponibilidad de stock sin validación en tiempo real.","Actúa como analista de cliente y marketing de precisión de FraSoHome.
+Tema crítico detectado: stock tienda.
+Canales donde aparece: Chat, Email, Teléfono, Tienda, WhatsApp.
+Distribución de sentimiento aproximada: {'Neutral': 0.4, 'Negativo': 0.382, 'Positivo': 0.218}.
+Ejemplos de voz del cliente:
+- ¿Podéis verificar stock real de Armario Sol Compact en S005? La web me muestra una disponibilidad poco clara.; - ¿Podéis verificar stock real de Vela Vintage ★ en S005? La web me muestra una disponibilidad poco clara.; - Necesito saber si Bombilla Élite ""Star"" puede reservarse hoy en S005.; - ¿Podéis verificar stock real de Cuadro Luna ★ en S001? La web me muestra una disponibilidad poco clara.; - Quiero confirmar si Aplique Atlas ""Star"" está disponible en S002 antes de desplazarme.
+
+Quiero que devuelvas:
+1) insight principal,
+2) causas probables,
+3) impacto en conversión/retención,
+4) recomendación de contenido, UX o servicio,
+5) KPI para validar la mejora.",Priorizar revisión del tema 'stock tienda' porque concentra fricción repetida y afecta a experiencia/consideración. Validar mejora con reducción de menciones negativas y mejora de NPS/CSAT.

@@ -1,0 +1,1439 @@
+﻿movimiento_id,employee_code_raw,fecha_movimiento_txt,tipo_movimiento_raw,departamento_origen_raw,departamento_destino_raw,nivel_origen_raw,nivel_destino_raw,motivo_movimiento_raw,comentario_rrhh,usuario_carga,fecha_carga_txt
+MOV000001,FSH0001,2019-05-03,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000002,FSH0001,2025-04-15,Baja voluntaria,Tienda física,,Semi Senior,,Estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000003,FSH0002,03/02/2023,ALTA,,Customer Service,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000004,FSH0002,12/01/26,Ajuste salario,Atención al Cliente,Atención al Cliente,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000005,FSH0003,05/07/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000006,FSH0003,2025-12-03,Promoción,Tienda física,Tienda física,Semi Senior,Jr,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000007,FSH0004,2025-09-29,Incorporación,,Compras,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000008,FSH0004,24-01-26,Revisión salarial,Compras ,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000009,FSH0005,21/06/2021,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000010,FSH0005,2026-01-11,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000011,FSH0005,2025-10-31,Baja voluntaria,Logística,,Junior,,Cultura y reconocimiento,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000012,FSH0006,06/02/2020,Incorporación,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000013,FSH0007,06/10/2019,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000014,fsh0007,03-11-24,Promocion,Logística,Logística,Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000015,FSH0007,25/02/2026,Revision salarial,Logística,Centro logístico,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000016,FSH0008,10/11/2025,Alta,,Marketing,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000017,FSH0009,28-05-19,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000018,FSH0009,2026-01-24,Baja,Atención al Cliente,,Junior,,Valoración,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000019,FSH0010,2025-04-27,Alta,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000020,FSH0011,2022-07-09,Incorporación,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000021,FSH0011,2024-06-01,Movilidad interna,Marketing,IT y Datos,Semi Senior,Semi-Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000022,FSH0011,12-01-26,Revision salarial,IT y Datos,IT y Datos,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000023,FSH0012,2021-09-29,Alta,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000024,FSH0013,2022-02-09,Alta,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000025,FSH0014,2017-09-26,Alta,,Marketing,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000026,FSH0015,2019-05-08,ALTA,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000027,FSH0016,29-10-22,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000028,FSH0017,2019-02-11,Alta,,Retail store,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000029,FSH0018,16/02/2020,Alta,,Atención al Cliente,,N2,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000030,FSH0019,20/01/24,ALTA,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000031,FSH0020,13-06-22,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000032,FSH0021,27/09/2022,Incorporación,,RRHH,,N2,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000033,FSH0022,10/10/2020,ALTA,,Marketing,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000034,FSH0023,2017-07-03,ALTA,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000035,FSH0023,2026-03-26,Revisión salarial,Tienda física,TIENDA FÍSICA,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000036,FSH0024,23/07/2025,Alta,,Tienda física ,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000037,FSH0024,03/03/2026,Ajuste salario,Retail store,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000038,FSH0024,04-12-25,Baja voluntaria,Tienda física,,Junior,,Desarrollo/Carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000039,FSH0025,03/03/2024,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000040,FSH0025,2026-03-21,Revisión salarial,Tienda física,TIENDA FÍSICA,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000041,FSH0025,2025-08-10,Baja,Tienda física,,Junior,,Desarrollo/Carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000042,FSH0026,2025-12-04,Incorporación,,Procurement,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000043,FSH0027,2023-02-18,ALTA,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000044,FSH0027,12/03/2026,Revision salarial,Finanzas,Finanzas,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000045,FSH0027,2025-07-04,Voluntaria,Finanzas,,Senior,,Falta de desarrollo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000046,FSH0028,2023-12-27,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000047,FSH0028,2025-05-04,Movilidad interna,RRHH,COMPRAS,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000048,FSH0028,2025-11-13,Baja voluntaria,Compras,,Semi Senior,,Falta de desarrollo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000049,FSH0029,2021-09-01,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000050,FSH0030,13/12/24,Alta,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000051,FSH0030,30/03/2026,Promoción,Tienda física,Tienda física,Senior,Jr,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000052,FSH0030,23-01-26,Ajuste salario,Tienda física ,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000053,FSH0031,2019-07-30,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000054,FSH-0031,2024-06-21,Promoción,Tienda física,Tienda física,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000055,FSH0032,06/10/2020,Alta,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000056,FSH0032,2025-02-08,Voluntaria,TIENDA FÍSICA,,Junior,,Cultura,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000057,FSH-0033,2022-12-21,Alta,,Tienda física ,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000058,FSH0033,2026-03-30,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000059,FSH0034,22/02/26,ALTA,,Online,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000060,FSH0035,16-07-25,Incorporación,,COMPRAS,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000061,FSH0035,2026-02-16,Revision salarial,Compras,Compras,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000062,FSH0036,04/11/15,Incorporación,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000063,FSH0036,31/03/26,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000064,FSH0037,11-10-22,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000065,FSH0037,2026-02-20,Revisión salarial,Tienda física,Tienda Fisica,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000066,FSH0038,22/05/24,ALTA,,Tienda física ,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000067,FSH0038,02/11/2025,Cambio nivel,Retail store,Tienda física,Junior,Sr,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000068,FSH0038,05/01/2026,Revision salarial,Tienda física,Tienda Fisica,N3,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000069, FSH0039 ,01-12-24,Alta,,Centro logístico,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000070,FSH0039,28/03/26,Revision salarial,Logística,Logística,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000071,FSH0040,23-02-25,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000072,FSH0041,25-11-16,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000073,FSH0041,2026-02-17,Revision salarial,Tienda física,Tienda física,Jr,N1,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000074,FSH0042,2025-01-18,Alta,,Compras,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000075,FSH0042,2026-03-19,Revision salarial,Compras,Compras,N2,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000076,FSH0042,2025-09-28,Baja voluntaria,Compras,,Semi Senior,,Liderazgo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000077,FSH0043,2018-09-29,Incorporación,,Marketing,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000078,FSH0044,2025-04-04,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000079,FSH0045,16/01/2025,Alta,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000080,FSH0046,04-07-22,ALTA,,Sistemas y datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000081,FSH0047,01/02/2020,Alta,,Logistica,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000082,FSH0047,30/01/26,Revisión salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000083,FSH0048,27/04/24,Incorporación,,Finanzas,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000084,FSH0048,07/01/2026,Cambio nivel,Finanzas,FINANZAS,Junior,Sr,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000085,FSH0049,02/12/16,Incorporación,,RRHH,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000086,FSH0050,2021-04-07,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000087,FSH0051,29/05/2019,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000088,FSH0052,2021-10-13,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000089,FSH0053,27-09-25,Incorporación,,IT y Datos,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000090,FSH0053,21/01/26,Revisión salarial,IT y Datos,IT y Datos,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000091,FSH0054,2023-08-02,Alta,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000092,FSH0054,2024-08-30,Promoción,Logística,Logística,Semi Senior,Manager,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000093,FSH0054,15-08-25,Promoción,Logística,Logística,Junior,N4,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000094,FSH0054,17/12/2025,Movilidad interna,Marketing,Centro logístico,Manager,Responsable,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000095,FSH0055,02/02/2015,ALTA,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000096,FSH0055,2026-01-22,Revisión salarial,Tienda Fisica,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000097,FSH0056,15/07/2025,Incorporación,,ecommerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000098,FSH0057,25/04/2020,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000099,FSH0057,14/08/2024,Voluntaria,Logística,,Junior,,Balance vida-trabajo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000100,FSH0058,2024-06-24,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000101,FSH0059,2023-10-30,Alta,,Tienda Fisica,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000102,FSH0059,2026-03-30,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000103,FSH0060,18-11-18,Incorporación,,Online,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000104,FSH0060,06-12-25,Baja,E-commerce,,Senior,,Relación con manager,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000105,FSH0061,2025-08-19,Alta,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000106,FSH0062,2016-05-12,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000107,FSH0062,2025-04-17,Cambio departamento,Marketing,Tienda física,Junior,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000108,FSH0063,2021-09-19,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000109,FSH0063,2025-12-11,Promocion,Tienda Fisica,TIENDA FÍSICA,Junior,Manager,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000110,FSH0064,04/01/18,ALTA,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000111,FSH0064,2026-02-23,Revision salarial,IT y Datos,IT y Datos,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000112,FSH0065,2023-11-30,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000113,FSH0066,2021-03-18,Alta,,ATC,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000114,FSH0066,16/02/2026,Ajuste salario,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000115,FSH0067,20/01/2015,Incorporación,,Logística,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000116,FSH0068,13/05/2019,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000117,FSH0068,2026-02-26,Revision salarial,Tienda física,Tienda física,N1,JUNIOR,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000118,FSH0069,2021-10-10,Incorporación,,Marketing,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000119,FSH0069,2026-02-17,Revisión salarial,MKT,Marketing,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000120,FSH0070,2022-11-08,Incorporación,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000121,FSH0070,2026-03-15,Revisión salarial,Tienda física,Tienda física,Junior,Jr,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000122,FSH0071,2023-12-28,Incorporación,,Atencion Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000123,FSH0072,2020-07-26,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000124,FSH0072,2025-01-04,Involuntaria/fin contrato,Tienda física,,Junior,,Reestructuración,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000125,FSH0073,26-03-17,Alta,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000126,FSH0073,29-03-24,Baja voluntaria,Tienda física,,Jr,,Cultura y reconocimiento,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000127,FSH0074,2026-01-05,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000128,FSH0074,2024-06-16,Promocion,Atención al Cliente,ATC,Junior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000129,FSH0074,2026-01-16,Ajuste salario,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000130,FSH0075,14/09/2023,Alta,,Logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000131,FSH0076,17/11/2016,ALTA,,IT y Datos,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000132,FSH0077,2025-02-25,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000133,FSH0078,24/04/2025,Incorporación,,Tienda Fisica,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000134,FSH0079,26/12/2019,Incorporación,,E-commerce,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000135,FSH0079,04/11/2024,Movilidad interna,DATA/IT,E-commerce,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000136,FSH0080,2017-03-06,Alta,,Procurement,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000137, FSH0081 ,03/02/2023,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000138,FSH0081,2025-02-18,Cambio nivel,Tienda física,Tienda física,Junior,SSr,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000139,FSH0081,06/05/2025,Promoción,Tienda física,Tienda física,Semi Senior,SSr,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000140,FSH0082,2022-11-21,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000141,FSH0082,2025-05-05,Voluntaria,Tienda física,,Junior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000142, FSH0083 ,2025-10-08,Alta,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000143,FSH0084,2025-06-07,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000144,FSH0084,12/01/2026,Baja,Tienda física,,Junior,,Cambio carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000145,FSH0085,2025-11-14,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000146,FSH0085,2026-04-28,Baja,Tienda física,,Junior,,Contrato finalizado,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000147,FSH0086,2020-12-06,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000148,FSH0087,2025-09-21,Incorporación,,Tienda física ,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000149,FSH0088,18/08/2018,ALTA,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000150,FSH-0088,22-12-25,Promocion,Tienda física,Tienda física,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000151,fsh0089,2022-08-24,Incorporación,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000152,FSH0090,04/04/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000153,FSH0090,14/02/26,Revision salarial,Tienda física,Tienda física ,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000154,FSH0091,2019-08-26,Incorporación,,MARKETING,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000155,FSH0092,02-11-25,Incorporación,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000156,FSH0092,25/03/2025,Cambio nivel,Tienda física,TIENDA FÍSICA,Semi Senior,Sr,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000157,FSH0093,2025-06-04,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000158,FSH0094,27/04/2022,ALTA,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000159,FSH0094,2025-01-09,Promocion,Atención al Cliente,Atención al Cliente,Semi Senior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000160,FSH0094,2026-02-09,Ajuste salario,Atención al Cliente,Atención al Cliente,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000161,FSH0095,2017-09-15,Alta,,Atención al Cliente,,N4,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000162,FSH0095,2026-03-24,Movilidad interna,E-commerce,Customer Service,Manager,Responsable,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000163,FSH0095,14/01/26,Ajuste salario,Atención al Cliente,Atencion Cliente,N4,Manager,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000164,FSH0096,06-01-25,Incorporación,,E COMMERCE,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000165,FSH0097,05-02-24,Alta,,Tienda física,,Responsable,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000166,FSH0097,2025-07-18,Promoción,Retail store,Tienda física,Junior,Responsable,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000167,FSH0097,2026-03-01,Revision salarial,Tienda física,Tienda física,Responsable,Manager,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000168,FSH0097,11/07/2025,Baja,Tienda física,,Mánager,,Falta de desarrollo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000169,FSH0098,18/07/2019,Alta,,LOGISTICA,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000170,FSH0098,2026-03-11,Revisión salarial,Logística,Centro logístico,Mánager,Mánager,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000171,FSH0098,2025-09-08,Baja,Logística,,Manager,,Manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000172,FSH0099,02/04/2025,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000173,FSH0100,2022-03-24,Incorporación,,Tiendas,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000174,FSH0100,12/02/2025,Promoción,Tiendas,Tiendas,Semi Senior,SENIOR,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000175,FSH0101,26-09-20,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000176,FSH0101,2026-03-13,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000177,FSH0102,2019-06-13,Alta,,E-commerce,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000178,FSH0102,15/09/2024,Promoción,E-commerce,ecommerce,Junior,N1,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000179,FSH0102,2026-02-24,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000180,FSH0103,2019-10-16,Incorporación,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000181,FSH0103,25/10/2024,Movilidad interna,Compras,Tienda física,Jr,JUNIOR,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000182,FSH0103,16/03/2026,Revisión salarial,Tiendas,Tienda Fisica,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000183,FSH0104,19-08-18,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000184,FSH0105,2025-02-21,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000185,FSH0105,22/01/2025,Cambio nivel,Tienda física,TIENDA FÍSICA,Junior,Jr,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000186,FSH0106,2019-03-18,Alta,,MARKETING,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000187,FSH0106,2026-04-05,Cambio nivel,Marketing,Marketing,Senior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000188,FSH0106,01/09/2024,Baja voluntaria,Marketing,,Semi Senior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000189,FSH0107,18/12/21,Alta,,Contact Center,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000190,FSH0108,04/02/2021,Alta,,Marketing,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000191,FSH0109,11/02/2026,ALTA,,Operaciones logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000192,FSH0110,05-02-20,Alta,,Marketing,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000193,FSH0111,29/03/2018,Alta,,Contact Center,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000194,FSH0111,2024-08-15,Baja,Atención al Cliente,,Junior,,Falta de desarrollo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000195,FSH0112,16/02/2026,Alta,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000196,FSH0113,24-04-20,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000197,FSH0113,2025-12-16,Promocion,Tienda Fisica,TIENDA FÍSICA,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000198,FSH-0113,23/04/2025,Promocion,Tiendas,Tienda física,Semi Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000199,FSH0114,07-01-22,Incorporación,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000200,FSH0114,2025-08-29,Promocion,Tienda física,Tienda física,Semi Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000201,FSH0115,08/03/15,Alta,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000202,FSH0115,10/02/2026,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000203,FSH0116,2020-09-04,Incorporación,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000204,FSH0116,2025-05-22,Transferencia,Operaciones logística,COMPRAS,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000205,FSH0117,05-01-24,Incorporación,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000206,FSH0117,2026-01-23,Revision salarial,E-commerce,E-commerce,SENIOR,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000207,FSH0118,2019-04-18,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000208,FSH0118,2025-12-15,Baja,Tienda física,,Junior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000209,FSH0119,2022-05-28,Incorporación,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000210,FSH0119,20-10-25,Cambio nivel,Logística,Logística,Semi Senior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000211,FSH0120,2024-02-09,Alta,,ecommerce,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000212,FSH0121,2025-08-15,Alta,,Compras,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000213,FSH0121,15/01/2025,Promoción,Compras,Compras,Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000214,FSH0121,20-03-26,Revision salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000215,FSH0122,2024-08-09,Incorporación,,Online,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000216,FSH0122,30/03/2026,Revisión salarial,ecommerce,E-commerce,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000217,FSH0123,2022-04-26,Incorporación,,Tienda Fisica,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000218,FSH0124,2023-02-09,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000219,FSH0125,2024-02-22,Incorporación,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000220,FSH0125,2025-01-05,Cambio nivel,Logística,Operaciones logística,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000221,FSH0126,2022-07-13,ALTA,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000222,FSH0127,2016-04-09,ALTA,,Customer Service,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000223,FSH0127,2024-07-16,Cambio departamento,COMPRAS,Atención al Cliente,Jr,Junior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000224,FSH0128,12-01-26,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000225,FSH0128,2026-03-03,Revisión salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000226,FSH0129,04/04/19,Incorporación,,MARKETING,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000227,FSH0129,2025-11-07,Voluntaria,Marketing,,Semi Senior,,Desarrollo/Carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000228,FSH0130,2024-02-19,ALTA,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000229,FSH0130,2024-10-02,Cambio nivel,IT y Datos,IT y Datos,Semi Senior,Senior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000230,FSH0130,2025-12-10,Promocion,IT,IT y Datos,Senior,Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000231,FSH0131,17/12/2025,Alta,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000232,FSH0132,22/11/2019,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000233,FSH0133,07/06/2019,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000234,FSH0134,2017-07-20,Incorporación,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000235,FSH0134,07/03/2026,Ajuste salario,Tienda física,Tienda física ,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000236,FSH0134,2026-02-26,Baja,Tienda física,,Junior,,Responsable directo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000237,FSH0135,2025-11-08,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000238,FSH0136,2025-06-15,Alta,,Tienda física,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000239,FSH0137,29-04-20,Alta,,Logística,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000240,fsh0137,28-06-24,Voluntaria,Logística,,Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000241,FSH0138,04/11/2024,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000242,FSH0139,2026-02-03,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000243,FSH0140,09-06-25,Alta,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000244,FSH0141,20-12-25,Incorporación,,Tienda Fisica,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000245,FSH0142,2025-09-18,ALTA,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000246,FSH0143,2025-07-14,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000247,FSH0144,2015-08-13,Alta,,Tienda física,,Responsable,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000248,FSH0144,07/02/26,Revisión salarial,Tienda física,Tienda física,Manager,Manager,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000249,FSH0145,13/07/2021,ALTA,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000250,FSH0146,2018-03-21,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000251,FSH0146,2026-02-24,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000252,FSH0147,10/01/2021,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000253,FSH0148,2025-09-29,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000254,FSH0149,2018-09-06,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000255,FSH0149,2025-04-07,Promoción,Atención al Cliente,Atención al Cliente,Senior,Jr,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000256,FSH0150,2023-05-28,Incorporación,,Finanzas,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000257,FSH0151,2022-05-25,Incorporación,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000258,FSH0152,2019-06-25,Incorporación,,Logística,,Responsable,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000259,FSH0153,09/05/20,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000260,FSH0153,10/04/2025,Movilidad interna,Tienda física,Compras ,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000261,FSH0153,2025-05-13,Baja,Compras,,Semi Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000262,FSH0154,20/01/2025,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000263,FSH0154,2025-08-14,Cambio nivel,TIENDA FÍSICA,Retail store,Senior,Jr,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000264,FSH0154,09-12-24,Promoción,Tienda física,Tiendas,Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000265,FSH0155,03-10-25,Incorporación,,Tienda Fisica,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000266,FSH0156,2020-12-02,Incorporación,,Tienda Fisica,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000267,FSH0157,21/07/2024,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000268,FSH0158,2019-11-28,ALTA,,TIENDA FÍSICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000269,FSH0159,29/08/25,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000270,FSH0159,20/02/2026,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000271,FSH0160,30/07/2025,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000272,FSH0161,2022-11-09,Alta,,Logística,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000273,FSH0161,2026-03-18,Revision salarial,LOGISTICA,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000274,FSH0162,14/01/2020,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000275,FSH0162,23-07-25,Promocion,E-commerce,E-commerce,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000276,FSH0162,08-03-26,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000277,FSH0163,15/03/2025,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000278,FSH0163,2026-03-19,Revisión salarial,Tienda física,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000279,FSH0164,10-09-25,ALTA,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000280,FSH0165,2023-01-24,Incorporación,,Atención al Cliente,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000281,FSH0165,11/01/2026,Revision salarial,Atención al Cliente,Contact Center,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000282,FSH0165,18/04/2026,Voluntaria,Atención al Cliente,,Semi Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000283,FSH0166,2015-10-19,ALTA,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000284,FSH0167,27/02/2019,Incorporación,,Retail store,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000285,FSH0168,24/12/2023,Incorporación,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000286,FSH0168,15/03/2026,Revisión salarial,Retail store,Retail store,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000287,FSH0169,2023-06-28,Alta,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000288,FSH0170,09-08-25,Incorporación,,TIENDA FÍSICA,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000289,FSH0171,2026-01-27,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000290,FSH0172,08-12-25,Alta,,Procurement,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000291,FSH0172,15/02/2026,Ajuste salario,Procurement,Compras,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000292,FSH0173,18/03/2019,ALTA,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000293,FSH0173,2025-05-20,Promoción,Tienda física,Tienda física,Junior,JUNIOR,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000294,FSH0174,25-06-22,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000295,FSH0175,2025-06-10,Alta,,ecommerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000296,FSH0176,01/10/2025,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000297,FSH0177,2019-08-02,Incorporación,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000298,FSH0178,05/08/17,Alta,,Retail store,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000299,FSH0178,2026-02-03,Revision salarial,Retail store,Tienda física,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000300,FSH0178,2024-07-30,Voluntaria,TIENDA FÍSICA,,Senior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000301,FSH0179,12/02/2019,ALTA,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000302,FSH0179,2024-10-25,Promocion,Tienda física,Tienda física,Semi Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000303,FSH0179,12-02-26,Revisión salarial,Tienda física,TIENDA FÍSICA,Senior,N3,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000304,FSH0180,03/08/20,Alta,,Logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000305,FSH0180,05/06/24,Cambio nivel,Logística,Logística,Junior,Senior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000306,FSH0181,2024-07-12,Incorporación,,Personas,,N3,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000307,FSH0182,2018-05-01,Alta,,Tienda física,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000308,FSH0182,07-10-25,Promoción,Tienda Fisica,Tienda física,Semi Senior,Sr,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000309,FSH0182,22/10/2024,Transferencia,Compras,Tienda Fisica,SENIOR,Senior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000310,FSH0182,01-08-24,Baja,Tienda Fisica,,SENIOR,,Falta de desarrollo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000311,FSH0183,02/09/2017,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000312,FSH0184,10/05/2025,Incorporación,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000313,FSH0185,17/01/2023,Alta,,LOGISTICA,,N3,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000314,FSH0185,02-01-26,Ajuste salario,Logística,Logística,Senior,SENIOR,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000315,FSH0186,2023-11-04,ALTA,,Tienda física ,,N3,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000316,FSH0186,2026-04-12,Promoción,Tienda física,TIENDA FÍSICA,Junior,N3,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000317,FSH0186,2025-05-05,Cambio departamento,Compras ,TIENDA FÍSICA,Senior,Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000318,FSH0187,08/03/26,Alta,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000319,FSH0188,2025-03-03,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000320,FSH0189,18/07/2020,ALTA,,Atención al Cliente,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000321,FSH0190,2025-12-05,Alta,,Tienda física,,Mánager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000322,FSH0191,2022-07-02,ALTA,,Tienda física ,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000323,FSH0192,21-08-25,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000324,FSH0192,2026-03-17,Ajuste salario,Logística,Logística,JUNIOR,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000325,FSH0193,2023-02-22,Alta,,IT y Datos,,Mánager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000326,FSH0193,2026-02-16,Promoción,IT y Datos,IT y Datos,Junior,Manager,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000327,FSH0193,28/03/26,Ajuste salario,IT y Datos,IT y Datos,Manager,Manager,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000328,FSH0194,2023-06-08,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000329,FSH0194,05/11/2025,Baja,Tienda física,,Junior,,Cultura y reconocimiento,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000330,FSH0195,2023-11-26,Incorporación,,Compras,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000331,FSH0196,2023-07-26,ALTA,,Operaciones logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000332,FSH0197,18/07/2018,Incorporación,,Sistemas y datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000333,FSH0197,2024-09-11,Promoción,IT y Datos,IT y Datos,Senior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000334,FSH0197,13/01/2026,Promoción,IT y Datos,IT y Datos,Semi Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000335,FSH-0198,2026-01-26,Alta,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000336,FSH0198,02/01/26,Revisión salarial,Logística,Logística,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000337,FSH0199,2025-01-04,Alta,,RRHH,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000338,FSH0200,13/05/2020,ALTA,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000339,FSH0200,2025-10-11,Cambio departamento,Logística,ecommerce,Senior,N3,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000340,FSH0201,13/08/2025,Incorporación,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000341,FSH0202,2019-10-04,Incorporación,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000342,FSH0203,2024-05-02,ALTA,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000343,FSH0203,2024-12-11,Promoción,Tienda física,Tienda física ,Junior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000344,FSH0204,2019-05-02,ALTA,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000345,FSH0204,23-03-26,Revisión salarial,Tienda Fisica,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000346,FSH0205,2019-07-09,Incorporación,,Logística,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000347,FSH0205,07/01/2026,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000348,FSH0206,18/08/2021,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000349,FSH0207,2025-05-09,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000350,FSH0208,2025-04-18,ALTA,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000351, FSH0208 ,2026-02-28,Revisión salarial,Tienda física,Tienda física,Junior,JUNIOR,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000352,FSH0209,10/07/2015,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000353,FSH0209,2026-03-27,Revisión salarial,Retail store,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000354,FSH0210,22/05/2025,Incorporación,,Tienda física,,Mánager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000355,FSH0210,2026-03-22,Revisión salarial,TIENDA FÍSICA,Tienda física,Manager,N4,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000356,FSH0211,2025-04-22,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000357,FSH0211,09-02-26,Revision salarial,Tienda física,Tiendas,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000358,FSH0211,2026-02-07,Baja voluntaria,Tienda física ,,Junior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000359,FSH0212,2024-12-29,Alta,,Procurement,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000360,FSH0212,2024-07-25,Promoción,Procurement,Compras,Senior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000361,FSH0212,2025-11-07,Baja,Compras,,Semi Senior,,Conciliacion,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000362,FSH0213,2025-03-27,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000363,FSH0214,2018-11-21,ALTA,,Finanzas,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000364,FSH0214,2024-05-20,Baja voluntaria,Finanzas,,Senior,,Falta de desarrollo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000365,FSH0215,2018-08-20,ALTA,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000366,FSH0216,2024-01-11,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000367,FSH0216,03-06-25,Voluntaria,Tienda física,,Junior,,Sobrecarga,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000368,FSH0217,31/08/2023,ALTA,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000369,FSH0217,01/04/2026,Ajuste salario,IT y Datos,IT y Datos,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000370,FSH0218,2025-01-07,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000371,FSH0219,2023-03-15,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000372,FSH0219,2024-08-28,Baja voluntaria,Tienda física,,Jr,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000373,FSH0220,13/06/2024,ALTA,,Logistica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000374,FSH0220,2026-03-20,Revisión salarial,Logística,Logistica,N1,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000375,FSH0221,30/04/25,Alta,,Tienda física ,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000376,FSH0222,2016-10-30,ALTA,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000377,FSH0223,2022-07-07,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000378,FSH0223,22-03-26,Revisión salarial,Tienda física,Tienda física,Manager,Manager,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000379,FSH0224,2015-05-01,Incorporación,,RRHH,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000380,FSH0224,2025-08-21,Promocion,RRHH,RRHH,Junior,N2,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000381, FSH0224 ,16/01/26,Ajuste salario,RRHH,RRHH,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000382,FSH0225,2025-12-30,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000383,FSH0225,30/03/2026,Revision salarial,Tienda física,Tienda Fisica,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000384,FSH0226,2023-03-18,ALTA,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000385,FSH0226,27/02/2026,Revisión salarial,Tienda física,TIENDA FÍSICA,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000386,FSH0227,19/09/2019,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000387,FSH0228,2025-09-25,Alta,,DATA/IT,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000388,FSH-0228,16/03/26,Ajuste salario,IT y Datos,IT y Datos,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000389,FSH0229,2019-04-17,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000390,FSH0229,15-03-26,Revision salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000391,FSH0229,2024-12-23,Baja,E-commerce,,Junior,,Conciliación,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000392,FSH0230,2020-09-28,Incorporación,,Compras,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000393,FSH0230,08/11/2024,Baja voluntaria,Compras,,Senior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000394,FSH0231,2017-05-18,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000395,FSH0231,2024-07-16,Promoción,Tienda física,Tienda física,Junior,JUNIOR,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000396,FSH0232,20/10/2021,Alta,,Finanzas,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000397,FSH0232,2024-12-24,Baja voluntaria,Finanzas,,Semi Senior,,Cultura,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000398,FSH0233,14-03-23,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000399,FSH0233,13/02/2026,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000400,FSH0234,28/03/2019,Incorporación,,Logística,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000401,FSH0235,28/03/2021,Incorporación,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000402,FSH0236,28/09/2025,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000403,FSH0236,2026-01-09,Revisión salarial,Online,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000404,FSH0237,23/12/25,Alta,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000405,FSH0238,2022-02-11,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000406,FSH0239,2025-04-23,Alta,,IT & Data,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000407,FSH0240,2025-01-23,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000408,FSH0240,2025-08-03,Promoción,Tienda física,Tienda física,Senior,N1,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000409,FSH0240,15/05/25,Baja,Tienda física,,Junior,,Fin de contrato,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000410,FSH0241,2025-12-18,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000411,FSH0242,2025-09-02,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000412,FSH-0242,2024-10-28,Promocion,Atención al Cliente,Atención al Cliente,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000413,FSH0242,2026-04-01,Baja,Atención al Cliente,,Junior,,Carga trabajo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000414,FSH0243,01/12/2022,ALTA,,People,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000415,FSH0244,2020-07-27,ALTA,,Tienda Fisica,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000416,FSH0245,02/04/2024,ALTA,,Tienda Fisica,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000417,FSH0245,27/01/2026,Revisión salarial,Tienda física,Tienda física,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000418,FSH0245,2026-03-06,Voluntaria,Tienda física ,,Sr,,Liderazgo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000419,FSH0246,2020-06-14,Alta,,ATC,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000420, FSH0246 ,2024-12-25,Promoción,Atención al Cliente,Atención al Cliente,Junior,Jr,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000421,FSH0247,04/11/19,Incorporación,,E COMMERCE,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000422,FSH0247,24-02-26,Revision salarial,E-commerce,E-commerce,Jr,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000423,FSH0248,2025-06-10,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000424,FSH0248,2026-01-24,Revision salarial,Tienda física,Tienda física,Senior,N3,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000425,FSH0249,06/06/2019,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000426,FSH0249,04/11/2025,Cambio nivel,Tienda física,Tienda física,Semi Senior,JUNIOR,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000427,FSH0249,18/01/2026,Promoción,Tienda física,Retail store,Junior,Jr,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000428,FSH0249,2026-03-15,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000429,FSH0250,2023-09-13,ALTA,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000430,FSH0250,24/03/26,Ajuste salario,Marketing,Marketing,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000431,FSH0251,2025-10-24,Incorporación,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000432,FSH0252,11-02-20,Alta,,Operaciones logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000433,FSH0253,2025-01-03,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000434,FSH0253,2024-12-30,Cambio nivel,Tienda física,Tienda Fisica,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000435,FSH0253,2025-01-09,Promoción,Tienda física,TIENDA FÍSICA,Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000436,FSH0254,2019-04-16,ALTA,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000437,FSH0255,20/01/2023,Incorporación,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000438,FSH0255,2026-02-01,Revision salarial,Retail store,Retail store,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000439,FSH0256,2020-07-21,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000440,FSH0257,02-02-25,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000441,FSH0258,2018-10-06,ALTA,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000442,FSH0259,06/07/2022,Incorporación,,Tienda física ,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000443,FSH0259,2026-02-27,Revision salarial,Tienda física,Tienda física,N2,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000444,FSH0259,2025-12-05,Involuntaria/fin contrato,Tienda física,,Semi Senior,,Reestructuración,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000445, FSH0260 ,29/08/2020,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000446,FSH0260,29-12-25,Movilidad interna,Atencion Cliente,Tienda Fisica,Senior,Sr,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000447,FSH0261,2018-12-22,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000448,FSH0261,2024-01-30,Voluntaria,Tienda física,,N2,,Sobrecarga,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000449,FSH0262,2026-01-10,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000450,FSH0263,2025-09-02,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000451,FSH0263,2026-03-11,Revision salarial,Atención al Cliente,Atención al Cliente,Semi-Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000452,FSH0263,28/03/26,Baja,Atención al Cliente,,Semi Senior,,Cultura y reconocimiento,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000453,FSH0264,04/06/2025,Incorporación,,Customer Service,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000454,FSH0265,2020-05-18,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000455,FSH0265,17/04/2026,Promoción,E-commerce,Online,Semi Senior,Jr,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000456,FSH0265,20/10/24,Cambio nivel,E-commerce,E-commerce,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000457,fsh0265,2026-02-14,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000458,FSH0266,27/11/2019,Alta,,Tienda física,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000459,FSH0266,2024-10-21,Movilidad interna,Atención al Cliente,Tienda física,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000460,FSH0267,18/10/2023,Alta,,Centro logístico,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000461,FSH0268,2019-08-06,ALTA,,E-commerce,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000462, FSH0268 ,16/07/2024,Cambio nivel,E COMMERCE,E-commerce,Senior,Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000463,FSH0269,03/12/2025,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000464,FSH0270,2020-09-12,Alta,,MARKETING,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000465,FSH0271,29/04/16,Alta,,ecommerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000466,FSH0271,2026-03-15,Revisión salarial,E-commerce,E-Commerce,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000467,FSH0272,29/01/21,Alta,,Compras,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000468,FSH0272,07/07/25,Voluntaria,Procurement,,Semi Senior,,Falta de desarrollo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000469,FSH0273,2019-08-21,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000470,FSH0274,05-12-22,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000471,FSH0274,06-01-26,Revisión salarial,Logística,Logística,N1,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000472,FSH0275,21/02/2026,Alta,,Tienda Fisica,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000473,FSH0276,2021-04-13,ALTA,,TIENDA FÍSICA,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000474,FSH0276,2024-11-18,Promocion,Tienda física,Tienda física,Junior,SENIOR,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000475,FSH0276,2025-01-26,Voluntaria,Tiendas,,Senior,,Carga trabajo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000476,FSH0277,2025-05-15,Alta,,Atención al Cliente,,Responsable,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000477,FSH0277,2025-09-15,Baja,Customer Service,,Manager,,Falta de desarrollo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000478,FSH0278,2025-01-07,Incorporación,,E-Commerce,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000479,FSH0278,2026-02-10,Promoción,E-commerce,E-commerce,Senior,Jr,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000480,FSH0278,2026-03-25,Voluntaria,E-commerce,,Junior,,Plan de carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000481,FSH0279,11-06-16,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000482,FSH0280,2022-11-10,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000483,FSH0280,30/09/24,Promoción,Tienda física,Retail store,Semi Senior,N3,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000484,fsh0280,30/05/25,Promocion,Tienda física,Tienda física,Junior,Senior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000485,FSH0281,2019-11-23,Alta,,Tienda física ,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000486,FSH0282,14/11/2020,Alta,,Atención al Cliente,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000487,FSH0282,2025-06-25,Cambio nivel,Atención al Cliente,Atención al Cliente,Senior,N2,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000488,FSH0283,2022-02-18,Incorporación,,Marketing,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000489,FSH0283,29/03/2026,Ajuste salario,Marketing,Marketing,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000490,FSH0284,2026-01-22,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000491,FSH0284,2026-01-16,Ajuste salario,Atención al Cliente,Atención al Cliente,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000492,FSH0285,2025-12-28,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000493,FSH0286,20-11-25,Alta,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000494,FSH0287,17/04/2017,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000495,FSH0287,2026-01-09,Baja no voluntaria,Tienda física,,Junior,,Fin de contrato,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000496,FSH0288,29-05-25,Incorporación,,Tienda física ,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000497,FSH0289,18/08/2022,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000498,FSH0290,20/10/2021,Alta,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000499,FSH0290,03/07/25,Cambio nivel,Retail store,Tienda física,Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000500,FSH0291,2020-04-10,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000501,FSH0291,07/01/2026,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000502,FSH0292,23-01-19,Alta,,Customer Service,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000503,FSH0293,31/10/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000504,FSH0294,31/12/2025,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000505,FSH0295,2018-12-13,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000506,FSH0295,2025-06-27,Promoción,Online,E-commerce,Junior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000507,FSH0295,2026-01-22,Revisión salarial,E-commerce,E-commerce,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000508,FSH0295,2025-10-14,Baja voluntaria,E-commerce,,Semi Senior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000509,FSH0296,2023-07-10,Incorporación,,Marketing,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000510,FSH0296,2024-04-02,Voluntaria,Marketing,,Manager,,Retribución,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000511,FSH0297,2015-09-29,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000512,FSH0298,09-05-19,ALTA,,Contact Center,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000513,FSH0299,24/04/2016,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000514,FSH0299,2024-05-07,Cambio nivel,Atención al Cliente,Atención al Cliente,Senior,Jr,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000515,FSH0300,13/03/23,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000516,FSH0300,2025-11-16,Transferencia,Marketing Digital,Tienda física,Senior,SENIOR,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000517,FSH0301,12/03/2025,Incorporación,,LOGISTICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000518,FSH0301,10/07/2025,Cambio nivel,Logística,Logística,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000519,FSH0301,2026-02-21,Ajuste salario,Logística,Operaciones logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000520,FSH0301,26/03/26,Baja,Logística,,Junior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000521,FSH0302,2024-04-23,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000522,FSH0302,2025-06-22,Promocion,Atención al Cliente,Atención al Cliente,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000523,FSH0302,2026-02-02,Revisión salarial,Customer Service,Atención al Cliente,N1,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000524,FSH0303,02/04/20,Incorporación,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000525,FSH0303,15-01-26,Cambio nivel,Tienda física,Tiendas,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000526,FSH0303,09/01/2025,Cambio nivel,Tienda física,Tienda física,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000527,fsh0303,2026-02-25,Revision salarial,Tienda física,TIENDA FÍSICA,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000528,FSH0304,10/02/2025,Incorporación,,Operaciones logística,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000529,FSH0304,2026-01-09,Ajuste salario,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000530,FSH0305,24/03/2022,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000531,FSH0305,2024-07-12,Promoción,E-commerce,E-commerce,Semi Senior,N1,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000532,FSH0306,06-04-19,ALTA,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000533,FSH0306,27/02/26,Voluntaria,Retail store,,JUNIOR,,Carga de trabajo y estrés,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000534,FSH0307,2020-12-28,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000535,FSH0308,2016-10-22,Incorporación,,Logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000536,FSH0308,04-06-24,Promocion,Logística,Logística,Junior,SENIOR,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000537,FSH0309,2025-01-21,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000538,FSH0310,25/01/2023,ALTA,,E-commerce,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000539,FSH0310,21/01/26,Ajuste salario,Online,E-commerce,Junior,N1,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000540,FSH0311,05/04/2023,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000541,FSH0311,2026-03-15,Revisión salarial,TIENDA FÍSICA,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000542,FSH0312,2025-04-04,ALTA,,Administración financiera,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000543,FSH0313,2017-06-25,ALTA,,Online,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000544,FSH0314,2020-03-21,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000545,FSH0315,2015-04-24,ALTA,,Operaciones logística,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000546,FSH0315,05/04/2026,Transferencia,IT,Logística,JUNIOR,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000547,FSH0315,2026-01-10,Revisión salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000548,FSH0316,22/02/2023,Incorporación,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000549,fsh0316,2025-09-16,Transferencia,RRHH,Tienda física,Junior,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000550, FSH0317 ,05/04/2019,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000551,FSH0317,2024-10-30,Cambio nivel,Centro logístico,Logística,Junior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000552,FSH0317,2024-06-10,Cambio nivel,Logística,Logística,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000553,FSH0317,2025-07-30,Transferencia,Tienda física,Centro logístico,Junior,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000554,FSH0317,2026-01-27,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000555,FSH0317,2025-06-09,Voluntaria,Logística,,Junior,,Conciliación,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000556,FSH0318,21/08/2025,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000557,FSH0318,28/03/2026,Ajuste salario,LOGISTICA,Logística,Jr,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000558,FSH0319,2022-05-25,Alta,,LOGISTICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000559,FSH0319,14/10/2024,Cambio departamento,Finanzas,LOGISTICA,Junior,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000560,FSH0320,2024-05-11,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000561,FSH0321,2020-10-07,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000562,FSH0322,04/01/2018,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000563,FSH0323,2025-10-24,ALTA,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000564,FSH0323,11/02/2026,Revisión salarial,E-commerce,E-commerce,N2,SSr,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000565,FSH0324,2017-11-29,Incorporación,,Compras,,N3,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000566,FSH0325,2017-12-23,Alta,,ecommerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000567,FSH0325,2026-03-09,Ajuste salario,E-commerce,E-commerce,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000568,FSH0326,11/05/2016,Incorporación,,Tienda Fisica,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000569, FSH0326 ,2025-05-09,Cambio departamento,Atención al Cliente,Tienda física,Senior,Senior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000570,FSH0327,17-11-18,Incorporación,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000571,FSH-0327,29-10-25,Movilidad interna,Administración financiera,Tienda física,Junior,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000572,FSH0328,2025-09-07,ALTA,,Operaciones logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000573,FSH0329,2026-03-11,Incorporación,,Retail store,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000574,FSH0330,21-09-17,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000575,FSH0330,2026-03-29,Ajuste salario,Tienda física,Tienda física,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000576,FSH0331,26-01-22,ALTA,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000577,FSH0331,2025-08-03,Promocion,Finanzas,Finanzas,Junior,Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000578, FSH0331 ,2025-05-09,Promoción,Finanzas,FINANZAS,Senior,Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000579,FSH0331,2026-02-24,Ajuste salario,FINANZAS,Finance,Sr,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000580,FSH0332,2016-05-20,Incorporación,,LOGISTICA,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000581,FSH0333,09/09/25,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000582,FSH0334,06/05/2023,Incorporación,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000583,FSH0334,2024-01-02,Baja voluntaria,E-commerce,,Semi Senior,,Reconocimiento,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000584,FSH0335,15/11/2022,ALTA,,Marketing Digital,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000585,FSH0336,05/10/21,Incorporación,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000586,FSH0336,2024-07-30,Promoción,IT y Datos,IT & Data,Junior,SENIOR,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000587,FSH0336,19/01/2026,Revision salarial,IT & Data,DATA/IT,Senior,Sr,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000588,FSH0337,2016-08-11,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000589,FSH0337,2025-01-14,Baja,Logística,,Jr,,Horarios,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000590,FSH0338,2016-02-26,Incorporación,,ATC,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000591,FSH0338,2025-07-08,Promoción,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000592,FSH0338,2025-12-27,Transferencia,E COMMERCE,Atención al Cliente,Junior,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000593,FSH0338,19/02/26,Revision salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000594,FSH0339,2024-01-14,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000595,FSH0339,25/02/2026,Revisión salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000596,FSH0340,04/02/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000597,FSH-0341,24-07-22,Alta,,TIENDA FÍSICA,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000598,FSH0342,19/07/2017,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000599,FSH0343,2026-02-06,ALTA,,Tiendas,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000600,FSH0344,2026-01-26,ALTA,,Online,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000601,FSH0344,2026-01-06,Ajuste salario,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000602,FSH0345,07/04/2024,ALTA,,IT y Datos,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000603,FSH0346,2015-06-20,Alta,,RRHH,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000604,FSH0346,27/03/2026,Cambio nivel,RRHH,RRHH,Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000605,FSH0346,2026-04-24,Cambio nivel,RRHH,RRHH,Semi Senior,SENIOR,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000606,FSH0346,2026-02-23,Revisión salarial,Recursos Humanos,RRHH,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000607,FSH0347,19/05/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000608,FSH0347,20/12/2025,Voluntaria,Tienda física,,Junior,,Mejor oferta salarial,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000609,FSH0348,2025-01-29,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000610,FSH0349,05/06/2023,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000611,FSH0349,13/10/2024,Cambio nivel,Atención al Cliente,Atención al Cliente,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000612,FSH0349,2024-09-09,Cambio nivel,Atención al Cliente,ATC,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000613,FSH0349,2024-11-21,Movilidad interna,MARKETING,Contact Center,Junior,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000614,FSH0349,2026-02-01,Voluntaria,Atención al Cliente,,Junior,,Conciliación,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000615,FSH0350,2024-06-26,Alta,,ATC,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000616,FSH0350,2024-07-25,Promoción,Atención al Cliente,Atención al Cliente,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000617,FSH0350,2025-06-21,Cambio nivel,Atención al Cliente,Atención al Cliente,Semi Senior,JUNIOR,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000618,FSH0350,2025-03-19,Baja no voluntaria,Customer Service,,Junior,,Contrato finalizado,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000619,FSH0351,2024-08-06,Alta,,Tienda física ,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000620,FSH0351,2025-03-29,Promocion,Tienda física,Tienda física,Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000621,FSH0352,2016-10-02,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000622,FSH0352,10-02-26,Ajuste salario,Logística,Logística,Junior,JUNIOR,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000623,FSH0352,2024-11-25,Voluntaria,Logística,,JUNIOR,,Falta de desarrollo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000624,FSH0353,2024-05-30,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000625,FSH0353,27/03/2026,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000626,FSH0354,2021-03-21,ALTA,,Logistica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000627,FSH0354,2026-01-04,Baja,Logística,,Junior,,Conciliacion,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000628,FSH0355,10/09/25,Alta,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000629,FSH0356,06-07-24,Incorporación,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000630,fsh0357,12/12/2025,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000631,FSH0358,2019-08-08,Incorporación,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000632,FSH0358,14/03/2026,Revision salarial,IT y Datos,IT y Datos,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000633,FSH0359,2023-11-07,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000634,FSH0359,2025-10-18,Cambio nivel,Atención al Cliente,Atención al Cliente,Senior,N1,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000635,FSH0360,2022-08-06,Incorporación,,Compras,,N2,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000636,FSH0360,02/06/2025,Baja,Compras ,,Semi Senior,,Cambio organizativo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000637,FSH0361,11/05/25,Alta,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000638,FSH0361,2026-03-24,Revisión salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000639,FSH0362,2025-01-13,Alta,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000640,FSH0363,14-02-25,ALTA,,Marketing,,N4,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000641,FSH0363,2024-09-25,Promocion,Marketing,Marketing,Junior,Manager,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000642,FSH0363,26/08/2025,Promoción,Marketing,Marketing,Semi Senior,Responsable,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000643,FSH0364,04/04/2022,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000644,FSH0364,2024-05-15,Baja,Retail store,,Junior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000645,FSH0365,2019-12-24,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000646,FSH0365,16/12/25,Transferencia,Marketing,Retail store,JUNIOR,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000647,FSH0366,21-05-24,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000648,FSH0367,2025-07-28,Incorporación,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000649,FSH0368,02-05-18,Alta,,Operaciones logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000650,FSH0369,29/07/2017,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000651,FSH0370,2023-09-30,Incorporación,,Compras,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000652,FSH0370,13/03/2026,Revisión salarial,Compras ,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000653,FSH0371,2021-06-21,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000654,FSH0372,2022-01-27,Alta,,E-Commerce,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000655,FSH0372,28/12/2024,Cambio nivel,E-commerce,E COMMERCE,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000656,FSH0373,11/11/2021,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000657,FSH0373,2025-12-30,Baja,Tienda física,,Junior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000658,FSH0374,20-09-25,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000659,FSH0375,08-08-24,Alta,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000660,FSH0376,13/03/2023,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000661,FSH0376,2025-08-05,Promoción,TIENDA FÍSICA,Tienda física,Senior,N1,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000662,FSH0376,2025-06-17,Baja voluntaria,Tienda física,,Junior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000663,FSH0377,2024-09-03,Alta,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000664,FSH0378,28-02-25,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000665,FSH0378,24/04/2026,Cambio nivel,Atención al Cliente,Atención al Cliente,Junior,N1,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000666,FSH0378,2026-03-14,Revision salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000667,FSH0379,2025-05-08,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000668,FSH0379,15/11/2025,Cambio nivel,Tienda física ,Tienda física,Junior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000669,FSH0380,2015-07-26,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000670,FSH0381,11/03/22,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000671,FSH0381,2024-05-14,Transferencia,Online,Compras,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000672,FSH0381,08/02/2026,Revision salarial,Compras,Procurement,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000673,FSH0382,2025-05-25,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000674,FSH0383,17/06/2024,Alta,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000675,FSH0384,2019-09-15,Incorporación,,Operaciones logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000676,FSH0385,2021-08-19,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000677,fsh0386,29/12/24,Incorporación,,Tienda Fisica,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000678,FSH0386,09/09/2024,Promoción,Tienda física,Tienda física,Junior,Mánager,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000679,FSH0387,2021-07-17,Incorporación,,Tienda física,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000680,FSH0387,2024-10-01,Movilidad interna,MKT,TIENDA FÍSICA,SSr,Semi Senior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000681,FSH0388,10-10-23,ALTA,,E-commerce,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000682,FSH0388,28/01/2026,Revision salarial,E-commerce,E-commerce,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000683,FSH0389,2025-10-05,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000684,FSH0390,2025-03-28,Incorporación,,Atencion Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000685,FSH0391,24-05-16,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000686,FSH0392,2023-11-10,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000687,FSH0392,16/02/2026,Ajuste salario,Marketing Digital,Marketing,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000688,FSH0393,25/09/2025,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000689,fsh0393,2026-03-30,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000690,FSH0394,09/12/2025,ALTA,,Atención al Cliente,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000691,FSH0394,11/01/26,Revision salarial,Customer Service,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000692,FSH0394,2026-04-25,Voluntaria,Atención al Cliente,,N1,,Estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000693,FSH0395,2021-08-27,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000694,FSH0395,24/02/2026,Revisión salarial,Tienda física,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000695,FSH0396,2025-04-12,Alta,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000696,FSH0397,02/06/2021,Incorporación,,Atencion Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000697,FSH0397,2026-02-21,Revision salarial,Contact Center,Atención al Cliente,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000698,FSH0398,2019-12-09,Incorporación,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000699,FSH0398,24/03/2025,Cambio departamento,Compras,Tienda física ,Junior,Junior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000700,FSH0398,2026-01-27,Revisión salarial,Tienda física,Tiendas,Jr,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000701,FSH0398,2026-02-22,Voluntaria,Tienda física,,Junior,,Mejor oferta salarial,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000702,FSH0399,2023-03-02,ALTA,,E-Commerce,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000703,FSH0400,21/05/2025,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000704,FSH0400,24/02/2026,Voluntaria,E-commerce,,Junior,,Conciliación,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000705,FSH0401,15/03/2026,Incorporación,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000706,FSH0402,16/05/2023,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000707,FSH0402,2026-03-04,Revisión salarial,Tienda física,Tiendas,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000708,FSH0402,2024-08-19,Baja,Tienda física,,Junior,,Rendimiento insuficiente,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000709,FSH0403,2026-03-13,ALTA,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000710,FSH0404,2018-06-07,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000711,FSH0404,08-09-24,Cambio nivel,Tienda física,Tienda física,Junior,Sr,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000712,FSH0405,2022-06-28,Alta,,E-Commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000713,FSH0405,2024-09-18,Baja voluntaria,ecommerce,,Junior,,Cultura,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000714,FSH0406,2015-04-05,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000715,FSH0407,2025-09-26,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000716,FSH0407,2026-01-29,Revisión salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000717, FSH0407 ,2026-01-30,Baja voluntaria,Logística,,Junior,,Manager,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000718,FSH0408,2017-05-11,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000719,fsh0408,29-04-26,Promocion,E-commerce,E-commerce,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000720,FSH0408,2024-11-18,Promocion,E-commerce,E-commerce,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000721,FSH0409,23/04/2015,ALTA,,Tienda física,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000722,FSH0409,16/03/2026,Revision salarial,Tienda física ,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000723,FSH0410,2023-01-09,Incorporación,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000724,FSH0411,2025-07-19,Incorporación,,Operaciones logística,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000725,FSH0411,2026-02-19,Ajuste salario,Centro logístico,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000726,FSH0412,20/07/2025,Alta,,Tienda Fisica,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000727,FSH0413,01/04/2017,Alta,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000728,FSH0413,2025-11-28,Cambio departamento,Compras,FINANZAS,SENIOR,Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000729,FSH0413,02/01/2026,Ajuste salario,Finanzas,Finanzas,Senior,SENIOR,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000730,FSH0413,2025-11-14,Baja voluntaria,Administración financiera,,Senior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000731,FSH0414,21/10/21,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000732,FSH0414,2024-06-10,Promoción,Logística,Logística,Semi Senior,JUNIOR,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000733,FSH0414,2026-02-24,Ajuste salario,Operaciones logística,Operaciones logística,Junior,N1,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000734,FSH0415,16-01-24,ALTA,,MKT,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000735,FSH0415,2024-11-06,Baja voluntaria,Marketing Digital,,Semi Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000736,FSH0416,2019-10-26,Incorporación,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000737,FSH0417,09/11/2025,Incorporación,,Centro logístico,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000738,FSH0418,2026-03-05,Alta,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000739,FSH0418,18/02/2026,Revision salarial,Tiendas,TIENDA FÍSICA,Junior,Jr,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000740,FSH0419,2025-04-11,Alta,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000741,FSH0419,2026-03-12,Revisión salarial,Marketing,Marketing Digital,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000742,FSH0420,2024-12-09,ALTA,,Finanzas,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000743,FSH0421,2025-02-14,ALTA,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000744,FSH0421,05/12/2025,Promoción,Tienda física,Tienda física,Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000745,FSH0422,2026-03-04,ALTA,,E-commerce,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000746,FSH0423,2025-11-11,Alta,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000747,fsh0424,2023-04-19,Alta,,LOGISTICA,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000748,FSH0424,11/08/24,Baja voluntaria,Operaciones logística,,Semi Senior,,Conciliación,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000749,fsh0425,16/02/2025,ALTA,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000750,FSH0425,2025-08-27,Voluntaria,E-Commerce,,Semi Senior,,Conciliación,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000751,FSH0426,31/03/2025,Alta,,Tienda Fisica,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000752,FSH0426,2026-01-02,Revisión salarial,Tienda física,Tienda física,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000753,fsh0427,2025-08-26,Incorporación,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000754,FSH0428,03/10/15,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000755,FSH0428,15/11/2024,Promocion,E-commerce,Online,Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000756,FSH0429,10/05/21,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000757, FSH0429 ,2026-03-11,Revision salarial,E COMMERCE,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000758,FSH0430,2020-01-01,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000759,FSH0431,2022-10-12,ALTA,,Tiendas,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000760,FSH0431,27/07/2024,Cambio nivel,Tienda física ,TIENDA FÍSICA,Semi Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000761,FSH0431,28/04/2026,Promoción,Tienda física,Tienda física,Junior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000762,FSH0432,2025-03-08,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000763,FSH0433,20/07/23,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000764,FSH0433,05-02-26,Revisión salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000765,FSH0433,13-03-26,Voluntaria,Atención al Cliente,,Junior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000766,FSH0434,2020-02-04,ALTA,,Customer Service,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000767,FSH0434,2026-02-21,Revisión salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000768,FSH0435,2025-09-12,Incorporación,,LOGISTICA,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000769,FSH0436,2021-12-11,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000770,fsh0437,2023-04-14,Alta,,ecommerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000771,FSH0438,2025-12-04,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000772,FSH0438,2026-02-20,Revision salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000773,FSH0439,2024-10-02,ALTA,,LOGISTICA,,N2,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000774,FSH0440,2019-07-24,ALTA,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000775,FSH0441,10-11-25,Incorporación,,Atención al Cliente,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000776,FSH0441,2026-03-30,Revisión salarial,Contact Center,Atención al Cliente,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000777,FSH0441,2026-04-06,Voluntaria,Atención al Cliente,,Semi Senior,,Desarrollo/Carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000778,FSH0442,2021-10-13,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000779,FSH0442,29/04/25,Promoción,E-commerce,E-commerce,Senior,JUNIOR,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000780,FSH0443,2026-01-18,Incorporación,,Tienda Fisica,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000781,fsh0443,08/01/2026,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000782,FSH0444,2022-07-03,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000783,FSH0445,2019-07-21,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000784,FSH0446,29/04/2019,Alta,,Atencion Cliente,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000785,FSH0446,19/02/2026,Baja,Contact Center,,Semi Senior,,Cambio carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000786,fsh0447,06/03/2023,Incorporación,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000787,FSH0448,2024-12-05,ALTA,,E COMMERCE,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000788,FSH0449,03/03/2021,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000789,FSH0450,2025-04-10,Incorporación,,E-commerce,,Sr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000790,FSH0450,16/12/2025,Baja,E-Commerce,,Senior,,Oferta externa,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000791,FSH0451,08/01/2025,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000792,FSH0452,11/04/2023,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000793,FSH0453,2017-11-06,Alta,,Tiendas,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000794,FSH0454,2023-07-14,Alta,,Compras,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000795,FSH0455,22-01-25,ALTA,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000796,FSH0455,26-03-26,Revision salarial,Tienda física,Tienda física,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000797,FSH0456,2025-03-06,Alta,,LOGISTICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000798,FSH0457,2025-10-10,ALTA,,Tienda física ,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000799,FSH0458,2023-06-24,ALTA,,LOGISTICA,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000800,FSH0459,06/08/18,ALTA,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000801,FSH0460,2025-03-14,ALTA,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000802,FSH0460,2026-02-09,Revisión salarial,E-commerce,E-commerce,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000803,FSH0460,2025-12-29,Baja voluntaria,E-commerce,,Semi Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000804,FSH0461,12/09/2020,Alta,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000805,FSH0461,26-07-25,Cambio departamento,Compras,Tiendas,Junior,Jr,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000806,FSH0462,18/01/2021,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000807,fsh0462,16-04-26,Promocion,Tienda física,Tienda física,Junior,JUNIOR,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000808,FSH0462,2024-06-23,Cambio nivel,Tienda física,TIENDA FÍSICA,Semi Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000809,FSH0463,26/12/2020,Incorporación,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000810,FSH0464,2025-10-30,ALTA,,Atencion Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000811,FSH0464,09-01-26,Revisión salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000812,FSH0465,2025-06-24,ALTA,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000813,FSH0466,2019-02-02,Incorporación,,Retail store,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000814,FSH0466,2024-02-10,Baja,Tienda física,,Junior,,Relación con manager,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000815,FSH0467,24/12/2023,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000816,FSH0468,31-05-20,Alta,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000817,FSH0469,10-04-24,Alta,,LOGISTICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000818,FSH0470,13-04-16,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000819,FSH0470,2026-02-06,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000820,FSH0471,19/06/2020,Alta,,Tiendas,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000821,FSH0471,2025-03-24,Promoción,Tienda física,Tienda física ,Senior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000822,FSH0471,2025-11-30,Baja voluntaria,Retail store,,N2,,Cultura y reconocimiento,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000823,FSH0472,15-01-26,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000824,FSH0472,2026-01-12,Revision salarial,Atención al Cliente,Atención al Cliente,Junior,N1,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000825,FSH0473,15/03/2021,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000826,FSH0474,2025-02-13,Alta,,ATC,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000827,FSH0475,2024-02-01,ALTA,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000828,FSH0475,01/02/2026,Ajuste salario,Atencion Cliente,Atención al Cliente,Manager,N4,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000829,FSH0475,2024-06-22,Baja,Atención al Cliente,,Manager,,Carga trabajo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000830,FSH0476,2024-01-04,Alta,,Online,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000831,FSH0476,17/08/2025,Promocion,E-commerce,E-commerce,Junior,Senior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000832,FSH0477,2024-12-14,Incorporación,,Finance,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000833,FSH0477,23/12/25,Baja voluntaria,Finanzas,,Senior,,Falta de desarrollo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000834,FSH0478,10-02-21,Incorporación,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000835,FSH0479,04/11/20,Alta,,ATC,,SSr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000836,FSH0480,2026-02-05,Alta,,E-commerce,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000837,FSH0480,2026-01-19,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000838,FSH0481,07/07/2023,Incorporación,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000839,FSH0482,03-09-25,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000840,FSH0483,2025-07-08,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000841,FSH0484,2017-04-06,Alta,,TIENDA FÍSICA,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000842,FSH0484,13-10-24,Promoción,Tienda física,Tienda física,Senior,N1,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000843,FSH0484,12/01/2026,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000844,FSH0485,2026-02-07,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000845,FSH-0485,12/02/2026,Revisión salarial,ecommerce,E-commerce,Junior,JUNIOR,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000846,FSH0486,2022-09-16,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000847,FSH0486,10-08-25,Promoción,TIENDA FÍSICA,Tienda física,Senior,N1,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000848,FSH0486,08/11/2024,Promocion,Tienda física,Tienda física,Semi Senior,N1,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000849,FSH0487,2025-10-14,Alta,,Tienda física ,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000850,FSH0488,2026-01-06,ALTA,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000851,FSH-0488,2026-01-01,Ajuste salario,Tienda física,Retail store,Junior,JUNIOR,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000852,FSH0489,20/09/2019,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000853,FSH0490,2023-02-28,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000854,FSH0491,2024-06-18,Incorporación,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000855,FSH0492,2021-11-04,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000856,FSH0492,2025-12-31,Promocion,E-commerce,E-commerce,Semi Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000857,FSH0493,2026-01-15,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000858,FSH0494,05/04/2024,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000859,FSH0495,2019-07-22,Alta,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000860,FSH0495,2026-01-18,Revisión salarial,Compras,Compras,Senior,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000861,FSH0495,22/01/24,Baja,Compras,,Senior,,Falta de desarrollo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000862,FSH0496,11-03-21,Alta,,Procurement,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000863,fsh0497,02/01/2022,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000864,FSH0498,25/03/2023,Alta,,Tienda física,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000865,FSH0498,2024-12-25,Promocion,Tienda física,Tienda física,Junior,N2,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000866,FSH0498,05-03-26,Revisión salarial,Tienda física,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000867,FSH0498,2026-02-06,Voluntaria,Tienda física,,N2,,Carga de trabajo y estrés,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000868,FSH0499,31/08/22,Alta,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000869,FSH0500,19/09/2019,Incorporación,,E-Commerce,,N3,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000870,FSH0501,11/06/2023,Incorporación,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000871,FSH0502,09/10/2022,Alta,,MARKETING,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000872,FSH0503,27-06-19,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000873,FSH0503,2025-05-14,Promocion,Tienda física,Tienda física,Semi Senior,N1,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000874,FSH0504,2020-01-21,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000875,FSH0505,2025-12-18,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000876,FSH0505,2026-03-25,Ajuste salario,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000877,FSH0506,01/02/2025,ALTA,,Tienda física ,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000878,FSH0506,25/12/2024,Cambio nivel,Tienda física,Tienda Fisica,Semi Senior,Manager,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000879,FSH-0507,2026-02-03,Incorporación,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000880,FSH0507,2026-01-25,Revisión salarial,Tienda física,Tienda Fisica,Semi Senior,N2,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000881,FSH0508,31/05/16,ALTA,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000882,FSH0508,2026-04-28,Cambio nivel,Marketing,MARKETING,Junior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000883,FSH0509,12/05/2023,ALTA,,IT,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000884,FSH0509,03/04/2024,Voluntaria,IT y Datos,,Senior,,Cultura,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000885,FSH0510,2022-08-07,ALTA,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000886,FSH0511,09/03/26,Incorporación,,LOGISTICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000887,FSH0512,11/08/25,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000888,FSH0513,09/08/25,ALTA,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000889,FSH0514,2016-11-03,Incorporación,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000890,FSH0515,10/06/2021,Incorporación,,Logistica,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000891,FSH0516,2025-06-10,ALTA,,Sistemas y datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000892,FSH0517,2024-03-03,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000893,FSH0517,18/11/24,Transferencia,Marketing,Atención al Cliente,Junior,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV000894,FSH0518,01/03/25,ALTA,,Procurement,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000895,FSH-0519,2015-03-18,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000896,FSH0519,09/06/2024,Cambio nivel,TIENDA FÍSICA,Tienda Fisica,Senior,Jr,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV000897,FSH0519,01/03/2026,Ajuste salario,Tienda física,Tienda Fisica,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000898,FSH0520,29/08/2021,Incorporación,,IT y Datos,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000899,FSH0520,2025-04-27,Promoción,IT y Datos,DATA/IT,Semi Senior,N3,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000900,FSH0521,18/02/2025,Incorporación,,Atencion Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000901,FSH0522,06/05/16,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000902,FSH0522,22/05/2025,Baja,Compras ,,Semi Senior,,Cultura y reconocimiento,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000903,FSH0523,2023-04-12,Incorporación,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000904,FSH0523,2024-09-16,Promoción,Tienda física,Tienda física ,Semi Senior,Jr,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000905,FSH0524,24/01/2024,Incorporación,,Compras ,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000906,FSH0524,2026-02-02,Ajuste salario,Compras,Compras,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000907,FSH0525,2020-08-13,Alta,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000908,FSH0525,21/07/25,Promocion,Compras,Compras,Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000909,FSH0526,29/06/2025,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000910,FSH0527,02/03/2018,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000911,FSH0527,12-03-25,Promoción,Tienda física,Tienda física,Junior,Semi-Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000912,FSH0528,2020-11-12,Incorporación,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000913,FSH0529,06/04/2018,Alta,,Contact Center,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000914,FSH0529,2025-02-17,Promoción,Atención al Cliente,Atención al Cliente,Senior,N2,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000915,FSH0530,27/11/2021,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000916,FSH0531,2024-01-04,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000917,FSH0531,2024-08-07,Baja voluntaria,Atención al Cliente,,Semi-Senior,,Valoración,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000918,FSH0532,2015-08-23,Alta,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000919,FSH0532,12/03/2026,Revisión salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000920,FSH0533,2020-12-28,Alta,,Finanzas,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000921,FSH0533,18/02/2026,Transferencia,Compras,FINANZAS,SENIOR,Senior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000922,FSH0534,2022-12-09,Incorporación,,Operaciones logística,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000923,FSH0535,2023-03-30,ALTA,,Tienda física,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000924,FSH-0535,30/05/2024,Baja voluntaria,Retail store,,Senior,,Relación con manager,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000925,FSH0536,02/10/2025,Incorporación,,Marketing,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000926,FSH0537,2025-01-26,Alta,,RRHH,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000927,FSH0537,2026-01-07,Revisión salarial,Personas,HR,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000928,FSH0538,2016-11-28,ALTA,,Tienda física,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000929,FSH0539,2019-01-29,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000930,FSH0539,14/03/2026,Ajuste salario,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV000931,FSH0540,2025-07-06,Incorporación,,Compras ,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000932,FSH0540,17/01/2026,Revisión salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000933,FSH0541,19/02/2026,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000934,fsh0541,2026-02-28,Revisión salarial,Tienda física,Tienda física,JUNIOR,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000935,FSH0542,14/06/25,ALTA,,Compras,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000936,FSH0543,2021-04-13,ALTA,,Customer Service,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000937,FSH0544,2019-07-07,Alta,,Tienda física,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000938,FSH0544,2025-11-18,Baja,Tienda física,,Senior,,Carga trabajo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000939,FSH0545,2020-08-16,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000940,FSH0545,25/03/2026,Revision salarial,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000941,FSH0545,2026-03-11,Voluntaria,Contact Center,,Junior,,Responsable directo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000942,FSH0546,04/11/2019,Alta,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000943,FSH0546,06/10/2025,Cambio nivel,Tienda física,Tienda física ,Semi Senior,JUNIOR,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV000944,FSH0546,2026-04-05,Baja,Tienda física,,Jr,,Salario mercado,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000945,FSH0547,21/03/2019,Incorporación,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000946,FSH0547,19/01/2026,Ajuste salario,Tiendas,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000947,FSH0548,15-06-21,Alta,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000948,FSH0548,2026-03-07,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000949,FSH0549,21-07-24,ALTA,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000950,FSH0549,06-07-25,Baja,Tienda física,,Junior,,Falta de desarrollo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000951,FSH0550,01-09-19,Alta,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000952,FSH0550,04/07/2025,Voluntaria,Tienda física,,Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000953,FSH0551,2020-07-02,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000954,FSH0551,2024-08-22,Baja voluntaria,Tienda física ,,Junior,,Sin promoción,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000955,FSH0552,03/03/2025,ALTA,,Retail store,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000956,FSH0553,2020-01-18,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000957,FSH0554,2025-09-29,Alta,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000958,FSH0555,2025-04-03,Alta,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000959,FSH0556,2020-12-28,Alta,,Atención al Cliente,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000960,FSH0556,22/06/2025,Baja voluntaria,ATC,,Junior,,Balance vida-trabajo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000961,FSH0557,2021-03-22,Incorporación,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000962,FSH0558,2023-12-13,Incorporación,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000963,FSH0559,2021-03-21,Incorporación,,Procurement,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000964,FSH0560,11/06/2023,Incorporación,,Retail store,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000965,FSH0561,03-04-22,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000966,FSH0562,2026-02-28,Alta,,Online,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000967,FSH0563,2020-10-29,Incorporación,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000968,fsh0563,25/01/2026,Baja,Tienda física,,Junior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000969,FSH0564,14/02/2025,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000970,FSH0564,2026-02-05,Ajuste salario,Tienda física,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000971,FSH0565,2023-03-24,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000972,FSH0565,27/01/2026,Revisión salarial,Logística,Logística,Junior,N1,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000973,FSH0565,2025-09-05,Baja voluntaria,Logística,,Jr,,Cultura y reconocimiento,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV000974,FSH0566,01-08-25,ALTA,,Online,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000975,FSH0567,31-03-25,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000976,FSH0567,11/03/2026,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000977,FSH0568,27/12/25,Alta,,TIENDA FÍSICA,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000978,FSH0569,20/03/2021,Alta,,HR,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000979,FSH0570,15/05/2018,Incorporación,,Sistemas y datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000980,FSH0571,2019-07-23,Alta,,Tiendas,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000981,FSH0572,19-03-25,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000982,FSH0572,2026-02-19,Ajuste salario,Atención al Cliente,Atención al Cliente,Jr,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV000983,FSH0573,2025-11-30,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000984,FSH0574,2021-02-16,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000985,FSH0575,28/10/2019,Incorporación,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000986,FSH0575,2024-11-14,Baja,E-commerce,,Jr,,Oferta externa,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV000987,FSH0576,28/01/2026,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000988,FSH0577,07/08/2019,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000989,FSH0577,2025-07-20,Cambio departamento,IT y Datos,Online,Junior,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV000990,FSH0577,04-02-26,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV000991,FSH0578,2022-04-24,Incorporación,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000992,FSH0579,2015-09-28,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV000993,FSH0580,2019-06-29,ALTA,,Tienda física ,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000994,FSH0580,08/06/2024,Promocion,Tienda física,Tienda física,Semi Senior,JUNIOR,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV000995,FSH0581,2022-02-27,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV000996,FSH0581,2025-12-17,Voluntaria,Tienda física,,Manager,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV000997,FSH0582,2023-07-22,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV000998,FSH0582,07/12/24,Movilidad interna,Marketing Digital,TIENDA FÍSICA,Junior,Junior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV000999,FSH0582,08/09/2024,Baja,Tienda física,,Junior,,Liderazgo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001000,FSH0583,29/02/2024,Alta,,ecommerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001001,FSH0583,2025-10-20,Baja voluntaria,E-commerce,,Semi Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001002,FSH0584,2023-01-14,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001003,FSH0584,03/02/2026,Revision salarial,Tiendas,Tienda física,SENIOR,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001004,FSH0585,2025-05-09,Alta,,MKT,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001005,FSH0586,2025-05-06,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001006,FSH0587,2024-07-24,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001007,FSH0587,2024-06-23,Cambio nivel,Tienda física,Tienda física,Junior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001008,FSH0588,07/06/24,Incorporación,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001009,FSH0588,20-05-25,Voluntaria,Tienda física,,Semi Senior,,Valoración,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001010,FSH0589,2019-03-08,ALTA,,ecommerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001011,FSH0589,11/05/2024,Baja,E-commerce,,Junior,,Mejor oferta salarial,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001012,FSH0590,2025-10-22,Alta,,Logística,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001013,FSH0591,28-07-25,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001014,FSH0591,02-03-26,Baja voluntaria,Tienda física,,Junior,,Plan de carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001015,FSH0592,24/07/2023,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001016,FSH0593,17/06/24,ALTA,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001017,FSH0594,2021-08-13,Incorporación,,Atencion Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001018,FSH0595,18/09/23,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001019, FSH0595 ,20-01-26,Revision salarial,Tienda física,Retail store,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001020,FSH0596,2019-04-06,Alta,,Marketing,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001021,FSH0596,05/02/2026,Revision salarial,Marketing,Marketing,SENIOR,Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001022,FSH0597,12/06/19,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001023,FSH0597,2026-01-26,Revision salarial,Tienda física,Tiendas,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001024,FSH0597,2025-05-05,Baja,Retail store,,Junior,,Sobrecarga,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001025,FSH0598,05/05/2023,ALTA,,Atención al Cliente,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001026,FSH0598,2024-07-22,Promocion,Atención al Cliente,Atención al Cliente,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001027,FSH0599,2024-10-25,Alta,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001028,FSH0599,2025-10-06,Cambio nivel,Atención al Cliente,Atención al Cliente,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001029, FSH0600 ,2024-06-02,Alta,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001030,FSH0601,2021-08-07,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001031,FSH0601,2025-06-05,Baja,Logística,,Junior,,Falta de desarrollo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001032,FSH0602,2020-01-06,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001033,FSH0602,2024-07-08,Promocion,Tienda física,Tienda física,Semi Senior,Semi-Senior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001034,FSH0602,2026-02-28,Revisión salarial,Tienda física,Tienda física,Semi Senior,Semi-Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001035,FSH0602,2025-10-04,Baja voluntaria,Tienda física,,Semi Senior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001036,FSH0603,2025-11-27,Incorporación,,Sistemas y datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001037,FSH0604,2020-05-19,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001038,FSH0604,2025-03-06,Promoción,Tienda física,Tiendas,Junior,JUNIOR,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001039,FSH0605,28/01/2022,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001040,FSH0606,2025-01-14,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001041,FSH0606,2026-01-28,Cambio nivel,E-commerce,E-commerce,Senior,Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001042,FSH0607,2025-08-23,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001043,FSH0608,2023-07-19,Alta,,E-commerce,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001044,FSH0608,28/10/2025,Cambio nivel,E-commerce,E-commerce,Senior,Semi-Senior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001045,FSH0609,2019-05-31,Incorporación,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001046,FSH0609,10/11/2025,Baja no voluntaria,Tienda física,,Junior,,Bajo desempeño,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001047,FSH0610,2020-04-23,Incorporación,,E-Commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001048,FSH0610,2026-02-21,Revision salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001049,FSH0611,2020-01-13,ALTA,,Centro logístico,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001050,FSH0611,07-01-26,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001051,FSH0612,28-01-26,ALTA,,TIENDA FÍSICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001052,FSH0613,26/08/2021,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001053,FSH0613,2025-01-29,Promocion,Tienda física,Tienda física,Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001054,FSH0613,07/04/24,Baja,Tienda física,,Junior,,Bajo desempeño,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001055,FSH0614,04/05/2022,Alta,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001056,FSH0615,2025-10-09,Incorporación,,Centro logístico,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001057,FSH0616,30/10/2019,ALTA,,Tienda física,,Mánager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001058,FSH0617,2019-09-03,Alta,,Operaciones logística,,Responsable,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001059,FSH0617,22/03/2026,Revisión salarial,Logística,Logística,Manager,Manager,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001060,FSH0618,10/05/2022,Incorporación,,Logistica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001061,FSH0618,2024-09-26,Promocion,Logística,Logística,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001062,FSH0618,2026-03-22,Revision salarial,Operaciones logística,Logistica,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001063,FSH0619,29-01-21,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001064,FSH0620,29/08/2024,ALTA,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001065,FSH0621,30/08/2019,Alta,,Marketing Digital,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001066,FSH0621,2026-03-07,Ajuste salario,Marketing,Marketing,Manager,Manager,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001067,FSH0622,2020-04-17,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001068, FSH0622 ,2026-03-17,Revisión salarial,Tienda física,Tienda física,Senior,SENIOR,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001069,FSH0623,2026-02-07,ALTA,,IT y Datos,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001070,FSH0623,16/01/2026,Ajuste salario,IT y Datos,IT y Datos,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001071,FSH0624,21/09/2022,ALTA,,Tiendas,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001072,FSH0624,14/08/2025,Promocion,Tienda física ,Tienda Fisica,Senior,Senior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001073,FSH0624,2024-12-05,Baja voluntaria,Tiendas,,Senior,,Sin promoción,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001074,FSH0625,2019-08-28,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001075,FSH0626,2022-10-16,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001076,FSH0626,22-01-26,Revisión salarial,Atención al Cliente,Contact Center,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001077,FSH0627,2020-10-04,Incorporación,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001078,FSH0627,2026-02-14,Promocion,Tienda física,Tienda física,Junior,JUNIOR,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001079,FSH0628,2021-07-13,Alta,,Tienda Fisica,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001080,FSH0628,18/04/2025,Cambio nivel,Tienda física,Tienda física,Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001081,FSH0629,06/11/2019,Incorporación,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001082,FSH0630,2020-04-11,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001083,FSH0630,2024-06-04,Baja,Tienda física,,Senior,,Conciliación,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001084,FSH0631,27-11-23,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001085,FSH0632,2022-02-19,Alta,,Operaciones logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001086,FSH0632,2024-01-06,Voluntaria,Centro logístico,,Senior,,Cultura,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001087,FSH0633,2018-12-27,Incorporación,,Compras,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001088,FSH0633,2025-05-26,Cambio nivel,Compras,Compras,Senior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001089,FSH0634,23/08/2025,Alta,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001090,FSH0635,20/07/2019,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001091,FSH0636,2021-02-08,ALTA,,Tienda física,,Sr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001092,FSH0637,2021-05-24,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001093,FSH-0637,2026-01-18,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001094,FSH0637,18/04/2025,Voluntaria,Tienda física,,Junior,,Balance vida-trabajo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001095,FSH0638,2025-08-05,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001096,FSH0639,04/09/2025,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001097,FSH0639,18-02-26,Baja,TIENDA FÍSICA,,JUNIOR,,Horarios,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001098,FSH0640,2015-09-14,Incorporación,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001099,FSH0640,17/04/2025,Cambio nivel,Logística,Logística,Senior,Manager,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001100,FSH0640,2026-03-15,Revisión salarial,Logística,Logística,Mánager,Manager,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001101,FSH0641,05/09/2025,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001102,FSH0642,2025-12-22,ALTA,,RRHH,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001103,FSH0642,2026-01-03,Ajuste salario,RRHH,RRHH,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001104,FSH0643,2025-10-12,ALTA,,E-commerce,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001105,FSH0643,2026-01-01,Ajuste salario,E-commerce,E-Commerce,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001106,FSH0644,2024-08-02,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001107,FSH0644,2026-02-12,Revisión salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001108,FSH0645,2025-10-29,Alta,,E COMMERCE,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001109,FSH0645,2025-04-10,Promocion,E-commerce,E-commerce,Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001110,FSH0646,24/10/2023,ALTA,,IT & Data,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001111,FSH0646,28/03/2026,Revision salarial,IT y Datos,IT y Datos,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001112,FSH0647,2018-08-19,Alta,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001113,FSH0647,2026-01-25,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001114, FSH0648 ,2023-06-15,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001115,FSH0648,2026-03-05,Ajuste salario,LOGISTICA,LOGISTICA,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001116,FSH0649,2025-02-25,ALTA,,Tienda física ,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001117,FSH0649,2024-11-12,Promoción,TIENDA FÍSICA,Tienda física,Junior,Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001118,FSH0649,19/02/2026,Revision salarial,Tienda física,Tienda física,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001119,FSH0650,10/01/2025,ALTA,,E-commerce,,SSr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001120,FSH0650,29/12/2024,Cambio nivel,E-commerce,E-commerce,Junior,Semi-Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001121,FSH0650,01/01/2025,Promocion,E-commerce,E-commerce,Junior,N2,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001122,FSH0650,2026-01-11,Revision salarial,E-commerce,E-commerce,Semi Senior,Semi-Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001123,FSH0650,21-12-25,Baja,E COMMERCE,,Semi Senior,,Performance,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001124,FSH0651,2025-01-13,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001125,FSH0651,2025-11-23,Baja voluntaria,Atención al Cliente,,Junior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001126,FSH0652,03-09-18,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001127,FSH0652,2025-06-04,Promocion,Centro logístico,Centro logístico,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001128,FSH0653,2019-09-02,Incorporación,,MKT,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001129,FSH0653,2026-02-03,Revisión salarial,Marketing,Marketing,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001130,FSH0654,19/12/25,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001131,FSH0655,2025-04-04,Incorporación,,TIENDA FÍSICA,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001132,FSH0656,10/03/26,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001133,FSH0657,2022-09-13,Alta,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001134,FSH0657,12/03/2026,Revisión salarial,Tienda física,Tiendas,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001135,FSH0658,28-02-23,ALTA,,Logística,,Jr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001136,FSH0658,2024-07-16,Cambio departamento,Marketing,Logística,N1,Jr,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV001137,FSH0658,01-01-26,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001138,FSH0659,21/09/2019,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001139,FSH0659,2024-05-20,Baja,Tienda física,,Junior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001140,FSH0660,13/01/15,ALTA,,MARKETING,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001141,FSH0660,09/06/2025,Promoción,Marketing,Marketing,Junior,Semi-Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001142,FSH0661,2020-06-25,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001143,FSH0662,28/11/2025,ALTA,,RRHH,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001144,FSH0663,2023-05-15,Alta,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001145,FSH0663,07/01/2025,Voluntaria,Tienda física,,Junior,,Responsable directo,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001146,FSH0664,2025-07-15,Alta,,Tienda física,,SSr,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001147,FSH0664,20/02/2026,Revision salarial,Tienda física,Tienda física,Semi-Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001148,FSH0665,2024-06-15,ALTA,,Tienda física,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001149,FSH0665,12/05/2025,Promocion,Retail store,Tienda física,Junior,N2,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001150,FSH0666,2023-06-29,Incorporación,,Tiendas,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001151,FSH0666,27/05/2024,Promocion,Tienda física,Retail store,Junior,JUNIOR,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001152,FSH0667,28/07/2025,Alta,,Retail store,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001153,FSH0667,2026-03-04,Revision salarial,Tienda física,Tienda física,SSr,SSr,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001154,FSH0668,2021-06-27,ALTA,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001155,FSH0668,2025-11-20,Promocion,Tienda física,Tienda física,Senior,N1,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001156,FSH0669,2022-08-12,Alta,,Tiendas,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001157,FSH0669,09/08/2025,Promoción,Tienda física,Tienda física,Semi Senior,Manager,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001158,FSH0669,18/12/2024,Promocion,Tienda física,Tienda física,Semi Senior,N4,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001159,FSH0669,2026-03-11,Revisión salarial,Tienda física,Tienda física,Manager,Manager,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001160,FSH0669,2025-12-13,Baja,Tienda física,,Manager,,Relación con manager,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001161,FSH0670,2024-04-10,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001162,FSH0670,11-11-24,Baja voluntaria,Tienda física ,,Junior,,Carga trabajo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001163,FSH0671,2018-12-17,Incorporación,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001164,FSH0672,2020-01-08,Incorporación,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001165,FSH0673,14/03/2015,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001166,FSH0674,13-05-22,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001167,FSH0675,2018-05-31,Alta,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001168,FSH0676,09-03-19,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001169,FSH0676,2026-03-14,Revision salarial,E-Commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001170,FSH0677,03/04/2025,Alta,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001171,FSH0678,2025-05-04,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001172,FSH0679,2015-10-29,Alta,,FINANZAS,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001173,FSH0679,21-02-26,Revision salarial,Finanzas,Finanzas,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001174,FSH0679,2024-06-03,Baja voluntaria,Administración financiera,,Senior,,Desarrollo/Carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001175,FSH0680,2015-12-21,ALTA,,Compras,,N2,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001176,FSH0680,15-01-25,Promocion,Compras,Compras,Semi Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001177,FSH0681,2015-02-16,ALTA,,LOGISTICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001178,FSH0682,2023-08-13,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001179,FSH0683,31/07/2023,Incorporación,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001180,FSH0683,2026-03-17,Revisión salarial,Logística,Logística,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001181,FSH0684,16/12/2020,ALTA,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001182,FSH0685,2025-12-25,ALTA,,Operaciones logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001183,FSH0686,17/03/2023,ALTA,,Logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001184,FSH0687,2025-02-22,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001185,FSH0687,2026-02-11,Ajuste salario,E-commerce,E-commerce,Senior,Sr,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001186,FSH0688,03/09/2015,Alta,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001187,FSH0689,2024-08-06,Incorporación,,Logística,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001188,FSH0690,11/06/2020,Alta,,Tienda física ,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001189,FSH0690,2025-08-02,Promoción,Tiendas,Tienda física,Semi Senior,Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001190,FSH0691,2024-08-20,Incorporación,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001191,FSH0691,23/09/2024,Promoción,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001192,FSH0691,2025-07-05,Baja voluntaria,ATC,,Junior,,Relación con manager,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001193,FSH0692,2025-08-17,ALTA,,Logística,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001194,FSH0693,2025-07-21,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001195,FSH0693,12/01/2026,Baja voluntaria,Tiendas,,N3,,Falta de desarrollo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001196,FSH0694,15-06-21,ALTA,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001197,FSH0695,27/07/2022,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001198,FSH0695,14-07-25,Cambio nivel,E-commerce,E-commerce,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001199,FSH0696,2026-01-28,ALTA,,Atención al Cliente,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001200,FSH0696,2026-01-17,Ajuste salario,Atención al Cliente,ATC,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001201,FSH0697,2018-07-20,Incorporación,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001202,FSH0698,30/11/2021,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001203,FSH0699,22/09/2025,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001204,FSH0700,2025-08-27,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001205,FSH0700,2026-01-29,Revisión salarial,Tienda física,Tienda física ,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001206,FSH0701,16/12/2016,Incorporación,,Retail store,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001207,FSH0702,2024-07-11,ALTA,,Tienda física,,Manager,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001208,FSH0703,2025-09-28,ALTA,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001209,FSH0703,30/01/2025,Promoción,Compras,Compras,Junior,Senior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001210,FSH0703,24-01-26,Revision salarial,Compras,Compras,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001211,FSH0703,02/02/2026,Voluntaria,COMPRAS,,SENIOR,,Liderazgo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001212,FSH0704,2015-12-04,Incorporación,,E-commerce,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001213,FSH0704,02-07-25,Promocion,E-commerce,E-commerce,Junior,Junior,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001214,FSH0704,20-10-24,Transferencia,Atencion Cliente,E-commerce,Jr,Junior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV001215,FSH0704,2026-03-23,Revision salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001216,FSH0704,2025-01-07,Voluntaria,E-commerce,,Junior,,Relación con manager,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001217,FSH0705,2018-12-20,Incorporación,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001218,FSH0706,2022-07-22,ALTA,,E-commerce,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001219,FSH0706,2024-11-18,Cambio nivel,E-commerce,E COMMERCE,Junior,Junior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001220,FSH0707,2019-09-02,ALTA,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001221,FSH0707,07-03-25,Baja no voluntaria,Tienda física ,,JUNIOR,,Rendimiento insuficiente,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001222,FSH0708,29/06/21,ALTA,,Logistica,,N1,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001223,FSH0708,05-12-25,Cambio departamento,IT & Data,LOGISTICA,Junior,Junior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV001224,FSH0708,17-01-26,Revision salarial,Logística,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001225,FSH0709,21/02/2025,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001226,FSH0710,05/12/2019,ALTA,,Atención al Cliente,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001227,FSH0711,2023-08-10,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001228,FSH0712,19/04/2024,ALTA,,IT y Datos,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001229,FSH0712,2024-11-19,Baja voluntaria,IT y Datos,,Senior,,Valoración,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001230,FSH0713,25/04/20,ALTA,,Marketing,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001231,FSH0713,2026-02-25,Revisión salarial,Marketing,Marketing,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001232,FSH0713,2025-06-03,Baja voluntaria,Marketing,,N3,,Falta de desarrollo,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001233,FSH0714,2021-06-13,ALTA,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001234,FSH0714,2025-03-24,Baja voluntaria,Atencion Cliente,,Manager,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001235,FSH0715,2016-05-10,Alta,,Finance,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001236,FSH0715,07/08/2024,Cambio nivel,Finanzas,Finanzas,Junior,N3,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001237,FSH0715,08/03/26,Revision salarial,Finanzas,Finanzas,SENIOR,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001238,FSH0716,2025-06-22,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001239,FSH0717,2020-01-17,Incorporación,,Customer Service,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001240,FSH0718,18/11/19,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001241,FSH0719,2023-06-20,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001242,FSH0719,12/05/25,Voluntaria,Tienda física,,Junior,,Mejor oferta salarial,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001243,FSH0720,2018-10-02,ALTA,,Tienda física,,N1,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001244,FSH0721,26/02/24,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001245,FSH0722,2017-11-28,Alta,,E COMMERCE,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001246,FSH0723,2023-04-14,ALTA,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001247,FSH0723,03/03/2026,Promoción,Atención al Cliente,ATC,Semi Senior,Jr,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001248,FSH0724,01/07/2021,Alta,,Administración financiera,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001249,FSH0724,2024-08-19,Cambio nivel,Finanzas,Finanzas,Junior,Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001250,FSH0725,2025-11-22,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001251,FSH0726,2025-04-04,ALTA,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001252,FSH0726,2026-02-18,Revisión salarial,E-commerce,E-commerce,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001253,FSH0727,2020-06-24,Alta,,TIENDA FÍSICA,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001254,FSH0728,26/06/25,ALTA,,ATC,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001255,FSH0729,2016-10-02,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001256,FSH0730,2018-09-06,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001257,fsh0730,2024-06-27,Promoción,LOGISTICA,Centro logístico,Senior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001258,FSH0730,2025-05-13,Transferencia,Tienda física,Operaciones logística,Junior,Junior,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV001259,FSH0731,2022-03-04,Alta,,E-commerce,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001260,FSH0731,22/10/2025,Promocion,E-commerce,Online,Semi Senior,Junior,Revisión talento,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001261,FSH0732,12-02-26,ALTA,,MKT,,Semi-Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001262,FSH0732,2026-04-11,Cambio nivel,Marketing,Marketing,Junior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001263,FSH0733,2020-09-21,Alta,,E-commerce,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001264,FSH0733,27/03/2026,Promoción,E-commerce,E-commerce,Senior,Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001265,fsh0733,2025-06-23,Promocion,E-commerce,E-commerce,Junior,Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001266,FSH0733,16/03/2026,Ajuste salario,E-commerce,E-commerce,Senior,Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001267,FSH0733,21/01/2025,Baja,E-commerce,,Senior,,Mejor oferta salarial,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001268,FSH0734,2015-02-06,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001269,FSH0734,2024-05-12,Baja voluntaria,E-commerce,,Junior,,Desarrollo/Carrera,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001270,FSH0735,2024-10-16,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001271,fsh0736,08/04/2025,Alta,,Compras,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001272,FSH0737,2024-06-14,Alta,,Compras,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001273,FSH0738,2017-07-17,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001274,FSH0739,2023-07-15,ALTA,,Retail store,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001275,fsh0739,25/11/24,Baja voluntaria,Tienda física,,Junior,,Sin promoción,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001276,FSH0740,18/09/2025,ALTA,,E-Commerce,,Sr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001277,FSH0740,05/08/25,Cambio nivel,E-commerce,E-Commerce,Semi Senior,Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001278,FSH0741,2025-06-21,Alta,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001279,FSH0741,05/02/26,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001280,FSH0742,2025-06-05,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001281,FSH0743,2022-08-01,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001282,FSH0743,13/07/24,Cambio departamento,RRHH,LOGISTICA,Junior,Junior,Movilidad interna,Cambio de área o centro,hr_admin,30/04/2026
+MOV001283,FSH0743,24/08/24,Baja no voluntaria,Logística,,Junior,,Bajo desempeño,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001284,FSH0744,2019-04-08,Alta,,Finanzas,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001285,FSH0744,19/11/2025,Baja,FINANZAS,,SENIOR,,Reestructuración,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001286,FSH0745,16/12/2021,ALTA,,Atencion Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001287,fsh0745,2026-03-28,Promoción,Atención al Cliente,Atención al Cliente,Junior,Jr,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001288,FSH0745,2025-06-18,Promocion,Atención al Cliente,Atención al Cliente,Senior,N1,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001289,FSH0745,14/03/2026,Ajuste salario,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001290,FSH0746,06-09-24,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001291,FSH0746,2026-03-21,Revision salarial,Tienda física,Tienda física,Semi Senior,Semi-Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001292,FSH0746,17/07/2025,Baja,Tienda física,,Semi Senior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001293,fsh0747,2018-07-13,Incorporación,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001294,FSH0747,2026-01-16,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001295,FSH0748,2016-04-27,ALTA,,IT,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001296,FSH0748,07/02/2026,Revision salarial,IT y Datos,IT & Data,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001297,FSH0749,11/02/2024,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001298,FSH0750,2022-12-17,Incorporación,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001299,FSH0750,2024-10-25,Transferencia,Finanzas,Marketing,Semi Senior,SSr,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV001300,FSH0750,2026-01-10,Ajuste salario,Marketing,Marketing,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001301,FSH0751,30/12/25,Alta,,MKT,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001302,FSH0752,05-03-26,Incorporación,,ATC,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001303,FSH0753,2025-11-12,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001304,FSH0753,22/02/26,Revision salarial,Tienda física,Tienda Fisica,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001305,FSH0753,25-04-26,Baja voluntaria,Tienda física,,Junior,,Proyecto personal,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001306,FSH0754,2025-06-13,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001307,FSH0754,2024-05-30,Promoción,Tienda física,Tienda física,Junior,Jr,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001308,FSH0754,2026-03-01,Revisión salarial,Retail store,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001309,FSH0754,2025-12-29,Voluntaria,Tiendas,,Junior,,Cultura y reconocimiento,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001310,FSH0755,08-08-22,Alta,,E-commerce,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001311,FSH0756,2024-10-06,ALTA,,ATC,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001312,FSH0756,04/02/2026,Cambio nivel,Atención al Cliente,Atención al Cliente,Junior,Jr,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001313,FSH0756,11/07/2025,Cambio nivel,ATC,Atención al Cliente,Junior,Junior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001314,FSH0757,2025-10-15,Incorporación,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001315,FSH0758,2016-08-06,ALTA,,E-commerce,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001316,FSH0759,2025-09-08,Alta,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001317,FSH0759,2026-01-19,Revisión salarial,Tienda física,Retail store,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001318,FSH0760,2024-02-22,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001319,FSH0761,17-10-20,ALTA,,Tienda física,,Jr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001320,FSH0762,2024-08-03,Incorporación,,Tienda física ,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001321,FSH0763,10/08/25,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001322,FSH0763,13-03-26,Revisión salarial,Tienda física,Tienda física,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001323,FSH0764,2015-03-28,Alta,,Tienda física,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001324,FSH0765,12-03-25,Alta,,Logística,,N1,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001325,FSH0766,19/09/2020,Alta,,RRHH,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001326,FSH0766,2026-01-01,Ajuste salario,RRHH,People,N3,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001327,FSH0766,25/07/2024,Baja no voluntaria,RRHH,,Senior,,Fin de contrato,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001328,FSH0767,2015-10-01,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001329, FSH0768 ,13/09/20,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001330,FSH0769,2025-12-01,Alta,,Tienda física,,N3,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001331,FSH0769,2026-01-31,Ajuste salario,Tienda física,Tienda Fisica,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001332,FSH0769,25/04/26,Baja,Tienda física,,Senior,,Cambio de proyecto/carrera,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001333,FSH0770,25/12/24,Alta,,Atención al Cliente,,N2,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001334,FSH0770,24-02-26,Revision salarial,Atención al Cliente,Atención al Cliente,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001335,FSH0771,13-12-23,Alta,,E-commerce,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001336,fsh0772,11/09/2025,ALTA,,MARKETING,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001337,FSH0773,2022-01-16,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001338,FSH0773,2025-09-17,Baja voluntaria,Tienda física,,Junior,,Cultura y reconocimiento,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001339,FSH0774,17/04/25,ALTA,,Logistica,,Jr,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001340,FSH0774,2026-02-01,Ajuste salario,Logística,Logística,Junior,N1,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001341,FSH0775,2025-08-19,ALTA,,Logística,,Manager,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001342,FSH0776,2021-08-06,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001343, FSH0776 ,2025-05-08,Promoción,Tienda física,Tienda física,Semi Senior,N1,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001344,FSH0777,2024-02-29,Alta,,Tienda física ,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001345,FSH0777,03/05/2025,Cambio departamento,Logística,TIENDA FÍSICA,Junior,Jr,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV001346,FSH0778,22/11/2022,ALTA,,Finanzas,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001347,FSH0778,16/06/2024,Cambio nivel,Finanzas,Finanzas,Semi Senior,Semi Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001348,FSH0779,04/04/2022,Alta,,Contact Center,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001349,FSH0779,02-02-26,Revisión salarial,Customer Service,ATC,Junior,Junior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001350,FSH0780,16-10-19,Alta,,Atención al Cliente,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001351,FSH0780,2026-01-15,Ajuste salario,Atención al Cliente,Atención al Cliente,Jr,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001352,FSH0780,2024-03-28,Voluntaria,Atención al Cliente,,Junior,,Oferta externa,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001353,FSH0781,07/08/19,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001354,FSH0781,08/01/2025,Cambio nivel,Logística,Logística,Senior,Junior,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001355,FSH0782,06-05-16,Alta,,E-Commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001356,FSH0783,2021-04-17,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001357,FSH0783,20/12/2025,Baja,Tienda física,,Junior,,Oferta externa,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001358,FSH0784,26-03-25,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001359,FSH0785,10-06-20,Incorporación,,Marketing,,SSr,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001360,FSH0786,27-04-21,ALTA,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001361,FSH0786,2024-10-22,Cambio nivel,Marketing,Marketing,Senior,N2,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001362,FSH0787,12/07/2024,Alta,,ATC,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001363,FSH0788,2015-02-16,Incorporación,,Atención al Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001364,FSH0788,2025-05-08,Cambio nivel,Atención al Cliente,Atención al Cliente,Semi Senior,Semi Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001365,FSH0788,2025-03-06,Baja voluntaria,Atención al Cliente,,Semi Senior,,Retribución,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001366,FSH0789,05-05-25,ALTA,,Tienda física,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001367,FSH0789,2026-02-12,Promoción,Tienda física,Retail store,Senior,Semi-Senior,Promoción interna,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001368,FSH0790,2021-09-12,Alta,,Atención al Cliente,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001369,FSH0790,2024-09-23,Baja voluntaria,Atencion Cliente,,Junior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001370,FSH0791,2023-08-24,Alta,,LOGISTICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001371,FSH0791,2026-03-18,Revisión salarial,Centro logístico,Logística,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001372,FSH0792,01/07/2025,Incorporación,,TIENDA FÍSICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001373,FSH0792,2024-06-12,Promoción,Tienda física,Tienda física,Junior,SSr,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001374,FSH0793,2019-12-15,Alta,,COMPRAS,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001375,FSH0793,2024-08-04,Cambio nivel,Compras,Compras,Semi Senior,N2,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001376,FSH0793,2026-01-20,Revisión salarial,Compras,Compras,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001377,FSH0794,2019-12-13,Incorporación,,TIENDA FÍSICA,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001378,FSH0795,2020-01-09,ALTA,,TIENDA FÍSICA,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001379,FSH0796,01/01/2026,Alta,,Atencion Cliente,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001380,FSH0797,01-12-19,Alta,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001381,FSH0798,07-05-19,Alta,,Marketing,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001382,FSH0798,03/04/2026,Movilidad interna,E-commerce,Marketing,Semi Senior,Semi Senior,Movilidad interna,Cambio de área o centro,rrhh01,30/04/2026
+MOV001383,FSH0798,2026-03-24,Ajuste salario,MARKETING,Marketing,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV001384,FSH0799,28/09/2025,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001385,FSH0800,07/06/2023,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001386,FSH0801,10/04/2023,Alta,,RRHH,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001387,FSH0801,2026-02-13,Revisión salarial,Personas,RRHH,Semi Senior,Semi-Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001388,FSH0802,2017-11-30,Incorporación,,Tienda física ,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001389,FSH0802,2024-07-21,Baja,Tienda física,,Manager,,Fin de contrato,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001390,FSH0803,2023-12-07,Incorporación,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001391,FSH0803,27/05/24,Promoción,Tienda física,Tienda física,Junior,Senior,Revisión talento,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001392,FSH0803,2026-04-21,Promocion,TIENDA FÍSICA,Tienda física,Junior,Senior,Revisión talento,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001393,FSH0804,09/03/25,ALTA,,E COMMERCE,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001394,FSH0805,2022-05-04,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001395,FSH0806,16/02/2023,ALTA,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001396,FSH0806,2024-06-24,Cambio nivel,Logística,Logística,Junior,Junior,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001397,FSH0807,28/10/2024,Alta,,E-commerce,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001398,FSH0807,2026-04-25,Promoción,E-commerce,ecommerce,Semi Senior,N3,Promoción interna,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001399,FSH0807,2025-06-06,Baja voluntaria,E-Commerce,,Senior,,Carga de trabajo y estrés,Salida registrada en sistema de personas,rrhh01,30/04/2026
+MOV001400,FSH0808,06/09/2016,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001401,FSH0809,2022-08-17,Incorporación,,E COMMERCE,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001402,FSH0809,25/07/2024,Promoción,E-commerce,Online,Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001403,FSH0809,2026-03-31,Ajuste salario,E-commerce,E-commerce,Semi Senior,Semi Senior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001404,FSH0810,2023-07-07,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001405,FSH0810,2024-12-18,Movilidad interna,Compras,Tienda física,Junior,JUNIOR,Movilidad interna,Cambio de área o centro,people_ops,30/04/2026
+MOV001406,FSH0810,2026-01-07,Revisión salarial,Tienda física,Tienda física,N1,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001407,FSH0811,2020-02-16,Incorporación,,TIENDA FÍSICA,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001408,FSH0811,2025-02-20,Cambio nivel,Tiendas,Tienda física,Junior,Sr,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV001409,FSH0812,2023-08-14,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001410,FSH0812,08/03/2025,Voluntaria,Tienda física,,Junior,,Oferta externa,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001411,FSH0813,27/10/2019,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001412,FSH0813,2026-02-24,Promocion,Tienda física,Tienda física,Senior,JUNIOR,Promoción interna,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV001413,FSH0813,25/01/26,Ajuste salario,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV001414,FSH0813,21/11/2024,Voluntaria,Tienda física,,Junior,,Responsable directo,Salida registrada en sistema de personas,hr_admin,30/04/2026
+MOV001415,FSH0814,2018-06-12,ALTA,,Marketing,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001416,FSH0815,2026-02-10,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001417,FSH-0816,2023-06-20,ALTA,,Compras,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001418,FSH0817,30/06/2023,Incorporación,,Tienda física,,Responsable,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001419,FSH0818,09/10/2020,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV001420,FSH0818,13/10/2025,Promoción,Tienda física,Tienda física,Senior,SENIOR,Plan de carrera,Movimiento de desarrollo profesional,hr_admin,30/04/2026
+MOV001421,FSH0818,2026-02-15,Ajuste salario,Tienda física,Tiendas,Senior,Senior,Revisión anual,Revisión según ciclo anual,rrhh01,30/04/2026
+MOV001422,FSH0818,02/03/26,Voluntaria,Tienda física,,Senior,,Plan de carrera,Salida registrada en sistema de personas,people_ops,30/04/2026
+MOV001423,FSH0819,28/04/2025,ALTA,,Logística,,SENIOR,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV001424,FSH0820,2020-01-15,ALTA,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV001425,FSH0820,09-01-26,Revision salarial,Tienda física,Tienda física,Junior,Junior,Revisión anual,Revisión según ciclo anual,people_ops,30/04/2026
+MOV_DUP001,FSH0248,2025-06-10,Alta,,Tienda física,,Senior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV_DUP002,FSH0745,14/03/2026,Ajuste salario,Atención al Cliente,Atención al Cliente,Junior,Junior,Revisión anual,Revisión según ciclo anual,hr_admin,30/04/2026
+MOV_DUP003,FSH0119,2022-05-28,Incorporación,,Logística,,Semi Senior,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV_DUP004,FSH0445,2019-07-21,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,hr_admin,30/04/2026
+MOV_DUP005,FSH0431,27/07/2024,Cambio nivel,Tienda física ,TIENDA FÍSICA,Semi Senior,Semi Senior,Plan de carrera,Movimiento de desarrollo profesional,rrhh01,30/04/2026
+MOV_DUP006,FSH0274,05-12-22,Alta,,Logística,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV_DUP007,FSH0251,2025-10-24,Incorporación,,Atención al Cliente,,Manager,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV_DUP008,FSH0780,16-10-19,Alta,,Atención al Cliente,,JUNIOR,Nueva contratación,Alta inicial del colaborador/a,rrhh01,30/04/2026
+MOV_DUP009,FSH0065,2023-11-30,Incorporación,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV_DUP010,FSH0238,2022-02-11,Alta,,Tienda física,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV_DUP011,FSH0741,2025-06-21,Alta,,Tienda Fisica,,Junior,Nueva contratación,Alta inicial del colaborador/a,people_ops,30/04/2026
+MOV_DUP012,FSH0529,2025-02-17,Promoción,Atención al Cliente,Atención al Cliente,Senior,N2,Plan de carrera,Movimiento de desarrollo profesional,people_ops,30/04/2026
+MOV_ERROR001,FSH8888,31/04/2026,Alta,,Tienda Fisica,,Junior,Error carga,Registro para control de calidad,hr_admin,30/04/2026

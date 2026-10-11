@@ -1,0 +1,505 @@
+creative_id,campaign_id,microsegmento,canal,categoria_objetivo,objetivo,performance_score,prompt_library_entry
+CR-00061,CAM-2025-011,ACTIVO_BASE,EMAIL,multicategoría,promocion,0.1668465262700825,"Genera una pieza para FraSoHome.
+Microsegmento: ACTIVO_BASE.
+Canal: EMAIL.
+Objetivo de campaña: promocion.
+Categoría objetivo: multicategoría.
+Tono: práctico.
+Beneficio principal: ahorrar sin perder estilo.
+CTA: Activar oferta.
+Copy eje de campaña: Oferta personalizada según afinidad de categoría y margen.
+KPI primario: revenue.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00044,CAM-2025-005,ACTIVO_BASE,EMAIL,Iluminación,cross_sell,0.16556482848458534,"Genera una pieza para FraSoHome.
+Microsegmento: ACTIVO_BASE.
+Canal: EMAIL.
+Objetivo de campaña: cross_sell.
+Categoría objetivo: Iluminación.
+Tono: exclusivo.
+Beneficio principal: mejorar el ambiente del hogar.
+CTA: Activar oferta.
+Copy eje de campaña: Más luz y más ambiente para tu casa.
+KPI primario: ctr.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00026,CAM-2024-009,ACTIVO_BASE,PUSH,multicategoría,promocion,0.1711748805905341,"Genera una pieza para FraSoHome.
+Microsegmento: ACTIVO_BASE.
+Canal: PUSH.
+Objetivo de campaña: promocion.
+Categoría objetivo: multicategoría.
+Tono: práctico.
+Beneficio principal: ahorrar sin perder estilo.
+CTA: Reservar ahora.
+Copy eje de campaña: Semana Black Friday con selección personalizada.
+KPI primario: revenue.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00054,CAM-2025-008,ACTIVO_BASE,PUSH,multicategoría,reactivacion,0.16027620495006514,"Genera una pieza para FraSoHome.
+Microsegmento: ACTIVO_BASE.
+Canal: PUSH.
+Objetivo de campaña: reactivacion.
+Categoría objetivo: multicategoría.
+Tono: inspiracional.
+Beneficio principal: aprovechar una oferta útil.
+CTA: Descubrir.
+Copy eje de campaña: Vuelve a los productos que dejaste pendientes.
+KPI primario: cart_recovery.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00016,CAM-2024-006,ALTO_TICKET_MUEBLES,EMAIL,Iluminación,cross_sell,0.17177579968157478,"Genera una pieza para FraSoHome.
+Microsegmento: ALTO_TICKET_MUEBLES.
+Canal: EMAIL.
+Objetivo de campaña: cross_sell.
+Categoría objetivo: Iluminación.
+Tono: exclusivo.
+Beneficio principal: completar tu compra.
+CTA: Activar oferta.
+Copy eje de campaña: Completa tu compra de muebles con iluminación.
+KPI primario: attach_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00038,CAM-2025-003,ALTO_TICKET_MUEBLES,EMAIL,Muebles,upsell,0.13820935735996526,"Genera una pieza para FraSoHome.
+Microsegmento: ALTO_TICKET_MUEBLES.
+Canal: EMAIL.
+Objetivo de campaña: upsell.
+Categoría objetivo: Muebles.
+Tono: exclusivo.
+Beneficio principal: elegir una colección premium.
+CTA: Descubrir.
+Copy eje de campaña: Nuevos muebles con mensaje de diseño y comodidad.
+KPI primario: cvr.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00008,CAM-2024-003,DECORACION_FRECUENTE,EMAIL,Decoración,cross_sell,0.14636231003039513,"Genera una pieza para FraSoHome.
+Microsegmento: DECORACION_FRECUENTE.
+Canal: EMAIL.
+Objetivo de campaña: cross_sell.
+Categoría objetivo: Decoración.
+Tono: urgencia_suave.
+Beneficio principal: sumar funcionalidad.
+CTA: Reservar ahora.
+Copy eje de campaña: Renueva tu casa con piezas decorativas de temporada.
+KPI primario: ctr.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00007,CAM-2024-003,DECORACION_FRECUENTE,EMAIL,Decoración,cross_sell,0.1384857142857143,"Genera una pieza para FraSoHome.
+Microsegmento: DECORACION_FRECUENTE.
+Canal: EMAIL.
+Objetivo de campaña: cross_sell.
+Categoría objetivo: Decoración.
+Tono: inspiracional.
+Beneficio principal: completar tu compra.
+CTA: Explorar colección.
+Copy eje de campaña: Renueva tu casa con piezas decorativas de temporada.
+KPI primario: ctr.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00071,CAM-2025-014,LOCAL_STORE,PUSH,Decoración,trafico_tienda,0.1790869300911854,"Genera una pieza para FraSoHome.
+Microsegmento: LOCAL_STORE.
+Canal: PUSH.
+Objetivo de campaña: trafico_tienda.
+Categoría objetivo: Decoración.
+Tono: cercano.
+Beneficio principal: ver el producto en persona.
+CTA: Activar oferta.
+Copy eje de campaña: Click & collect y recogida rápida.
+KPI primario: visitas_tienda.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00072,CAM-2025-014,LOCAL_STORE,PUSH,Decoración,trafico_tienda,0.1694279635258359,"Genera una pieza para FraSoHome.
+Microsegmento: LOCAL_STORE.
+Canal: PUSH.
+Objetivo de campaña: trafico_tienda.
+Categoría objetivo: Decoración.
+Tono: inspiracional.
+Beneficio principal: recoger hoy en tienda.
+CTA: Comprar hoy.
+Copy eje de campaña: Click & collect y recogida rápida.
+KPI primario: visitas_tienda.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00069,CAM-2025-013,LOCAL_STORE,SMS,Textil hogar,trafico_tienda,0.34335000000000004,"Genera una pieza para FraSoHome.
+Microsegmento: LOCAL_STORE.
+Canal: SMS.
+Objetivo de campaña: trafico_tienda.
+Categoría objetivo: Textil hogar.
+Tono: práctico.
+Beneficio principal: aprovechar stock local.
+CTA: Activar oferta.
+Copy eje de campaña: Textil hogar disponible en tienda Sevilla.
+KPI primario: visitas_tienda.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00074,CAM-2025-015,LOCAL_STORE,SMS,Iluminación,trafico_tienda,0.2994955927051672,"Genera una pieza para FraSoHome.
+Microsegmento: LOCAL_STORE.
+Canal: SMS.
+Objetivo de campaña: trafico_tienda.
+Categoría objetivo: Iluminación.
+Tono: inspiracional.
+Beneficio principal: ver el producto en persona.
+CTA: Reservar ahora.
+Copy eje de campaña: Promoción local con stock y selección de tienda.
+KPI primario: visitas_tienda.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00001,CAM-2024-001,NUEVO_CONTACTABLE,EMAIL,multicategoría,onboarding,0.13545830076711535,"Genera una pieza para FraSoHome.
+Microsegmento: NUEVO_CONTACTABLE.
+Canal: EMAIL.
+Objetivo de campaña: onboarding.
+Categoría objetivo: multicategoría.
+Tono: urgencia_suave.
+Beneficio principal: activar ventajas del club.
+CTA: Reservar ahora.
+Copy eje de campaña: Descubre ventajas del club, inspiración y primera compra.
+KPI primario: cvr_registro.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00003,CAM-2024-001,NUEVO_CONTACTABLE,EMAIL,multicategoría,onboarding,0.12803252279635258,"Genera una pieza para FraSoHome.
+Microsegmento: NUEVO_CONTACTABLE.
+Canal: EMAIL.
+Objetivo de campaña: onboarding.
+Categoría objetivo: multicategoría.
+Tono: cercano.
+Beneficio principal: guardar favoritos.
+CTA: Explorar colección.
+Copy eje de campaña: Descubre ventajas del club, inspiración y primera compra.
+KPI primario: cvr_registro.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00033,CAM-2025-001,NUEVO_CONTACTABLE,PUSH,multicategoría,onboarding,0.1558080547112462,"Genera una pieza para FraSoHome.
+Microsegmento: NUEVO_CONTACTABLE.
+Canal: PUSH.
+Objetivo de campaña: onboarding.
+Categoría objetivo: multicategoría.
+Tono: cercano.
+Beneficio principal: activar ventajas del club.
+CTA: Descubrir.
+Copy eje de campaña: Guarda favoritos y activa alertas de stock.
+KPI primario: wishlist_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00031,CAM-2025-001,NUEVO_CONTACTABLE,PUSH,multicategoría,onboarding,0.13276320741062383,"Genera una pieza para FraSoHome.
+Microsegmento: NUEVO_CONTACTABLE.
+Canal: PUSH.
+Objetivo de campaña: onboarding.
+Categoría objetivo: multicategoría.
+Tono: exclusivo.
+Beneficio principal: descubrir el catálogo.
+CTA: Descubrir.
+Copy eje de campaña: Guarda favoritos y activa alertas de stock.
+KPI primario: wishlist_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00058,CAM-2025-010,POST_DEVOLUCION,EMAIL,multicategoría,retencion,0.17228627152988854,"Genera una pieza para FraSoHome.
+Microsegmento: POST_DEVOLUCION.
+Canal: EMAIL.
+Objetivo de campaña: retencion.
+Categoría objetivo: multicategoría.
+Tono: urgencia_suave.
+Beneficio principal: resolver una mala experiencia.
+CTA: Ver selección.
+Copy eje de campaña: Recomendaciones alternativas tras una devolución.
+KPI primario: recompra_30d.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00059,CAM-2025-010,POST_DEVOLUCION,EMAIL,multicategoría,retencion,0.15879316109422492,"Genera una pieza para FraSoHome.
+Microsegmento: POST_DEVOLUCION.
+Canal: EMAIL.
+Objetivo de campaña: retencion.
+Categoría objetivo: multicategoría.
+Tono: urgencia_suave.
+Beneficio principal: resolver una mala experiencia.
+CTA: Descubrir.
+Copy eje de campaña: Recomendaciones alternativas tras una devolución.
+KPI primario: recompra_30d.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00050,CAM-2025-007,PROMO_SENSIBLE_TEXTIL,EMAIL,Textil hogar,promocion,0.18136035605731654,"Genera una pieza para FraSoHome.
+Microsegmento: PROMO_SENSIBLE_TEXTIL.
+Canal: EMAIL.
+Objetivo de campaña: promocion.
+Categoría objetivo: Textil hogar.
+Tono: inspiracional.
+Beneficio principal: activar descuento personalizado.
+CTA: Comprar hoy.
+Copy eje de campaña: Renueva dormitorio y salón con promociones selectivas.
+KPI primario: redemption_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00051,CAM-2025-007,PROMO_SENSIBLE_TEXTIL,EMAIL,Textil hogar,promocion,0.11857787668258793,"Genera una pieza para FraSoHome.
+Microsegmento: PROMO_SENSIBLE_TEXTIL.
+Canal: EMAIL.
+Objetivo de campaña: promocion.
+Categoría objetivo: Textil hogar.
+Tono: inspiracional.
+Beneficio principal: ahorrar sin perder estilo.
+CTA: Reservar ahora.
+Copy eje de campaña: Renueva dormitorio y salón con promociones selectivas.
+KPI primario: redemption_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00020,CAM-2024-007,PROMO_SENSIBLE_TEXTIL,SMS,Textil hogar,promocion,0.357798632218845,"Genera una pieza para FraSoHome.
+Microsegmento: PROMO_SENSIBLE_TEXTIL.
+Canal: SMS.
+Objetivo de campaña: promocion.
+Categoría objetivo: Textil hogar.
+Tono: exclusivo.
+Beneficio principal: ahorrar sin perder estilo.
+CTA: Explorar colección.
+Copy eje de campaña: Textil hogar con descuento limitado.
+KPI primario: redemption_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00019,CAM-2024-007,PROMO_SENSIBLE_TEXTIL,SMS,Textil hogar,promocion,0.29166610942249244,"Genera una pieza para FraSoHome.
+Microsegmento: PROMO_SENSIBLE_TEXTIL.
+Canal: SMS.
+Objetivo de campaña: promocion.
+Categoría objetivo: Textil hogar.
+Tono: práctico.
+Beneficio principal: comprar al mejor momento.
+CTA: Ver selección.
+Copy eje de campaña: Textil hogar con descuento limitado.
+KPI primario: redemption_rate.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00005,CAM-2024-002,RIESGO_CHURN,EMAIL,multicategoría,reactivacion,0.16969969604863222,"Genera una pieza para FraSoHome.
+Microsegmento: RIESGO_CHURN.
+Canal: EMAIL.
+Objetivo de campaña: reactivacion.
+Categoría objetivo: multicategoría.
+Tono: exclusivo.
+Beneficio principal: aprovechar una oferta útil.
+CTA: Activar oferta.
+Copy eje de campaña: Vuelve a FraSoHome con una selección pensada para tu estilo.
+KPI primario: revenue_reactivado.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00036,CAM-2025-002,RIESGO_CHURN,EMAIL,multicategoría,reactivacion,0.16656063829787232,"Genera una pieza para FraSoHome.
+Microsegmento: RIESGO_CHURN.
+Canal: EMAIL.
+Objetivo de campaña: reactivacion.
+Categoría objetivo: multicategoría.
+Tono: cercano.
+Beneficio principal: aprovechar una oferta útil.
+CTA: Explorar colección.
+Copy eje de campaña: Vuelve con una propuesta adaptada a tu categoría favorita.
+KPI primario: revenue_reactivado.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00065,CAM-2025-012,VIP_OMNICANAL,EMAIL,Decoración,upsell,0.14758132870169344,"Genera una pieza para FraSoHome.
+Microsegmento: VIP_OMNICANAL.
+Canal: EMAIL.
+Objetivo de campaña: upsell.
+Categoría objetivo: Decoración.
+Tono: urgencia_suave.
+Beneficio principal: priorizar diseño y confort.
+CTA: Ver selección.
+Copy eje de campaña: Selección premium para clientes de alto valor.
+KPI primario: aov.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00015,CAM-2024-005,VIP_OMNICANAL,EMAIL,Muebles,upsell,0.1395397307859314,"Genera una pieza para FraSoHome.
+Microsegmento: VIP_OMNICANAL.
+Canal: EMAIL.
+Objetivo de campaña: upsell.
+Categoría objetivo: Muebles.
+Tono: cercano.
+Beneficio principal: priorizar diseño y confort.
+CTA: Explorar colección.
+Copy eje de campaña: Acceso preferente a muebles de alto ticket.
+KPI primario: revenue_por_envio.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00047,CAM-2025-006,VIP_OMNICANAL,PUSH,multicategoría,retencion,0.1711748805905341,"Genera una pieza para FraSoHome.
+Microsegmento: VIP_OMNICANAL.
+Canal: PUSH.
+Objetivo de campaña: retencion.
+Categoría objetivo: multicategoría.
+Tono: exclusivo.
+Beneficio principal: resolver una mala experiencia.
+CTA: Activar oferta.
+Copy eje de campaña: Primero para clientes de mayor valor.
+KPI primario: revenue_por_envio.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."
+CR-00048,CAM-2025-006,VIP_OMNICANAL,PUSH,multicategoría,retencion,0.13077718193660443,"Genera una pieza para FraSoHome.
+Microsegmento: VIP_OMNICANAL.
+Canal: PUSH.
+Objetivo de campaña: retencion.
+Categoría objetivo: multicategoría.
+Tono: exclusivo.
+Beneficio principal: resolver una mala experiencia.
+CTA: Explorar colección.
+Copy eje de campaña: Primero para clientes de mayor valor.
+KPI primario: revenue_por_envio.
+Guardrails obligatorios: Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista. | No prometer disponibilidad de stock sin validación en tiempo real. | No usar claims absolutos de precio como “el más barato” o “mejor precio garantizado”. | No mencionar atributos personales sensibles ni inferencias explícitas del cliente. | Si hay promoción, especificar condiciones de forma legible y consistente. | Personalizar por categoría, contexto y afinidad; no por rasgos íntimos o sensibles. | No afirmar propiedades técnicas o materiales no presentes en catálogo. | En experiencias negativas, priorizar empatía y resolución antes que venta agresiva. | Usar urgencia moderada; evitar FOMO excesivo especialmente en post-devolución. | Priorizar inspiración para el hogar y utilidad real por encima del descuento puro. | En campañas locales, mencionar tienda solo si el cliente es capturable localmente. | Mantener CTA único y claro; evitar múltiples llamadas a la acción en el mismo mensaje.
+
+Devuelve:
+1) asunto o titular,
+2) copy corto,
+3) copy largo,
+4) justificación estratégica,
+5) riesgo potencial y cómo mitigarlo."

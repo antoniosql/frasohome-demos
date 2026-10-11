@@ -1,0 +1,205 @@
+site_name: FraSoHome · demos
+site_description: La historia de FraSoHome, una cadena ficticia de muebles y decoración, y los recursos para ejecutar cada una de sus demos de datos e IA.
+site_author: Antonio Soto
+site_url: https://antoniosql.github.io/frasohome-demos/
+repo_url: https://github.com/antoniosql/frasohome-demos
+repo_name: antoniosql/frasohome-demos
+edit_uri: edit/main/
+copyright: Caso ficticio con datos sintéticos · MIT · Antonio Soto
+
+# El repositorio entero es el sitio: los README.md de cada carpeta son sus páginas
+# y los CSV, notebooks, scripts y diagramas se publican como descargas.
+docs_dir: .
+site_dir: site
+
+exclude_docs: |
+  /site/
+  /.agent/
+  /.local/
+  /requirements*.txt
+  **/output_*/
+  /escenarios/05-marketing-precision/outputs/
+  __pycache__/
+
+not_in_nav: |
+  /datos/marketing_precision/raw_csv/README.md
+  /escenarios/08-fabric-iq-ontologia/fabric/agent/instructions.md
+
+validation:
+  links:
+    not_found: warn
+    anchors: warn
+    absolute_links: info
+    unrecognized_links: info
+
+theme:
+  name: material
+  language: es
+  icon:
+    logo: material/sofa-outline
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - same-dir
+  - search:
+      lang: es
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+      # Slugs como los de GitHub (conservan tildes), para que los anclajes funcionen igual en ambos sitios
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - assets/extra.css
+
+nav:
+  - Inicio: README.md
+  - Historia:
+      - historia/README.md
+      - La empresa en cifras: historia/empresa.md
+      - Los problemas de datos: historia/problemas-de-datos.md
+      - El universo de datos: historia/universo-de-datos.md
+      - "Caso original: preparación de datos": historia/caso-preparacion-datos.md
+  - Escenarios:
+      - escenarios/README.md
+      - "01 · La empresa con silos": escenarios/01-empresa-con-silos/README.md
+      - "02 · Fabric: del CSV a la fact table":
+          - escenarios/02-fabric-preparacion-datos/README.md
+          - Perfil de datos: escenarios/02-fabric-preparacion-datos/perfil-datos.md
+          - App Streamlit: escenarios/02-fabric-preparacion-datos/streamlit_app/README.md
+      - "03 · SQL Raw → Core → Analytics":
+          - escenarios/03-sql-raw-core-analytics/README.md
+          - Fabric SQL Databases: escenarios/03-sql-raw-core-analytics/fabric_databases/README.md
+          - Raw retail: escenarios/03-sql-raw-core-analytics/retail_sql_database/README.md
+          - Raw consolidada: escenarios/03-sql-raw-core-analytics/sql_database_consolidated/README.md
+          - Carga con Python: escenarios/03-sql-raw-core-analytics/carga_python/README.md
+      - "04 · Analítica de ventas y ML":
+          - escenarios/04-analitica-ventas-ml/README.md
+          - Guía del paquete: escenarios/04-analitica-ventas-ml/guia-paquete.md
+      - "05 · Marketing de precisión":
+          - escenarios/05-marketing-precision/README.md
+          - Análisis del caso: escenarios/05-marketing-precision/caso.md
+          - Guía docente: escenarios/05-marketing-precision/guia-docente.md
+          - App Streamlit: escenarios/05-marketing-precision/streamlit_app/README.md
+      - "06 · People Analytics con Power BI":
+          - escenarios/06-power-bi-people-analytics/README.md
+          - Caso para alumnos: escenarios/06-power-bi-people-analytics/caso-alumnos.md
+          - Caso Power BI y ChatGPT: escenarios/06-power-bi-people-analytics/caso-powerbi-chatgpt.md
+          - Guía de la demo ETL: escenarios/06-power-bi-people-analytics/guia-etl-datos-brutos.md
+          - Influenciadores clave: escenarios/06-power-bi-people-analytics/demo-influenciadores-clave.md
+          - Fuentes simuladas: escenarios/06-power-bi-people-analytics/fuentes-simuladas.md
+      - "07 · Asistente RAG con Copilot Studio":
+          - escenarios/07-copilot-studio-rag/README.md
+          - Caso completo: escenarios/07-copilot-studio-rag/caso.md
+          - Laboratorios:
+              - escenarios/07-copilot-studio-rag/laboratorios/indice.md
+              - "LAB 2 · Base de conocimiento": escenarios/07-copilot-studio-rag/laboratorios/LAB2_Base_de_conocimiento_RAG_en_Copilot_Studio.md
+              - "LAB 3 · Prompting y seguridad": escenarios/07-copilot-studio-rag/laboratorios/LAB3_Prompting_Citaciones_y_Control_de_Fallback.md
+              - "LAB 4 · Dataverse": escenarios/07-copilot-studio-rag/laboratorios/LAB4_Dataverse_y_Datos_Estructurados.md
+              - "LAB 5 · Arquitectura híbrida": escenarios/07-copilot-studio-rag/laboratorios/LAB5_Arquitectura_Hibrida_Tools_y_RAG.md
+              - "LAB 6 · Evaluación y gobierno": escenarios/07-copilot-studio-rag/laboratorios/LAB6_Evaluacion_Seguridad_y_Gobierno.md
+          - Plantillas:
+              - RAG Canvas en blanco: escenarios/07-copilot-studio-rag/plantillas/RAG_Canvas_FraSoHome_Plantilla_Blanco.md
+              - RAG Canvas v2: escenarios/07-copilot-studio-rag/plantillas/RAG_Canvas_FraSoHome_v2.md
+              - RAG Canvas objetivo: escenarios/07-copilot-studio-rag/plantillas/RAG_Canvas_FraSoHome_Version_Target.md
+          - Canvas solución instructor: escenarios/07-copilot-studio-rag/canvas-solucion-instructor.md
+          - Guía del instructor: escenarios/07-copilot-studio-rag/guia-instructor.md
+          - Pack original: escenarios/07-copilot-studio-rag/pack-original.md
+      - "08 · Fabric IQ: ontología, grafo y agente":
+          - escenarios/08-fabric-iq-ontologia/README.md
+          - Caso de negocio: escenarios/08-fabric-iq-ontologia/caso.md
+          - Guía de despliegue: escenarios/08-fabric-iq-ontologia/despliegue.md
+          - Arquitectura y decisiones: escenarios/08-fabric-iq-ontologia/docs/arquitectura.md
+          - Datos y modelo: escenarios/08-fabric-iq-ontologia/docs/datos-y-modelo.md
+          - Laboratorios:
+              - "0 · Preparación": escenarios/08-fabric-iq-ontologia/docs/00-preparacion.md
+              - "1 · Comercio esencial": escenarios/08-fabric-iq-ontologia/docs/01-comercio-esencial.md
+              - "2 · Detalle y clasificación": escenarios/08-fabric-iq-ontologia/docs/02-detalle-y-clasificacion.md
+              - "3 · Geografía y preferencia": escenarios/08-fabric-iq-ontologia/docs/03-geografia-y-preferencia.md
+              - "4 · Operación omnicanal": escenarios/08-fabric-iq-ontologia/docs/04-operacion-omnicanal.md
+              - "5 · Inventario y demanda": escenarios/08-fabric-iq-ontologia/docs/05-inventario-y-demanda.md
+              - "6 · Activación y agente": escenarios/08-fabric-iq-ontologia/docs/06-activacion-y-agente.md
+          - Guion de 15 minutos: escenarios/08-fabric-iq-ontologia/docs/guion-demo-15-min.md
+          - Preguntas para el agente: escenarios/08-fabric-iq-ontologia/docs/preguntas-demo.md
+          - Solución de problemas: escenarios/08-fabric-iq-ontologia/docs/troubleshooting.md
+          - Procedencia: escenarios/08-fabric-iq-ontologia/docs/provenance.md
+      - "09 · Interpretabilidad GenAI":
+          - escenarios/09-genai-interpretabilidad/README.md
+          - Guía del paquete: escenarios/09-genai-interpretabilidad/guia-paquete.md
+      - "10 · Agentes con Foundry":
+          - escenarios/10-agentes-foundry/README.md
+          - Data Pipeline multiagente: escenarios/10-agentes-foundry/multiagente-data-pipeline.md
+          - TrendHunter: escenarios/10-agentes-foundry/trendhunter.md
+          - TrendScout v2: escenarios/10-agentes-foundry/trendscout-v2.md
+  - Datos:
+      - datos/README.md
+      - Retail omnicanal: datos/retail_omnicanal/README.md
+      - Marketing de precisión: datos/marketing_precision/README.md
+      - People Analytics: datos/people_analytics/README.md
+      - Conocimiento para RAG:
+          - datos/rag_copilot_studio/README.md
+          - Índice de documentos: datos/rag_copilot_studio/knowledge_base/Indice_Documentos_Conocimiento.md
+      - Relaciones: datos/relaciones/README.md
+      - Coherencia entre dominios: datos/coherencia.md
+  - Docencia:
+      - docencia/README.md
+      - "Temario · Analítica de ventas (8 h)": docencia/temario-analitica-ventas-8h.md
+      - "Temario · Interpretabilidad ML (8 h)": docencia/temario-interpretabilidad-ml-8h.md
+      - "Temario · Interpretabilidad LLM, RAG y agentes (4 h)": docencia/temario-interpretabilidad-llm-rag-agentes-4h.md
+      - "Ebook · Analítica de ventas": docencia/ebook-analitica-ventas.md
+      - "Ebook · Analítica de ventas (versión extendida)": docencia/ebook-analitica-ventas-narrativa-extendida.md
+      - "Ebook · Interpretabilidad y evaluación de LLM": docencia/ebook-interpretabilidad-evaluacion-llm.md
+      - Propuesta Power BI y Fabric Data Agent: docencia/propuesta-demos-powerbi-fabric-data-agent.md
+  - Presentaciones:
+      - presentaciones/README.md
+      - FraSoHome y Microsoft Fabric: presentaciones/fabric-intro-deck.md
+      - Caso People Analytics (IFFE): presentaciones/caso-people-analytics-iffe.md
+  - Diagramas: diagramas/README.md
+  - Origen del material: ORIGEN.md

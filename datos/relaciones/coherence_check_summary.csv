@@ -1,0 +1,31 @@
+scope,dataset,column,refs,hits_after_mapping,misses_after_mapping,hit_pct_after_mapping,sample_misses
+rag_to_retail,FS_Productos.csv,ProductID,32,32,0,100.0,
+rag_to_retail,FS_Tiendas.csv,StoreID,3,3,0,100.0,
+rag_to_retail,FS_StockDiario.csv,ProductID,32,32,0,100.0,
+rag_to_retail,FS_StockDiario.csv,StoreID,3,3,0,100.0,
+rag_to_retail,FS_DevolucionesFact.csv,ProductID,32,32,0,100.0,
+rag_to_retail,FS_DevolucionesFact.csv,StoreID,4,4,0,100.0,
+rag_to_retail,FS_Alertas_Stockout.csv,ProductID,5,5,0,100.0,
+rag_to_retail,FS_Alertas_Stockout.csv,StoreID,3,3,0,100.0,
+people_to_retail,employee_store_assignment.csv,employee_id/location,820,432,388,52.68,"corporate/unmapped locations, see assignment_type"
+marketing_to_retail,contactos_campana.csv,customer_id,41,41,0,100.0,
+marketing_to_retail,contactos_campana.csv,product_id_recomendado_1,99,99,0,100.0,
+marketing_to_retail,contactos_campana.csv,product_id_recomendado_2,98,98,0,100.0,
+marketing_to_retail,eventos_web_app.csv,customer_id,100,100,0,100.0,
+marketing_to_retail,eventos_web_app.csv,order_id,141,141,0,100.0,
+marketing_to_retail,eventos_web_app.csv,product_id,100,100,0,100.0,
+marketing_to_retail,feedback_clientes.csv,customer_id,100,100,0,100.0,
+marketing_to_retail,feedback_clientes.csv,order_id,443,440,3,99.32,"O-2024X0001, O-209900001, O-999999999"
+marketing_to_retail,feedback_clientes.csv,store_id,8,8,0,100.0,
+marketing_to_retail,feedback_clientes.csv,product_id,102,89,13,87.25,"P101X, P101Z, P103Y, P103Z, P105Y, P106Y, P106Z, P10X1"
+marketing_to_retail,costes_operativos_transaccion.csv,customer_id,135,100,35,74.07,"C0101, C0130, C0224, C0261, C0266, C0291, C0299, C0356"
+marketing_to_retail,costes_operativos_transaccion.csv,order_id,639,639,0,100.0,
+marketing_to_retail,costes_operativos_transaccion.csv,ticket_id,1190,1120,70,94.12,"T-500002, T-500015, T-500018, T-500019, T-500025, T-500083, T-500123, T-500132"
+marketing_to_retail,costes_operativos_transaccion.csv,store_id,10,10,0,100.0,
+marketing_to_retail,afinidad_tienda_cliente.csv,customer_id,100,100,0,100.0,
+marketing_to_retail,afinidad_tienda_cliente.csv,store_id_preferida,6,6,0,100.0,
+marketing_to_retail,afinidad_tienda_cliente.csv,store_id_mas_cercana,6,6,0,100.0,
+marketing_to_retail,tickets_atencion_cliente.csv,customer_id,100,100,0,100.0,
+marketing_to_retail,tickets_atencion_cliente.csv,order_id,224,221,3,98.66,"O-2024X0001, O-209900001, O-999999999"
+marketing_to_retail,tickets_atencion_cliente.csv,ticket_id,159,146,13,91.82,"T-500123, T-500140, T-500637, T-500667, T-500678, T-500747, T-500771, T-501081"
+marketing_to_retail,tickets_atencion_cliente.csv,store_id,10,9,1,90.0,??

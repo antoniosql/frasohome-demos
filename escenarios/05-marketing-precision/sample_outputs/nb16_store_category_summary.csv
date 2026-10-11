@@ -1,0 +1,25 @@
+store_id_target,nombre_tienda,categoria_target,clientes_target,score_medio,prob_visita_media,stock_total
+S005,FraSoHome Bilbao Abando,Muebles,22,0.3790020812954546,0.2560909090909091,6140.486
+S002,FraSoHome Barcelona Eixample,Muebles,15,0.38838865499999997,0.2496,7890.0
+S003,FraSoHome Valencia Ruzafa,Muebles,14,0.4026971285714286,0.2722857142857143,7056.0
+S004,FraSoHome Sevilla Nervión,Muebles,14,0.36776543171428566,0.27285714285714285,5026.0
+S005,FraSoHome Bilbao Abando,Decoración,13,0.3737868348461539,0.2954615384615385,23192.0
+S005,FraSoHome Bilbao Abando,Iluminación,13,0.35915239336923077,0.2693076923076923,14976.0
+S001,FraSoHome Madrid Centro,Muebles,11,0.4470889976818182,0.2931818181818182,5159.0
+S002,FraSoHome Barcelona Eixample,Decoración,11,0.3912481975,0.2618181818181818,17699.0
+S003,FraSoHome Valencia Ruzafa,Iluminación,10,0.39558386255,0.2759,8160.0
+S003,FraSoHome Valencia Ruzafa,Decoración,9,0.41668064103333335,0.26666666666666666,15072.741
+S002,FraSoHome Barcelona Eixample,Iluminación,9,0.36853383916666665,0.29633333333333334,11502.0
+S006,FraSoHome Málaga Centro (apertura prevista),Decoración,9,0.2141182373,0.27055555555555555,27.0
+S004,FraSoHome Sevilla Nervión,Iluminación,8,0.3571292755,0.29175,6232.0
+S001,FraSoHome Madrid Centro,Decoración,7,0.40243198182857143,0.3037142857142857,11123.0
+S004,FraSoHome Sevilla Nervión,Decoración,6,0.34116888244999993,0.24766666666666667,7370.447999999999
+S005,FraSoHome Bilbao Abando,Textil hogar,6,0.32077430051666667,0.2535,5737.068
+S006,FraSoHome Málaga Centro (apertura prevista),Muebles,6,0.2968558333333333,0.25866666666666666,-18.0
+S001,FraSoHome Madrid Centro,Iluminación,5,0.34020557619999997,0.2612,5675.0
+S006,FraSoHome Málaga Centro (apertura prevista),Iluminación,4,0.18599553275000003,0.21375,0.0
+S001,FraSoHome Madrid Centro,decoración,2,0.25275362749999997,0.3145,174.0
+S001,FraSoHome Madrid Centro,Textil hogar,1,0.496128,0.332,916.0
+S002,FraSoHome Barcelona Eixample,decoración,1,0.26379,0.357,56.0
+S005,FraSoHome Bilbao Abando,decoración,1,0.235,0.32,46.0
+S003,FraSoHome Valencia Ruzafa,Textil hogar,1,0.19161955000000003,0.107,913.0

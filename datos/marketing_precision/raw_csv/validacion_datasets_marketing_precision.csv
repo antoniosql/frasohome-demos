@@ -1,0 +1,17 @@
+﻿dataset,filas,columnas,duplicados_clave,nulos_totales
+identidades_cliente.csv,411,17,0,2688
+identidades_cliente_ground_truth.csv,411,2,0,0
+campanas_marketing.csv,26,40,0,57
+contactos_campana.csv,480,23,0,1227
+eventos_campana.csv,935,13,0,2512
+eventos_web_app.csv,9030,22,0,49584
+promociones_calendario.csv,98,16,0,248
+cupones_clientes.csv,367,21,0,2893
+tickets_atencion_cliente.csv,560,20,0,834
+feedback_clientes.csv,850,15,0,1706
+costes_operativos_transaccion.csv,1829,21,0,4893
+afinidad_tienda_cliente.csv,100,13,0,0
+creatividades_segmento.csv,78,19,0,0
+guardrails_marca_genai.csv,12,5,0,0
+mapeo_casos_marketing_precision.csv,10,5,0,0
+catalogo_datasets_marketing_precision.csv,14,6,0,0

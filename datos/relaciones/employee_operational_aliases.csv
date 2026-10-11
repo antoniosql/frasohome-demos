@@ -1,0 +1,107 @@
+source_system,operational_employee_id,canonical_employee_id,canonical_employee_location,canonical_employee_department,match_method,confidence,note
+POS,EM010,FSH0040,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM018,FSH0051,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM024,FSH0059,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM033,FSH0088,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM042,FSH0160,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM043,FSH0171,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM048,FSH0202,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM050,FSH0227,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM062,FSH0291,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM063,FSH0353,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM064,FSH0431,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM070,FSH0447,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EM080,FSH0452,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP001,FSH0482,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP002,FSH0488,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP003,FSH0489,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP004,FSH0503,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP005,FSH0541,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP006,FSH0561,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP007,FSH0580,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP008,FSH0584,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP009,FSH0587,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP010,FSH0616,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP011,FSH0678,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP012,FSH0777,A Coruña,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP013,FSH0006,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP014,FSH0029,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP015,FSH0038,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP016,FSH0104,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP017,FSH0113,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP018,FSH0191,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP019,FSH0255,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP020,FSH0260,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP020✓,FSH0374,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP021,FSH0380,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP022,FSH0396,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP022✓,FSH0409,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP023,FSH0449,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP024,FSH0457,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP025,FSH0468,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP025✓,FSH0506,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP026,FSH0512,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP027,FSH0514,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP028,FSH0526,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP028✓,FSH0571,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP029,FSH0604,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP030,FSH0614,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP031,FSH0718,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP032,FSH0729,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP032✓,FSH0760,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP033,FSH0762,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP034,FSH0795,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP035,FSH0811,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP035✓,FSH0820,Barcelona,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP036,FSH0017,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP037,FSH0023,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP038,FSH0030,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP038✓,FSH0070,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP039,FSH0077,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP040,FSH0093,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP041,FSH0099,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP042,FSH0101,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP043,FSH0135,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP043✓,FSH0154,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP044,FSH0158,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP045,FSH0166,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP046,FSH0204,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP047,FSH0231,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP048,FSH0253,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP049,FSH0327,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP049✓,FSH0333,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP050,FSH0351,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP051,FSH0379,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP052,FSH0386,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP053,FSH0395,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP054,FSH0412,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP055,FSH0483,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP056,FSH0490,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP057,FSH0519,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP058,FSH0528,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP059,FSH0664,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP060,FSH0747,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP061,FSH0776,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP062,FSH0792,Bilbao,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP063,FSH0031,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP063✓,FSH0037,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP064,FSH0050,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP065,FSH0055,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP066,FSH0078,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP067,FSH0083,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP068,FSH0090,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP069,FSH0092,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP069✓,FSH0159,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP070,FSH0183,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP071,FSH0207,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP072,FSH0208,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP073,FSH0222,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP074,FSH0266,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP075,FSH0281,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP075✓,FSH0290,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP076,FSH0322,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP076✓,FSH0382,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP077,FSH0389,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP078,FSH0487,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP079,FSH0547,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.
+POS,EMP080,FSH0552,Madrid,Tienda física,deterministic_demo_alias,media,Alias sintetico para demos que crucen actividad POS con people analytics; no sustituye a un maestro HR real.

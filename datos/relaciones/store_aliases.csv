@@ -1,0 +1,43 @@
+alias_store_id_or_location,canonical_store_id,source_context,confidence,note
+S001,S001,retail canonical,alta,ID canonico retail
+S002,S002,retail canonical,alta,ID canonico retail
+S003,S003,retail canonical,alta,ID canonico retail
+S004,S004,retail canonical,alta,ID canonico retail
+S005,S005,retail canonical,alta,ID canonico retail
+S006,S006,retail canonical,alta,ID canonico retail
+ONLINE,ONLINE,retail canonical,alta,ID canonico retail
+S01,S001,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S1,S001,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+MAD01,S001,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Madrid,S001,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+FraSoHome Madrid Centro,S001,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S02,S002,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S2,S002,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+BCN01,S002,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Barcelona,S002,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+FraSoHome Barcelona Eixample,S002,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S03,S003,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S3,S003,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+VLC01,S003,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Valencia,S003,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+FraSoHome Valencia Ruzafa,S003,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S04,S004,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S4,S004,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Sevilla,S004,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S05,S005,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+S5,S005,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Bilbao,S005,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Málaga,S006,cross-domain alias,media,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Malaga,S006,cross-domain alias,media,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Online - Madrid,ONLINE,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Online - A Coruña,ONLINE,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Almacén Madrid,ONLINE,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Almacén Central - A Coruña,ONLINE,cross-domain alias,alta,"Alias usado en RAG, marketing, retail sucio o ubicaciones people"
+Sede Central - A Coruña,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Contact Center - Madrid,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Contact Center - A Coruña,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+A Coruña,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Vigo,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Valladolid,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Zaragoza,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa
+Almacén Barcelona,,people location,baja,Ubicacion corporativa/logistica sin tienda retail canonica directa

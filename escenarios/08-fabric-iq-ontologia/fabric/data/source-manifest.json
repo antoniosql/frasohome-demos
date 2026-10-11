@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0",
+  "oneLakeRoot": "Files/frasohome_iq/raw",
+  "sources": [
+    {
+      "domain": "retail_omnicanal",
+      "file": "crm.csv",
+      "relativePath": "retail_omnicanal/raw_csv/crm.csv",
+      "expectedRows": 103,
+      "primaryKey": ["customer_id"],
+      "requiredColumns": ["customer_id", "nombre", "apellidos", "tier_fidelizacion", "puntos_acumulados", "ciudad", "provincia", "consentimiento_marketing", "estado_cliente", "canal_preferido_declarado", "ultima_actualizacion"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "productos.csv",
+      "relativePath": "retail_omnicanal/raw_csv/productos.csv",
+      "expectedRows": 101,
+      "primaryKey": ["product_id"],
+      "requiredColumns": ["product_id", "nombre_producto", "categoria", "subcategoria", "marca", "material", "color", "precio_venta", "coste_unitario", "fecha_alta_catalogo", "estado_producto"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "tiendas.csv",
+      "relativePath": "retail_omnicanal/raw_csv/tiendas.csv",
+      "expectedRows": 8,
+      "primaryKey": ["store_id"],
+      "requiredColumns": ["store_id", "nombre_tienda", "tipo_ubicacion", "canal", "ciudad", "provincia", "region", "estado"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "pedidos.csv",
+      "relativePath": "retail_omnicanal/raw_csv/pedidos.csv",
+      "expectedRows": 656,
+      "primaryKey": ["order_id"],
+      "requiredColumns": ["order_id", "fecha_pedido", "customer_id", "importe_total", "moneda", "gastos_envio", "estado_pedido", "origen", "ciudad_envio", "ultima_actualizacion"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "lineas_pedido.csv",
+      "relativePath": "retail_omnicanal/raw_csv/lineas_pedido.csv",
+      "expectedRows": 1949,
+      "primaryKey": ["order_line_id"],
+      "requiredColumns": ["order_line_id", "order_id", "product_id", "descripcion_producto", "cantidad", "precio_unitario", "descuento_pct", "descuento_importe", "importe_linea"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "ventas_pos.csv",
+      "relativePath": "retail_omnicanal/raw_csv/ventas_pos.csv",
+      "expectedRows": 2521,
+      "primaryKey": ["ticket_line_id"],
+      "requiredColumns": ["ticket_line_id", "ticket_id", "fecha_hora", "store_id", "customer_id", "product_id", "importe_linea", "moneda", "canal"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "pagos_tienda.csv",
+      "relativePath": "retail_omnicanal/raw_csv/pagos_tienda.csv",
+      "expectedRows": 1646,
+      "primaryKey": ["payment_id"],
+      "requiredColumns": ["payment_id", "ticket_id", "fecha_pago", "metodo_pago", "importe_pagado", "moneda", "estado_pago"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "devoluciones_online.csv",
+      "relativePath": "retail_omnicanal/raw_csv/devoluciones_online.csv",
+      "expectedRows": 224,
+      "primaryKey": ["return_id"],
+      "requiredColumns": ["return_id", "order_id", "product_id", "fecha_devolucion", "cantidad_devuelta", "motivo_devolucion", "metodo_devolucion", "estado_devolucion", "importe_reembolsado", "moneda"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "devoluciones_tienda.csv",
+      "relativePath": "retail_omnicanal/raw_csv/devoluciones_tienda.csv",
+      "expectedRows": 211,
+      "primaryKey": ["return_id"],
+      "requiredColumns": ["return_id", "fecha_devolucion", "store_id", "ticket_id_original", "order_id_original", "product_id", "cantidad_devuelta", "estado_devolucion", "importe_reembolsado", "moneda", "metodo_reembolso", "motivo_devolucion", "canal_origen_venta"]
+    },
+    {
+      "domain": "retail_omnicanal",
+      "file": "stock_diario.csv",
+      "relativePath": "retail_omnicanal/raw_csv/stock_diario.csv",
+      "expectedRows": 1940,
+      "primaryKey": ["fecha", "store_id", "product_id"],
+      "requiredColumns": ["fecha", "store_id", "product_id", "stock_cierre", "stock_reservado", "stock_en_transito", "stock_minimo", "fuente"]
+    },
+    {
+      "domain": "marketing_precision",
+      "file": "campanas_marketing.csv",
+      "relativePath": "marketing_precision/raw_csv/campanas_marketing.csv",
+      "expectedRows": 26,
+      "primaryKey": ["campaign_id"],
+      "requiredColumns": ["campaign_id", "nombre_campana", "objetivo", "canal", "fecha_inicio", "fecha_fin", "segmento_objetivo", "estado", "presupuesto_plan_eur", "revenue_30d_total_eur", "margen_30d_total_eur", "conversiones_30d"]
+    },
+    {
+      "domain": "marketing_precision",
+      "file": "contactos_campana.csv",
+      "relativePath": "marketing_precision/raw_csv/contactos_campana.csv",
+      "expectedRows": 480,
+      "primaryKey": ["contact_id"],
+      "requiredColumns": ["contact_id", "campaign_id", "customer_id", "fecha_contacto", "canal_contacto", "segmento_asignado", "estado_entrega", "prioridad_contacto", "product_id_recomendado_1", "product_id_recomendado_2", "conversion_30d_flag", "order_id_conversion_30d", "revenue_30d_eur", "margen_30d_eur"]
+    },
+    {
+      "domain": "marketing_precision",
+      "file": "promociones_calendario.csv",
+      "relativePath": "marketing_precision/raw_csv/promociones_calendario.csv",
+      "expectedRows": 98,
+      "primaryKey": ["promo_id"],
+      "requiredColumns": ["promo_id", "nombre_promocion", "fecha_inicio", "fecha_fin", "ambito", "tipo_promocion", "descuento_pct", "descuento_importe_eur", "canal", "store_id", "combinable", "campana_id_relacionada"]
+    },
+    {
+      "domain": "marketing_precision",
+      "file": "eventos_web_app.csv",
+      "relativePath": "marketing_precision/raw_csv/eventos_web_app.csv",
+      "expectedRows": 9030,
+      "primaryKey": ["event_id"],
+      "requiredColumns": ["event_id", "fecha_hora_evento", "session_id", "customer_id", "canal_adquisicion", "tipo_evento", "page_type", "product_id", "valor_evento_eur", "order_id", "logged_in_flag"]
+    },
+    {
+      "domain": "marketing_precision",
+      "file": "afinidad_tienda_cliente.csv",
+      "relativePath": "marketing_precision/raw_csv/afinidad_tienda_cliente.csv",
+      "expectedRows": 100,
+      "primaryKey": ["customer_id"],
+      "requiredColumns": ["customer_id", "store_id_preferida"]
+    }
+  ]
+}

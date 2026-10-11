@@ -1,0 +1,821 @@
+employee_id,department,location,canonical_store_id,assignment_type,confidence
+FSH0001,Tienda física,Madrid,S001,store_employee,alta
+FSH0002,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0003,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0004,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0005,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0006,Tienda física,Barcelona,S002,store_employee,alta
+FSH0007,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0008,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0009,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0010,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0011,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0012,Tienda física,Valencia,S003,store_employee,alta
+FSH0013,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0014,Marketing,Madrid,S001,location_related,media
+FSH0015,Tienda física,Sevilla,S004,store_employee,alta
+FSH0016,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0017,Tienda física,Bilbao,S005,store_employee,alta
+FSH0018,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0019,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0020,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0021,RRHH,Madrid,S001,location_related,media
+FSH0022,Marketing,Madrid,S001,location_related,media
+FSH0023,Tienda física,Bilbao,S005,store_employee,alta
+FSH0024,Tienda física,Barcelona,S002,store_employee,alta
+FSH0025,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0026,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0027,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0028,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0029,Tienda física,Barcelona,S002,store_employee,alta
+FSH0030,Tienda física,Bilbao,S005,store_employee,alta
+FSH0031,Tienda física,Madrid,S001,store_employee,alta
+FSH0032,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0033,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0034,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0035,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0036,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0037,Tienda física,Madrid,S001,store_employee,alta
+FSH0038,Tienda física,Barcelona,S002,store_employee,alta
+FSH0039,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0040,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0041,Tienda física,Sevilla,S004,store_employee,alta
+FSH0042,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0043,Marketing,Madrid,S001,location_related,media
+FSH0044,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0045,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0046,IT y Datos,Madrid,S001,location_related,media
+FSH0047,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0048,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0049,RRHH,Madrid,S001,location_related,media
+FSH0050,Tienda física,Madrid,S001,store_employee,alta
+FSH0051,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0052,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0053,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0054,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0055,Tienda física,Madrid,S001,store_employee,alta
+FSH0056,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0057,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0058,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0059,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0060,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0061,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0062,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0063,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0064,IT y Datos,Madrid,S001,location_related,media
+FSH0065,Tienda física,Sevilla,S004,store_employee,alta
+FSH0066,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0067,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0068,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0069,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0070,Tienda física,Bilbao,S005,store_employee,alta
+FSH0071,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0072,Tienda física,Madrid,S001,store_employee,alta
+FSH0073,Tienda física,Madrid,S001,store_employee,alta
+FSH0074,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0075,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0076,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0077,Tienda física,Bilbao,S005,store_employee,alta
+FSH0078,Tienda física,Madrid,S001,store_employee,alta
+FSH0079,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0080,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0081,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0082,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0083,Tienda física,Madrid,S001,store_employee,alta
+FSH0084,Tienda física,Valencia,S003,store_employee,alta
+FSH0085,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0086,Marketing,Madrid,S001,location_related,media
+FSH0087,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0088,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0089,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0090,Tienda física,Madrid,S001,store_employee,alta
+FSH0091,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0092,Tienda física,Madrid,S001,store_employee,alta
+FSH0093,Tienda física,Bilbao,S005,store_employee,alta
+FSH0094,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0095,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0096,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0097,Tienda física,Málaga,S006,store_employee,alta
+FSH0098,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0099,Tienda física,Bilbao,S005,store_employee,alta
+FSH0100,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0101,Tienda física,Bilbao,S005,store_employee,alta
+FSH0102,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0103,Tienda física,Sevilla,S004,store_employee,alta
+FSH0104,Tienda física,Barcelona,S002,store_employee,alta
+FSH0105,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0106,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0107,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0108,Marketing,Madrid,S001,location_related,media
+FSH0109,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0110,Marketing,Madrid,S001,location_related,media
+FSH0111,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0112,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0113,Tienda física,Barcelona,S002,store_employee,alta
+FSH0114,Tienda física,Sevilla,S004,store_employee,alta
+FSH0115,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0116,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0117,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0118,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0119,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0120,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0121,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0122,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0123,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0124,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0125,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0126,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0127,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0128,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0129,Marketing,Madrid,S001,location_related,media
+FSH0130,IT y Datos,Madrid,S001,location_related,media
+FSH0131,IT y Datos,Madrid,S001,location_related,media
+FSH0132,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0133,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0134,Tienda física,Málaga,S006,store_employee,alta
+FSH0135,Tienda física,Bilbao,S005,store_employee,alta
+FSH0136,Tienda física,Málaga,S006,store_employee,alta
+FSH0137,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0138,Marketing,Madrid,S001,location_related,media
+FSH0139,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0140,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0141,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0142,Tienda física,Málaga,S006,store_employee,alta
+FSH0143,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0144,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0145,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0146,Tienda física,Sevilla,S004,store_employee,alta
+FSH0147,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0148,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0149,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0150,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0151,Tienda física,Málaga,S006,store_employee,alta
+FSH0152,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0153,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0154,Tienda física,Bilbao,S005,store_employee,alta
+FSH0155,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0156,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0157,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0158,Tienda física,Bilbao,S005,store_employee,alta
+FSH0159,Tienda física,Madrid,S001,store_employee,alta
+FSH0160,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0161,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0162,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0163,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0164,Tienda física,Málaga,S006,store_employee,alta
+FSH0165,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0166,Tienda física,Bilbao,S005,store_employee,alta
+FSH0167,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0168,Tienda física,Málaga,S006,store_employee,alta
+FSH0169,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0170,Tienda física,Sevilla,S004,store_employee,alta
+FSH0171,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0172,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0173,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0174,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0175,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0176,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0177,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0178,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0179,Tienda física,Málaga,S006,store_employee,alta
+FSH0180,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0181,RRHH,Madrid,S001,location_related,media
+FSH0182,Tienda física,Málaga,S006,store_employee,alta
+FSH0183,Tienda física,Madrid,S001,store_employee,alta
+FSH0184,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0185,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0186,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0187,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0188,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0189,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0190,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0191,Tienda física,Barcelona,S002,store_employee,alta
+FSH0192,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0193,IT y Datos,Madrid,S001,location_related,media
+FSH0194,Tienda física,Sevilla,S004,store_employee,alta
+FSH0195,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0196,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0197,IT y Datos,Madrid,S001,location_related,media
+FSH0198,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0199,RRHH,Madrid,S001,location_related,media
+FSH0200,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0201,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0202,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0203,Tienda física,Valencia,S003,store_employee,alta
+FSH0204,Tienda física,Bilbao,S005,store_employee,alta
+FSH0205,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0206,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0207,Tienda física,Madrid,S001,store_employee,alta
+FSH0208,Tienda física,Madrid,S001,store_employee,alta
+FSH0209,Tienda física,Málaga,S006,store_employee,alta
+FSH0210,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0211,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0212,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0213,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0214,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0215,Tienda física,Sevilla,S004,store_employee,alta
+FSH0216,Tienda física,Valencia,S003,store_employee,alta
+FSH0217,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0218,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0219,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0220,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0221,Tienda física,Sevilla,S004,store_employee,alta
+FSH0222,Tienda física,Madrid,S001,store_employee,alta
+FSH0223,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0224,RRHH,Madrid,S001,location_related,media
+FSH0225,Tienda física,Sevilla,S004,store_employee,alta
+FSH0226,Tienda física,Valencia,S003,store_employee,alta
+FSH0227,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0228,IT y Datos,Madrid,S001,location_related,media
+FSH0229,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0230,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0231,Tienda física,Bilbao,S005,store_employee,alta
+FSH0232,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0233,Tienda física,Málaga,S006,store_employee,alta
+FSH0234,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0235,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0236,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0237,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0238,Tienda física,Valencia,S003,store_employee,alta
+FSH0239,IT y Datos,Madrid,S001,location_related,media
+FSH0240,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0241,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0242,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0243,RRHH,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0244,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0245,Tienda física,Barcelona,S002,store_employee,alta
+FSH0246,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0247,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0248,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0249,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0250,Marketing,Madrid,S001,location_related,media
+FSH0251,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0252,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0253,Tienda física,Bilbao,S005,store_employee,alta
+FSH0254,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0255,Tienda física,Barcelona,S002,store_employee,alta
+FSH0256,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0257,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0258,Tienda física,Valencia,S003,store_employee,alta
+FSH0259,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0260,Tienda física,Barcelona,S002,store_employee,alta
+FSH0261,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0262,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0263,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0264,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0265,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0266,Tienda física,Madrid,S001,store_employee,alta
+FSH0267,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0268,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0269,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0270,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0271,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0272,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0273,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0274,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0275,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0276,Tienda física,Sevilla,S004,store_employee,alta
+FSH0277,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0278,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0279,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0280,Tienda física,Valencia,S003,store_employee,alta
+FSH0281,Tienda física,Madrid,S001,store_employee,alta
+FSH0282,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0283,Marketing,Madrid,S001,location_related,media
+FSH0284,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0285,Tienda física,Sevilla,S004,store_employee,alta
+FSH0286,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0287,Tienda física,Valencia,S003,store_employee,alta
+FSH0288,Tienda física,Valencia,S003,store_employee,alta
+FSH0289,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0290,Tienda física,Madrid,S001,store_employee,alta
+FSH0291,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0292,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0293,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0294,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0295,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0296,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0297,Tienda física,Valencia,S003,store_employee,alta
+FSH0298,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0299,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0300,Tienda física,Valencia,S003,store_employee,alta
+FSH0301,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0302,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0303,Tienda física,Sevilla,S004,store_employee,alta
+FSH0304,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0305,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0306,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0307,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0308,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0309,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0310,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0311,Tienda física,Málaga,S006,store_employee,alta
+FSH0312,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0313,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0314,Tienda física,Málaga,S006,store_employee,alta
+FSH0315,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0316,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0317,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0318,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0319,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0320,Tienda física,Sevilla,S004,store_employee,alta
+FSH0321,Tienda física,Valencia,S003,store_employee,alta
+FSH0322,Tienda física,Madrid,S001,store_employee,alta
+FSH0323,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0324,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0325,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0326,Tienda física,Málaga,S006,store_employee,alta
+FSH0327,Tienda física,Bilbao,S005,store_employee,alta
+FSH0328,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0329,Tienda física,Sevilla,S004,store_employee,alta
+FSH0330,Tienda física,Málaga,S006,store_employee,alta
+FSH0331,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0332,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0333,Tienda física,Bilbao,S005,store_employee,alta
+FSH0334,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0335,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0336,IT y Datos,Madrid,S001,location_related,media
+FSH0337,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0338,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0339,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0340,Tienda física,Valencia,S003,store_employee,alta
+FSH0341,Tienda física,Valencia,S003,store_employee,alta
+FSH0342,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0343,Tienda física,Valencia,S003,store_employee,alta
+FSH0344,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0345,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0346,RRHH,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0347,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0348,Tienda física,Málaga,S006,store_employee,alta
+FSH0349,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0350,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0351,Tienda física,Bilbao,S005,store_employee,alta
+FSH0352,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0353,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0354,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0355,Tienda física,Sevilla,S004,store_employee,alta
+FSH0356,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0357,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0358,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0359,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0360,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0361,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0362,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0363,Marketing,Madrid,S001,location_related,media
+FSH0364,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0365,Tienda física,Málaga,S006,store_employee,alta
+FSH0366,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0367,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0368,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0369,Marketing,Madrid,S001,location_related,media
+FSH0370,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0371,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0372,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0373,Tienda física,Barcelona,S002,store_employee,alta
+FSH0374,Tienda física,Barcelona,S002,store_employee,alta
+FSH0375,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0376,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0377,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0378,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0379,Tienda física,Bilbao,S005,store_employee,alta
+FSH0380,Tienda física,Barcelona,S002,store_employee,alta
+FSH0381,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0382,Tienda física,Madrid,S001,store_employee,alta
+FSH0383,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0384,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0385,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0386,Tienda física,Bilbao,S005,store_employee,alta
+FSH0387,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0388,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0389,Tienda física,Madrid,S001,store_employee,alta
+FSH0390,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0391,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0392,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0393,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0394,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0395,Tienda física,Bilbao,S005,store_employee,alta
+FSH0396,Tienda física,Barcelona,S002,store_employee,alta
+FSH0397,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0398,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0399,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0400,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0401,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0402,Tienda física,Bilbao,S005,store_employee,alta
+FSH0403,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0404,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0405,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0406,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0407,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0408,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0409,Tienda física,Barcelona,S002,store_employee,alta
+FSH0410,IT y Datos,Madrid,S001,location_related,media
+FSH0411,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0412,Tienda física,Bilbao,S005,store_employee,alta
+FSH0413,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0414,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0415,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0416,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0417,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0418,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0419,Marketing,Madrid,S001,location_related,media
+FSH0420,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0421,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0422,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0423,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0424,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0425,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0426,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0427,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0428,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0429,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0430,Tienda física,Málaga,S006,store_employee,alta
+FSH0431,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0432,Tienda física,Sevilla,S004,store_employee,alta
+FSH0433,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0434,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0435,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0436,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0437,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0438,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0439,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0440,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0441,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0442,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0443,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0444,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0445,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0446,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0447,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0448,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0449,Tienda física,Barcelona,S002,store_employee,alta
+FSH0450,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0451,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0452,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0453,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0454,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0455,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0456,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0457,Tienda física,Barcelona,S002,store_employee,alta
+FSH0458,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0459,IT y Datos,Madrid,S001,location_related,media
+FSH0460,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0461,Tienda física,Sevilla,S004,store_employee,alta
+FSH0462,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0463,IT y Datos,Madrid,S001,location_related,media
+FSH0464,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0465,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0466,Tienda física,Málaga,S006,store_employee,alta
+FSH0467,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0468,Tienda física,Barcelona,S002,store_employee,alta
+FSH0469,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0470,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0471,Tienda física,Barcelona,S002,store_employee,alta
+FSH0472,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0473,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0474,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0475,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0476,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0477,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0478,IT y Datos,Madrid,S001,location_related,media
+FSH0479,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0480,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0481,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0482,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0483,Tienda física,Bilbao,S005,store_employee,alta
+FSH0484,Tienda física,Valencia,S003,store_employee,alta
+FSH0485,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0486,Tienda física,Valencia,S003,store_employee,alta
+FSH0487,Tienda física,Madrid,S001,store_employee,alta
+FSH0488,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0489,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0490,Tienda física,Bilbao,S005,store_employee,alta
+FSH0491,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0492,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0493,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0494,Tienda física,Sevilla,S004,store_employee,alta
+FSH0495,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0496,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0497,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0498,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0499,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0500,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0501,Tienda física,Sevilla,S004,store_employee,alta
+FSH0502,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0503,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0504,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0505,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0506,Tienda física,Barcelona,S002,store_employee,alta
+FSH0507,Tienda física,Sevilla,S004,store_employee,alta
+FSH0508,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0509,IT y Datos,Madrid,S001,location_related,media
+FSH0510,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0511,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0512,Tienda física,Barcelona,S002,store_employee,alta
+FSH0513,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0514,Tienda física,Barcelona,S002,store_employee,alta
+FSH0515,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0516,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0517,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0518,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0519,Tienda física,Bilbao,S005,store_employee,alta
+FSH0520,IT y Datos,Madrid,S001,location_related,media
+FSH0521,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0522,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0523,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0524,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0525,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0526,Tienda física,Barcelona,S002,store_employee,alta
+FSH0527,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0528,Tienda física,Bilbao,S005,store_employee,alta
+FSH0529,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0530,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0531,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0532,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0533,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0534,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0535,Tienda física,Bilbao,S005,store_employee,alta
+FSH0536,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0537,RRHH,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0538,Tienda física,Sevilla,S004,store_employee,alta
+FSH0539,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0540,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0541,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0542,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0543,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0544,Tienda física,Barcelona,S002,store_employee,alta
+FSH0545,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0546,Tienda física,Barcelona,S002,store_employee,alta
+FSH0547,Tienda física,Madrid,S001,store_employee,alta
+FSH0548,Tienda física,Sevilla,S004,store_employee,alta
+FSH0549,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0550,Tienda física,Barcelona,S002,store_employee,alta
+FSH0551,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0552,Tienda física,Madrid,S001,store_employee,alta
+FSH0553,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0554,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0555,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0556,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0557,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0558,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0559,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0560,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0561,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0562,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0563,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0564,Tienda física,Valencia,S003,store_employee,alta
+FSH0565,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0566,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0567,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0568,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0569,RRHH,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0570,IT y Datos,Madrid,S001,location_related,media
+FSH0571,Tienda física,Barcelona,S002,store_employee,alta
+FSH0572,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0573,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0574,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0575,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0576,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0577,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0578,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0579,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0580,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0581,Tienda física,Bilbao,S005,store_employee,alta
+FSH0582,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0583,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0584,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0585,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0586,Tienda física,Valencia,S003,store_employee,alta
+FSH0587,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0588,Tienda física,Málaga,S006,store_employee,alta
+FSH0589,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0590,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0591,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0592,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0593,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0594,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0595,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0596,Marketing,Madrid,S001,location_related,media
+FSH0597,Tienda física,Málaga,S006,store_employee,alta
+FSH0598,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0599,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0600,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0601,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0602,Tienda física,Bilbao,S005,store_employee,alta
+FSH0603,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0604,Tienda física,Barcelona,S002,store_employee,alta
+FSH0605,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0606,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0607,Tienda física,Valencia,S003,store_employee,alta
+FSH0608,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0609,Tienda física,Madrid,S001,store_employee,alta
+FSH0610,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0611,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0612,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0613,Tienda física,Madrid,S001,store_employee,alta
+FSH0614,Tienda física,Barcelona,S002,store_employee,alta
+FSH0615,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0616,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0617,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0618,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0619,Tienda física,Sevilla,S004,store_employee,alta
+FSH0620,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0621,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0622,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0623,IT y Datos,Madrid,S001,location_related,media
+FSH0624,Tienda física,Valencia,S003,store_employee,alta
+FSH0625,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0626,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0627,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0628,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0629,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0630,Tienda física,Madrid,S001,store_employee,alta
+FSH0631,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0632,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0633,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0634,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0635,Tienda física,Madrid,S001,store_employee,alta
+FSH0636,Tienda física,Sevilla,S004,store_employee,alta
+FSH0637,Tienda física,Valencia,S003,store_employee,alta
+FSH0638,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0639,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0640,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0641,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0642,RRHH,Madrid,S001,location_related,media
+FSH0643,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0644,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0645,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0646,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0647,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0648,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0649,Tienda física,Madrid,S001,store_employee,alta
+FSH0650,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0651,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0652,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0653,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0654,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0655,Tienda física,Málaga,S006,store_employee,alta
+FSH0656,Tienda física,Valencia,S003,store_employee,alta
+FSH0657,Tienda física,Madrid,S001,store_employee,alta
+FSH0658,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0659,Tienda física,Málaga,S006,store_employee,alta
+FSH0660,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0661,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0662,RRHH,Madrid,S001,location_related,media
+FSH0663,Tienda física,Sevilla,S004,store_employee,alta
+FSH0664,Tienda física,Bilbao,S005,store_employee,alta
+FSH0665,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0666,Tienda física,Málaga,S006,store_employee,alta
+FSH0667,Tienda física,Valencia,S003,store_employee,alta
+FSH0668,Tienda física,Málaga,S006,store_employee,alta
+FSH0669,Tienda física,Bilbao,S005,store_employee,alta
+FSH0670,Tienda física,Madrid,S001,store_employee,alta
+FSH0671,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0672,Tienda física,Sevilla,S004,store_employee,alta
+FSH0673,Tienda física,Sevilla,S004,store_employee,alta
+FSH0674,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0675,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0676,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0677,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0678,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0679,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0680,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0681,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0682,Tienda física,Sevilla,S004,store_employee,alta
+FSH0683,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0684,Marketing,Madrid,S001,location_related,media
+FSH0685,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0686,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0687,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0688,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0689,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0690,Tienda física,Málaga,S006,store_employee,alta
+FSH0691,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0692,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0693,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0694,IT y Datos,Madrid,S001,location_related,media
+FSH0695,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0696,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0697,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0698,Tienda física,Sevilla,S004,store_employee,alta
+FSH0699,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0700,Tienda física,Valencia,S003,store_employee,alta
+FSH0701,Tienda física,Sevilla,S004,store_employee,alta
+FSH0702,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0703,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0704,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0705,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0706,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0707,Tienda física,Madrid,S001,store_employee,alta
+FSH0708,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0709,Logística,Almacén Central - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0710,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0711,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0712,IT y Datos,Madrid,S001,location_related,media
+FSH0713,Marketing,Madrid,S001,location_related,media
+FSH0714,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0715,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0716,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0717,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0718,Tienda física,Barcelona,S002,store_employee,alta
+FSH0719,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0720,Tienda física,Madrid,S001,store_employee,alta
+FSH0721,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0722,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0723,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0724,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0725,Tienda física,Valencia,S003,store_employee,alta
+FSH0726,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0727,Tienda física,Sevilla,S004,store_employee,alta
+FSH0728,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0729,Tienda física,Barcelona,S002,store_employee,alta
+FSH0730,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0731,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0732,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0733,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0734,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0735,Tienda física,Sevilla,S004,store_employee,alta
+FSH0736,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0737,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0738,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0739,Tienda física,Valencia,S003,store_employee,alta
+FSH0740,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0741,Tienda física,Madrid,S001,store_employee,alta
+FSH0742,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0743,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0744,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0745,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0746,Tienda física,Bilbao,S005,store_employee,alta
+FSH0747,Tienda física,Bilbao,S005,store_employee,alta
+FSH0748,IT y Datos,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0749,Tienda física,Madrid,S001,store_employee,alta
+FSH0750,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0751,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0752,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0753,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0754,Tienda física,Madrid,S001,store_employee,alta
+FSH0755,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0756,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0757,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0758,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0759,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0760,Tienda física,Barcelona,S002,store_employee,alta
+FSH0761,Tienda física,Sevilla,S004,store_employee,alta
+FSH0762,Tienda física,Barcelona,S002,store_employee,alta
+FSH0763,Tienda física,Sevilla,S004,store_employee,alta
+FSH0764,Tienda física,Sevilla,S004,store_employee,alta
+FSH0765,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0766,RRHH,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0767,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0768,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0769,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0770,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0771,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0772,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0773,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0774,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0775,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0776,Tienda física,Bilbao,S005,store_employee,alta
+FSH0777,Tienda física,A Coruña,,corporate_or_unmapped_location,baja
+FSH0778,Finanzas,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0779,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0780,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0781,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0782,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0783,Tienda física,Sevilla,S004,store_employee,alta
+FSH0784,Tienda física,Madrid,S001,store_employee,alta
+FSH0785,Marketing,Madrid,S001,location_related,media
+FSH0786,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0787,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0788,Atención al Cliente,Contact Center - Madrid,,corporate_or_unmapped_location,baja
+FSH0789,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0790,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0791,Logística,Almacén Barcelona,,corporate_or_unmapped_location,baja
+FSH0792,Tienda física,Bilbao,S005,store_employee,alta
+FSH0793,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0794,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0795,Tienda física,Barcelona,S002,store_employee,alta
+FSH0796,Atención al Cliente,Contact Center - A Coruña,,corporate_or_unmapped_location,baja
+FSH0797,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0798,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0799,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0800,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0801,RRHH,Madrid,S001,location_related,media
+FSH0802,Tienda física,Vigo,,corporate_or_unmapped_location,baja
+FSH0803,Tienda física,Málaga,S006,store_employee,alta
+FSH0804,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0805,Tienda física,Málaga,S006,store_employee,alta
+FSH0806,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0807,E-commerce,Online - A Coruña,ONLINE,digital_or_logistics_employee,media
+FSH0808,Tienda física,Málaga,S006,store_employee,alta
+FSH0809,E-commerce,Online - Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0810,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0811,Tienda física,Barcelona,S002,store_employee,alta
+FSH0812,Tienda física,Valladolid,,corporate_or_unmapped_location,baja
+FSH0813,Tienda física,Bilbao,S005,store_employee,alta
+FSH0814,Marketing,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0815,Tienda física,Sevilla,S004,store_employee,alta
+FSH0816,Compras,Sede Central - A Coruña,,corporate_or_unmapped_location,baja
+FSH0817,Tienda física,Zaragoza,,corporate_or_unmapped_location,baja
+FSH0818,Tienda física,Barcelona,S002,store_employee,alta
+FSH0819,Logística,Almacén Madrid,ONLINE,digital_or_logistics_employee,media
+FSH0820,Tienda física,Barcelona,S002,store_employee,alta

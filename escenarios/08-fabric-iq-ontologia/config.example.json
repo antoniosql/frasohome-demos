@@ -1,0 +1,20 @@
+{
+  "workspace": {
+    "id": "",
+    "displayName": "FraSoHome Fabric IQ Demo",
+    "capacityId": ""
+  },
+  "items": {
+    "lakehouse": "FraSoHome_IQ",
+    "prepareNotebook": "FraSoHome_IQ_01_Prepare",
+    "validateNotebook": "FraSoHome_IQ_02_Validate",
+    "ontology": "FraSoHome_Context",
+    "dataAgent": "FraSoHome_Context_Agent"
+  },
+  "dataRoot": "../../datos",
+  "deployment": {
+    "stage": 6,
+    "refreshGraph": true,
+    "publishAgent": true
+  }
+}

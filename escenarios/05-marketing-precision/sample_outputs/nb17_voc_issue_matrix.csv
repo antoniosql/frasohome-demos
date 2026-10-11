@@ -1,0 +1,77 @@
+fuente,tema_principal,sentimiento,registros,clientes
+feedback,precio_promocion,Positivo,117,69
+feedback,entrega_servicio,Positivo,88,60
+feedback,medidas_ajuste,Positivo,88,53
+feedback,precio_promocion,Neutral,83,54
+feedback,calidad_producto,Positivo,70,48
+feedback,tienda_experiencia,Positivo,63,49
+feedback,precio_promocion,Negativo,60,48
+feedback,calidad_producto,Negativo,55,40
+feedback,entrega_servicio,Neutral,50,38
+feedback,calidad_producto,Neutral,49,37
+feedback,medidas_ajuste,Neutral,43,38
+tickets,entrega,Neutral,43,35
+feedback,medidas_ajuste,Negativo,36,30
+tickets,entrega,Negativo,32,28
+feedback,entrega_servicio,Negativo,28,25
+tickets,info producto,Negativo,27,25
+tickets,cupon,Negativo,24,21
+tickets,stock tienda,Neutral,22,21
+tickets,stock tienda,Negativo,21,18
+tickets,info producto,Neutral,20,16
+tickets,Defectuoso,Neutral,19,18
+feedback,tienda_experiencia,Negativo,19,17
+tickets,fidelizacion,Neutral,18,18
+tickets,cupon,Neutral,17,17
+tickets,defecto,Negativo,17,16
+tickets,fidelizacion,Negativo,17,16
+tickets,Cambio de opinión,Neutral,16,15
+tickets,entrega,Positivo,16,15
+tickets,Defectuoso,Negativo,13,11
+tickets,defecto,Positivo,12,12
+tickets,info producto,Positivo,12,12
+tickets,defecto,Neutral,12,11
+tickets,stock tienda,Positivo,12,11
+tickets,No encaja en el espacio,Neutral,11,11
+tickets,cupon,Positivo,10,9
+tickets,fidelizacion,Positivo,8,8
+tickets,Faltan piezas,Neutral,8,7
+tickets,No encaja en el espacio,Negativo,8,7
+tickets,No le gustó,Neutral,8,7
+tickets,devolucion,Neutral,8,7
+tickets,Cambio de opinión,Negativo,7,7
+tickets,Daños en transporte,Negativo,7,7
+tickets,No encaja / medidas,Neutral,7,7
+tickets,Cambio de opinión,Positivo,6,6
+tickets,Color distinto,Negativo,6,6
+tickets,Daño en transporte,Neutral,6,6
+tickets,Error en pedido,Positivo,6,6
+tickets,Faltan piezas,Negativo,6,6
+tickets,Otro,Neutral,5,5
+tickets,Producto incompleto,Negativo,5,5
+tickets,devolucion,Negativo,5,5
+tickets,No encaja / medidas,Negativo,5,4
+tickets,Llegó tarde,Neutral,4,4
+tickets,No le gustó,Negativo,4,4
+tickets,Otro,Negativo,4,4
+tickets,Producto incompleto,Neutral,4,4
+tickets,Producto incompleto,Positivo,4,4
+tickets,Color distinto,Neutral,4,3
+tickets,Daños en transporte,Neutral,3,3
+tickets,Devolución en tienda (compra online),Neutral,3,3
+tickets,Error en pedido,Negativo,3,3
+tickets,Faltan piezas,Positivo,3,3
+tickets,Llegó tarde,Negativo,3,3
+tickets,No encaja en el espacio,Positivo,3,3
+tickets,Error en pedido,Neutral,3,2
+tickets,Daño en transporte,Negativo,2,2
+tickets,Otro,Positivo,2,2
+tickets,info_producto,Neutral,2,2
+feedback,tienda_experiencia,Neutral,1,1
+tickets,???,Neutral,1,1
+tickets,Fraude,Negativo,1,1
+tickets,Fraude,Positivo,1,1
+tickets,Llegó tarde,Positivo,1,1
+tickets,No encaja / medidas,Positivo,1,1
+tickets,No le gustó,Positivo,1,1
+tickets,info_producto,Positivo,1,1

@@ -1,0 +1,15 @@
+﻿dataset,descripcion,granularidad,clave_principal,campos_clave,casos_relacionados
+identidades_cliente.csv,Señales de identidad cross-canal para entity resolution,señal individual,identity_signal_id,"customer_id_raw, email_hash, telefono_hash, tarjeta_fidelizacion_id, cookie_id, app_user_id, order_id, ticket_id",1
+identidades_cliente_ground_truth.csv,Ground truth docente para evaluar matching,señal individual,identity_signal_id,customer_id_canonico,1
+campanas_marketing.csv,Maestro de campañas con planificación y resultados agregados,campaña,campaign_id,"objetivo, canal, segmento_objetivo, categoria_objetivo, presupuesto_plan_eur, contactos, revenue_30d_total_eur","3,6,8,10"
+contactos_campana.csv,Contactos CRM por cliente-campaña con outcome 30 días,contacto,contact_id,"campaign_id, customer_id, canal_contacto, grupo_control_flag, conversion_30d_flag, revenue_30d_eur","3,6,8,10"
+eventos_campana.csv,Eventos post-contacto y atribución,evento,event_id,"contact_id, tipo_evento, revenue_atribuido_eur","3,6,10"
+eventos_web_app.csv,Navegación web/app y comportamiento pre-compra,evento digital,event_id,"session_id, customer_id, tipo_evento, categoria, product_id, store_id_interes, order_id","1,4,5,8"
+promociones_calendario.csv,"Calendario promocional por categoría, tienda y campaña",promoción,promo_id,"tipo_promocion, descuento_pct, store_id, campana_id_relacionada","6,8"
+cupones_clientes.csv,Cupones emitidos y canjeados a nivel cliente,cupón individual,coupon_instance_id,"campaign_id, customer_id, estado_cupon, order_id, ticket_id, descuento_aplicado_eur","2,3,6"
+tickets_atencion_cliente.csv,Interacciones de soporte con texto libre,ticket soporte,service_ticket_id,"customer_id, tipo_caso, csat_1_5, texto_cliente, texto_resolucion","3,7,9"
+feedback_clientes.csv,"Reviews, NPS y encuestas post-soporte/post-devolución",feedback,feedback_id,"customer_id, tipo_feedback, rating_1_5, nps_0_10, sentimiento, texto_feedback","7,9"
+costes_operativos_transaccion.csv,Costes operativos y margen neto por transacción,transacción,transaction_cost_id,"order_id, ticket_id, coste_logistico_eur, cac_asignado_eur, margen_contribucion_neto_eur","2,5,6,7"
+afinidad_tienda_cliente.csv,Afinidad y cercanía a tienda por cliente,cliente,customer_id,"store_id_preferida, store_id_mas_cercana, distancia_km, probabilidad_visita_30d",8
+creatividades_segmento.csv,Variantes creativas y performance estimada,variante creativa,creative_id,"campaign_id, microsegmento, asunto, copy_corto, prompt_base, ctr, cvr",10
+guardrails_marca_genai.csv,Reglas de marca y seguridad para GenAI,regla,regla_id,"categoria_regla, descripcion_regla, severidad",10

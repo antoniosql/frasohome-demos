@@ -1,0 +1,124 @@
+escenario,tipo,recurso,ruta,obligatorio,nota
+01 · La empresa con silos,Entorno,Visor de CSV o Excel,,Sí,
+01 · La empresa con silos,Entorno,Proyector,,Sí,
+02 · Fabric: del CSV a la fact table,Entorno,Microsoft Fabric (Lakehouse + notebooks) o Python 3.10+ local,,Sí,
+02 · Fabric: del CSV a la fact table,Entorno,Streamlit (app),,Sí,
+03 · SQL Raw → Core → Analytics,Entorno,Azure SQL Database o Fabric SQL Database,,Sí,
+03 · SQL Raw → Core → Analytics,Entorno,sqlcmd con autenticación Entra,,Sí,
+03 · SQL Raw → Core → Analytics,Entorno,Fabric CLI,,Sí,
+03 · SQL Raw → Core → Analytics,Entorno,PowerShell 7,,Sí,
+03 · SQL Raw → Core → Analytics,Entorno,Python + pyodbc (opcional),,Sí,
+04 · Analítica de ventas y ML,Entorno,"Python 3.10+ con pandas, scikit-learn, shap, lime",,Sí,
+04 · Analítica de ventas y ML,Entorno,Jupyter,,Sí,
+05 · Marketing de precisión,Entorno,"Python 3.10+ con pandas, scikit-learn",,Sí,
+05 · Marketing de precisión,Entorno,Streamlit + Altair,,Sí,
+05 · Marketing de precisión,Entorno,Jupyter,,Sí,
+06 · People Analytics con Power BI,Entorno,Power BI Desktop o Service,,Sí,
+06 · People Analytics con Power BI,Entorno,ChatGPT/Copilot (opcional),,Sí,
+07 · Asistente RAG con Copilot Studio,Entorno,Copilot Studio,,Sí,
+07 · Asistente RAG con Copilot Studio,Entorno,Entorno Power Platform con Dataverse,,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Entorno,Capacidad Microsoft Fabric con IQ (preview),,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Entorno,PowerShell 7 + Azure CLI,,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Entorno,"Opciones de tenant Ontology, Graph y Data Agent",,Sí,
+09 · Interpretabilidad GenAI,Entorno,"Python 3.10+ con pandas, scikit-learn, python-docx, pyarrow",,Sí,
+09 · Interpretabilidad GenAI,Entorno,Jupyter,,Sí,
+10 · Agentes con Foundry,Entorno,Proyecto Microsoft Foundry con Agent Service,,Sí,
+10 · Agentes con Foundry,Entorno,"Code Interpreter, File Search y búsqueda web",,Sí,
+01 · La empresa con silos,Datos,tiendas.csv,datos/retail_omnicanal/raw_csv/tiendas.csv,Sí,
+01 · La empresa con silos,Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,
+01 · La empresa con silos,Datos,ventas_pos.csv,datos/retail_omnicanal/raw_csv/ventas_pos.csv,Sí,
+01 · La empresa con silos,Datos,pagos_tienda.csv,datos/retail_omnicanal/raw_csv/pagos_tienda.csv,Sí,
+01 · La empresa con silos,Datos,FS-KB-01 y FS-KB-02 (políticas),datos/rag_copilot_studio/knowledge_base/Documentos_Knowledge_Clasificados/01_Politicas/,Sí,
+02 · Fabric: del CSV a la fact table,Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,productos.csv,datos/retail_omnicanal/raw_csv/productos.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,tiendas.csv,datos/retail_omnicanal/raw_csv/tiendas.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,pedidos.csv,datos/retail_omnicanal/raw_csv/pedidos.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,lineas_pedido.csv,datos/retail_omnicanal/raw_csv/lineas_pedido.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,devoluciones_online.csv,datos/retail_omnicanal/raw_csv/devoluciones_online.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,ventas_pos.csv,datos/retail_omnicanal/raw_csv/ventas_pos.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,pagos_tienda.csv,datos/retail_omnicanal/raw_csv/pagos_tienda.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,devoluciones_tienda.csv,datos/retail_omnicanal/raw_csv/devoluciones_tienda.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,stock_diario.csv,datos/retail_omnicanal/raw_csv/stock_diario.csv,Sí,
+02 · Fabric: del CSV a la fact table,Datos,fact_transacciones.csv,datos/retail_omnicanal/raw_csv/fact_transacciones.csv,Sí,
+02 · Fabric: del CSV a la fact table,Material,Notebooks 1–8,escenarios/02-fabric-preparacion-datos/notebooks/,Sí,
+02 · Fabric: del CSV a la fact table,Material,App Streamlit,escenarios/02-fabric-preparacion-datos/streamlit_app/,Sí,
+03 · SQL Raw → Core → Analytics,Datos,Todos los CSV de datos/,datos/,Sí,
+03 · SQL Raw → Core → Analytics,Material,retail_sql_database/,escenarios/03-sql-raw-core-analytics/retail_sql_database/,Sí,
+03 · SQL Raw → Core → Analytics,Material,fabric_databases/,escenarios/03-sql-raw-core-analytics/fabric_databases/,Sí,
+03 · SQL Raw → Core → Analytics,Material,sql_database_consolidated/,escenarios/03-sql-raw-core-analytics/sql_database_consolidated/,Sí,
+03 · SQL Raw → Core → Analytics,Material,carga_python/,escenarios/03-sql-raw-core-analytics/carga_python/,Sí,
+03 · SQL Raw → Core → Analytics,Material,powerbi/Pedidos-Online.pbix,escenarios/03-sql-raw-core-analytics/powerbi/Pedidos-Online.pbix,No,
+04 · Analítica de ventas y ML,Datos,fact_transacciones.csv,datos/retail_omnicanal/raw_csv/fact_transacciones.csv,Sí,
+04 · Analítica de ventas y ML,Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,
+04 · Analítica de ventas y ML,Datos,productos.csv,datos/retail_omnicanal/raw_csv/productos.csv,Sí,
+04 · Analítica de ventas y ML,Datos,stock_diario.csv,datos/retail_omnicanal/raw_csv/stock_diario.csv,Sí,
+04 · Analítica de ventas y ML,Datos,contactos_campana.csv,datos/marketing_precision/raw_csv/contactos_campana.csv,Sí,
+04 · Analítica de ventas y ML,Datos,eventos_web_app.csv,datos/marketing_precision/raw_csv/eventos_web_app.csv,Sí,
+04 · Analítica de ventas y ML,Datos,feedback_clientes.csv,datos/marketing_precision/raw_csv/feedback_clientes.csv,Sí,
+04 · Analítica de ventas y ML,Datos,tickets_atencion_cliente.csv,datos/marketing_precision/raw_csv/tickets_atencion_cliente.csv,Sí,
+04 · Analítica de ventas y ML,Datos,costes_operativos_transaccion.csv,datos/marketing_precision/raw_csv/costes_operativos_transaccion.csv,Sí,
+04 · Analítica de ventas y ML,Material,"Notebooks instructor, alumnos y soluciones",escenarios/04-analitica-ventas-ml/,Sí,
+04 · Analítica de ventas y ML,Material,sales_models_artifact.joblib,escenarios/04-analitica-ventas-ml/artifacts/sales_models_artifact.joblib,Sí,
+05 · Marketing de precisión,Datos,Retail omnicanal (11 CSV),datos/retail_omnicanal/raw_csv/,Sí,
+05 · Marketing de precisión,Datos,Marketing de precisión (17 CSV),datos/marketing_precision/raw_csv/,Sí,
+05 · Marketing de precisión,Material,Notebooks 09–18 + helpers,escenarios/05-marketing-precision/notebooks/,Sí,
+05 · Marketing de precisión,Material,Salidas de ejemplo,escenarios/05-marketing-precision/sample_outputs/,Sí,
+05 · Marketing de precisión,Material,App Streamlit,escenarios/05-marketing-precision/streamlit_app/,Sí,
+06 · People Analytics con Power BI,Datos,raw_hris_empleados.csv,datos/people_analytics/raw_csv/raw_hris_empleados.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_movimientos_personal.csv,datos/people_analytics/raw_csv/raw_movimientos_personal.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_evaluaciones_desempeno.csv,datos/people_analytics/raw_csv/raw_evaluaciones_desempeno.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_encuesta_clima_respuestas.csv,datos/people_analytics/raw_csv/raw_encuesta_clima_respuestas.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_absentismo.csv,datos/people_analytics/raw_csv/raw_absentismo.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_horas_extra.csv,datos/people_analytics/raw_csv/raw_horas_extra.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_formacion.csv,datos/people_analytics/raw_csv/raw_formacion.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_salarios_beneficios.csv,datos/people_analytics/raw_csv/raw_salarios_beneficios.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,raw_exit_interviews.csv,datos/people_analytics/raw_csv/raw_exit_interviews.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,dim_departamentos_mapeo.csv,datos/people_analytics/raw_csv/dim_departamentos_mapeo.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,dim_calendario.csv,datos/people_analytics/raw_csv/dim_calendario.csv,Sí,Demo ETL
+06 · People Analytics con Power BI,Datos,frasohome_people_analytics.csv,datos/people_analytics/raw_csv/frasohome_people_analytics.csv,Sí,Caso de alumnos
+06 · People Analytics con Power BI,Datos,frasohome_rotacion_mensual.csv,datos/people_analytics/raw_csv/frasohome_rotacion_mensual.csv,Sí,Caso de alumnos
+06 · People Analytics con Power BI,Datos,frasohome_comentarios_salida.csv,datos/people_analytics/raw_csv/frasohome_comentarios_salida.csv,Sí,Caso de alumnos
+06 · People Analytics con Power BI,Datos,frasohome_comentarios_clima.csv,datos/people_analytics/raw_csv/frasohome_comentarios_clima.csv,Sí,Caso de alumnos
+06 · People Analytics con Power BI,Datos,frasohome_muestra_prompt_chatgpt.csv,datos/people_analytics/raw_csv/frasohome_muestra_prompt_chatgpt.csv,Sí,Caso de alumnos
+06 · People Analytics con Power BI,Datos,employee_store_assignment.csv,datos/relaciones/employee_store_assignment.csv,No,
+06 · People Analytics con Power BI,Material,"Guía ETL, demo influenciadores y casos",escenarios/06-power-bi-people-analytics/,Sí,
+07 · Asistente RAG con Copilot Studio,Datos,Documentos FS-KB-01 a FS-KB-10,datos/rag_copilot_studio/knowledge_base/Documentos_Knowledge_Clasificados/,Sí,
+07 · Asistente RAG con Copilot Studio,Datos,CSV estructurados FS_*,datos/rag_copilot_studio/structured_csv/,Sí,
+07 · Asistente RAG con Copilot Studio,Datos,Test sets,datos/rag_copilot_studio/test_sets/,Sí,
+07 · Asistente RAG con Copilot Studio,Material,Laboratorios LAB2–LAB6,escenarios/07-copilot-studio-rag/laboratorios/,Sí,
+07 · Asistente RAG con Copilot Studio,Material,Plantillas RAG Canvas,escenarios/07-copilot-studio-rag/plantillas/,Sí,
+07 · Asistente RAG con Copilot Studio,Material,Answer key y rúbrica (xlsx),escenarios/07-copilot-studio-rag/evaluacion/,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,productos.csv,datos/retail_omnicanal/raw_csv/productos.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,tiendas.csv,datos/retail_omnicanal/raw_csv/tiendas.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,pedidos.csv,datos/retail_omnicanal/raw_csv/pedidos.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,lineas_pedido.csv,datos/retail_omnicanal/raw_csv/lineas_pedido.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,ventas_pos.csv,datos/retail_omnicanal/raw_csv/ventas_pos.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,pagos_tienda.csv,datos/retail_omnicanal/raw_csv/pagos_tienda.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,devoluciones_online.csv,datos/retail_omnicanal/raw_csv/devoluciones_online.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,devoluciones_tienda.csv,datos/retail_omnicanal/raw_csv/devoluciones_tienda.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,stock_diario.csv,datos/retail_omnicanal/raw_csv/stock_diario.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,campanas_marketing.csv,datos/marketing_precision/raw_csv/campanas_marketing.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,contactos_campana.csv,datos/marketing_precision/raw_csv/contactos_campana.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,promociones_calendario.csv,datos/marketing_precision/raw_csv/promociones_calendario.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,eventos_web_app.csv,datos/marketing_precision/raw_csv/eventos_web_app.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Datos,afinidad_tienda_cliente.csv,datos/marketing_precision/raw_csv/afinidad_tienda_cliente.csv,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Material,"deploy.ps1, cleanup.ps1, config.example.json",escenarios/08-fabric-iq-ontologia/,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Material,"Notebooks, ontología e instrucciones del agente",escenarios/08-fabric-iq-ontologia/fabric/,Sí,
+"08 · Fabric IQ: ontología, grafo y agente",Material,Laboratorios 0–6 y guion de 15 min,escenarios/08-fabric-iq-ontologia/docs/,Sí,
+09 · Interpretabilidad GenAI,Datos,Documentos FS-KB-01 a FS-KB-10,datos/rag_copilot_studio/knowledge_base/Documentos_Knowledge_Clasificados/,Sí,
+09 · Interpretabilidad GenAI,Datos,FS_TestSet_Documental.csv,datos/rag_copilot_studio/test_sets/FS_TestSet_Documental.csv,Sí,
+09 · Interpretabilidad GenAI,Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,
+09 · Interpretabilidad GenAI,Material,sales_models_artifact.joblib (escenario 04),escenarios/04-analitica-ventas-ml/artifacts/sales_models_artifact.joblib,Sí,
+09 · Interpretabilidad GenAI,Material,Notebooks 01–03,escenarios/09-genai-interpretabilidad/notebooks_instructor/,Sí,
+10 · Agentes con Foundry,Datos,crm.csv,datos/retail_omnicanal/raw_csv/crm.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,pedidos.csv,datos/retail_omnicanal/raw_csv/pedidos.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,lineas_pedido.csv,datos/retail_omnicanal/raw_csv/lineas_pedido.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,devoluciones_online.csv,datos/retail_omnicanal/raw_csv/devoluciones_online.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,ventas_pos.csv,datos/retail_omnicanal/raw_csv/ventas_pos.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,devoluciones_tienda.csv,datos/retail_omnicanal/raw_csv/devoluciones_tienda.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,pagos_tienda.csv,datos/retail_omnicanal/raw_csv/pagos_tienda.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,stock_diario.csv,datos/retail_omnicanal/raw_csv/stock_diario.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,productos.csv,datos/retail_omnicanal/raw_csv/productos.csv,Sí,Data Pipeline
+10 · Agentes con Foundry,Datos,fact_transacciones.csv,datos/retail_omnicanal/raw_csv/fact_transacciones.csv,Sí,TrendHunter
+10 · Agentes con Foundry,Material,"Diseños multiagente (Data Pipeline, TrendHunter, TrendScout v2)",escenarios/10-agentes-foundry/,Sí,

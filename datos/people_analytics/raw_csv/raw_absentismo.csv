@@ -1,0 +1,1522 @@
+﻿ausencia_id,employee_code_raw,fecha_inicio_txt,fecha_fin_txt,tipo_ausencia_raw,dias_laborables_raw,justificada_raw,observaciones_raw
+ABS000001,FSH0001,2025-11-05,2025-11-10,Enfermedad común,6,Sí,
+ABS000002,FSH0002,08/02/2026,2026-02-08,Enfermedad común,1,Sí,Validado por manager
+ABS000003,FSH0002,2025-11-03,2025-11-04,Enfermedad común,2,Sí,Parte pendiente
+ABS000004,FSH0002,2025-11-26,2025-11-26,Enfermedad común,1,Sí,Carga automática
+ABS000005,fsh0003,2025-09-01,2025-09-01,Enfermedad común,1,Sí,Carga automática
+ABS000006,FSH0004,03-04-26,05/04/2026,Enfermedad común,3,Pendiente,
+ABS000007,FSH0005,2026-01-01,2026-01-04,Enfermedad común,4,Si,Carga automática
+ABS000008,FSH0007,2026-03-26,2026-03-28,Permiso retribuido,3,Si,Carga automática
+ABS000009,FSH0008,02/04/2026,05-04-26,Permiso retribuido,4,Sí,Carga automática
+ABS000010,FSH0009,2026-04-20,2026-04-23,Enfermedad común,4,Si,Validado por manager
+ABS000011,FSH0011,2025-11-23,23/11/2025,Enfermedad común,1,Si,Parte pendiente
+ABS000012,FSH0011,02/06/25,2025-06-06,Permiso retribuido,5,Si,Validado por manager
+ABS000013,FSH0012,2025-10-24,2025-10-24,Enfermedad común,1,Sí,Parte pendiente
+ABS000014,FSH0012,07/09/25,09-09-25,Accidente laboral,3,Sí,Parte pendiente
+ABS000015,FSH0012,22-11-25,2025-11-22,Permiso retribuido,1,Sí,
+ABS000016,FSH0012,24/09/2025,24-09-25,Enfermedad común,1,Sí,
+ABS000017,FSH0013,2026-01-12,2026-01-14,Enfermedad común,3,Sí,Carga automática
+ABS000018,FSH0013,14/04/26,2026-04-14,Enfermedad común,1,Si,Parte pendiente
+ABS000019,FSH0014,2025-06-02,06/06/25,Enfermedad común,5,No,
+ABS000020,FSH0014,23/02/2026,2026-02-26,Cuidado familiar,4,Si,
+ABS000021,FSH0014,2025-05-22,2025-05-23,Permiso retribuido,2,Sí,Carga automática
+ABS000022,FSH0015,2025-10-10,15-10-25,Permiso retribuido,6,Sí,Validado por manager
+ABS000023,FSH0016,03/09/2025,08/09/2025,Enfermedad común,6,Sí,Carga automática
+ABS000024,FSH0017,2025-11-19,21/11/2025,Enfermedad común,3,Sí,Parte pendiente
+ABS000025,FSH0018,2025-06-22,24/06/2025,Enfermedad común,3,Si,Validado por manager
+ABS000026,FSH0019,2025-11-20,20/11/2025,Enfermedad común,1,Pendiente,
+ABS000027,FSH0020,2025-07-29,02/08/2025,Permiso retribuido,5,Sí,Parte pendiente
+ABS000028,FSH0020,28/09/2025,29/09/25,Enfermedad común,2,Sí,
+ABS000029,FSH0020,29/04/2026,2026-04-29,Cuidado familiar,1,Sí,Validado por manager
+ABS000030,FSH0021,2026-04-22,2026-04-25,Enfermedad común,4,Sí,Carga automática
+ABS000031,FSH0021,14/01/2026,16/01/2026,Enfermedad común,3,Si,
+ABS000032,FSH0021,2025-08-20,2025-08-23,Enfermedad común,4,Pendiente,Validado por manager
+ABS000033,FSH0023,11/11/25,2025-11-14,Cuidado familiar,4,Sí,Parte pendiente
+ABS000034,FSH0024,31-10-25,01/11/2025,Permiso retribuido,2,Sí,Carga automática
+ABS000035,FSH0024,2025-05-18,2025-05-18,Enfermedad común,1,Sí,
+ABS000036,FSH0024,2026-03-27,28/03/2026,Enfermedad común,2,Sí,Validado por manager
+ABS000037,FSH0024,2025-05-31,2025-06-04,Permiso retribuido,5,Sí,Parte pendiente
+ABS000038,FSH0025,2025-10-16,23-10-25,Permiso retribuido,8,Sí,Carga automática
+ABS000039,FSH0026,2025-06-11,2025-06-12,Accidente laboral,2,Sí,Parte pendiente
+ABS000040,FSH0027,2026-01-23,23/01/2026,Permiso retribuido,1,Si,Validado por manager
+ABS000041,FSH0027,2025-12-18,22/12/25,Permiso retribuido,5,Sí,Validado por manager
+ABS000042,FSH0027,20/03/2026,21/03/2026,Enfermedad común,2,Si,Validado por manager
+ABS000043,FSH0027,10/01/2026,10/01/2026,Enfermedad común,1,Sí,Validado por manager
+ABS000044,FSH0028,2026-03-08,2026-03-10,Permiso retribuido,3,No,
+ABS000045,FSH0029,2025-09-07,08-09-25,Permiso retribuido,2,Sí,Validado por manager
+ABS000046,FSH0029,2026-02-27,2026-02-27,Enfermedad común,1,Sí,Validado por manager
+ABS000047,FSH0029,14/07/2025,15-07-25,Permiso retribuido,2,Sí,
+ABS000048,FSH0030,27/11/2025,2025-11-28,Enfermedad común,2,Sí,Validado por manager
+ABS000049,FSH0031,2026-01-27,2026-01-29,Accidente laboral,3,Sí,Carga automática
+ABS000050,FSH0032,2026-01-23,2026-02-01,Enfermedad común,10,Si,Parte pendiente
+ABS000051,FSH0033,26/06/2025,2025-07-01,Permiso retribuido,6,Sí,Validado por manager
+ABS000052,FSH0033,24/02/2026,25-02-26,Cuidado familiar,2,Sí,
+ABS000053,FSH0034,2025-11-18,24-11-25,Enfermedad común,7,Si,Parte pendiente
+ABS000054,FSH0034,2026-01-17,2026-01-19,Permiso retribuido,3,Sí,Carga automática
+ABS000055,FSH0035,2026-01-31,31-01-26,Enfermedad común,1,No,Validado por manager
+ABS000056,FSH0036,2025-05-17,2025-05-17,Accidente laboral,1,Sí,Parte pendiente
+ABS000057,FSH0036,14-04-26,2026-04-18,Permiso retribuido,5,Sí,Carga automática
+ABS000058,FSH0037,2026-02-26,2026-02-28,Permiso retribuido,3,Sí,Parte pendiente
+ABS000059,FSH0037,2025-06-03,2025-06-05,Accidente laboral,3,Sí,Carga automática
+ABS000060,FSH0038,06-08-25,15-08-25,Permiso retribuido,10,Sí,Validado por manager
+ABS000061,FSH0039,2025-05-07,07/05/2025,Permiso retribuido,1,Si,
+ABS000062,FSH0040,21/12/2025,2025-12-24,Enfermedad común,4,Sí,Parte pendiente
+ABS000063,FSH0040,2025-07-12,2025-07-12,Enfermedad común,1,Si,Carga automática
+ABS000064,FSH0040,2025-10-25,26-10-25,Permiso retribuido,2,Sí,
+ABS000065,FSH0040,2025-12-18,20/12/2025,Accidente laboral,3,No,Validado por manager
+ABS000066,FSH0041,2026-02-07,2026-02-08,Accidente laboral,2,Sí,Validado por manager
+ABS000067,FSH0042,2026-01-05,06/01/2026,Permiso retribuido,2,Sí,Carga automática
+ABS000068,FSH-0042,2025-06-25,2025-06-25,Enfermedad común,1,Si,Parte pendiente
+ABS000069,FSH0042,22-10-25,22-10-25,Enfermedad común,1,Si,Validado por manager
+ABS000070,FSH0042,2026-03-08,2026-03-08,Enfermedad común,1,Sí,Carga automática
+ABS000071,FSH0044,15/01/2026,17/01/2026,Permiso retribuido,3,Sí,Carga automática
+ABS000072,FSH0044,01/06/2025,2025-06-01,Enfermedad común,1,Sí,
+ABS000073,FSH0044,2025-06-02,2025-06-04,Enfermedad común,3,Sí,
+ABS000074,FSH0045,18/08/2025,20/08/2025,Permiso retribuido,3,Sí,Carga automática
+ABS000075,FSH0046,2025-05-11,11-05-25,Permiso retribuido,1,Sí,Parte pendiente
+ABS000076,FSH0046,2026-04-17,2026-04-19,Enfermedad común,3,Si,Parte pendiente
+ABS000077,FSH0047,2025-10-05,05/10/2025,Enfermedad común,1,Sí,Carga automática
+ABS000078,FSH0048,2025-12-21,23/12/2025,Enfermedad común,3,Sí,Carga automática
+ABS000079,FSH0049,14-07-25,17/07/2025,Enfermedad común,4,Sí,
+ABS000080,FSH0050,2025-11-25,08-12-25,Enfermedad común,14,Sí,Validado por manager
+ABS000081,FSH0051,2025-05-21,2025-05-23,Enfermedad común,3,Si,Carga automática
+ABS000082,FSH0052,05-11-25,2025-11-08,Permiso retribuido,4,Sí,
+ABS000083,FSH0052,18/02/2026,20/02/2026,Permiso retribuido,3,Si,Parte pendiente
+ABS000084,FSH0052,24/08/2025,24/08/25,Enfermedad común,1,Sí,Carga automática
+ABS000085,FSH0052,02-02-26,03/02/2026,Enfermedad común,2,Si,Carga automática
+ABS000086,FSH0054,2025-12-16,18/12/2025,Enfermedad común,3,Pendiente,Carga automática
+ABS000087,FSH-0055,21-10-25,2025-10-23,Permiso retribuido,3,Sí,Carga automática
+ABS000088,FSH0055,09/02/2026,11/02/2026,Enfermedad común,3,Sí,Carga automática
+ABS000089,FSH0055,2025-08-11,11-08-25,Permiso retribuido,1,Sí,Validado por manager
+ABS000090,FSH0055,04/02/2026,2026-02-06,Permiso retribuido,3,Si,Carga automática
+ABS000091,FSH0056,2025-06-08,2025-06-08,Enfermedad común,1,Sí,Validado por manager
+ABS000092,FSH0056,2025-06-09,2025-06-10,Permiso retribuido,2,Sí,Validado por manager
+ABS000093,FSH0056,23/08/2025,23/08/2025,Enfermedad común,1,Sí,
+ABS000094,FSH0056,2026-04-02,03/04/2026,Accidente laboral,2,Sí,Carga automática
+ABS000095,FSH0057,26/03/2026,2026-03-30,Enfermedad común,5,Sí,Validado por manager
+ABS000096,FSH0057,05/08/2025,2025-08-06,Enfermedad común,2,Sí,
+ABS000097,FSH0057,2025-06-03,05/06/25,Enfermedad común,3,Si,Parte pendiente
+ABS000098,FSH0057,01/01/2026,01-01-26,Enfermedad común,1,Sí,Carga automática
+ABS000099,FSH0058,2026-03-04,2026-03-04,Accidente laboral,1,Sí,Carga automática
+ABS000100,FSH0059,2025-07-16,17/07/2025,Enfermedad común,2,No,
+ABS000101,FSH0059,29/12/25,30-12-25,Permiso retribuido,2,Sí,Parte pendiente
+ABS000102,FSH0059,24/03/2026,25/03/2026,Enfermedad común,2,Sí,
+ABS000103,FSH0059,2025-12-09,12/12/25,Enfermedad común,4,No,Validado por manager
+ABS000104,FSH0060,25/05/25,2025-05-26,Cuidado familiar,2,Sí,Carga automática
+ABS000105,FSH0060,2025-12-18,18-12-25,Enfermedad común,1,Si,Carga automática
+ABS000106,FSH0060,02-01-26,04/01/2026,Ausencia injustificada,3,Sí,Validado por manager
+ABS000107,FSH0061,2025-10-31,09-11-25,Ausencia injustificada,10,Sí,Validado por manager
+ABS000108,FSH0062,2025-08-25,29/08/25,Accidente laboral,5,Sí,Carga automática
+ABS000109,FSH0062,2025-11-16,2025-11-16,Permiso retribuido,1,Sí,Validado por manager
+ABS000110,FSH0062,15/08/25,2025-08-17,Permiso retribuido,3,Sí,Carga automática
+ABS000111,FSH0063,13/02/2026,17/02/26,Enfermedad común,5,Sí,Validado por manager
+ABS000112,FSH0063,2026-03-03,2026-03-05,Enfermedad común,3,Si,Validado por manager
+ABS000113,FSH0063,2026-01-02,2026-01-02,Permiso retribuido,1,Sí,Validado por manager
+ABS000114,FSH0064,12/11/2025,15-11-25,Enfermedad común,4,Si,
+ABS000115,FSH0064,2025-12-26,2025-12-26,Accidente laboral,1,Sí,Validado por manager
+ABS000116,FSH0065,2025-05-16,2025-05-16,Ausencia injustificada,1,Sí,Parte pendiente
+ABS000117,FSH0066,2025-05-14,17-05-25,Permiso retribuido,4,Si,Parte pendiente
+ABS000118,FSH0066,18/01/26,2026-01-18,Enfermedad común,1,Sí,Carga automática
+ABS000119,FSH0066,27/06/2025,27/06/25,Cuidado familiar,1,Sí,Validado por manager
+ABS000120,FSH0067,2025-06-17,2025-06-18,Enfermedad común,2,Si,Parte pendiente
+ABS000121,fsh0067,2026-02-23,2026-02-24,Accidente laboral,2,Sí,Validado por manager
+ABS000122,FSH0068,15/10/2025,2025-10-20,Cuidado familiar,6,Sí,Validado por manager
+ABS000123,FSH0068,16/11/2025,2025-11-17,Enfermedad común,2,Sí,Validado por manager
+ABS000124,FSH0069,28-12-25,03/01/2026,Enfermedad común,7,Sí,
+ABS000125,FSH0069,2025-10-22,2025-10-23,Enfermedad común,2,Sí,
+ABS000126,FSH0069,12/06/2025,2025-06-12,Enfermedad común,1,No,Parte pendiente
+ABS000127,FSH0070,19/08/2025,2025-08-20,Enfermedad común,2,Si,Parte pendiente
+ABS000128,FSH0070,2025-11-27,2025-12-06,Enfermedad común,10,Sí,
+ABS000129,FSH0071,2025-05-23,28/05/2025,Enfermedad común,6,Si,Parte pendiente
+ABS000130,FSH0071,2025-11-23,2025-12-01,Enfermedad común,9,Sí,Validado por manager
+ABS000131,FSH0072,2025-12-08,2025-12-09,Permiso retribuido,2,Sí,
+ABS000132,FSH-0072,06/06/2025,2025-06-06,Enfermedad común,1,Pendiente,Validado por manager
+ABS000133,FSH0072,28-10-25,28/10/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000134,FSH0072,2025-07-24,24/07/2025,Permiso retribuido,1,Si,
+ABS000135,FSH0073,2025-05-31,31/05/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000136,FSH0073,2025-08-02,04/08/2025,Permiso retribuido,3,Si,
+ABS000137,FSH0073,11/06/25,14/06/2025,Enfermedad común,4,Si,
+ABS000138,FSH0074,2025-05-05,2025-05-07,Permiso retribuido,3,Sí,Carga automática
+ABS000139,FSH0074,2025-09-19,19/09/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000140,FSH0074,15/12/25,2025-12-15,Ausencia injustificada,1,Sí,Validado por manager
+ABS000141,FSH0075,24/08/25,2025-08-25,Enfermedad común,2,Si,Parte pendiente
+ABS000142,FSH0075,2026-01-31,2026-02-01,Enfermedad común,2,Si,Carga automática
+ABS000143,FSH0075,19/05/2025,24/05/2025,Enfermedad común,6,Sí,
+ABS000144,FSH0077,2025-07-04,2025-07-09,Enfermedad común,6,Sí,Parte pendiente
+ABS000145,FSH0077,15/04/26,2026-04-16,Permiso retribuido,2,Sí,Carga automática
+ABS000146,FSH0078,2025-11-06,2025-11-07,Enfermedad común,2,Sí,Parte pendiente
+ABS000147,FSH0078,12-12-25,12-12-25,Enfermedad común,1,Sí,
+ABS000148, FSH0078 ,2025-12-20,20/12/2025,Enfermedad común,1,Si,Validado por manager
+ABS000149, FSH0079 ,06/01/2026,06/01/2026,Enfermedad común,1,Sí,
+ABS000150,FSH0079,2025-08-24,24/08/2025,Enfermedad común,1,Pendiente,
+ABS000151,FSH0079,25-05-25,2025-05-25,Ausencia injustificada,1,Sí,Parte pendiente
+ABS000152,FSH0079,15/03/2026,2026-03-16,Permiso retribuido,2,Sí,Carga automática
+ABS000153,FSH0080,2026-01-04,2026-01-14,Enfermedad común,11,Sí,
+ABS000154,FSH0081,2025-05-31,2025-06-04,Enfermedad común,5,Si,Parte pendiente
+ABS000155,FSH0081,2025-11-02,06/11/2025,Enfermedad común,5,Si,Carga automática
+ABS000156,FSH0081,03/10/2025,2025-10-03,Permiso retribuido,1,Sí,Parte pendiente
+ABS000157,FSH0081,22/06/2025,2025-06-23,Enfermedad común,2,Si,Validado por manager
+ABS000158,FSH0082,16/11/2025,2025-11-18,Permiso retribuido,3,Sí,Parte pendiente
+ABS000159,FSH0083,2026-04-02,2026-04-03,Accidente laboral,2,Sí,Carga automática
+ABS000160,FSH0084,05/01/2026,09/01/2026,Enfermedad común,5,Si,Parte pendiente
+ABS000161,FSH0084,2025-12-21,22/12/2025,Ausencia injustificada,2,Sí,Validado por manager
+ABS000162,FSH0084,16-08-25,2025-08-17,Enfermedad común,,Si,Parte pendiente
+ABS000163,FSH0084,01/03/2026,2026-03-03,Enfermedad común,3,Sí,Validado por manager
+ABS000164,FSH0085,12/07/2025,15-07-25,Ausencia injustificada,4,Sí,Validado por manager
+ABS000165,FSH0086,03-08-25,03-08-25,Permiso retribuido,1,Sí,Carga automática
+ABS000166,FSH0086,13-02-26,2026-02-15,Enfermedad común,3,Sí,Carga automática
+ABS000167, FSH0088 ,11/05/2025,2025-05-12,Enfermedad común,2,Sí,
+ABS000168,FSH0089,2025-08-01,05/08/2025,Enfermedad común,5,Sí,Carga automática
+ABS000169,FSH0089,12/11/2025,2025-11-13,Enfermedad común,2,Sí,Parte pendiente
+ABS000170,FSH0089,2025-08-12,12/08/2025,Permiso retribuido,1,Si,Parte pendiente
+ABS000171,FSH0090,08/07/2025,2025-07-08,Accidente laboral,1,Sí,Validado por manager
+ABS000172,FSH0090,10/12/2025,2025-12-10,Accidente laboral,1,Sí,Parte pendiente
+ABS000173,FSH0090,04/10/2025,2025-10-04,Enfermedad común,1,Si,
+ABS000174,FSH0090,2026-04-19,2026-04-20,Enfermedad común,2,Pendiente,Validado por manager
+ABS000175,FSH0091,17/07/25,2025-07-21,Enfermedad común,5,Sí,Carga automática
+ABS000176,FSH0092,2025-05-02,2025-05-02,Ausencia injustificada,1,Sí,Validado por manager
+ABS000177,FSH0092,2025-09-19,2025-09-21,Enfermedad común,3,Si,Parte pendiente
+ABS000178,FSH0093,01/10/2025,02/10/2025,Enfermedad común,2,Sí,
+ABS000179,FSH0094,2025-05-17,28/05/2025,Cuidado familiar,12,Sí,
+ABS000180,FSH0095,01/11/2025,2025-11-03,Permiso retribuido,3,Si,Carga automática
+ABS000181,FSH0098,22/04/2026,22-04-26,Ausencia injustificada,1,Sí,Parte pendiente
+ABS000182,FSH0098,2026-04-27,29/04/2026,Enfermedad común,3,Sí,Validado por manager
+ABS000183,FSH-0099,2026-01-15,2026-01-21,Enfermedad común,7,Sí,Parte pendiente
+ABS000184,FSH0099,2025-12-29,29/12/25,Accidente laboral,1,Sí,Validado por manager
+ABS000185,FSH0100,2025-05-26,27/05/2025,Ausencia injustificada,2,Sí,Parte pendiente
+ABS000186,FSH0101,2026-03-25,2026-04-03,Enfermedad común,10,No,Validado por manager
+ABS000187, FSH0102 ,18-10-25,2025-10-19,Permiso retribuido,2,Si,Parte pendiente
+ABS000188,FSH0102,2025-08-31,2025-09-04,Enfermedad común,5,Si,Carga automática
+ABS000189,FSH0102,2026-02-28,2026-03-02,Ausencia injustificada,3,Si,Validado por manager
+ABS000190,FSH0102,2025-08-31,2025-08-31,Permiso retribuido,1,Sí,Parte pendiente
+ABS000191,FSH0103,04/02/26,10/02/2026,Enfermedad común,7,No,Validado por manager
+ABS000192,FSH0103,27/05/2025,2025-05-27,Accidente laboral,1,Si,Parte pendiente
+ABS000193,FSH0104,2026-02-09,12-02-26,Cuidado familiar,4,Sí,Parte pendiente
+ABS000194,FSH0104,2026-02-18,2026-02-18,Enfermedad común,1,Si,Validado por manager
+ABS000195,FSH0105,30-12-25,31-12-25,Enfermedad común,2,No,
+ABS000196,FSH0106,13/06/2025,17/06/2025,Enfermedad común,5,Si,
+ABS000197,FSH0106,12/02/2026,2026-02-12,Permiso retribuido,1,Sí,
+ABS000198,FSH0106,2025-11-11,2025-11-12,Enfermedad común,2,Sí,Validado por manager
+ABS000199,FSH0106,31/03/2026,01-04-26,Ausencia injustificada,2,Pendiente,Validado por manager
+ABS000200,FSH0107,2025-06-19,2025-06-23,Enfermedad común,5,Sí,
+ABS000201,FSH0107,02-01-26,2026-01-02,Enfermedad común,1,Si,
+ABS000202,FSH0107,2025-07-13,2025-07-13,Enfermedad común,1,Si,Validado por manager
+ABS000203,FSH0107,05/03/26,2026-03-05,Permiso retribuido,1,Sí,
+ABS000204,FSH0108,2025-10-27,01/11/2025,Enfermedad común,6,Sí,Validado por manager
+ABS000205,FSH0108,2025-12-17,2025-12-17,Enfermedad común,1,Sí,Carga automática
+ABS000206,FSH0108,2025-05-24,2025-05-25,Enfermedad común,2,Si,Parte pendiente
+ABS000207,FSH0109,25-03-26,2026-03-29,Enfermedad común,5,Si,Parte pendiente
+ABS000208,FSH0109,27/04/2026,2026-04-28,Enfermedad común,2,Sí,Carga automática
+ABS000209,FSH0109,24/07/25,24/07/2025,Accidente laboral,1,Sí,Validado por manager
+ABS000210,FSH0109,2025-12-09,2025-12-09,Enfermedad común,1,Sí,Carga automática
+ABS000211,FSH0110,26-02-26,2026-02-27,Enfermedad común,2,Sí,Parte pendiente
+ABS000212,FSH0111,28/07/2025,02-08-25,Permiso retribuido,6,Pendiente,Parte pendiente
+ABS000213,FSH0111,2025-08-20,2025-08-22,Enfermedad común,3,Si,Parte pendiente
+ABS000214,FSH0111,2025-08-16,2025-08-17,Enfermedad común,2,No,Parte pendiente
+ABS000215,FSH0112,24-12-25,2025-12-25,Permiso retribuido,2,Sí,Carga automática
+ABS000216,FSH0113,07/08/2025,2025-08-15,Permiso retribuido,9,Si,Carga automática
+ABS000217,FSH0114,2025-07-22,2025-07-23,Enfermedad común,2,Sí,
+ABS000218,FSH0114,2025-10-20,2025-10-23,Accidente laboral,4,Sí,Carga automática
+ABS000219,FSH0114,2025-09-22,23/09/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000220, FSH0114 ,08/06/2025,2025-06-09,Cuidado familiar,2,Sí,Validado por manager
+ABS000221,FSH0115,2025-05-03,2025-05-08,Cuidado familiar,6,Sí,
+ABS000222,FSH0116,23-07-25,2025-07-23,Permiso retribuido,1,Sí,Parte pendiente
+ABS000223,FSH0116,2025-08-22,23/08/2025,Permiso retribuido,2,Sí,Validado por manager
+ABS000224,FSH0116,2025-06-30,2025-06-30,Cuidado familiar,1,Sí,Parte pendiente
+ABS000225,FSH0116,2025-05-25,2025-05-25,Enfermedad común,1,Si,Carga automática
+ABS000226,FSH0117,2025-12-29,2025-12-29,Cuidado familiar,1,Sí,
+ABS000227,FSH0117,2025-06-15,2025-06-16,Enfermedad común,2,Sí,
+ABS000228,FSH0117,17/02/2026,17-02-26,Enfermedad común,1,Si,Validado por manager
+ABS000229,FSH0118,08/02/26,2026-02-09,Enfermedad común,2,Sí,Carga automática
+ABS000230,FSH0118,2025-05-25,2025-05-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000231,FSH0118,2026-01-04,2026-01-13,Enfermedad común,10,Sí,Carga automática
+ABS000232,FSH0119,2025-05-17,2025-05-21,Permiso retribuido,5,No,Parte pendiente
+ABS000233,FSH0119,21/01/2026,2026-01-22,Permiso retribuido,2,Sí,Carga automática
+ABS000234,FSH0120,2025-05-10,2025-05-12,Enfermedad común,3,Sí,Carga automática
+ABS000235,FSH0121,2025-06-18,22/06/2025,Enfermedad común,5,Sí,Parte pendiente
+ABS000236,FSH0121,11-04-26,11/04/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS000237,FSH0121,2025-05-15,2025-05-15,Permiso retribuido,1,Sí,
+ABS000238,FSH0121,17/10/2025,2025-10-17,Permiso retribuido,1,Sí,Validado por manager
+ABS000239,FSH0122,16-02-26,16/02/2026,Enfermedad común,1,Sí,Carga automática
+ABS000240,FSH-0123,2026-02-17,17-02-26,Ausencia injustificada,1,No,Validado por manager
+ABS000241,FSH0123,13-03-26,2026-03-13,Enfermedad común,1,Sí,
+ABS000242,FSH0123,30/07/2025,2025-08-01,Enfermedad común,3,Si,Parte pendiente
+ABS000243,FSH0127,2025-10-07,07/10/2025,Enfermedad común,1,Si,Carga automática
+ABS000244,FSH0127,2025-08-07,11/08/2025,Permiso retribuido,5,Si,Parte pendiente
+ABS000245,FSH0127,15/12/2025,2025-12-15,Enfermedad común,1,Sí,Validado por manager
+ABS000246,FSH0128,2026-03-06,2026-03-07,Enfermedad común,2,Si,Parte pendiente
+ABS000247,FSH0128,29-12-25,2026-01-04,Enfermedad común,7,Sí,Parte pendiente
+ABS000248,FSH0129,2025-06-10,2025-06-12,Enfermedad común,3,Si,Carga automática
+ABS000249,FSH0131,09-04-26,2026-04-10,Enfermedad común,2,Sí,
+ABS000250,FSH0131,15/07/2025,15/07/25,Enfermedad común,1,Si,
+ABS000251,FSH0131,2025-10-13,2025-10-13,Accidente laboral,1,Sí,Carga automática
+ABS000252,FSH0131,02/10/2025,02-10-25,Accidente laboral,1,Sí,Parte pendiente
+ABS000253, FSH0132 ,09/09/25,2025-09-11,Ausencia injustificada,3,Sí,Validado por manager
+ABS000254,FSH0132,2025-10-08,2025-10-08,Enfermedad común,1,Si,Parte pendiente
+ABS000255,FSH0132,2025-06-15,2025-06-15,Enfermedad común,1,Si,Carga automática
+ABS000256,FSH0133,13/06/2025,2025-06-13,Permiso retribuido,1,Sí,
+ABS000257,FSH0133,2025-05-27,2025-06-04,Enfermedad común,9,Sí,Carga automática
+ABS000258,FSH0134,25/01/26,2026-02-02,Enfermedad común,9,Si,
+ABS000259,FSH0135,2025-11-27,2025-11-30,Permiso retribuido,4,Si,Parte pendiente
+ABS000260,FSH0135,2025-11-13,2025-11-17,Permiso retribuido,5,Sí,Parte pendiente
+ABS000261,FSH0136,2026-04-13,21/04/26,Permiso retribuido,9,Sí,Parte pendiente
+ABS000262,FSH0136,2025-11-06,2025-11-07,Permiso retribuido,2,Sí,Carga automática
+ABS000263,FSH0137,2025-12-02,2025-12-04,Enfermedad común,3,Sí,Carga automática
+ABS000264,FSH0137,05-12-25,2025-12-05,Permiso retribuido,1,Si,
+ABS000265,FSH0137,2025-10-09,09/10/2025,Accidente laboral,1,Si,
+ABS000266,FSH0137,31/05/2025,2025-05-31,Permiso retribuido,1,Sí,
+ABS000267,FSH0138,2026-02-12,15/02/2026,Permiso retribuido,4,Pendiente,Carga automática
+ABS000268,FSH0138,2025-06-17,17/06/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000269,FSH0138,18/07/2025,2025-07-18,Enfermedad común,1,Sí,Carga automática
+ABS000270,FSH0140,2025-12-05,06/12/2025,Enfermedad común,2,Sí,Validado por manager
+ABS000271,FSH0141,20/06/25,22/06/2025,Enfermedad común,3,Sí,Carga automática
+ABS000272,FSH0143,03-01-26,2026-01-03,Permiso retribuido,1,No,Carga automática
+ABS000273,FSH0144,21/01/2026,2026-01-24,Enfermedad común,4,Si,
+ABS000274,FSH0144,2026-04-16,2026-04-23,Enfermedad común,8,Sí,Validado por manager
+ABS000275,FSH0144,2025-09-21,2025-09-21,Cuidado familiar,1,Si,Parte pendiente
+ABS000276,FSH0144,02/03/2026,2026-03-02,Permiso retribuido,1,Sí,Validado por manager
+ABS000277,FSH0145,2025-08-24,01/09/2025,Enfermedad común,9,Sí,Validado por manager
+ABS000278,FSH0145,2025-08-11,2025-08-12,Enfermedad común,2,Pendiente,
+ABS000279,FSH0145,2025-06-20,20/06/25,Enfermedad común,1,Si,
+ABS000280,FSH0145,2026-03-18,2026-03-21,Enfermedad común,4,Sí,Carga automática
+ABS000281,FSH0146,23/08/2025,28/08/2025,Enfermedad común,,Si,Validado por manager
+ABS000282,FSH0146,30/10/25,30/10/2025,Enfermedad común,1,Sí,Carga automática
+ABS000283,FSH0147,16-05-25,16/05/2025,Enfermedad común,1,Si,Carga automática
+ABS000284,FSH0147,2025-10-15,2025-10-19,Enfermedad común,5,Si,Parte pendiente
+ABS000285,FSH0148,2025-05-07,08/05/2025,Cuidado familiar,2,Sí,
+ABS000286,FSH0149,24/02/2026,26/02/2026,Cuidado familiar,3,Sí,
+ABS000287,FSH0149,2025-07-22,2025-07-22,Permiso retribuido,1,No,Parte pendiente
+ABS000288,FSH0151,2026-02-18,2026-02-19,Ausencia injustificada,2,Sí,Validado por manager
+ABS000289, FSH0151 ,29/10/2025,30/10/2025,Enfermedad común,2,Sí,Validado por manager
+ABS000290,FSH0152,10/04/2026,2026-04-13,Cuidado familiar,4,Si,
+ABS000291,FSH0154,2025-12-22,2025-12-22,Permiso retribuido,1,Si,Parte pendiente
+ABS000292,FSH0154,2026-02-14,15/02/2026,Cuidado familiar,2,Sí,Parte pendiente
+ABS000293,FSH0154,2025-08-05,2025-08-05,Ausencia injustificada,1,Sí,Validado por manager
+ABS000294,FSH0154,25/02/2026,25-02-26,Enfermedad común,1,Sí,Carga automática
+ABS000295,FSH0155,2026-04-25,2026-04-25,Accidente laboral,1,Sí,Parte pendiente
+ABS000296,FSH0155,04/12/2025,06-12-25,Enfermedad común,3,Sí,Carga automática
+ABS000297,FSH0156,2026-02-26,02/03/2026,Enfermedad común,5,Sí,Carga automática
+ABS000298,FSH0156,08/09/25,2025-09-09,Permiso retribuido,2,Sí,Parte pendiente
+ABS000299,FSH0156,11/07/2025,2025-07-11,Enfermedad común,1,Sí,
+ABS000300,FSH0156,14/07/2025,2025-07-14,Cuidado familiar,1,Si,Parte pendiente
+ABS000301,FSH0158,06/12/25,2025-12-11,Enfermedad común,6,Sí,Validado por manager
+ABS000302,FSH0158,2026-02-06,2026-02-08,Enfermedad común,3,Si,Carga automática
+ABS000303,FSH0159,05/05/2025,2025-05-09,Permiso retribuido,5,Sí,Validado por manager
+ABS000304,FSH0159,25/02/26,27/02/2026,Enfermedad común,3,Si,Parte pendiente
+ABS000305,FSH0159,2025-07-16,2025-07-16,Cuidado familiar,1,Si,Carga automática
+ABS000306,FSH0160,2026-02-04,04/02/2026,Enfermedad común,1,Sí,
+ABS000307,FSH0160,08-05-25,2025-05-17,Enfermedad común,10,Sí,Parte pendiente
+ABS000308,FSH0161,21/04/2026,22/04/2026,Enfermedad común,2,Sí,Carga automática
+ABS000309,FSH0162,13/07/2025,14/07/25,Enfermedad común,2,Sí,
+ABS000310,FSH0162,2025-11-02,09/11/25,Enfermedad común,8,Sí,Parte pendiente
+ABS000311,FSH0163,17/07/2025,19/07/2025,Enfermedad común,3,Sí,
+ABS000312,FSH0164,2025-12-21,2025-12-23,Accidente laboral,3,Sí,Parte pendiente
+ABS000313, FSH0164 ,2025-06-27,27-06-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000314,FSH0164,27/04/2026,2026-04-27,Cuidado familiar,1,Sí,
+ABS000315,FSH0164,03-11-25,2025-11-03,Ausencia injustificada,1,Sí,
+ABS000316,FSH0165,05/03/26,2026-03-06,Enfermedad común,2,Pendiente,Parte pendiente
+ABS000317,FSH0165,2025-09-29,2025-10-02,Enfermedad común,4,Sí,Carga automática
+ABS000318,FSH0165,2026-04-27,2026-04-27,Permiso retribuido,1,Si,Carga automática
+ABS000319,FSH0165,2025-08-21,21/08/2025,Cuidado familiar,1,Si,Validado por manager
+ABS000320,FSH0166,2025-07-12,2025-07-15,Permiso retribuido,4,Sí,Validado por manager
+ABS000321,FSH0166,2026-03-22,23-03-26,Enfermedad común,2,Sí,
+ABS000322,FSH0166,30/08/2025,2025-08-30,Cuidado familiar,1,Sí,Carga automática
+ABS000323,FSH0167,09-01-26,11/01/2026,Permiso retribuido,3,Sí,Validado por manager
+ABS000324,FSH0167,03-03-26,05/03/26,Enfermedad común,3,Si,Carga automática
+ABS000325,FSH0167,2025-05-04,07-05-25,Enfermedad común,4,Sí,Validado por manager
+ABS000326,FSH0168,2025-12-01,2025-12-05,Enfermedad común,5,Sí,Carga automática
+ABS000327,FSH0168,2025-09-13,2025-09-13,Permiso retribuido,,Sí,Carga automática
+ABS000328,FSH0169,12/12/2025,14/12/2025,Permiso retribuido,3,Sí,
+ABS000329,FSH0169,2025-05-01,01-05-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000330,FSH0169,2025-07-03,2025-07-03,Permiso retribuido,1,Sí,Parte pendiente
+ABS000331,FSH0169,2025-09-03,03/09/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000332,FSH0170,16/02/2026,2026-02-18,Cuidado familiar,3,Sí,Carga automática
+ABS000333,FSH0170,19/07/2025,19/07/2025,Enfermedad común,1,Sí,
+ABS000334,FSH0172,01/09/2025,2025-09-07,Permiso retribuido,7,Sí,
+ABS000335,FSH0172,28/01/2026,2026-01-29,Permiso retribuido,2,Si,Parte pendiente
+ABS000336,FSH0172,2026-02-02,2026-02-02,Ausencia injustificada,1,Sí,Validado por manager
+ABS000337,FSH0173,13-10-25,2025-10-13,Enfermedad común,1,Sí,Validado por manager
+ABS000338,FSH0173,2026-02-06,2026-02-09,Permiso retribuido,4,Sí,Carga automática
+ABS000339,FSH0173,12/10/25,2025-10-12,Enfermedad común,1,Si,Carga automática
+ABS000340,FSH0173,05/06/2025,2025-06-05,Enfermedad común,1,Sí,
+ABS000341,FSH0174,22/12/2025,2025-12-24,Cuidado familiar,3,Sí,Validado por manager
+ABS000342,FSH0174,21/03/2026,2026-03-21,Cuidado familiar,1,Si,
+ABS000343,FSH0174,02/12/2025,2025-12-02,Permiso retribuido,1,Sí,Carga automática
+ABS000344,FSH0174,22/10/2025,23/10/2025,Accidente laboral,2,Sí,Parte pendiente
+ABS000345,FSH0176,2026-02-15,18/02/26,Cuidado familiar,4,Si,
+ABS000346,FSH0176,23/11/2025,23/11/2025,Permiso retribuido,1,Sí,Parte pendiente
+ABS000347,FSH0176,22/10/2025,2025-11-01,Cuidado familiar,11,Si,Parte pendiente
+ABS000348,FSH0178,10-12-25,10-12-25,Enfermedad común,1,Sí,Carga automática
+ABS000349,FSH0178,2025-07-20,21/07/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000350,FSH0178,26/04/26,2026-04-27,Enfermedad común,2,Sí,Carga automática
+ABS000351,FSH0179,2025-11-21,2025-11-28,Enfermedad común,8,Sí,Carga automática
+ABS000352,FSH0181,18-08-25,20/08/25,Permiso retribuido,3,Sí,
+ABS000353,FSH0182,2026-01-03,2026-01-04,Enfermedad común,2,Sí,Parte pendiente
+ABS000354,FSH0182,2026-02-13,15/02/2026,Ausencia injustificada,3,Si,Carga automática
+ABS000355,FSH0183,2026-04-06,11-04-26,Enfermedad común,6,Si,Validado por manager
+ABS000356,FSH0183,2026-03-27,2026-03-27,Cuidado familiar,1,Sí,Carga automática
+ABS000357,FSH0185,27/09/2025,2025-09-27,Enfermedad común,1,Sí,Parte pendiente
+ABS000358,FSH0185,2025-12-17,2025-12-24,Permiso retribuido,8,Sí,Parte pendiente
+ABS000359,FSH0186,2025-08-06,2025-08-06,Enfermedad común,1,Sí,
+ABS000360,FSH0186,2025-11-05,2025-11-05,Permiso retribuido,1,No,Parte pendiente
+ABS000361,FSH0186,2025-08-18,2025-08-18,Enfermedad común,1,Si,
+ABS000362,FSH0186,2026-01-25,2026-01-26,Enfermedad común,2,Sí,Carga automática
+ABS000363,FSH0187,2026-03-07,2026-03-13,Permiso retribuido,7,Sí,Validado por manager
+ABS000364,FSH0188,2025-09-01,04/09/25,Enfermedad común,4,Si,Validado por manager
+ABS000365,FSH0188,2025-10-16,2025-10-16,Permiso retribuido,1,Sí,Validado por manager
+ABS000366,FSH0190,10/07/2025,12/07/2025,Cuidado familiar,3,Sí,Carga automática
+ABS000367,FSH0191,2025-06-04,2025-06-17,Enfermedad común,14,Sí,Validado por manager
+ABS000368,FSH0195,04/12/2025,2025-12-06,Enfermedad común,3,Pendiente,Validado por manager
+ABS000369,FSH0195,2026-03-10,2026-03-10,Enfermedad común,1,Sí,Parte pendiente
+ABS000370,FSH0195,2025-06-02,2025-06-04,Enfermedad común,3,Sí,Validado por manager
+ABS000371,FSH0196,2025-11-11,2025-11-12,Permiso retribuido,2,Si,Carga automática
+ABS000372,FSH0196,2026-01-31,01-02-26,Cuidado familiar,2,Sí,Parte pendiente
+ABS000373,FSH0196,19-09-25,19/09/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000374,FSH0196,01/08/25,2025-08-01,Accidente laboral,1,Sí,
+ABS000375,FSH0197,2025-11-02,07/11/2025,Permiso retribuido,6,Sí,Parte pendiente
+ABS000376,FSH-0197,2025-06-05,07-06-25,Enfermedad común,3,Sí,Parte pendiente
+ABS000377,FSH0197,2025-09-12,13-09-25,Cuidado familiar,2,Sí,
+ABS000378,FSH0197,2026-03-13,13-03-26,Enfermedad común,1,Sí,Carga automática
+ABS000379,FSH0198,27/05/25,28/05/2025,Permiso retribuido,2,Si,Validado por manager
+ABS000380,FSH0199,19/07/2025,20/07/2025,Cuidado familiar,2,Sí,Validado por manager
+ABS000381,FSH0200,06/05/2025,2025-05-09,Enfermedad común,4,Sí,Validado por manager
+ABS000382,FSH0200,2026-02-01,2026-02-02,Enfermedad común,2,No,Validado por manager
+ABS000383,FSH0200,21/01/2026,21-01-26,Permiso retribuido,1,Sí,Carga automática
+ABS000384,FSH-0200,2026-01-02,04/01/26,Enfermedad común,3,Sí,Validado por manager
+ABS000385,FSH0201,2026-02-23,01/03/2026,Enfermedad común,7,Sí,Validado por manager
+ABS000386,FSH0202,2025-11-29,2025-12-01,Enfermedad común,3,Sí,Validado por manager
+ABS000387,FSH0203,28/12/25,2025-12-31,Enfermedad común,4,Sí,Validado por manager
+ABS000388,FSH0203,30/07/2025,2025-08-01,Enfermedad común,3,Si,Validado por manager
+ABS000389,FSH0204,2026-01-19,19-01-26,Permiso retribuido,1,Si,Parte pendiente
+ABS000390,FSH0204,11/09/2025,2025-09-14,Permiso retribuido,4,Si,Carga automática
+ABS000391,FSH0204,2025-11-11,2025-11-11,Enfermedad común,1,Si,Carga automática
+ABS000392,FSH0204,2026-03-07,07/03/2026,Enfermedad común,1,Sí,Carga automática
+ABS000393,FSH-0205,31/10/2025,2025-11-01,Permiso retribuido,2,Sí,Validado por manager
+ABS000394,FSH0205,2026-01-19,2026-01-19,Permiso retribuido,1,Sí,
+ABS000395,FSH0205,2026-03-04,2026-03-04,Permiso retribuido,1,Si,Carga automática
+ABS000396,FSH0205,2025-11-24,2025-11-26,Ausencia injustificada,3,Si,
+ABS000397,FSH0209,20/10/2025,22/10/2025,Enfermedad común,3,Sí,Parte pendiente
+ABS000398,FSH0211,2026-02-01,2026-02-04,Enfermedad común,4,Si,
+ABS000399,FSH0212,2025-12-18,19/12/2025,Enfermedad común,2,Si,Parte pendiente
+ABS000400,FSH0213,22/09/25,2025-09-24,Enfermedad común,3,Sí,Validado por manager
+ABS000401,FSH0213,18/03/26,18/03/2026,Permiso retribuido,1,Si,Parte pendiente
+ABS000402,FSH0213,13/06/2025,13/06/25,Enfermedad común,1,Si,Carga automática
+ABS000403,FSH0214,2026-03-09,2026-03-10,Enfermedad común,2,Sí,
+ABS000404,FSH0214,2026-01-30,30/01/2026,Enfermedad común,1,Sí,Carga automática
+ABS000405,FSH0214,12/04/2026,2026-04-12,Permiso retribuido,1,Si,
+ABS000406,FSH0214,2025-07-04,2025-07-04,Permiso retribuido,1,Si,
+ABS000407,FSH0215,21-01-26,2026-01-22,Enfermedad común,2,Sí,
+ABS000408,FSH0215,2026-02-10,15-02-26,Cuidado familiar,6,Sí,
+ABS000409,FSH0216,23-05-25,25-05-25,Enfermedad común,3,Si,Parte pendiente
+ABS000410,FSH0216,2025-07-06,2025-07-07,Enfermedad común,2,Si,
+ABS000411,FSH0216,2025-09-08,2025-09-08,Ausencia injustificada,1,Si,Parte pendiente
+ABS000412,FSH0217,09/01/2026,13-01-26,Enfermedad común,5,Si,Carga automática
+ABS000413,FSH0218,24-09-25,24/09/2025,Enfermedad común,1,Pendiente,Carga automática
+ABS000414,FSH0218,27/03/2026,28-03-26,Enfermedad común,2,Sí,Parte pendiente
+ABS000415,FSH0218,09/05/25,09/05/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000416,FSH0218,2026-01-04,2026-01-05,Enfermedad común,2,Si,
+ABS000417,FSH0219,20/04/2026,26/04/2026,Permiso retribuido,7,Sí,Parte pendiente
+ABS000418,FSH0219,30/01/2026,2026-02-01,Enfermedad común,3,Si,Parte pendiente
+ABS000419,FSH0219,2025-08-24,24/08/25,Enfermedad común,1,Sí,Carga automática
+ABS000420,FSH0220,09-10-25,2025-10-11,Permiso retribuido,3,Si,Carga automática
+ABS000421,FSH0221,2025-05-22,2025-05-23,Enfermedad común,2,Sí,Carga automática
+ABS000422,FSH0222,2026-02-13,15/02/26,Accidente laboral,3,No,Parte pendiente
+ABS000423,FSH0223,20-06-25,2025-06-22,Cuidado familiar,3,Si,Validado por manager
+ABS000424,FSH0225,2025-09-10,11/09/25,Enfermedad común,2,Sí,Parte pendiente
+ABS000425,FSH0225,2025-12-31,2026-01-08,Enfermedad común,9,Sí,Carga automática
+ABS000426,FSH0225,28/10/2025,28/10/25,Enfermedad común,1,Sí,Parte pendiente
+ABS000427,FSH0225,01/07/2025,2025-07-01,Enfermedad común,1,Sí,Carga automática
+ABS000428,fsh0227,2025-07-13,2025-07-17,Enfermedad común,5,Sí,
+ABS000429,FSH0228,2026-04-22,24-04-26,Enfermedad común,3,Sí,Parte pendiente
+ABS000430,FSH0229,01/05/25,2025-05-02,Enfermedad común,2,Sí,
+ABS000431,FSH0229,2025-07-11,20/07/2025,Enfermedad común,10,Sí,
+ABS000432, FSH0230 ,2026-04-07,11/04/2026,Enfermedad común,5,Sí,
+ABS000433,FSH0231,20-04-26,2026-04-21,Permiso retribuido,2,Si,
+ABS000434,FSH0232,2025-08-07,08-08-25,Accidente laboral,2,Sí,Validado por manager
+ABS000435,FSH0232,12/10/2025,20/10/2025,Enfermedad común,9,Sí,
+ABS000436,FSH0232,2025-06-22,24-06-25,Enfermedad común,3,Sí,
+ABS000437,FSH0234,14/10/25,16-10-25,Enfermedad común,3,Sí,Validado por manager
+ABS000438,FSH0234,2026-04-12,2026-04-12,Enfermedad común,1,Si,Validado por manager
+ABS000439,FSH0234,2025-09-24,2025-09-24,Permiso retribuido,1,Sí,
+ABS000440,FSH0235,18/06/2025,2025-06-20,Cuidado familiar,3,Sí,Carga automática
+ABS000441,FSH0235,24/04/2026,2026-04-28,Enfermedad común,5,Sí,Parte pendiente
+ABS000442,FSH0236,2026-03-25,26-03-26,Permiso retribuido,2,Sí,
+ABS000443,FSH0237,2026-02-21,24-02-26,Enfermedad común,4,Si,Validado por manager
+ABS000444,FSH0237,2025-11-30,01/12/2025,Enfermedad común,2,Sí,Validado por manager
+ABS000445,FSH0237,09/08/2025,2025-08-10,Enfermedad común,2,Si,Carga automática
+ABS000446,FSH0237,2026-01-26,27/01/26,Enfermedad común,2,Si,Validado por manager
+ABS000447,FSH0238,2025-05-17,17/05/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000448,FSH0239,05-08-25,2025-08-07,Enfermedad común,3,Pendiente,Parte pendiente
+ABS000449,FSH0240,2026-03-01,2026-03-06,Permiso retribuido,6,Sí,
+ABS000450,FSH0241,2026-02-11,16/02/2026,Enfermedad común,6,Si,Carga automática
+ABS000451,FSH0242,2025-12-01,10-12-25,Permiso retribuido,10,Pendiente,Validado por manager
+ABS000452,FSH0242,2025-06-30,2025-07-01,Enfermedad común,2,Si,Validado por manager
+ABS000453,FSH-0243,2025-08-26,27-08-25,Accidente laboral,2,Si,Carga automática
+ABS000454,FSH0244,23-04-26,2026-04-23,Accidente laboral,1,Sí,
+ABS000455,FSH0244,2025-09-23,2025-09-26,Enfermedad común,4,Sí,Validado por manager
+ABS000456,FSH0244,2025-07-04,07/07/2025,Enfermedad común,4,Sí,Carga automática
+ABS000457,FSH0245,2026-03-11,2026-03-19,Enfermedad común,9,Sí,Validado por manager
+ABS000458,FSH0245,2026-03-21,24-03-26,Enfermedad común,4,Si,Carga automática
+ABS000459,FSH0245,02/02/2026,2026-02-02,Enfermedad común,1,Si,Carga automática
+ABS000460,FSH0246,2025-12-15,2025-12-25,Enfermedad común,11,Sí,Validado por manager
+ABS000461,FSH0246,2025-09-22,2025-09-23,Enfermedad común,2,Si,
+ABS000462,FSH0247,08/01/26,08/01/2026,Enfermedad común,1,Sí,
+ABS000463,FSH0247,2025-07-15,2025-07-18,Enfermedad común,4,Sí,
+ABS000464,FSH0249,2025-09-08,10/09/25,Enfermedad común,3,Sí,Parte pendiente
+ABS000465,FSH0250,2026-01-08,13-01-26,Enfermedad común,6,Si,
+ABS000466,FSH0250,20-04-26,2026-04-21,Enfermedad común,2,Si,Carga automática
+ABS000467,FSH0251,24/03/2026,2026-03-25,Permiso retribuido,2,Sí,Validado por manager
+ABS000468,FSH0251,2025-12-08,08-12-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000469,FSH0251,2025-12-18,2025-12-18,Accidente laboral,1,Sí,
+ABS000470,FSH0251,2025-05-05,2025-05-05,Enfermedad común,1,Sí,Validado por manager
+ABS000471,FSH0252,2025-09-17,18-09-25,Enfermedad común,2,Sí,Carga automática
+ABS000472,FSH0253,06/02/26,2026-02-12,Enfermedad común,7,Sí,Parte pendiente
+ABS000473,FSH0254,2026-02-19,2026-02-20,Permiso retribuido,2,Sí,Validado por manager
+ABS000474,FSH0254,2025-06-24,24/06/2025,Permiso retribuido,1,Sí,
+ABS000475,FSH0254,27-08-25,28/08/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000476,FSH0255,2025-12-02,03-12-25,Permiso retribuido,2,Pendiente,Validado por manager
+ABS000477,FSH0256,2026-02-16,19/02/2026,Enfermedad común,4,Sí,Parte pendiente
+ABS000478,FSH0256,17-02-26,17/02/2026,Permiso retribuido,1,Si,Parte pendiente
+ABS000479,FSH0256,2025-09-08,2025-09-09,Enfermedad común,2,Sí,Carga automática
+ABS000480,FSH0256,2025-12-25,25/12/2025,Ausencia injustificada,1,No,Parte pendiente
+ABS000481,FSH0257,2025-12-11,2025-12-15,Enfermedad común,5,Sí,Carga automática
+ABS000482,fsh0258,2025-10-23,2025-10-27,Permiso retribuido,5,Sí,Parte pendiente
+ABS000483,FSH0259,2025-09-09,09/09/2025,Enfermedad común,1,No,
+ABS000484,fsh0259,13-01-26,2026-01-13,Accidente laboral,1,Sí,Parte pendiente
+ABS000485,FSH0259,09-08-25,2025-08-10,Enfermedad común,2,Sí,Parte pendiente
+ABS000486,FSH0261,12/01/2026,15/01/2026,Enfermedad común,4,Sí,Parte pendiente
+ABS000487,FSH0262,2025-11-02,02-11-25,Enfermedad común,1,Pendiente,
+ABS000488,FSH0262,09/06/25,2025-06-09,Permiso retribuido,1,Sí,Parte pendiente
+ABS000489,FSH-0262,2025-05-19,2025-05-19,Enfermedad común,1,Sí,Validado por manager
+ABS000490,FSH0262,2026-03-10,2026-03-10,Enfermedad común,1,Si,Parte pendiente
+ABS000491,FSH0263,2026-04-11,2026-04-23,Enfermedad común,13,Sí,Parte pendiente
+ABS000492,FSH0264,2025-12-10,2025-12-16,Enfermedad común,7,Sí,
+ABS000493,fsh0264,2025-06-24,24-06-25,Enfermedad común,1,Pendiente,Carga automática
+ABS000494,FSH0264,2025-11-12,2025-11-12,Enfermedad común,1,No,Validado por manager
+ABS000495,FSH0265,30/12/2025,2026-01-03,Enfermedad común,5,Pendiente,Parte pendiente
+ABS000496,FSH0266,12/01/2026,20/01/2026,Cuidado familiar,9,Sí,Parte pendiente
+ABS000497,FSH0266,21/09/2025,2025-09-24,Permiso retribuido,4,Sí,
+ABS000498,FSH0267,16/10/2025,2025-10-22,Cuidado familiar,7,No,Validado por manager
+ABS000499,FSH0267,27/12/2025,2025-12-30,Enfermedad común,4,Si,Parte pendiente
+ABS000500,FSH0267,30-10-25,2025-11-01,Enfermedad común,3,Si,Carga automática
+ABS000501,FSH0268,24/12/25,2025-12-25,Enfermedad común,2,Si,Carga automática
+ABS000502,FSH0268,01/03/26,2026-03-01,Enfermedad común,1,Si,Carga automática
+ABS000503,FSH0268,2025-05-23,23-05-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000504,FSH0268,04/12/2025,2025-12-07,Permiso retribuido,4,Si,Carga automática
+ABS000505,FSH0269,2025-08-29,01/09/25,Enfermedad común,4,Si,Carga automática
+ABS000506,FSH0269,2025-05-01,2025-05-02,Enfermedad común,2,Si,Parte pendiente
+ABS000507, FSH0269 ,2025-09-25,25/09/25,Enfermedad común,1,Si,Validado por manager
+ABS000508,FSH0269,24-03-26,24/03/2026,Enfermedad común,1,No,Parte pendiente
+ABS000509,FSH0271,05/01/2026,06-01-26,Permiso retribuido,2,Sí,Validado por manager
+ABS000510,FSH0272,09/10/2025,09/10/2025,Enfermedad común,1,Si,Carga automática
+ABS000511,FSH0273,2026-02-12,2026-02-18,Permiso retribuido,7,Sí,Carga automática
+ABS000512,FSH0273,14-06-25,2025-06-14,Enfermedad común,1,No,Carga automática
+ABS000513,FSH0274,2025-09-11,2025-09-13,Enfermedad común,3,Si,Validado por manager
+ABS000514,FSH0275,2025-12-15,17-12-25,Permiso retribuido,3,Sí,Validado por manager
+ABS000515,FSH0275,2025-06-27,01/07/2025,Cuidado familiar,5,Sí,Validado por manager
+ABS000516,FSH-0276,25/08/2025,26/08/2025,Enfermedad común,2,Sí,Carga automática
+ABS000517,FSH0277,2025-12-20,20/12/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000518,FSH0277,17-02-26,17/02/2026,Enfermedad común,1,Sí,Validado por manager
+ABS000519,FSH0277,2026-02-08,2026-02-08,Cuidado familiar,1,Sí,
+ABS000520,FSH0277,03-03-26,2026-03-03,Enfermedad común,1,Sí,Carga automática
+ABS000521,FSH0278,2025-11-25,26-11-25,Enfermedad común,2,Sí,Carga automática
+ABS000522,FSH0279,2025-09-09,2025-09-11,Enfermedad común,3,Sí,Carga automática
+ABS000523,FSH0279,13-04-26,14/04/2026,Accidente laboral,2,Sí,
+ABS000524,FSH0279,22/05/25,22/05/2025,Accidente laboral,1,Sí,
+ABS000525,FSH0280,2026-01-27,04/02/26,Permiso retribuido,9,Sí,Validado por manager
+ABS000526,FSH0280,2026-01-17,2026-01-17,Enfermedad común,1,Si,Parte pendiente
+ABS000527,FSH0281,2025-11-20,21/11/25,Enfermedad común,,Sí,Parte pendiente
+ABS000528,FSH0281,24-10-25,2025-10-24,Enfermedad común,1,Si,Validado por manager
+ABS000529,FSH0281,2025-11-22,2025-11-23,Enfermedad común,2,Sí,Parte pendiente
+ABS000530,FSH0282,2025-12-30,30/12/2025,Accidente laboral,1,Sí,Parte pendiente
+ABS000531,FSH0282,2025-12-19,2025-12-24,Enfermedad común,6,Sí,Carga automática
+ABS000532,FSH0282,31/10/2025,2025-11-06,Enfermedad común,7,Sí,Parte pendiente
+ABS000533,FSH0283,17/05/2025,19/05/2025,Enfermedad común,3,Sí,Validado por manager
+ABS000534,FSH0284,24-05-25,2025-05-26,Cuidado familiar,3,Sí,Carga automática
+ABS000535,FSH0285,2025-12-12,2025-12-22,Enfermedad común,11,Sí,Parte pendiente
+ABS000536,FSH0286,2025-12-09,2025-12-12,Enfermedad común,4,Sí,Parte pendiente
+ABS000537,FSH0286,2026-02-08,2026-02-09,Enfermedad común,2,Sí,Validado por manager
+ABS000538,FSH0286,2025-05-17,2025-05-17,Accidente laboral,1,Sí,Carga automática
+ABS000539,FSH0286,2025-08-22,2025-08-22,Permiso retribuido,1,Sí,Carga automática
+ABS000540,FSH0287,09-06-25,15-06-25,Enfermedad común,7,Sí,
+ABS000541,FSH0287,13/01/2026,13/01/2026,Permiso retribuido,1,Sí,
+ABS000542,FSH0287,06/12/2025,2025-12-06,Permiso retribuido,1,Sí,
+ABS000543,FSH0288,02-05-25,05/05/2025,Enfermedad común,4,Sí,Carga automática
+ABS000544,FSH-0288,2025-11-01,2025-11-02,Enfermedad común,,Sí,
+ABS000545,FSH0288,2025-07-27,27/07/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000546,FSH0289,04/09/2025,10-09-25,Enfermedad común,7,Si,Parte pendiente
+ABS000547,FSH0289,29/03/2026,2026-03-31,Enfermedad común,3,Sí,Parte pendiente
+ABS000548,FSH0290,22-07-25,2025-07-22,Enfermedad común,1,Sí,Carga automática
+ABS000549,FSH0290,2026-01-17,17/01/2026,Accidente laboral,1,Si,Parte pendiente
+ABS000550,FSH0290,2025-12-22,2025-12-26,Enfermedad común,5,Sí,
+ABS000551,FSH0291,2026-01-26,2026-01-26,Cuidado familiar,1,No,Carga automática
+ABS000552,FSH0292,2025-12-01,09/12/25,Ausencia injustificada,9,Sí,Parte pendiente
+ABS000553,FSH0293,16-09-25,2025-09-26,Cuidado familiar,11,Sí,Carga automática
+ABS000554,FSH0295,2026-01-01,2026-01-05,Accidente laboral,5,No,Validado por manager
+ABS000555,FSH0296,2025-07-13,15-07-25,Permiso retribuido,3,Si,Validado por manager
+ABS000556,FSH0298,14-03-26,2026-03-14,Accidente laboral,1,Sí,
+ABS000557,FSH0299,06/03/2026,13/03/2026,Enfermedad común,8,Sí,Parte pendiente
+ABS000558,fsh0300,2025-06-14,16/06/2025,Permiso retribuido,3,Sí,Parte pendiente
+ABS000559,FSH0300,2025-10-12,2025-10-12,Enfermedad común,1,Sí,
+ABS000560,FSH0301,05/01/26,2026-01-07,Ausencia injustificada,3,Sí,Parte pendiente
+ABS000561,FSH0302,04/09/2025,2025-09-12,Enfermedad común,9,Sí,Validado por manager
+ABS000562,FSH0303,2026-01-12,15-01-26,Permiso retribuido,4,Sí,Validado por manager
+ABS000563,FSH0304,2026-02-27,2026-03-02,Enfermedad común,4,Sí,Parte pendiente
+ABS000564,FSH0304,2026-02-14,14/02/2026,Permiso retribuido,1,Sí,Validado por manager
+ABS000565,FSH0304,03-03-26,03/03/2026,Cuidado familiar,1,Sí,Carga automática
+ABS000566,FSH0305,13/08/25,2025-08-13,Enfermedad común,1,Pendiente,Carga automática
+ABS000567,FSH0305,21/10/2025,2025-10-21,Permiso retribuido,1,Sí,Carga automática
+ABS000568,FSH0305,2025-05-04,06-05-25,Accidente laboral,3,Sí,Parte pendiente
+ABS000569,FSH0305,20-05-25,2025-05-22,Enfermedad común,3,Sí,Carga automática
+ABS000570,FSH0306,18/02/2026,2026-02-19,Accidente laboral,2,Sí,Parte pendiente
+ABS000571,FSH0306,2025-08-03,18/08/2025,Permiso retribuido,16,Sí,
+ABS000572,FSH0306,2025-05-28,2025-05-29,Permiso retribuido,2,Sí,Carga automática
+ABS000573,FSH0307,11-12-25,13/12/25,Enfermedad común,3,Si,
+ABS000574,FSH0308,20-02-26,24-02-26,Enfermedad común,5,Sí,Parte pendiente
+ABS000575,FSH0308,25/05/2025,28/05/2025,Enfermedad común,4,Sí,Validado por manager
+ABS000576,FSH0308,2025-12-18,2025-12-18,Enfermedad común,1,Si,Validado por manager
+ABS000577,FSH0308,2025-11-18,18-11-25,Enfermedad común,1,Sí,
+ABS000578,FSH0309,01/02/2026,2026-02-04,Enfermedad común,4,Si,Validado por manager
+ABS000579,FSH0309,08/04/2026,09/04/2026,Enfermedad común,2,Si,Carga automática
+ABS000580,FSH0310,2025-09-02,2025-09-04,Enfermedad común,3,Sí,
+ABS000581,FSH0311,09/06/2025,11/06/25,Enfermedad común,3,Sí,
+ABS000582,FSH0311,02/02/2026,02-02-26,Permiso retribuido,1,Si,Validado por manager
+ABS000583,FSH0311,21/07/2025,2025-07-21,Permiso retribuido,1,Si,
+ABS000584,fsh0312,2025-06-27,2025-06-28,Permiso retribuido,2,Sí,Parte pendiente
+ABS000585,FSH0312,2025-10-06,11/10/25,Ausencia injustificada,6,Sí,Parte pendiente
+ABS000586,FSH0313,2025-10-12,14/10/2025,Accidente laboral,3,Sí,Carga automática
+ABS000587,FSH0313,2026-04-10,2026-04-11,Ausencia injustificada,2,Si,Carga automática
+ABS000588,FSH0314,20-06-25,09/07/2025,Enfermedad común,20,Sí,
+ABS000589,FSH0315,15-09-25,15/09/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000590,FSH0315,23/03/26,2026-03-24,Enfermedad común,2,Si,Parte pendiente
+ABS000591,FSH0315,12/03/26,13/03/2026,Enfermedad común,2,Sí,Carga automática
+ABS000592,FSH0315,2026-03-24,24-03-26,Enfermedad común,1,No,Parte pendiente
+ABS000593,FSH0316,2026-03-16,2026-03-16,Enfermedad común,1,Sí,Carga automática
+ABS000594,FSH0317,13-02-26,2026-02-18,Cuidado familiar,6,Sí,Parte pendiente
+ABS000595,FSH0318,20/09/2025,2025-09-21,Cuidado familiar,2,Si,
+ABS000596,FSH0320,2026-01-29,2026-01-30,Permiso retribuido,2,Sí,Parte pendiente
+ABS000597,FSH0321,27/03/2026,28/03/2026,Enfermedad común,2,Si,
+ABS000598,FSH0321,2026-02-03,2026-02-08,Enfermedad común,6,Sí,Parte pendiente
+ABS000599,FSH0321,2026-03-05,2026-03-05,Enfermedad común,1,Si,Carga automática
+ABS000600,FSH0323,2025-12-04,16/12/2025,Enfermedad común,13,Sí,Carga automática
+ABS000601,FSH0323,2026-02-12,2026-02-12,Permiso retribuido,1,Sí,
+ABS000602,FSH0324,2025-08-06,17/08/25,Cuidado familiar,12,Si,Validado por manager
+ABS000603,FSH0326,2025-10-15,16/10/2025,Permiso retribuido,2,Sí,Carga automática
+ABS000604,FSH0326,2026-04-18,2026-04-18,Enfermedad común,1,Si,Parte pendiente
+ABS000605,FSH0326,2025-12-28,29-12-25,Enfermedad común,2,Sí,Validado por manager
+ABS000606,FSH0327,2025-10-04,2025-10-06,Enfermedad común,3,Sí,Validado por manager
+ABS000607,FSH0327,2025-09-05,2025-09-06,Cuidado familiar,2,Sí,Parte pendiente
+ABS000608,FSH0327,19/07/25,19-07-25,Enfermedad común,1,Si,
+ABS000609,FSH0329,2026-02-10,11-02-26,Enfermedad común,2,Si,Parte pendiente
+ABS000610,FSH0329,2025-07-25,27/07/25,Permiso retribuido,3,Pendiente,
+ABS000611,FSH0330,12/05/2025,2025-05-18,Permiso retribuido,7,Si,Parte pendiente
+ABS000612,FSH0331,2026-04-09,15-04-26,Ausencia injustificada,7,Si,Parte pendiente
+ABS000613,FSH0332,2025-12-15,2025-12-17,Enfermedad común,3,Si,
+ABS000614,FSH0333,14/02/2026,15/02/2026,Ausencia injustificada,2,Sí,Validado por manager
+ABS000615,FSH0333,2025-10-19,2025-10-21,Permiso retribuido,3,Sí,Carga automática
+ABS000616,FSH0334,11-02-26,11-02-26,Enfermedad común,1,Si,Carga automática
+ABS000617,FSH0334,2025-11-05,07/11/25,Enfermedad común,3,Sí,Parte pendiente
+ABS000618,FSH0334,14/03/2026,15/03/2026,Permiso retribuido,2,Sí,Validado por manager
+ABS000619,FSH0335,08-11-25,2025-11-13,Permiso retribuido,6,Sí,
+ABS000620,FSH0335,2025-12-04,2025-12-05,Enfermedad común,2,Sí,Parte pendiente
+ABS000621,FSH0335,05/07/25,05/07/2025,Permiso retribuido,1,No,Parte pendiente
+ABS000622,FSH0337,13/04/26,2026-04-16,Enfermedad común,4,Si,Carga automática
+ABS000623,FSH0337,2025-11-12,14/11/25,Enfermedad común,3,Sí,Carga automática
+ABS000624,FSH0338,2026-01-29,2026-01-30,Enfermedad común,2,Sí,Validado por manager
+ABS000625,FSH0338,22/12/2025,2025-12-25,Enfermedad común,4,Sí,Carga automática
+ABS000626,FSH0339,2025-09-22,23/09/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000627,FSH0339,2026-03-26,2026-03-26,Accidente laboral,1,Si,
+ABS000628,FSH0339,2025-09-30,30/09/2025,Enfermedad común,1,Sí,
+ABS000629,FSH0340,2025-09-17,2025-09-17,Permiso retribuido,1,Sí,Validado por manager
+ABS000630,FSH0340,2025-05-08,2025-05-09,Enfermedad común,2,No,Validado por manager
+ABS000631,FSH0340,01/01/2026,03/01/2026,Cuidado familiar,3,Si,
+ABS000632,FSH0341,2025-07-01,2025-07-03,Permiso retribuido,3,Sí,Parte pendiente
+ABS000633,FSH0341,2026-03-20,22-03-26,Permiso retribuido,3,Sí,Parte pendiente
+ABS000634,FSH0343,03-11-25,07/11/25,Enfermedad común,5,Sí,Carga automática
+ABS000635,FSH0343,19/04/2026,20-04-26,Enfermedad común,2,Si,
+ABS000636,FSH0343,2025-08-01,2025-08-01,Cuidado familiar,1,Sí,Validado por manager
+ABS000637,FSH0343,09-06-25,2025-06-10,Enfermedad común,2,Sí,Validado por manager
+ABS000638,FSH0344,05-01-26,10/01/26,Enfermedad común,6,Sí,Validado por manager
+ABS000639,FSH0347,04/06/2025,05-06-25,Permiso retribuido,2,Sí,Carga automática
+ABS000640,FSH0347,2026-02-01,01/02/2026,Ausencia injustificada,1,Sí,Parte pendiente
+ABS000641,FSH0347,2025-07-22,2025-07-24,Ausencia injustificada,3,Sí,Parte pendiente
+ABS000642,FSH0347,04-12-25,2025-12-04,Enfermedad común,1,Pendiente,Carga automática
+ABS000643,FSH0348,2025-11-13,2025-11-23,Permiso retribuido,11,Sí,Validado por manager
+ABS000644,FSH0349,28-07-25,2025-07-29,Enfermedad común,2,Si,
+ABS000645,FSH0350,2025-08-03,2025-08-04,Enfermedad común,2,Sí,
+ABS000646, FSH0350 ,2025-06-04,2025-06-04,Permiso retribuido,1,Sí,Carga automática
+ABS000647,FSH0350,23/07/2025,2025-07-23,Permiso retribuido,1,Sí,Parte pendiente
+ABS000648,FSH0350,2025-11-22,2025-11-22,Cuidado familiar,1,Sí,Carga automática
+ABS000649,FSH0351,10/08/2025,2025-08-14,Enfermedad común,5,Si,Carga automática
+ABS000650,FSH0351,31/08/2025,2025-09-01,Enfermedad común,2,Sí,
+ABS000651,FSH0351,30/01/26,2026-01-30,Enfermedad común,1,Sí,Carga automática
+ABS000652,FSH0352,2025-10-27,2025-10-31,Permiso retribuido,5,Sí,Validado por manager
+ABS000653,FSH0352,23/03/2026,2026-03-23,Enfermedad común,1,Sí,Validado por manager
+ABS000654,FSH0353,2025-10-28,28/10/2025,Permiso retribuido,1,Sí,Carga automática
+ABS000655,FSH0353,2026-01-02,2026-01-02,Permiso retribuido,1,Sí,Parte pendiente
+ABS000656,FSH0353,28/11/2025,2025-11-29,Enfermedad común,2,Sí,Parte pendiente
+ABS000657,FSH0353,23/01/26,2026-01-24,Accidente laboral,2,Sí,Parte pendiente
+ABS000658,FSH0354,20/04/2026,2026-04-22,Enfermedad común,3,No,Carga automática
+ABS000659,FSH0354,04/08/2025,2025-08-05,Accidente laboral,2,Sí,
+ABS000660,FSH0354,18-01-26,18/01/2026,Enfermedad común,1,Sí,
+ABS000661,FSH0355,10/06/2025,10/06/2025,Cuidado familiar,1,Si,Validado por manager
+ABS000662,FSH0355,2025-08-04,06/08/2025,Enfermedad común,3,Pendiente,
+ABS000663,FSH0356,2026-02-09,10-02-26,Enfermedad común,2,Si,
+ABS000664,FSH0356,2025-06-20,2025-06-20,Cuidado familiar,1,Si,Parte pendiente
+ABS000665,FSH0356,2025-07-02,2025-07-02,Enfermedad común,1,Sí,
+ABS000666,FSH0358,2026-01-31,2026-01-31,Enfermedad común,1,Sí,Carga automática
+ABS000667,FSH0358,12/06/2025,2025-06-14,Accidente laboral,3,No,
+ABS000668,FSH0358,2025-12-14,15/12/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000669,FSH0358,28/06/2025,2025-06-29,Enfermedad común,2,Sí,
+ABS000670,FSH0359,2026-01-29,2026-01-30,Permiso retribuido,2,Si,
+ABS000671,FSH0359,2026-03-30,2026-03-30,Enfermedad común,1,Si,Carga automática
+ABS000672,FSH0359,2025-06-05,05-06-25,Cuidado familiar,1,Sí,
+ABS000673,FSH0359,2025-09-16,2025-09-16,Permiso retribuido,1,Sí,Parte pendiente
+ABS000674,FSH0360,2026-01-13,14-01-26,Accidente laboral,2,Sí,Carga automática
+ABS000675,FSH0361,14/02/2026,18/02/2026,Enfermedad común,5,Sí,
+ABS000676,FSH0361,23-08-25,2025-08-23,Cuidado familiar,1,Sí,
+ABS000677,FSH0361,03-11-25,03/11/2025,Enfermedad común,1,Si,Validado por manager
+ABS000678,FSH0363,12/02/2026,2026-02-16,Permiso retribuido,5,Sí,Validado por manager
+ABS000679,FSH0364,14-03-26,2026-03-14,Accidente laboral,1,Si,Carga automática
+ABS000680,FSH0364,2025-09-21,21/09/2025,Enfermedad común,1,Si,Validado por manager
+ABS000681,FSH0364,08/01/2026,08/01/2026,Permiso retribuido,1,Sí,
+ABS000682,FSH0364,2026-04-05,2026-04-05,Enfermedad común,1,Si,Carga automática
+ABS000683,FSH0365,26/10/2025,2025-10-31,Permiso retribuido,6,Sí,Validado por manager
+ABS000684,fsh0365,24-02-26,2026-02-24,Enfermedad común,1,No,
+ABS000685,FSH0365,08/12/2025,08/12/2025,Permiso retribuido,1,Sí,Parte pendiente
+ABS000686,FSH0365,2025-08-25,25/08/2025,Enfermedad común,1,Si,Parte pendiente
+ABS000687,FSH0366,03/04/26,06/04/2026,Enfermedad común,4,Si,Validado por manager
+ABS000688,FSH0366,2025-05-30,01-06-25,Enfermedad común,3,Si,Parte pendiente
+ABS000689,FSH0366,06/04/2026,07/04/26,Permiso retribuido,2,Sí,
+ABS000690,FSH0366,2026-03-30,30/03/26,Permiso retribuido,1,Sí,Carga automática
+ABS000691,FSH0367,29/01/2026,31/01/26,Enfermedad común,3,Sí,
+ABS000692,FSH0367,2025-05-10,13/05/2025,Enfermedad común,4,Si,Parte pendiente
+ABS000693,FSH0367,2025-07-05,2025-07-06,Enfermedad común,2,Sí,
+ABS000694,FSH0368,01/05/2025,2025-05-04,Cuidado familiar,4,Sí,Carga automática
+ABS000695,FSH0368,2026-02-05,2026-02-09,Enfermedad común,5,Sí,Carga automática
+ABS000696,FSH0369,31-10-25,2025-11-01,Enfermedad común,2,Si,Parte pendiente
+ABS000697,FSH0370,2026-02-14,2026-02-16,Enfermedad común,3,Si,Carga automática
+ABS000698,FSH0370,2025-05-22,2025-05-24,Permiso retribuido,3,Sí,Parte pendiente
+ABS000699,FSH0371,2025-09-20,26/09/25,Enfermedad común,7,No,Validado por manager
+ABS000700,FSH0371,28/05/25,30/05/2025,Permiso retribuido,3,Si,Parte pendiente
+ABS000701,FSH0371,2025-11-02,2025-11-03,Permiso retribuido,2,Sí,Parte pendiente
+ABS000702,FSH0371,2026-01-13,2026-01-13,Permiso retribuido,1,Sí,Parte pendiente
+ABS000703,FSH0372,2026-01-15,2026-01-16,Enfermedad común,2,Sí,Parte pendiente
+ABS000704,FSH0373,18/09/25,2025-09-18,Enfermedad común,1,Sí,
+ABS000705,FSH0373,2025-09-09,2025-09-14,Enfermedad común,6,Si,
+ABS000706,FSH0373,2025-11-24,25/11/2025,Enfermedad común,2,Si,
+ABS000707,FSH0374,2025-11-11,23/11/2025,Cuidado familiar,13,Sí,
+ABS000708,FSH0374,2025-12-07,09/12/2025,Enfermedad común,3,Pendiente,Carga automática
+ABS000709,FSH0374,2025-10-05,2025-10-05,Cuidado familiar,1,Sí,Carga automática
+ABS000710, FSH0376 ,25/04/2026,03/05/2026,Enfermedad común,,Sí,
+ABS000711,FSH0376,12-01-26,2026-01-14,Enfermedad común,3,Sí,Parte pendiente
+ABS000712,FSH0376,2026-02-16,16/02/2026,Enfermedad común,1,Si,Validado por manager
+ABS000713,FSH0377,2025-12-13,2025-12-14,Enfermedad común,2,No,
+ABS000714,FSH0377,2025-07-15,16/07/2025,Cuidado familiar,2,Si,Parte pendiente
+ABS000715,FSH0377,2025-07-20,22/07/25,Permiso retribuido,3,Sí,Validado por manager
+ABS000716,FSH0378,16-11-25,2025-11-21,Enfermedad común,6,Sí,Validado por manager
+ABS000717,FSH0378,2026-03-07,07/03/26,Enfermedad común,1,Sí,Validado por manager
+ABS000718,FSH0379,2025-08-18,2025-08-18,Enfermedad común,1,Sí,Parte pendiente
+ABS000719,FSH0379,14-10-25,2025-10-17,Enfermedad común,4,Pendiente,Parte pendiente
+ABS000720,FSH0379,2025-06-23,2025-06-23,Enfermedad común,1,Sí,Parte pendiente
+ABS000721,FSH0379,2025-12-09,09/12/25,Enfermedad común,1,Si,Carga automática
+ABS000722,FSH0380,26/05/2025,2025-05-26,Enfermedad común,1,Si,Validado por manager
+ABS000723,FSH0382,19-04-26,22/04/2026,Enfermedad común,,Si,Validado por manager
+ABS000724,FSH0382,2025-11-06,06/11/25,Enfermedad común,1,Si,Parte pendiente
+ABS000725, FSH0382 ,2026-02-12,2026-02-13,Enfermedad común,2,Si,Carga automática
+ABS000726,FSH0383,2025-09-14,2025-09-19,Enfermedad común,6,Sí,Parte pendiente
+ABS000727,FSH0383,2025-11-18,23/11/25,Enfermedad común,6,Si,
+ABS000728,FSH0384,2026-03-22,22/03/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS000729,FSH0384,2025-10-06,06-10-25,Permiso retribuido,1,Si,Parte pendiente
+ABS000730,FSH0384,19/07/2025,22/07/2025,Enfermedad común,4,Si,Validado por manager
+ABS000731,FSH0385,17/10/2025,2025-10-22,Enfermedad común,6,Pendiente,Parte pendiente
+ABS000732,FSH0386,24/01/26,2026-01-28,Enfermedad común,5,Si,Parte pendiente
+ABS000733,FSH0386,17/07/2025,2025-07-18,Permiso retribuido,2,Si,
+ABS000734,FSH0386,09-12-25,2025-12-09,Enfermedad común,1,Sí,Validado por manager
+ABS000735,FSH0387,13/11/2025,2025-11-22,Permiso retribuido,10,Sí,
+ABS000736,FSH0388,2025-10-13,2025-10-28,Enfermedad común,16,Si,Parte pendiente
+ABS000737,FSH0389,06-07-25,11/07/2025,Enfermedad común,6,Sí,Carga automática
+ABS000738,FSH0389,22/01/2026,23/01/2026,Permiso retribuido,2,Sí,Validado por manager
+ABS000739,FSH0389,28/04/26,02/05/2026,Permiso retribuido,5,Si,Parte pendiente
+ABS000740,FSH0390,17-10-25,2025-10-18,Accidente laboral,2,Sí,Parte pendiente
+ABS000741,FSH0390,2025-10-14,16-10-25,Enfermedad común,3,No,Carga automática
+ABS000742,FSH0391,2025-11-17,2025-11-17,Enfermedad común,,Sí,
+ABS000743,FSH0391,03-01-26,06/01/2026,Enfermedad común,4,Sí,Validado por manager
+ABS000744,FSH0391,2025-12-09,2025-12-11,Enfermedad común,3,Sí,Parte pendiente
+ABS000745,FSH0392,2025-08-06,2025-08-06,Permiso retribuido,1,Sí,Carga automática
+ABS000746,FSH0393,2025-06-30,2025-07-07,Enfermedad común,8,Sí,Carga automática
+ABS000747,FSH0393,2026-02-26,2026-03-04,Enfermedad común,7,Sí,Carga automática
+ABS000748,FSH0394,07/07/2025,07/07/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000749,FSH0394,17-10-25,2025-10-17,Enfermedad común,1,Sí,Validado por manager
+ABS000750,FSH0394,08/08/2025,2025-08-08,Enfermedad común,1,Sí,
+ABS000751,FSH0394,2025-11-13,14/11/25,Cuidado familiar,2,Sí,Validado por manager
+ABS000752,FSH0395,2026-01-12,18/01/2026,Enfermedad común,7,Sí,
+ABS000753,FSH0395,2025-06-21,21/06/2025,Enfermedad común,1,Si,Carga automática
+ABS000754,FSH-0395,25/11/2025,2025-11-25,Enfermedad común,1,Sí,Carga automática
+ABS000755,FSH0396,2025-06-03,2025-06-07,Enfermedad común,5,Sí,Validado por manager
+ABS000756,FSH0396,09/06/2025,2025-06-11,Enfermedad común,3,Sí,
+ABS000757,FSH0397,24-04-26,2026-04-25,Permiso retribuido,2,Si,Parte pendiente
+ABS000758,FSH0397,04/04/2026,2026-04-07,Enfermedad común,4,Pendiente,Validado por manager
+ABS000759,FSH0400,08/02/26,13/02/2026,Enfermedad común,6,Sí,
+ABS000760,FSH0400,2026-03-28,2026-03-30,Enfermedad común,3,Sí,Carga automática
+ABS000761, FSH0401 ,2025-12-03,04-12-25,Enfermedad común,2,Sí,
+ABS000762,FSH0404,2026-03-11,2026-03-11,Enfermedad común,1,Si,Carga automática
+ABS000763,FSH0405,15/02/26,20/02/2026,Enfermedad común,6,Sí,Validado por manager
+ABS000764,FSH0405,02-08-25,03/08/2025,Enfermedad común,2,No,Validado por manager
+ABS000765,fsh0407,08/03/2026,09/03/26,Enfermedad común,2,No,
+ABS000766,FSH0408,2026-01-09,2026-01-11,Enfermedad común,3,Si,Parte pendiente
+ABS000767,FSH-0409,2026-01-16,16/01/2026,Enfermedad común,1,Sí,Carga automática
+ABS000768,FSH0409,15/12/25,15/12/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000769,FSH0409,08/07/2025,10/07/2025,Enfermedad común,3,Sí,Carga automática
+ABS000770,FSH0410,2026-02-21,25/02/2026,Cuidado familiar,5,Si,Validado por manager
+ABS000771,FSH0410,16/06/2025,2025-06-16,Enfermedad común,1,Sí,Validado por manager
+ABS000772,FSH0410,2026-02-20,2026-02-21,Permiso retribuido,2,Sí,
+ABS000773,FSH0411,2025-06-16,2025-06-18,Enfermedad común,3,Si,Carga automática
+ABS000774,FSH0412,11/12/2025,2025-12-15,Permiso retribuido,5,Sí,Carga automática
+ABS000775,FSH0412,29/03/2026,29/03/2026,Enfermedad común,1,Sí,Carga automática
+ABS000776,FSH0412,15/12/2025,2025-12-15,Enfermedad común,1,Sí,Parte pendiente
+ABS000777,FSH0412,23-11-25,23/11/2025,Ausencia injustificada,1,Sí,
+ABS000778,FSH0413,2025-12-15,2025-12-15,Enfermedad común,1,Si,Carga automática
+ABS000779,FSH0413,2025-06-02,2025-06-02,Enfermedad común,1,Sí,Validado por manager
+ABS000780,FSH0413,2025-06-10,2025-06-10,Enfermedad común,1,Sí,Parte pendiente
+ABS000781,FSH0413,03/01/2026,2026-01-03,Permiso retribuido,1,Si,Parte pendiente
+ABS000782,FSH0414,29/08/25,31/08/2025,Permiso retribuido,3,Sí,Carga automática
+ABS000783,FSH0414,2026-04-11,12/04/26,Enfermedad común,2,Sí,Carga automática
+ABS000784,FSH0414,23/01/2026,2026-01-24,Permiso retribuido,2,Sí,Validado por manager
+ABS000785,FSH0414,2026-01-17,17-01-26,Cuidado familiar,1,Sí,Carga automática
+ABS000786,FSH0416,06/01/2026,11/01/2026,Enfermedad común,6,Sí,Validado por manager
+ABS000787,FSH0416,2025-07-25,30-07-25,Enfermedad común,6,Sí,Carga automática
+ABS000788,FSH0417,04/11/2025,05/11/2025,Enfermedad común,2,Sí,
+ABS000789,FSH0417,2026-01-21,21-01-26,Enfermedad común,1,Sí,Validado por manager
+ABS000790,FSH0417,2026-03-30,30/03/2026,Enfermedad común,1,Sí,Carga automática
+ABS000791,FSH0417,23/06/2025,2025-06-27,Cuidado familiar,5,Si,Validado por manager
+ABS000792,FSH0418,08-01-26,10/01/2026,Enfermedad común,3,Si,Carga automática
+ABS000793,FSH0418,07/01/2026,09/01/26,Accidente laboral,3,Sí,Parte pendiente
+ABS000794,FSH0418,2026-02-22,2026-02-25,Enfermedad común,4,Sí,Parte pendiente
+ABS000795,FSH0419,2026-01-02,04/01/26,Permiso retribuido,3,Si,
+ABS000796,FSH0419,2025-10-18,2025-10-21,Enfermedad común,4,Sí,Validado por manager
+ABS000797,FSH0420,2026-01-17,17/01/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS000798,FSH0420,2025-07-07,2025-07-13,Enfermedad común,7,Sí,Validado por manager
+ABS000799,FSH0420,02/02/2026,02-02-26,Permiso retribuido,1,Sí,Parte pendiente
+ABS000800,FSH0422,2025-11-06,06/11/25,Enfermedad común,1,Si,Parte pendiente
+ABS000801,FSH0422,2025-07-06,06/07/2025,Enfermedad común,1,Si,Validado por manager
+ABS000802,FSH0422,30/03/2026,2026-03-30,Enfermedad común,1,Sí,
+ABS000803,FSH0422,05/01/2026,2026-01-05,Enfermedad común,1,Si,Carga automática
+ABS000804,FSH0423,2026-02-09,2026-02-12,Ausencia injustificada,4,Si,
+ABS000805,FSH0423,2025-09-26,27-09-25,Enfermedad común,2,Sí,
+ABS000806,FSH0424,17-05-25,18-05-25,Accidente laboral,2,Si,Carga automática
+ABS000807,FSH0424,2025-08-21,2025-08-29,Enfermedad común,9,Sí,Carga automática
+ABS000808,FSH0425,2025-06-07,10/06/25,Enfermedad común,4,Sí,Parte pendiente
+ABS000809,FSH0426,17/02/2026,2026-02-19,Enfermedad común,3,Sí,Parte pendiente
+ABS000810,FSH0427,18/07/2025,19-07-25,Enfermedad común,2,Si,Carga automática
+ABS000811,FSH0427,18/01/2026,2026-01-18,Permiso retribuido,1,Sí,Parte pendiente
+ABS000812,FSH0427,2026-01-29,29/01/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS000813,FSH0428,15/09/2025,15/09/25,Enfermedad común,1,Si,Carga automática
+ABS000814,FSH0428,2025-08-26,27/08/2025,Enfermedad común,2,Si,Validado por manager
+ABS000815,fsh0428,2025-12-07,2025-12-07,Permiso retribuido,1,Sí,Carga automática
+ABS000816,FSH0429,13/08/2025,2025-08-25,Permiso retribuido,13,Sí,Validado por manager
+ABS000817,FSH0429,2025-12-31,2026-01-02,Enfermedad común,3,Sí,Parte pendiente
+ABS000818,FSH0430,12/05/2025,2025-05-17,Cuidado familiar,6,Sí,
+ABS000819,FSH0431,02/03/26,06/03/2026,Enfermedad común,5,Pendiente,Validado por manager
+ABS000820,FSH0431,2026-01-24,24/01/2026,Cuidado familiar,1,Si,Validado por manager
+ABS000821,FSH0431,2025-09-09,2025-09-09,Permiso retribuido,1,Sí,
+ABS000822, FSH0432 ,2025-06-17,19/06/2025,Permiso retribuido,3,Sí,Carga automática
+ABS000823,FSH0433,10/03/26,2026-03-15,Enfermedad común,6,Sí,Carga automática
+ABS000824,FSH0434,2025-08-30,2025-09-03,Enfermedad común,5,Si,
+ABS000825,FSH0434,2026-04-27,2026-04-27,Enfermedad común,1,Sí,Carga automática
+ABS000826,FSH0434,2026-02-12,2026-02-12,Accidente laboral,1,Sí,Carga automática
+ABS000827,FSH0434,15/10/2025,2025-10-15,Cuidado familiar,1,Sí,Parte pendiente
+ABS000828,FSH0435,2025-12-28,29/12/2025,Enfermedad común,2,Sí,Carga automática
+ABS000829,FSH0435,2025-12-02,2025-12-02,Permiso retribuido,1,Sí,Carga automática
+ABS000830,FSH0435,01-01-26,01/01/26,Enfermedad común,1,Sí,Validado por manager
+ABS000831,FSH-0437,2025-09-06,2025-09-08,Cuidado familiar,3,Si,Carga automática
+ABS000832,FSH0437,2025-06-04,2025-06-05,Permiso retribuido,2,Sí,Parte pendiente
+ABS000833,FSH0437,2025-05-01,01/05/2025,Enfermedad común,1,Sí,
+ABS000834,FSH0437,2025-08-30,2025-08-30,Enfermedad común,1,Sí,Carga automática
+ABS000835,FSH0438,07/05/2025,2025-05-08,Permiso retribuido,2,No,Validado por manager
+ABS000836,FSH0439,2025-06-25,2025-06-27,Enfermedad común,3,Sí,Validado por manager
+ABS000837,FSH0440,19/08/2025,2025-08-23,Permiso retribuido,5,Si,Parte pendiente
+ABS000838,FSH0441,21/12/2025,2025-12-27,Enfermedad común,7,Sí,Carga automática
+ABS000839,FSH0441,28/07/2025,06-08-25,Enfermedad común,10,Sí,Validado por manager
+ABS000840,FSH0442,2026-03-28,2026-04-02,Permiso retribuido,6,Sí,Carga automática
+ABS000841,FSH0443,2025-12-01,03/12/2025,Permiso retribuido,3,Si,Parte pendiente
+ABS000842,FSH0443,09/12/2025,10/12/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS000843,FSH0443,07/08/2025,2025-08-08,Permiso retribuido,2,Sí,Parte pendiente
+ABS000844,FSH0444,2025-10-20,02/11/25,Enfermedad común,14,Sí,Carga automática
+ABS000845,FSH0444,2025-09-22,22-09-25,Enfermedad común,1,Si,Validado por manager
+ABS000846,FSH0445,07/03/2026,09/03/2026,Permiso retribuido,3,Sí,Parte pendiente
+ABS000847,FSH0446,28/08/2025,04/09/25,Permiso retribuido,8,Si,Validado por manager
+ABS000848,FSH0447,2026-01-03,03/01/2026,Permiso retribuido,1,Si,Parte pendiente
+ABS000849,FSH0447,01/08/2025,2025-08-03,Permiso retribuido,3,Si,Validado por manager
+ABS000850,FSH0448,03-05-25,2025-05-09,Enfermedad común,7,Sí,
+ABS000851,FSH0450,2025-07-05,06/07/25,Enfermedad común,2,Si,Parte pendiente
+ABS000852,FSH0450,29/10/25,29-10-25,Permiso retribuido,1,Sí,Carga automática
+ABS000853,FSH0450,2025-06-28,2025-06-28,Permiso retribuido,1,Pendiente,Parte pendiente
+ABS000854,FSH0450,21-08-25,21/08/25,Enfermedad común,1,Si,
+ABS000855,FSH0451,2025-07-08,2025-07-16,Enfermedad común,9,Sí,
+ABS000856,FSH0451,2026-02-20,2026-02-20,Enfermedad común,1,Sí,Validado por manager
+ABS000857,FSH0451,2025-12-27,27/12/2025,Enfermedad común,1,Si,Validado por manager
+ABS000858,FSH0451,2026-01-09,2026-01-09,Permiso retribuido,1,Sí,
+ABS000859,FSH0452,2025-07-26,2025-08-02,Enfermedad común,8,Si,Carga automática
+ABS000860,FSH0453,07/02/2026,14/02/26,Enfermedad común,8,Sí,Parte pendiente
+ABS000861,FSH0454,20/03/2026,2026-03-24,Enfermedad común,5,Sí,Parte pendiente
+ABS000862,fsh0455,25/07/2025,26/07/2025,Cuidado familiar,2,Sí,Carga automática
+ABS000863,FSH0457,2025-08-15,15-08-25,Permiso retribuido,1,Sí,Validado por manager
+ABS000864,FSH0458,2025-08-15,17/08/25,Enfermedad común,3,Si,Parte pendiente
+ABS000865,FSH-0459,08/11/2025,2025-11-14,Enfermedad común,7,Sí,Parte pendiente
+ABS000866,FSH0460,10/10/2025,2025-10-19,Permiso retribuido,10,Sí,Parte pendiente
+ABS000867,FSH0461,2025-05-21,2025-05-22,Enfermedad común,2,Sí,
+ABS000868,FSH0461,2025-10-23,23/10/2025,Enfermedad común,1,Si,Validado por manager
+ABS000869,FSH0461,2026-04-08,2026-04-10,Enfermedad común,3,No,Carga automática
+ABS000870,FSH0461,2026-01-04,2026-01-04,Cuidado familiar,1,Sí,
+ABS000871,FSH0462,13-11-25,2025-11-14,Cuidado familiar,2,Sí,Validado por manager
+ABS000872,FSH0463,30/07/25,2025-08-02,Enfermedad común,4,Si,
+ABS000873,FSH0463,15/08/2025,2025-08-20,Enfermedad común,6,Sí,Parte pendiente
+ABS000874,FSH0464,07-02-26,11-02-26,Enfermedad común,5,Sí,
+ABS000875,FSH0464,2025-12-20,2025-12-23,Enfermedad común,4,Si,Parte pendiente
+ABS000876,FSH0465,2025-06-23,24/06/2025,Permiso retribuido,2,Sí,Validado por manager
+ABS000877,FSH0465,2025-08-23,2025-08-27,Permiso retribuido,5,Sí,
+ABS000878,FSH0465,2025-11-09,2025-11-09,Enfermedad común,1,Sí,Validado por manager
+ABS000879,FSH0465,2025-06-30,2025-06-30,Permiso retribuido,1,Si,Carga automática
+ABS000880,FSH0466,04/05/2025,14/05/2025,Enfermedad común,11,Sí,
+ABS000881,FSH0467,2025-09-06,2025-09-11,Enfermedad común,6,Sí,Parte pendiente
+ABS000882,FSH0467,2025-09-12,12/09/2025,Cuidado familiar,1,No,Parte pendiente
+ABS000883,FSH0467,04/12/2025,04/12/25,Enfermedad común,1,Si,
+ABS000884,FSH0467,09/01/2026,2026-01-09,Enfermedad común,1,Sí,Validado por manager
+ABS000885,FSH0468,2026-04-09,13/04/26,Enfermedad común,5,Sí,
+ABS000886,FSH0468,13/08/25,18/08/2025,Accidente laboral,6,Si,Validado por manager
+ABS000887,FSH0469,23/02/26,02/03/26,Enfermedad común,8,Sí,Validado por manager
+ABS000888,FSH0470,04-06-25,04/06/2025,Permiso retribuido,1,Si,Carga automática
+ABS000889,FSH0471,2025-09-29,2025-09-29,Enfermedad común,1,Sí,
+ABS000890,FSH0471,2025-06-18,19-06-25,Permiso retribuido,2,Sí,
+ABS000891,FSH-0471,2025-08-06,2025-08-06,Enfermedad común,1,Sí,
+ABS000892,FSH0473,2026-04-15,2026-04-18,Enfermedad común,4,Si,Parte pendiente
+ABS000893,FSH0473,2025-05-10,2025-05-11,Enfermedad común,2,Sí,Carga automática
+ABS000894,FSH0474,16/04/26,2026-04-21,Enfermedad común,6,Si,Parte pendiente
+ABS000895,FSH0475,12/11/2025,14/11/2025,Enfermedad común,3,Pendiente,Validado por manager
+ABS000896,FSH0475,2025-11-23,23/11/2025,Enfermedad común,1,No,Carga automática
+ABS000897,FSH-0476,27/04/2026,2026-04-29,Enfermedad común,3,Pendiente,Parte pendiente
+ABS000898, FSH0477 ,2025-11-01,2025-11-01,Enfermedad común,1,Sí,
+ABS000899,FSH0478,26/09/2025,08-10-25,Permiso retribuido,13,Si,Validado por manager
+ABS000900,FSH0479,13/09/2025,15-09-25,Enfermedad común,3,Sí,
+ABS000901,FSH0480,2026-01-12,14-01-26,Enfermedad común,3,Si,
+ABS000902,FSH0482,24/12/25,2026-01-03,Enfermedad común,11,Sí,
+ABS000903,FSH0483,07/06/25,2025-06-08,Permiso retribuido,2,Sí,Parte pendiente
+ABS000904,FSH0483,2025-12-12,2025-12-17,Ausencia injustificada,6,Sí,Parte pendiente
+ABS000905,FSH0483,2026-04-02,05-04-26,Enfermedad común,4,Sí,Parte pendiente
+ABS000906,FSH0484,2025-08-26,2025-08-28,Permiso retribuido,3,Sí,Validado por manager
+ABS000907,FSH0484,05/03/26,05/03/2026,Enfermedad común,1,Sí,
+ABS000908,FSH0484,2025-08-15,16-08-25,Enfermedad común,2,Sí,
+ABS000909,FSH-0484,2025-06-04,04/06/2025,Cuidado familiar,1,Sí,
+ABS000910,FSH0485,30/01/2026,2026-02-03,Enfermedad común,5,Sí,Validado por manager
+ABS000911,FSH0485,16-06-25,2025-06-19,Enfermedad común,4,Sí,Parte pendiente
+ABS000912,FSH0485,2025-08-18,2025-08-18,Enfermedad común,1,No,Carga automática
+ABS000913,FSH0485,2025-08-26,2025-08-27,Cuidado familiar,2,Pendiente,Carga automática
+ABS000914,FSH0486,2026-03-25,2026-03-26,Enfermedad común,2,Sí,Carga automática
+ABS000915,FSH0486,2026-02-26,2026-03-03,Enfermedad común,6,Sí,Parte pendiente
+ABS000916,FSH0487,23-06-25,23/06/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS000917,FSH0487,2025-05-29,2025-05-29,Ausencia injustificada,1,Sí,Carga automática
+ABS000918,FSH0487,2025-10-09,09/10/2025,Enfermedad común,1,Sí,Validado por manager
+ABS000919,FSH0487,2025-05-18,2025-05-18,Cuidado familiar,1,Sí,Parte pendiente
+ABS000920,FSH0488,2025-09-17,2025-09-19,Permiso retribuido,3,Sí,Parte pendiente
+ABS000921,FSH0488,10-09-25,2025-09-10,Cuidado familiar,1,Sí,Parte pendiente
+ABS000922,FSH0489,2025-07-22,2025-07-28,Permiso retribuido,7,Sí,Parte pendiente
+ABS000923,FSH0490,18/07/2025,19/07/25,Enfermedad común,2,Sí,
+ABS000924,FSH0491,2026-04-22,2026-04-22,Enfermedad común,1,No,Validado por manager
+ABS000925,FSH0491,2025-08-16,2025-08-16,Enfermedad común,1,Sí,Carga automática
+ABS000926,FSH0491,2026-04-01,01-04-26,Enfermedad común,1,Si,Carga automática
+ABS000927, FSH0491 ,21/04/2026,2026-04-21,Permiso retribuido,1,Si,Validado por manager
+ABS000928,FSH0492,2025-08-25,2025-08-31,Permiso retribuido,7,No,Validado por manager
+ABS000929,FSH0493,2025-08-22,2025-08-25,Enfermedad común,4,Si,Validado por manager
+ABS000930,FSH0493,19-07-25,2025-07-28,Permiso retribuido,10,Si,Parte pendiente
+ABS000931,FSH0495,27/04/2026,01/05/2026,Enfermedad común,5,Sí,Validado por manager
+ABS000932,FSH0495,2026-02-16,2026-02-16,Cuidado familiar,1,Sí,Validado por manager
+ABS000933,FSH0495,2025-05-25,25/05/2025,Permiso retribuido,1,Sí,Validado por manager
+ABS000934,FSH0495,2025-12-20,21/12/2025,Enfermedad común,2,Si,Validado por manager
+ABS000935,FSH0496,2025-08-04,08/08/2025,Enfermedad común,5,Sí,
+ABS000936,FSH0496,31/01/2026,01-02-26,Enfermedad común,2,Sí,
+ABS000937,FSH0496,26/09/2025,26/09/2025,Enfermedad común,1,Si,Parte pendiente
+ABS000938,FSH0497,06/10/25,2025-10-12,Cuidado familiar,7,Sí,Parte pendiente
+ABS000939,FSH0498,28/05/2025,2025-06-09,Accidente laboral,13,Sí,Carga automática
+ABS000940,FSH0499,2025-10-28,2025-10-30,Permiso retribuido,3,Pendiente,Parte pendiente
+ABS000941,FSH0502,2025-11-11,2025-11-11,Permiso retribuido,1,Si,
+ABS000942,FSH0502,2026-02-08,2026-02-08,Permiso retribuido,1,Sí,Carga automática
+ABS000943,FSH0502,15/08/2025,2025-08-15,Permiso retribuido,1,Si,
+ABS000944,FSH0502,2025-05-02,02/05/2025,Ausencia injustificada,1,Sí,Carga automática
+ABS000945,FSH0504,2025-10-12,13/10/2025,Permiso retribuido,2,Si,Validado por manager
+ABS000946,FSH0505,12-11-25,2025-11-12,Accidente laboral,1,Sí,Carga automática
+ABS000947,FSH0505,2025-07-22,2025-07-25,Enfermedad común,4,Sí,Parte pendiente
+ABS000948,FSH0505,2025-09-28,28/09/2025,Enfermedad común,1,Si,Validado por manager
+ABS000949,FSH0506,2026-01-09,2026-01-10,Enfermedad común,2,Sí,Validado por manager
+ABS000950,FSH0508,2025-05-27,2025-05-27,Ausencia injustificada,1,Sí,
+ABS000951,FSH0508,19/10/2025,19/10/25,Enfermedad común,1,No,Carga automática
+ABS000952,FSH0508,19/02/26,2026-02-19,Enfermedad común,1,Sí,
+ABS000953,FSH0508,2026-03-03,03-03-26,Enfermedad común,,Sí,Parte pendiente
+ABS000954,FSH0509,2025-12-24,2025-12-30,Permiso retribuido,7,Sí,Validado por manager
+ABS000955,FSH0509,09/06/2025,2025-06-11,Enfermedad común,3,Sí,Carga automática
+ABS000956,FSH0509,06/06/2025,2025-06-06,Permiso retribuido,1,Sí,Parte pendiente
+ABS000957,FSH0509,21/07/2025,21/07/2025,Permiso retribuido,1,Si,
+ABS000958,FSH0510,2025-10-06,2025-10-16,Permiso retribuido,11,Sí,Parte pendiente
+ABS000959,FSH0510,2025-10-02,2025-10-02,Enfermedad común,1,Si,Parte pendiente
+ABS000960,FSH0510,2026-04-13,2026-04-13,Cuidado familiar,1,Sí,
+ABS000961,FSH-0510,2025-08-02,2025-08-02,Permiso retribuido,1,Si,
+ABS000962,FSH0511,2026-01-12,18/01/2026,Enfermedad común,7,Sí,Parte pendiente
+ABS000963,FSH0511,12/01/26,12/01/2026,Permiso retribuido,1,Sí,Parte pendiente
+ABS000964,FSH0511,2025-11-11,12/11/2025,Enfermedad común,2,Pendiente,
+ABS000965,FSH-0512,2025-05-23,2025-05-24,Enfermedad común,2,Sí,Carga automática
+ABS000966,FSH0513,2025-08-30,01/09/2025,Enfermedad común,3,Sí,Parte pendiente
+ABS000967,FSH0513,2025-09-29,29-09-25,Cuidado familiar,1,Si,Validado por manager
+ABS000968, FSH0513 ,2025-07-28,2025-07-28,Permiso retribuido,1,Sí,Carga automática
+ABS000969,FSH0514,14/06/2025,2025-06-22,Enfermedad común,9,Sí,Parte pendiente
+ABS000970,FSH0515,2025-10-15,2025-10-28,Enfermedad común,14,Si,Parte pendiente
+ABS000971,FSH0516,2026-04-08,14-04-26,Enfermedad común,7,Si,Parte pendiente
+ABS000972,FSH0517,2025-12-17,2025-12-21,Permiso retribuido,5,Sí,Parte pendiente
+ABS000973,FSH0517,2025-11-20,20-11-25,Enfermedad común,1,Sí,Parte pendiente
+ABS000974,FSH0517,2025-05-23,23/05/2025,Enfermedad común,1,Si,Carga automática
+ABS000975,FSH0518,2025-09-14,21-09-25,Permiso retribuido,8,Si,Validado por manager
+ABS000976,FSH0518,06/06/2025,08/06/2025,Cuidado familiar,3,Si,Parte pendiente
+ABS000977,FSH0518,16/07/2025,2025-07-16,Enfermedad común,1,Sí,Validado por manager
+ABS000978,FSH0518,2025-11-15,2025-11-15,Enfermedad común,1,No,
+ABS000979,FSH0519,13/08/2025,2025-08-15,Enfermedad común,3,Si,Carga automática
+ABS000980,FSH0519,2025-08-04,2025-08-05,Enfermedad común,2,Sí,Validado por manager
+ABS000981,FSH0520,24-07-25,02/08/2025,Cuidado familiar,10,Sí,
+ABS000982,fsh0521,17/05/2025,2025-05-18,Enfermedad común,2,Sí,Validado por manager
+ABS000983,FSH0521,2026-01-26,2026-01-29,Cuidado familiar,4,Sí,Carga automática
+ABS000984,FSH0521,2025-12-12,2025-12-12,Permiso retribuido,1,Pendiente,Validado por manager
+ABS000985,FSH0523,2025-08-10,10/08/2025,Permiso retribuido,1,No,Parte pendiente
+ABS000986,FSH0524,29/12/2025,29/12/2025,Ausencia injustificada,1,Sí,Parte pendiente
+ABS000987,FSH0524,14-05-25,16-05-25,Enfermedad común,3,Sí,Carga automática
+ABS000988,FSH0525,26/12/2025,2026-01-01,Enfermedad común,7,Sí,
+ABS000989,FSH0525,2026-02-19,2026-02-19,Cuidado familiar,1,Si,
+ABS000990,FSH0525,2025-10-20,22-10-25,Enfermedad común,3,Sí,Validado por manager
+ABS000991,FSH0527,18/07/2025,2025-07-23,Ausencia injustificada,6,Sí,Validado por manager
+ABS000992,FSH0528,2026-01-07,08/01/2026,Accidente laboral,2,Si,Parte pendiente
+ABS000993,FSH0529,08/12/2025,08/12/2025,Enfermedad común,1,Si,Parte pendiente
+ABS000994,FSH0529,15/01/2026,2026-01-21,Permiso retribuido,7,No,Carga automática
+ABS000995,FSH0529,2025-09-10,13/09/2025,Permiso retribuido,4,Sí,Parte pendiente
+ABS000996,FSH0531,19-09-25,22/09/2025,Enfermedad común,4,Sí,Carga automática
+ABS000997,FSH0531,05-10-25,2025-10-07,Cuidado familiar,3,Sí,Parte pendiente
+ABS000998,FSH0532,03/10/2025,10/10/2025,Enfermedad común,8,Sí,
+ABS000999,FSH0532,2025-07-21,2025-07-21,Enfermedad común,1,Sí,Parte pendiente
+ABS001000,FSH0532,23/11/2025,2025-11-23,Permiso retribuido,1,Si,Carga automática
+ABS001001,FSH0533,2025-06-26,2025-06-28,Enfermedad común,3,No,Carga automática
+ABS001002,FSH0534,2025-10-25,2025-10-27,Cuidado familiar,3,Sí,Validado por manager
+ABS001003,FSH0535,10/09/2025,12/09/2025,Accidente laboral,3,No,Carga automática
+ABS001004,FSH0535,2026-03-10,11/03/26,Enfermedad común,2,Si,Carga automática
+ABS001005,FSH0535,16/07/2025,2025-07-16,Enfermedad común,1,Sí,
+ABS001006,FSH0536,14/06/2025,15/06/25,Enfermedad común,2,Sí,
+ABS001007,FSH0536,2026-04-02,2026-04-02,Permiso retribuido,1,Sí,Parte pendiente
+ABS001008,FSH0536,2026-04-02,2026-04-02,Enfermedad común,1,Sí,Carga automática
+ABS001009,FSH0536,29/03/2026,2026-03-29,Cuidado familiar,1,Sí,Parte pendiente
+ABS001010,FSH0537,09/02/26,11/02/2026,Enfermedad común,3,Si,Carga automática
+ABS001011,FSH0538,19/10/2025,21-10-25,Cuidado familiar,3,Si,Validado por manager
+ABS001012,FSH0538,13/10/2025,2025-10-13,Permiso retribuido,1,Sí,
+ABS001013,FSH0539,18/12/2025,20/12/2025,Cuidado familiar,3,Sí,Carga automática
+ABS001014,FSH0540,15/08/2025,28/08/2025,Enfermedad común,14,Si,Carga automática
+ABS001015,fsh0541,14-04-26,2026-04-18,Enfermedad común,5,Si,Validado por manager
+ABS001016,FSH0542,2025-08-18,18/08/2025,Permiso retribuido,,Si,Validado por manager
+ABS001017,fsh0542,02/12/2025,2025-12-06,Enfermedad común,5,Si,Carga automática
+ABS001018,FSH0542,2025-10-19,2025-10-21,Permiso retribuido,3,Sí,Carga automática
+ABS001019,FSH0542,2026-03-10,11/03/2026,Accidente laboral,2,Sí,Validado por manager
+ABS001020, FSH0543 ,2025-08-22,2025-08-27,Accidente laboral,6,Pendiente,Parte pendiente
+ABS001021,FSH0544,28/08/2025,2025-08-30,Permiso retribuido,3,Sí,Parte pendiente
+ABS001022,FSH0544,2025-05-30,2025-05-30,Enfermedad común,1,Sí,Carga automática
+ABS001023,FSH0544,2025-06-23,23-06-25,Enfermedad común,1,Sí,
+ABS001024, FSH0544 ,21/10/2025,21-10-25,Enfermedad común,1,Sí,
+ABS001025,FSH0545,22-05-25,2025-05-25,Enfermedad común,4,Sí,
+ABS001026,FSH0545,22/03/2026,2026-03-26,Enfermedad común,5,Sí,Parte pendiente
+ABS001027,FSH0546,2025-07-29,29/07/2025,Enfermedad común,1,Sí,
+ABS001028,FSH0546,2025-07-09,2025-07-10,Permiso retribuido,2,Si,Carga automática
+ABS001029,FSH0546,2025-06-16,2025-06-19,Enfermedad común,4,No,Validado por manager
+ABS001030,FSH0547,2025-07-06,07/07/2025,Enfermedad común,2,No,Parte pendiente
+ABS001031,FSH0547,2025-12-23,2025-12-23,Enfermedad común,1,Si,Carga automática
+ABS001032,FSH0547,2026-04-07,2026-04-08,Permiso retribuido,2,Sí,Carga automática
+ABS001033,FSH0548,2026-04-06,11/04/2026,Accidente laboral,6,Sí,Carga automática
+ABS001034,FSH0548,04/01/26,2026-01-05,Permiso retribuido,2,Sí,Carga automática
+ABS001035,FSH0548,16/09/2025,2025-09-16,Enfermedad común,1,Sí,
+ABS001036,FSH0549,2025-10-09,2025-10-21,Cuidado familiar,13,Sí,Parte pendiente
+ABS001037,FSH0550,2026-03-19,2026-03-19,Permiso retribuido,1,Sí,Carga automática
+ABS001038,FSH0550,2025-07-23,2025-07-24,Enfermedad común,2,Sí,Carga automática
+ABS001039,FSH0550,2025-09-11,2025-09-11,Enfermedad común,1,Sí,Validado por manager
+ABS001040,FSH0551,2025-12-13,21/12/2025,Ausencia injustificada,9,Si,Validado por manager
+ABS001041,FSH0551,20/04/2026,2026-04-20,Cuidado familiar,1,No,Parte pendiente
+ABS001042,FSH0552,2025-05-17,20/05/2025,Enfermedad común,4,Sí,Carga automática
+ABS001043,FSH0554,2026-03-24,2026-03-31,Enfermedad común,8,Sí,Parte pendiente
+ABS001044,FSH0555,2025-12-08,2025-12-08,Cuidado familiar,1,Sí,Carga automática
+ABS001045,FSH0555,09/02/2026,11/02/2026,Enfermedad común,3,Si,Parte pendiente
+ABS001046,FSH0555,02-02-26,03/02/2026,Enfermedad común,2,Si,
+ABS001047,FSH0556,2025-10-02,2025-10-12,Permiso retribuido,11,Sí,Carga automática
+ABS001048,FSH0557,2025-08-25,2025-08-26,Enfermedad común,2,Sí,Parte pendiente
+ABS001049,FSH0558,2025-07-05,2025-07-07,Enfermedad común,3,Si,Validado por manager
+ABS001050,FSH0558,22/05/2025,22/05/2025,Permiso retribuido,1,Sí,Validado por manager
+ABS001051,FSH0558,2025-11-11,11/11/25,Enfermedad común,1,Sí,Validado por manager
+ABS001052,FSH0558,2025-11-26,2025-11-26,Permiso retribuido,1,Sí,Validado por manager
+ABS001053,FSH0559,2025-10-08,11-10-25,Permiso retribuido,4,Sí,
+ABS001054,FSH0560,04/07/2025,05-07-25,Accidente laboral,2,Sí,
+ABS001055,FSH0560,2026-01-15,15/01/26,Enfermedad común,1,Si,
+ABS001056,FSH0560,2026-04-26,28/04/2026,Cuidado familiar,3,Sí,
+ABS001057,FSH0562,2026-02-01,2026-02-02,Enfermedad común,2,Sí,Validado por manager
+ABS001058,FSH0562,25/05/2025,2025-05-26,Enfermedad común,2,Sí,Validado por manager
+ABS001059,FSH0562,10/05/2025,14/05/2025,Ausencia injustificada,5,Sí,Parte pendiente
+ABS001060,FSH0562,2026-04-26,2026-04-26,Enfermedad común,1,Sí,
+ABS001061,FSH0563,2025-05-20,24/05/25,Enfermedad común,5,Sí,Parte pendiente
+ABS001062,FSH0563,2025-08-11,14/08/2025,Accidente laboral,4,Si,Validado por manager
+ABS001063,FSH0564,19/05/25,2025-05-19,Permiso retribuido,1,Sí,Carga automática
+ABS001064,FSH0564,26/12/25,27/12/25,Enfermedad común,,No,Validado por manager
+ABS001065,FSH0564,2025-07-16,17/07/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS001066,FSH0565,2025-11-11,2025-11-14,Cuidado familiar,4,Sí,
+ABS001067,FSH0566,2025-11-14,16-11-25,Permiso retribuido,3,Sí,Carga automática
+ABS001068,FSH0566,2026-01-08,2026-01-09,Cuidado familiar,2,Sí,Validado por manager
+ABS001069,FSH0567,2025-05-31,01/06/2025,Enfermedad común,2,Sí,Validado por manager
+ABS001070,FSH0567,11/09/2025,12-09-25,Permiso retribuido,2,Sí,Carga automática
+ABS001071,FSH0568,15-06-25,19/06/2025,Enfermedad común,,Sí,
+ABS001072,FSH0568,25/07/2025,26/07/25,Permiso retribuido,2,Sí,Carga automática
+ABS001073,FSH0568,17/12/2025,18/12/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS001074,FSH0568,14/11/2025,14/11/2025,Enfermedad común,1,Sí,Carga automática
+ABS001075,FSH0569,04/03/2026,2026-03-07,Ausencia injustificada,4,Si,Validado por manager
+ABS001076,FSH0569,2026-02-01,2026-02-07,Permiso retribuido,7,Sí,
+ABS001077,FSH0569,28/07/25,2025-07-28,Accidente laboral,1,No,Carga automática
+ABS001078,FSH0570,2025-11-18,2025-11-29,Enfermedad común,12,Si,
+ABS001079,FSH0571,17/02/2026,2026-02-26,Cuidado familiar,10,Sí,Parte pendiente
+ABS001080,FSH0572,07/02/26,2026-02-10,Enfermedad común,4,Sí,Parte pendiente
+ABS001081,FSH0572,2026-04-16,19-04-26,Enfermedad común,4,Si,Validado por manager
+ABS001082,FSH0573,2025-09-09,11/09/2025,Enfermedad común,3,No,Parte pendiente
+ABS001083,FSH0573,13-07-25,2025-07-17,Enfermedad común,5,Sí,
+ABS001084,FSH0573,2026-01-23,2026-01-23,Accidente laboral,1,Sí,Parte pendiente
+ABS001085,FSH0573,2026-01-28,2026-01-28,Accidente laboral,1,Sí,Parte pendiente
+ABS001086,FSH-0574,2025-10-16,2025-10-16,Permiso retribuido,1,Sí,Parte pendiente
+ABS001087,FSH0574,06-09-25,07/09/2025,Enfermedad común,2,Sí,Validado por manager
+ABS001088,FSH0574,2025-09-02,2025-09-08,Cuidado familiar,7,Si,
+ABS001089,FSH0574,20/09/2025,22/09/2025,Enfermedad común,3,Sí,Parte pendiente
+ABS001090,FSH0575,2026-03-04,12/03/2026,Enfermedad común,9,Sí,Parte pendiente
+ABS001091,FSH0576,2026-03-20,2026-03-25,Enfermedad común,6,Sí,
+ABS001092,FSH0576,02/11/2025,2025-11-08,Enfermedad común,7,Si,Validado por manager
+ABS001093,FSH0577,25-02-26,28-02-26,Enfermedad común,4,No,Carga automática
+ABS001094,FSH0578,17/04/2026,18/04/26,Enfermedad común,2,Si,Parte pendiente
+ABS001095,FSH0579,2026-01-15,2026-01-29,Accidente laboral,15,Sí,
+ABS001096,FSH0580,2026-02-18,2026-02-20,Enfermedad común,3,Si,Carga automática
+ABS001097,FSH0580,2025-10-27,2025-11-01,Enfermedad común,6,Sí,Carga automática
+ABS001098,FSH0581,2025-09-05,07/09/2025,Enfermedad común,3,Sí,
+ABS001099,FSH0581,2026-01-03,2026-01-09,Cuidado familiar,7,Sí,Validado por manager
+ABS001100,FSH0582,07/10/2025,09/10/2025,Enfermedad común,3,Si,Parte pendiente
+ABS001101,FSH0583,2025-10-04,2025-10-07,Enfermedad común,4,Si,Carga automática
+ABS001102,FSH0583,2025-12-04,04/12/2025,Enfermedad común,1,Sí,
+ABS001103,FSH0583,24/07/2025,24/07/25,Enfermedad común,1,Sí,
+ABS001104,FSH0583,2025-12-15,2025-12-15,Cuidado familiar,1,Sí,Carga automática
+ABS001105,FSH0584,09/09/25,2025-09-14,Permiso retribuido,6,Si,
+ABS001106,FSH0585,15/05/2025,18/05/25,Enfermedad común,4,No,Parte pendiente
+ABS001107,FSH0585,2025-08-13,2025-08-15,Enfermedad común,3,Pendiente,
+ABS001108,FSH0586,2025-12-16,16-12-25,Enfermedad común,1,Pendiente,Parte pendiente
+ABS001109,FSH0586,25/01/2026,25/01/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS001110,FSH0586,2025-07-26,26/07/2025,Enfermedad común,1,Sí,Carga automática
+ABS001111,FSH0586,2025-07-12,2025-07-12,Permiso retribuido,1,Sí,Carga automática
+ABS001112,FSH0588,2026-02-16,16/02/2026,Enfermedad común,1,Pendiente,Parte pendiente
+ABS001113,FSH0588,03-10-25,2025-10-05,Ausencia injustificada,3,Si,Parte pendiente
+ABS001114,FSH0588,30/05/2025,2025-06-01,Enfermedad común,3,No,Validado por manager
+ABS001115,FSH0589,2025-07-07,11/07/2025,Enfermedad común,5,Sí,
+ABS001116,FSH0592,2025-11-16,17-11-25,Enfermedad común,2,Sí,Validado por manager
+ABS001117,FSH0593,2025-07-16,2025-07-22,Permiso retribuido,7,Sí,Carga automática
+ABS001118,FSH0593,03-12-25,2025-12-10,Enfermedad común,8,Sí,Parte pendiente
+ABS001119,FSH0594,12/04/2026,12/04/2026,Cuidado familiar,1,No,
+ABS001120,FSH0594,2025-08-09,2025-08-11,Enfermedad común,3,Sí,
+ABS001121,FSH0595,29/08/2025,2025-08-29,Ausencia injustificada,1,Si,
+ABS001122,FSH0596,2025-07-12,2025-07-14,Permiso retribuido,3,Sí,Carga automática
+ABS001123,FSH0596,2025-05-05,2025-05-09,Permiso retribuido,5,Sí,Validado por manager
+ABS001124,FSH0596,07-11-25,08-11-25,Enfermedad común,2,Sí,Carga automática
+ABS001125,FSH0596,23/07/2025,25/07/2025,Enfermedad común,3,Sí,
+ABS001126,FSH0597,23/02/26,2026-02-23,Enfermedad común,1,Sí,Carga automática
+ABS001127,FSH0598,2025-07-10,2025-07-12,Enfermedad común,3,Sí,
+ABS001128, FSH0598 ,2026-04-05,2026-04-09,Permiso retribuido,5,Pendiente,Validado por manager
+ABS001129,FSH0599,05/02/2026,2026-02-06,Enfermedad común,2,No,Carga automática
+ABS001130,FSH0601,2025-08-07,2025-08-09,Cuidado familiar,3,Sí,Carga automática
+ABS001131,FSH0602,2025-11-05,2025-11-05,Enfermedad común,1,Sí,Parte pendiente
+ABS001132,FSH0603,2025-08-26,27/08/2025,Enfermedad común,2,Sí,Carga automática
+ABS001133,FSH0603,2026-03-20,2026-03-27,Cuidado familiar,8,Sí,
+ABS001134,FSH0604,2025-11-26,2025-11-29,Enfermedad común,4,Sí,Carga automática
+ABS001135,FSH0604,24/02/2026,2026-02-25,Enfermedad común,2,Sí,Carga automática
+ABS001136,FSH0604,2025-05-02,02/05/2025,Accidente laboral,1,Sí,
+ABS001137,FSH0607,2025-09-29,29-09-25,Enfermedad común,1,Sí,
+ABS001138,FSH0607,24/11/2025,26/11/25,Enfermedad común,3,Sí,Validado por manager
+ABS001139,FSH0607,15/06/2025,2025-06-19,Cuidado familiar,5,Sí,Parte pendiente
+ABS001140,FSH0607,2026-04-07,2026-04-07,Accidente laboral,1,Sí,Validado por manager
+ABS001141,FSH0608,12/06/2025,16-06-25,Enfermedad común,5,Sí,Validado por manager
+ABS001142,FSH0608,2025-11-30,2025-12-01,Enfermedad común,2,No,
+ABS001143,FSH0609,2025-08-22,22-08-25,Enfermedad común,1,Sí,Carga automática
+ABS001144,FSH0610,06-10-25,11/10/2025,Enfermedad común,6,Sí,Validado por manager
+ABS001145,FSH0611,17/04/26,2026-04-19,Permiso retribuido,3,Si,Validado por manager
+ABS001146,FSH0612,2025-10-05,2025-10-13,Permiso retribuido,9,Sí,Validado por manager
+ABS001147,FSH0612,2026-04-04,2026-04-06,Enfermedad común,3,Si,Carga automática
+ABS001148,FSH0613,2025-06-08,20-06-25,Cuidado familiar,13,Si,
+ABS001149,FSH0614,30/05/25,2025-06-04,Permiso retribuido,6,Sí,
+ABS001150,FSH0614,27/11/2025,03-12-25,Enfermedad común,7,Sí,Validado por manager
+ABS001151,FSH0615,2026-03-15,19-03-26,Enfermedad común,5,No,Carga automática
+ABS001152,FSH0615,2025-10-12,13/10/25,Enfermedad común,2,Sí,Validado por manager
+ABS001153,FSH0616,2025-12-20,2025-12-25,Enfermedad común,6,Sí,Parte pendiente
+ABS001154,FSH0617,26/09/2025,27/09/2025,Enfermedad común,2,Sí,Carga automática
+ABS001155,FSH0617,2026-04-10,2026-04-13,Enfermedad común,4,Sí,Validado por manager
+ABS001156,FSH0618,08/03/2026,2026-03-08,Enfermedad común,1,Si,Parte pendiente
+ABS001157,FSH0618,03/06/2025,2025-06-03,Enfermedad común,1,Pendiente,
+ABS001158,FSH0618,2026-02-11,2026-02-12,Cuidado familiar,2,Sí,Carga automática
+ABS001159,FSH0618,23/08/2025,29-08-25,Permiso retribuido,7,No,
+ABS001160,FSH0620,2025-06-17,2025-06-22,Enfermedad común,6,Sí,Carga automática
+ABS001161,FSH0620,2026-04-27,05-05-26,Enfermedad común,9,Pendiente,Parte pendiente
+ABS001162,FSH0621,02/04/2026,06/04/2026,Enfermedad común,5,Sí,Carga automática
+ABS001163,FSH0622,21/06/2025,29/06/2025,Enfermedad común,9,No,
+ABS001164,FSH0623,2026-01-20,25/01/26,Enfermedad común,6,Sí,Carga automática
+ABS001165,FSH0624,2025-08-18,2025-08-20,Permiso retribuido,3,Sí,Parte pendiente
+ABS001166,FSH0625,2026-04-15,15-04-26,Enfermedad común,1,Sí,Parte pendiente
+ABS001167,FSH0625,28/02/2026,2026-02-28,Enfermedad común,1,Si,Validado por manager
+ABS001168,FSH0625,2026-02-15,15/02/2026,Permiso retribuido,1,Si,
+ABS001169,FSH0625,2026-03-18,2026-03-18,Ausencia injustificada,1,Sí,Carga automática
+ABS001170,FSH0626,2026-01-05,2026-01-07,Enfermedad común,3,Pendiente,Parte pendiente
+ABS001171, FSH0626 ,2025-07-29,29/07/2025,Enfermedad común,1,Si,
+ABS001172,FSH0626,2025-05-26,2025-05-26,Enfermedad común,1,Sí,Validado por manager
+ABS001173,FSH0626,20-08-25,2025-08-20,Enfermedad común,1,Sí,Parte pendiente
+ABS001174,FSH0628,2025-12-26,2025-12-26,Ausencia injustificada,1,Sí,
+ABS001175,FSH0629,18/02/2026,19/02/2026,Permiso retribuido,2,Sí,Validado por manager
+ABS001176,FSH0629,2026-01-08,12/01/26,Enfermedad común,5,Sí,Parte pendiente
+ABS001177,FSH0629,2025-12-20,2025-12-22,Enfermedad común,3,Sí,Carga automática
+ABS001178,FSH0631,2026-02-23,2026-02-27,Enfermedad común,5,Sí,Parte pendiente
+ABS001179,FSH0631,2025-06-16,2025-06-16,Accidente laboral,1,Si,
+ABS001180,FSH0631,2025-11-22,23/11/25,Permiso retribuido,2,No,Validado por manager
+ABS001181,FSH0632,2026-03-31,2026-03-31,Accidente laboral,1,No,
+ABS001182,FSH0632,2026-02-12,15/02/2026,Enfermedad común,4,Sí,
+ABS001183,FSH0633,2025-09-30,03/10/2025,Enfermedad común,4,Pendiente,Carga automática
+ABS001184,FSH0633,2026-04-02,2026-04-03,Cuidado familiar,2,Si,
+ABS001185,FSH0633,2025-11-03,2025-11-03,Enfermedad común,1,Sí,Parte pendiente
+ABS001186,FSH0633,17/01/2026,2026-01-17,Enfermedad común,1,Si,
+ABS001187,FSH0634,2025-09-11,2025-09-11,Enfermedad común,1,Sí,Carga automática
+ABS001188,FSH0634,20/06/2025,28/06/2025,Enfermedad común,9,Sí,Parte pendiente
+ABS001189,FSH0635,2025-10-14,2025-10-14,Enfermedad común,1,Sí,Parte pendiente
+ABS001190,FSH0635,06/10/2025,13/10/2025,Enfermedad común,8,Sí,Validado por manager
+ABS001191,FSH0635,2026-03-23,23/03/2026,Accidente laboral,1,Sí,Parte pendiente
+ABS001192,FSH0635,08/06/2025,2025-06-11,Accidente laboral,4,Si,Carga automática
+ABS001193,FSH0636,2025-07-11,2025-07-13,Permiso retribuido,3,No,Validado por manager
+ABS001194,FSH0637,15/12/2025,2025-12-22,Ausencia injustificada,8,Sí,Parte pendiente
+ABS001195,FSH0637,2026-02-03,2026-02-05,Enfermedad común,3,Si,Validado por manager
+ABS001196,FSH-0637,2025-12-22,2025-12-23,Enfermedad común,2,Sí,
+ABS001197,FSH0638,2026-02-06,2026-02-06,Permiso retribuido,1,Sí,Parte pendiente
+ABS001198,FSH0639,2026-02-19,2026-02-25,Permiso retribuido,7,Sí,Carga automática
+ABS001199,FSH0640,08/09/2025,09/09/25,Enfermedad común,2,No,Carga automática
+ABS001200,FSH0640,2025-09-29,2025-09-29,Cuidado familiar,1,Sí,Validado por manager
+ABS001201,FSH0640,2025-06-17,17/06/2025,Enfermedad común,1,Si,Validado por manager
+ABS001202,FSH0641,2025-05-21,2025-05-22,Enfermedad común,2,Pendiente,Validado por manager
+ABS001203,FSH0642,2025-05-01,2025-05-02,Enfermedad común,2,Sí,Carga automática
+ABS001204, FSH0644 ,03/01/2026,2026-01-07,Enfermedad común,5,Sí,Validado por manager
+ABS001205,FSH0644,2025-08-01,02/08/2025,Cuidado familiar,2,Sí,Parte pendiente
+ABS001206,FSH0644,24/07/2025,2025-07-24,Enfermedad común,1,Sí,
+ABS001207,FSH0644,2025-08-22,22/08/2025,Enfermedad común,1,Si,Validado por manager
+ABS001208,FSH0645,03/01/2026,10/01/26,Enfermedad común,8,Sí,Parte pendiente
+ABS001209,FSH0646,2026-02-21,21/02/2026,Enfermedad común,1,No,Parte pendiente
+ABS001210,fsh0648,2025-09-22,22/09/25,Permiso retribuido,1,Si,Validado por manager
+ABS001211,FSH0649,16/03/2026,16-03-26,Enfermedad común,1,Sí,
+ABS001212,FSH0649,2025-08-18,19/08/2025,Enfermedad común,2,Sí,
+ABS001213,FSH0649,2025-11-25,2025-11-25,Permiso retribuido,1,Sí,Carga automática
+ABS001214,FSH0650,06/04/2026,2026-04-08,Cuidado familiar,3,Pendiente,Carga automática
+ABS001215,FSH0650,2025-11-01,2025-11-04,Enfermedad común,4,Si,Parte pendiente
+ABS001216,FSH0651,14-12-25,2025-12-22,Enfermedad común,9,Si,
+ABS001217,FSH0651,2025-12-19,24/12/2025,Enfermedad común,6,Sí,
+ABS001218,FSH0652,2025-07-10,10/07/25,Enfermedad común,1,Pendiente,Carga automática
+ABS001219,FSH0653,2025-05-27,2025-05-30,Enfermedad común,4,Sí,Parte pendiente
+ABS001220,FSH0653,2025-10-13,2025-10-16,Cuidado familiar,4,Sí,Carga automática
+ABS001221,FSH0655,2025-11-29,29-11-25,Accidente laboral,1,Sí,
+ABS001222,FSH0655,18-07-25,2025-07-21,Enfermedad común,4,Si,Validado por manager
+ABS001223,FSH0656,29-05-25,2025-05-31,Enfermedad común,3,Si,Carga automática
+ABS001224,FSH0657,2025-11-14,23-11-25,Permiso retribuido,10,Sí,Validado por manager
+ABS001225,FSH0659,2025-08-29,2025-09-01,Enfermedad común,4,Sí,Parte pendiente
+ABS001226,FSH0659,2026-04-10,12-04-26,Enfermedad común,3,Si,Validado por manager
+ABS001227,FSH0659,2025-11-11,11/11/2025,Accidente laboral,1,Sí,Parte pendiente
+ABS001228,FSH0659,2026-03-09,2026-03-09,Enfermedad común,1,Sí,Parte pendiente
+ABS001229,FSH0661,14-11-25,14/11/2025,Cuidado familiar,1,Si,Validado por manager
+ABS001230,FSH0661,18/05/2025,23/05/2025,Cuidado familiar,6,Sí,
+ABS001231,FSH0662,07/06/2025,07/06/25,Accidente laboral,1,Si,
+ABS001232,fsh0662,2026-03-29,29-03-26,Cuidado familiar,1,No,Carga automática
+ABS001233,FSH0662,04/08/2025,2025-08-04,Enfermedad común,1,Si,Carga automática
+ABS001234,FSH0662,27-04-26,29-04-26,Enfermedad común,3,Sí,Carga automática
+ABS001235,FSH0663,24/12/25,26/12/25,Enfermedad común,3,Sí,Validado por manager
+ABS001236,FSH0663,2025-12-04,2025-12-07,Enfermedad común,4,Sí,Parte pendiente
+ABS001237,FSH0663,2025-08-30,30/08/2025,Permiso retribuido,1,Sí,
+ABS001238,fsh0663,2026-03-15,15-03-26,Enfermedad común,1,Si,Parte pendiente
+ABS001239,FSH0665,15/10/25,2025-10-26,Cuidado familiar,12,Sí,Parte pendiente
+ABS001240,FSH0665,2026-02-24,2026-02-24,Enfermedad común,1,Si,Carga automática
+ABS001241,FSH0665,2025-07-30,30/07/25,Enfermedad común,1,Sí,Validado por manager
+ABS001242,FSH0666,08-05-25,15/05/2025,Enfermedad común,8,Sí,Carga automática
+ABS001243,FSH0667,15-06-25,21/06/2025,Enfermedad común,7,Sí,Validado por manager
+ABS001244,FSH0667,24/12/25,25/12/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS001245,FSH0667,2025-07-19,19-07-25,Cuidado familiar,1,Sí,
+ABS001246,FSH0668,05/02/2026,2026-02-08,Permiso retribuido,4,Si,Parte pendiente
+ABS001247,FSH0668,08/01/2026,2026-01-11,Permiso retribuido,4,Si,Carga automática
+ABS001248,FSH0669,2026-02-06,2026-02-15,Enfermedad común,10,Sí,Carga automática
+ABS001249,FSH0670,04/04/2026,2026-04-10,Enfermedad común,7,Si,Parte pendiente
+ABS001250,FSH0671,29/10/2025,05-11-25,Enfermedad común,8,Sí,
+ABS001251,FSH0672,2025-12-23,26/12/2025,Cuidado familiar,4,No,Parte pendiente
+ABS001252,FSH0672,2025-06-05,2025-06-06,Accidente laboral,2,Sí,
+ABS001253,FSH0672,2025-08-26,26/08/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS001254,FSH0672,2026-04-11,2026-04-11,Enfermedad común,1,Si,Validado por manager
+ABS001255,FSH0673,25/11/2025,27/11/2025,Cuidado familiar,3,No,Carga automática
+ABS001256,FSH0674,06-05-25,2025-05-08,Enfermedad común,,Sí,
+ABS001257,FSH0674,29-10-25,30-10-25,Enfermedad común,2,Si,Validado por manager
+ABS001258,FSH0674,2025-08-24,2025-08-25,Permiso retribuido,2,Sí,Validado por manager
+ABS001259,FSH0675,2025-07-19,2025-07-20,Enfermedad común,2,No,Validado por manager
+ABS001260,FSH0676,2025-10-05,2025-10-07,Enfermedad común,3,Sí,Parte pendiente
+ABS001261,FSH0678,11/03/2026,2026-03-12,Enfermedad común,2,No,Parte pendiente
+ABS001262,FSH0679,2025-05-09,10/05/2025,Enfermedad común,2,Sí,Parte pendiente
+ABS001263,FSH0681,05/04/2026,10/04/2026,Permiso retribuido,6,Sí,Parte pendiente
+ABS001264,FSH0682,27/04/2026,2026-04-29,Enfermedad común,3,Sí,Parte pendiente
+ABS001265,FSH0682,2025-12-25,01/01/2026,Accidente laboral,8,Sí,
+ABS001266,FSH0683,15/05/2025,20-05-25,Enfermedad común,6,Sí,Carga automática
+ABS001267,FSH0683,15/10/2025,2025-10-18,Enfermedad común,4,Sí,
+ABS001268,FSH0685,2025-08-29,30/08/25,Enfermedad común,2,Sí,Carga automática
+ABS001269,FSH0685,2026-03-08,2026-03-08,Cuidado familiar,1,Sí,Parte pendiente
+ABS001270,FSH0685,2026-01-29,29/01/2026,Enfermedad común,1,No,
+ABS001271,FSH0685,12/05/2025,13/05/2025,Permiso retribuido,2,Si,Validado por manager
+ABS001272,FSH0686,2025-11-11,14/11/25,Accidente laboral,4,Sí,Parte pendiente
+ABS001273,FSH0687,08/10/2025,2025-10-13,Enfermedad común,6,Sí,
+ABS001274,FSH0688,23/11/2025,2025-11-26,Enfermedad común,4,Si,Carga automática
+ABS001275,FSH0689,2025-12-28,2025-12-30,Enfermedad común,3,Sí,
+ABS001276,FSH0690,01/01/26,08-01-26,Enfermedad común,8,Sí,Parte pendiente
+ABS001277,FSH0690,2026-02-02,2026-02-03,Enfermedad común,2,Sí,Carga automática
+ABS001278,FSH-0690,28-04-26,2026-04-28,Enfermedad común,1,Si,Validado por manager
+ABS001279,FSH0692,08-10-25,16/10/2025,Enfermedad común,9,No,Carga automática
+ABS001280,FSH0692,07/04/2026,10/04/2026,Accidente laboral,4,Sí,
+ABS001281,FSH0693,2025-12-13,17/12/25,Permiso retribuido,5,Sí,Carga automática
+ABS001282,FSH0693,19/11/2025,2025-11-19,Enfermedad común,1,Si,Carga automática
+ABS001283,FSH0693,2025-06-12,12/06/25,Enfermedad común,1,Si,Parte pendiente
+ABS001284,FSH0694,2025-12-21,2025-12-21,Enfermedad común,1,Sí,
+ABS001285,FSH0694,2026-04-28,30/04/2026,Permiso retribuido,3,Sí,
+ABS001286,FSH0695,29/03/2026,2026-03-30,Permiso retribuido,2,Sí,Carga automática
+ABS001287,FSH-0695,2025-09-28,2025-09-28,Enfermedad común,1,Sí,Parte pendiente
+ABS001288,FSH0695,19/12/2025,2025-12-20,Enfermedad común,2,Sí,Parte pendiente
+ABS001289,FSH0695,2025-12-08,2025-12-08,Enfermedad común,,Sí,Validado por manager
+ABS001290,FSH0696,2026-01-01,05/01/2026,Enfermedad común,,Sí,
+ABS001291,FSH-0697,21/02/2026,2026-02-21,Cuidado familiar,1,Sí,Carga automática
+ABS001292,FSH0698,24/06/2025,27/06/2025,Enfermedad común,4,Sí,Carga automática
+ABS001293,FSH0698,2026-02-15,17/02/2026,Enfermedad común,3,Sí,
+ABS001294,FSH0698,11-02-26,2026-02-12,Ausencia injustificada,2,Sí,
+ABS001295,FSH0698,08/05/2025,08/05/2025,Enfermedad común,1,Sí,
+ABS001296,FSH0699,11/02/2026,13-02-26,Enfermedad común,3,Si,Validado por manager
+ABS001297,FSH0699,05/08/2025,2025-08-06,Enfermedad común,2,Sí,Parte pendiente
+ABS001298,FSH0699,2026-01-20,2026-01-20,Enfermedad común,,Sí,Carga automática
+ABS001299,FSH0700,2025-09-07,2025-09-09,Enfermedad común,3,Sí,Carga automática
+ABS001300,FSH0701,2026-04-26,2026-04-27,Enfermedad común,2,Sí,Validado por manager
+ABS001301,FSH0701,2025-09-18,2025-09-18,Enfermedad común,1,Si,Parte pendiente
+ABS001302,FSH0701,2025-12-09,2025-12-09,Enfermedad común,1,Sí,
+ABS001303,FSH0701,2026-04-05,2026-04-05,Enfermedad común,1,Si,Parte pendiente
+ABS001304,FSH0702,2025-10-02,2025-10-04,Cuidado familiar,3,Sí,Validado por manager
+ABS001305,FSH0703,09/10/2025,2025-10-12,Permiso retribuido,4,Sí,Validado por manager
+ABS001306,FSH0704,2025-09-11,2025-09-18,Accidente laboral,8,Sí,
+ABS001307,FSH0704,2025-05-03,2025-05-04,Enfermedad común,2,Sí,Carga automática
+ABS001308,FSH0705,2026-02-09,18/02/2026,Cuidado familiar,10,No,Validado por manager
+ABS001309,FSH0706,07/01/2026,11/01/2026,Enfermedad común,5,Sí,
+ABS001310,FSH0707,13-04-26,16-04-26,Enfermedad común,4,Sí,Carga automática
+ABS001311,FSH-0708,2026-04-10,2026-04-11,Cuidado familiar,2,Si,
+ABS001312,FSH0708,2025-12-18,2025-12-18,Enfermedad común,1,Sí,Parte pendiente
+ABS001313,FSH0708,27-03-26,29-03-26,Cuidado familiar,3,Sí,Validado por manager
+ABS001314,FSH0709,2025-12-30,2026-01-03,Cuidado familiar,5,Sí,
+ABS001315,FSH0709,15/07/25,16-07-25,Permiso retribuido,2,Si,Parte pendiente
+ABS001316,FSH0710,18-02-26,21/02/2026,Enfermedad común,4,Sí,Parte pendiente
+ABS001317,FSH0710,2026-04-20,2026-04-20,Permiso retribuido,1,Sí,Parte pendiente
+ABS001318,FSH0710,2025-06-13,2025-06-13,Permiso retribuido,1,Si,Carga automática
+ABS001319,FSH0710,2025-05-10,10/05/2025,Permiso retribuido,1,Sí,Parte pendiente
+ABS001320,FSH0711,2025-08-17,21-08-25,Permiso retribuido,5,Sí,Carga automática
+ABS001321,FSH0712,21/05/25,22-05-25,Enfermedad común,2,No,
+ABS001322,FSH0712,2026-02-19,2026-02-25,Enfermedad común,7,Sí,Validado por manager
+ABS001323,FSH0712,26/03/2026,2026-03-26,Permiso retribuido,1,Sí,Parte pendiente
+ABS001324,FSH0712,18/02/2026,18/02/26,Enfermedad común,1,Si,Validado por manager
+ABS001325,FSH0713,20/11/2025,2025-11-21,Enfermedad común,2,Sí,Validado por manager
+ABS001326,FSH0713,2025-07-01,02-07-25,Permiso retribuido,2,Sí,Carga automática
+ABS001327,FSH0713,2025-10-09,09/10/2025,Enfermedad común,1,Sí,Validado por manager
+ABS001328,FSH0715,2026-04-02,2026-04-03,Permiso retribuido,2,Sí,Carga automática
+ABS001329,FSH-0715,10-05-25,10/05/2025,Cuidado familiar,1,Si,
+ABS001330,FSH0715,19/09/2025,2025-09-19,Enfermedad común,1,Si,
+ABS001331,FSH0715,2025-12-06,06-12-25,Enfermedad común,1,Si,Parte pendiente
+ABS001332,FSH0716,2026-03-03,2026-03-05,Permiso retribuido,3,Sí,Parte pendiente
+ABS001333,FSH0717,19/01/2026,26-01-26,Enfermedad común,8,Si,Validado por manager
+ABS001334,FSH0718,2025-09-19,2025-09-21,Permiso retribuido,3,Sí,Carga automática
+ABS001335,FSH0720,2025-09-15,22/09/2025,Accidente laboral,8,Sí,Validado por manager
+ABS001336,FSH0721,04/01/2026,2026-01-04,Enfermedad común,1,Si,Carga automática
+ABS001337,FSH0721,27/06/2025,2025-06-27,Enfermedad común,1,Sí,Validado por manager
+ABS001338,FSH0721,01/04/2026,2026-04-01,Permiso retribuido,1,Sí,Parte pendiente
+ABS001339,FSH0721,16/04/2026,2026-04-17,Accidente laboral,2,Sí,Carga automática
+ABS001340,FSH0722,06/02/2026,2026-02-07,Permiso retribuido,2,Sí,Validado por manager
+ABS001341,FSH-0722,2025-09-11,2025-09-11,Permiso retribuido,1,Sí,Carga automática
+ABS001342,FSH0722,2025-06-24,2025-06-24,Cuidado familiar,1,Si,
+ABS001343,FSH0722,2025-10-09,2025-10-09,Enfermedad común,1,No,Validado por manager
+ABS001344,FSH0723,22-03-26,2026-03-26,Cuidado familiar,5,Sí,
+ABS001345,FSH0723,2025-07-13,14/07/2025,Enfermedad común,2,Sí,Carga automática
+ABS001346,FSH0723,06/03/2026,06/03/2026,Permiso retribuido,1,Sí,Parte pendiente
+ABS001347,FSH0723,2025-07-29,2025-08-02,Cuidado familiar,5,Sí,
+ABS001348, FSH0724 ,10/09/2025,2025-09-18,Cuidado familiar,9,Sí,Carga automática
+ABS001349,FSH0724,2025-05-06,2025-05-06,Enfermedad común,1,No,Carga automática
+ABS001350,FSH0725,2025-09-25,05/10/2025,Enfermedad común,11,No,
+ABS001351,FSH0726,12/01/2026,2026-01-14,Cuidado familiar,3,Sí,Parte pendiente
+ABS001352,FSH0726,2026-04-14,2026-04-17,Enfermedad común,4,Si,Parte pendiente
+ABS001353,FSH0726,2025-08-24,2025-08-25,Permiso retribuido,2,Sí,
+ABS001354,FSH0727,2025-08-30,01/09/2025,Accidente laboral,3,Sí,
+ABS001355,FSH0728,14/03/2026,2026-03-15,Ausencia injustificada,2,Si,Validado por manager
+ABS001356,FSH0730,2025-05-08,08-05-25,Permiso retribuido,1,Sí,
+ABS001357,FSH0731,07/03/2026,2026-03-09,Enfermedad común,3,Si,Parte pendiente
+ABS001358,fsh0732,14/07/25,2025-07-15,Enfermedad común,2,Sí,Parte pendiente
+ABS001359,FSH0733,2025-11-02,10-11-25,Enfermedad común,9,Sí,Parte pendiente
+ABS001360,FSH0733,2025-07-09,09/07/2025,Permiso retribuido,1,Si,Carga automática
+ABS001361,FSH0733,2025-08-25,2025-08-27,Enfermedad común,3,Sí,Carga automática
+ABS001362,FSH0734,21/08/2025,26/08/25,Enfermedad común,6,Sí,Carga automática
+ABS001363,FSH0735,12-09-25,14/09/2025,Permiso retribuido,3,Si,Validado por manager
+ABS001364,FSH0736,13/06/25,2025-06-20,Enfermedad común,8,Sí,Carga automática
+ABS001365,FSH0736,2025-12-31,2025-12-31,Permiso retribuido,1,Si,
+ABS001366,FSH0736,2025-12-01,2025-12-01,Enfermedad común,1,Sí,Validado por manager
+ABS001367,FSH0736,09-11-25,2025-11-09,Enfermedad común,1,Pendiente,Parte pendiente
+ABS001368,FSH0737,2025-12-17,2025-12-18,Enfermedad común,2,Si,Carga automática
+ABS001369,FSH0738,2025-05-30,30/05/2025,Cuidado familiar,1,Sí,Carga automática
+ABS001370,FSH0738,2025-09-23,24-09-25,Permiso retribuido,2,Sí,Validado por manager
+ABS001371,FSH0738,23/12/25,23-12-25,Enfermedad común,1,Sí,
+ABS001372,FSH0739,2025-06-27,01-07-25,Enfermedad común,5,Si,Validado por manager
+ABS001373,FSH0739,2025-05-25,26/05/2025,Permiso retribuido,2,Sí,Parte pendiente
+ABS001374,FSH0740,2026-02-26,2026-02-28,Cuidado familiar,3,Si,Carga automática
+ABS001375,FSH0741,2025-07-20,2025-07-20,Cuidado familiar,1,Sí,Validado por manager
+ABS001376,FSH0741,19/08/2025,2025-08-19,Permiso retribuido,1,Si,Parte pendiente
+ABS001377,FSH0741,2025-07-27,29/07/2025,Cuidado familiar,3,Sí,Parte pendiente
+ABS001378,FSH0743,2025-08-31,2025-09-02,Enfermedad común,3,Sí,Carga automática
+ABS001379,FSH0745,05/07/2025,05/07/2025,Permiso retribuido,1,Sí,Carga automática
+ABS001380,FSH0745,2025-12-05,2025-12-06,Cuidado familiar,2,Sí,Validado por manager
+ABS001381,FSH0745,2025-08-29,2025-09-01,Enfermedad común,4,Sí,Validado por manager
+ABS001382,FSH0746,15/05/2025,2025-05-19,Enfermedad común,5,Sí,Parte pendiente
+ABS001383,FSH0747,2026-03-13,2026-03-21,Enfermedad común,9,Sí,Carga automática
+ABS001384,FSH0748,21/04/26,23/04/2026,Cuidado familiar,3,Pendiente,
+ABS001385,FSH0749,28/09/2025,2025-10-04,Cuidado familiar,7,Sí,Carga automática
+ABS001386,FSH0749,2025-09-03,2025-09-03,Cuidado familiar,1,Sí,Validado por manager
+ABS001387, FSH0749 ,12/05/25,2025-05-12,Enfermedad común,1,Sí,Validado por manager
+ABS001388,FSH0750,2025-08-24,2025-08-25,Enfermedad común,2,Sí,Carga automática
+ABS001389,FSH0750,2025-08-26,26/08/2025,Enfermedad común,1,Sí,Validado por manager
+ABS001390,FSH0750,16/08/2025,2025-08-16,Permiso retribuido,1,Si,Carga automática
+ABS001391,FSH0751,03-10-25,2025-10-03,Enfermedad común,1,Sí,Parte pendiente
+ABS001392,FSH0752,2025-06-02,2025-06-04,Enfermedad común,3,Sí,
+ABS001393,FSH0752,29/07/2025,29/07/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS001394,FSH0752,29/11/2025,2025-12-01,Enfermedad común,3,No,Validado por manager
+ABS001395,FSH0752,11/01/26,11-01-26,Enfermedad común,1,Si,Validado por manager
+ABS001396,FSH0753,2025-06-03,05-06-25,Enfermedad común,3,Sí,Parte pendiente
+ABS001397,FSH0753,2025-12-03,03/12/2025,Enfermedad común,1,Sí,Parte pendiente
+ABS001398,FSH0753,25/12/2025,2025-12-29,Enfermedad común,5,Sí,Parte pendiente
+ABS001399,FSH0754,2026-04-10,19/04/2026,Permiso retribuido,10,Sí,Validado por manager
+ABS001400,FSH0754,2026-01-27,2026-01-27,Enfermedad común,1,Sí,Parte pendiente
+ABS001401,FSH-0755,08/03/2026,2026-03-08,Permiso retribuido,1,Sí,Parte pendiente
+ABS001402,FSH0755,2025-12-15,16/12/2025,Cuidado familiar,2,Si,Validado por manager
+ABS001403,FSH0755,2026-02-19,2026-02-20,Accidente laboral,2,Sí,
+ABS001404,FSH0756,26/09/2025,27/09/25,Enfermedad común,2,Sí,Carga automática
+ABS001405,FSH0756,18-03-26,18/03/2026,Enfermedad común,1,Sí,Validado por manager
+ABS001406,FSH0756,05-08-25,05-08-25,Accidente laboral,1,Si,Carga automática
+ABS001407,FSH0757,2025-12-19,2025-12-31,Enfermedad común,13,Sí,Validado por manager
+ABS001408,FSH0757,2025-07-07,07-07-25,Enfermedad común,1,Sí,Carga automática
+ABS001409,FSH0757,2026-02-17,2026-02-17,Enfermedad común,1,Sí,Carga automática
+ABS001410, FSH0758 ,25-12-25,25/12/2025,Enfermedad común,1,Sí,Carga automática
+ABS001411,FSH0759,2025-07-31,2025-07-31,Permiso retribuido,1,Si,Validado por manager
+ABS001412,FSH0759,26/07/2025,26/07/2025,Permiso retribuido,1,Sí,Validado por manager
+ABS001413,FSH0759,06-06-25,2025-06-07,Enfermedad común,2,Sí,Validado por manager
+ABS001414,FSH0760,16/08/2025,2025-08-16,Ausencia injustificada,1,Sí,Carga automática
+ABS001415,FSH0761,07/09/2025,2025-09-07,Permiso retribuido,1,Sí,Carga automática
+ABS001416,FSH0761,22/08/25,2025-08-26,Enfermedad común,,Sí,Carga automática
+ABS001417,FSH0761,2025-12-18,2025-12-19,Enfermedad común,2,Sí,Parte pendiente
+ABS001418,FSH0762,2025-07-08,15-07-25,Enfermedad común,8,Sí,
+ABS001419,FSH0762,2026-02-17,2026-02-17,Accidente laboral,1,Sí,
+ABS001420, FSH0763 ,2025-12-10,2025-12-18,Cuidado familiar,9,Si,Carga automática
+ABS001421,FSH0764,08/07/2025,2025-07-13,Cuidado familiar,6,Sí,Carga automática
+ABS001422,FSH0764,2025-06-28,28/06/2025,Enfermedad común,1,Sí,Validado por manager
+ABS001423,FSH0764,13-02-26,13/02/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS001424,FSH0764,2025-12-13,2025-12-13,Enfermedad común,1,Si,Parte pendiente
+ABS001425,FSH0765,10/10/2025,12/10/2025,Permiso retribuido,3,Sí,Carga automática
+ABS001426,FSH0766,30/11/2025,2025-12-04,Permiso retribuido,5,Sí,
+ABS001427,FSH0766,2026-04-28,2026-04-28,Enfermedad común,1,No,Validado por manager
+ABS001428, FSH0766 ,2025-06-24,24/06/2025,Enfermedad común,1,Sí,
+ABS001429,FSH0766,2025-08-02,02/08/25,Enfermedad común,1,Sí,Parte pendiente
+ABS001430,FSH0767,2026-02-02,2026-02-10,Enfermedad común,9,Pendiente,Carga automática
+ABS001431,FSH0768,2026-04-14,2026-04-19,Enfermedad común,6,Sí,Validado por manager
+ABS001432,FSH0769,2025-11-22,2025-11-27,Enfermedad común,6,Sí,
+ABS001433,FSH0769,2026-01-22,2026-01-23,Enfermedad común,2,Sí,Validado por manager
+ABS001434,FSH0770,06/09/2025,2025-09-07,Enfermedad común,2,Sí,
+ABS001435,FSH0771,2025-10-21,22/10/25,Enfermedad común,2,Sí,
+ABS001436,FSH0771,18-03-26,18/03/2026,Enfermedad común,1,Sí,Carga automática
+ABS001437,FSH0771,2026-02-07,07-02-26,Permiso retribuido,1,Sí,Validado por manager
+ABS001438,FSH0772,22/09/2025,27/09/2025,Permiso retribuido,6,Sí,Validado por manager
+ABS001439,FSH0773,29-12-25,02/01/26,Enfermedad común,5,Si,Carga automática
+ABS001440,FSH0773,25-03-26,25/03/2026,Accidente laboral,1,Sí,
+ABS001441,FSH0775,05/07/2025,08/07/2025,Cuidado familiar,4,Sí,
+ABS001442,FSH0775,2025-06-17,19/06/2025,Enfermedad común,3,Si,Validado por manager
+ABS001443,FSH0775,2025-08-31,2025-08-31,Enfermedad común,1,Sí,Carga automática
+ABS001444,FSH0775,2026-04-03,03/04/2026,Enfermedad común,1,Sí,Carga automática
+ABS001445,FSH0776,2025-09-24,2025-10-05,Cuidado familiar,12,Sí,Carga automática
+ABS001446,FSH0778,09/09/2025,12/09/2025,Enfermedad común,4,Sí,Validado por manager
+ABS001447,FSH0778,23/08/2025,23/08/2025,Enfermedad común,1,Sí,Carga automática
+ABS001448,FSH0779,10/06/2025,2025-06-13,Permiso retribuido,4,Sí,
+ABS001449,FSH0780,27/03/26,30/03/2026,Enfermedad común,4,Sí,Validado por manager
+ABS001450,FSH0780,26/06/2025,2025-07-03,Cuidado familiar,8,Pendiente,Parte pendiente
+ABS001451,FSH0781,2025-08-21,2025-08-21,Permiso retribuido,1,Sí,Validado por manager
+ABS001452,FSH0782,2025-06-18,20/06/25,Ausencia injustificada,3,Si,Carga automática
+ABS001453,FSH0782,30/08/2025,2025-09-01,Permiso retribuido,3,Sí,
+ABS001454,FSH0782,2026-01-06,2026-01-07,Cuidado familiar,2,Sí,Validado por manager
+ABS001455,FSH0782,2025-11-26,2025-11-27,Permiso retribuido,2,Si,Validado por manager
+ABS001456,FSH0783,26/11/25,05-12-25,Permiso retribuido,10,Si,Validado por manager
+ABS001457,FSH0784,2026-01-19,22/01/2026,Ausencia injustificada,4,Si,Parte pendiente
+ABS001458,FSH0784,18/01/2026,2026-01-19,Enfermedad común,2,Si,Carga automática
+ABS001459,FSH0784,19-06-25,19-06-25,Enfermedad común,1,Sí,
+ABS001460, FSH0786 ,2026-02-14,15/02/2026,Enfermedad común,2,Sí,
+ABS001461,FSH0786,2026-01-20,20/01/2026,Cuidado familiar,1,Si,Carga automática
+ABS001462,FSH0786,2025-09-29,2025-09-30,Ausencia injustificada,2,Sí,Carga automática
+ABS001463,FSH0786,02/07/2025,2025-07-02,Cuidado familiar,1,Sí,
+ABS001464,FSH0787,2026-04-28,29-04-26,Accidente laboral,2,Sí,Parte pendiente
+ABS001465,FSH0787,30/07/2025,31-07-25,Enfermedad común,2,Sí,
+ABS001466,FSH0787,16/06/2025,16-06-25,Enfermedad común,1,Sí,
+ABS001467,FSH0787,18-05-25,2025-05-18,Enfermedad común,1,Sí,Carga automática
+ABS001468,FSH0788,2025-06-26,30/06/25,Enfermedad común,5,No,
+ABS001469,FSH0789,10-08-25,12/08/2025,Enfermedad común,3,Sí,Validado por manager
+ABS001470,FSH0790,2025-11-15,2025-11-15,Enfermedad común,1,Si,Validado por manager
+ABS001471,FSH0790,14-09-25,2025-09-22,Permiso retribuido,9,Sí,Validado por manager
+ABS001472,FSH0791,2025-06-23,27/06/2025,Permiso retribuido,5,Sí,Parte pendiente
+ABS001473,FSH0792,2025-09-30,2025-09-30,Enfermedad común,1,Sí,
+ABS001474,FSH-0792,2026-03-13,2026-03-13,Cuidado familiar,1,Sí,Validado por manager
+ABS001475,FSH0792,22-08-25,2025-08-22,Enfermedad común,1,Si,Carga automática
+ABS001476,FSH0792,18/12/25,18/12/25,Permiso retribuido,1,Sí,
+ABS001477,FSH0793,07/09/2025,09-09-25,Enfermedad común,3,Sí,Validado por manager
+ABS001478,FSH0794,2025-10-15,2025-10-23,Enfermedad común,9,Sí,Carga automática
+ABS001479,FSH0794,2026-01-10,2026-01-11,Cuidado familiar,2,Si,
+ABS001480,FSH0795,2026-04-15,2026-04-23,Enfermedad común,9,Sí,Validado por manager
+ABS001481,FSH0795,2026-04-03,05-04-26,Permiso retribuido,3,Si,Carga automática
+ABS001482,FSH0796,15/10/25,2025-10-16,Accidente laboral,2,Sí,Parte pendiente
+ABS001483,fsh0797,13/11/2025,22-11-25,Enfermedad común,10,Sí,Validado por manager
+ABS001484,FSH0798,2026-02-19,19-02-26,Enfermedad común,1,Sí,
+ABS001485,FSH0798,2025-10-04,05/10/2025,Permiso retribuido,2,Sí,Carga automática
+ABS001486,FSH0798,2025-07-29,01-08-25,Enfermedad común,4,Sí,
+ABS001487,FSH0799,14/12/25,2025-12-15,Accidente laboral,2,Sí,Carga automática
+ABS001488,FSH0800,2026-04-29,29/04/2026,Enfermedad común,1,Sí,Parte pendiente
+ABS001489,FSH0801,2025-06-12,12/06/25,Enfermedad común,1,Sí,Validado por manager
+ABS001490,FSH0801,29-10-25,29/10/2025,Permiso retribuido,1,Si,
+ABS001491,FSH0801,2026-03-19,2026-03-20,Enfermedad común,2,Si,Carga automática
+ABS001492,FSH-0801,04/06/2025,04-06-25,Ausencia injustificada,1,Sí,Parte pendiente
+ABS001493,FSH0802,26/02/2026,27/02/2026,Enfermedad común,2,Sí,Parte pendiente
+ABS001494,FSH0803,2025-06-08,08-06-25,Permiso retribuido,1,Pendiente,Carga automática
+ABS001495,FSH0803,01-11-25,02/11/25,Permiso retribuido,2,Sí,
+ABS001496,FSH0803,2026-01-19,19/01/2026,Enfermedad común,1,Sí,Carga automática
+ABS001497,FSH0803,25/09/25,25/09/25,Enfermedad común,1,Sí,Validado por manager
+ABS001498,FSH0805,21/05/2025,2025-05-21,Enfermedad común,1,Sí,Parte pendiente
+ABS001499,FSH0806,10/06/2025,2025-06-10,Enfermedad común,1,Pendiente,
+ABS001500,FSH0806,2026-04-06,2026-04-06,Enfermedad común,1,Sí,Carga automática
+ABS001501,FSH0806,28-11-25,28/11/2025,Enfermedad común,1,Si,
+ABS001502,FSH-0806,2025-07-05,2025-07-05,Cuidado familiar,1,Si,Validado por manager
+ABS001503,FSH0808,19/04/26,2026-04-20,Enfermedad común,2,No,
+ABS001504,FSH0808,29/10/2025,2025-11-01,Enfermedad común,4,Pendiente,
+ABS001505,FSH0809,2025-10-06,2025-10-09,Permiso retribuido,4,Sí,
+ABS001506,FSH0809,2025-07-06,06-07-25,Cuidado familiar,1,Sí,Carga automática
+ABS001507,FSH0809,2026-04-26,2026-04-26,Enfermedad común,1,Sí,Parte pendiente
+ABS001508,FSH0810,2025-12-27,2025-12-30,Accidente laboral,4,Sí,Parte pendiente
+ABS001509,FSH0812,25/08/25,26/08/25,Enfermedad común,2,Sí,Parte pendiente
+ABS001510,FSH0812,2025-07-09,11/07/2025,Cuidado familiar,3,Sí,
+ABS001511,FSH0813,2025-10-01,02/10/2025,Enfermedad común,2,Sí,Validado por manager
+ABS001512,FSH0813,2025-09-11,2025-09-13,Accidente laboral,3,Sí,Parte pendiente
+ABS001513,FSH0813,2025-12-02,2025-12-04,Enfermedad común,3,Sí,Parte pendiente
+ABS001514,FSH0813,2025-11-15,2025-11-15,Permiso retribuido,1,Si,Parte pendiente
+ABS001515,FSH0814,2025-12-10,2025-12-12,Enfermedad común,3,Sí,
+ABS001516,FSH0815,2026-02-22,25-02-26,Enfermedad común,4,Si,Validado por manager
+ABS001517,FSH0816,2025-07-18,2025-07-18,Enfermedad común,1,Sí,
+ABS001518,FSH0817,2025-08-31,2025-09-03,Permiso retribuido,4,Sí,
+ABS001519,FSH0818,2026-03-16,17/03/2026,Enfermedad común,2,Pendiente,Validado por manager
+ABS001520,FSH0819,2026-02-21,2026-02-26,Permiso retribuido,6,Si,Validado por manager
+ABS_ERROR001,FSH0001,20/11/2025,18/11/2025,Enfermedad común,-2,Sí,Error intencionado: fecha fin anterior

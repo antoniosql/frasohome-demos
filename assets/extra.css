@@ -1,0 +1,11 @@
+/* Diagramas draw.io: fondo blanco también en modo oscuro y ancho completo */
+.md-typeset img[src$=".drawio.svg"] {
+  background: #fff;
+  border-radius: 6px;
+  padding: 6px;
+  width: 100%;
+  height: auto;
+}
+/* Tablas de fichas: cabeceras compactas y celdas que no desbordan */
+.md-typeset table:not([class]) th { white-space: nowrap; }
+.md-typeset table:not([class]) td { overflow-wrap: anywhere; }

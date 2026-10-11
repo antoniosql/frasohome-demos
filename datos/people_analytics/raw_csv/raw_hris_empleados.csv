@@ -1,0 +1,840 @@
+﻿source_row_id,employee_code_raw,nombre_apellidos_raw,genero_raw,fecha_nacimiento_txt,fecha_alta_txt,fecha_salida_txt,estado_raw,tipo_salida_raw,departamento_raw,ubicacion_raw,rol_raw,nivel_raw,tipo_contrato_raw,jornada_raw,manager_code_raw,teletrabajo_dias_semana_raw,distancia_casa_trabajo_km_raw,source_system,fecha_carga_txt
+HRIS00001,FSH0001,Daniel Gómez Pérez,M,07-06-86,2019-05-03,2025-04-15,Baja,Baja voluntaria,Retail store,Madrid,Visual Merchandiser,Semi-Senior,Temporal,Completa,FSH0170,0,10.3,HRIS,2026-04-30
+HRIS00002,FSH0002,Pablo Fernández Pérez,M,1987-09-27,2023-02-03,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Temporal,Completa,FSH0061,3,11.3,HRIS,30/04/2026
+HRIS00003,FSH0003,Óscar López Gómez,M,1985-05-05,2025-07-05,,ACTIVO,,Tienda física,Vigo,Vendedor/a,JUNIOR,Eventual,Completa,FSH0321,0,"2,1",HRIS,2026-04-30
+HRIS00004,FSH0004,Iván Rodríguez Martín,M,1980-12-13,2025-09-29,,Activo,,COMPRAS,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0026,2,"13,2",HRIS,2026-04-30
+HRIS00005,FSH0005,Alba Moreno Álvarez,F,17/07/77,2021-06-21,2025-10-31,Baja,Voluntaria,Logistica,Almacén Central - A Coruña,Operario/a almacén,Junior,Indefinido,Completa ,FSH0332,0,16.0,HRIS,30/04/2026
+HRIS00006,FSH0006,Laura Romero Moreno,F,1965-03-03,2020-02-06,,Activo,,Tienda física,Barcelona,Vendedor/a,Junior,Indefinido,Parcial,FSH0179,0,23.3,HRIS,2026-04-30
+HRIS00007,FSH0007,Alejandro Fernández Alonso,M,1994-10-21,2019-10-06,,Activo,,LOGISTICA,Almacén Barcelona,Operario/a almacén,Jr,Fijo discontinuo,Completa,FSH0039,0,8.0,HRIS,2026-04-30
+HRIS00008,FSH0008,Irene López Ruiz,F,31/08/1975,10/11/2025,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Parcial,FSH0283,2,"1,0",HRIS,30/04/2026
+HRIS00009,FSH0009,Sergio Moreno Romero,M,1985-07-03,2019-05-28,24/01/2026,Baja,Baja voluntaria,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Fijo discontinuo,Completa ,FSH0061,3,"10,8",HRIS,2026-04-30
+HRIS00010,FSH0010,Carmen Hernández Fernández,F,1990-04-03,2025-04-27,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi-Senior,TEMPORAL,Completa,FSH0536,0,2.9,HRIS,2026-04-30
+HRIS00011,FSH0011,Raquel García Álvarez,F,23-04-94,09-07-22,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Contrato indefinido,Completa ,FSH0748,0,8.1,HRIS,30/04/2026
+HRIS00012,FSH0012,Álvaro Álvarez Gutiérrez,M,1980-04-01,2021-09-29,,ACTIVO,,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0123,0,28.2,HRIS,30/04/2026
+HRIS00013,FSH0013,Iván Díaz Romero,M,20/11/1990,2022-02-09,,Activo,,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Indefinido,Jornada completa,FSH0384,0,"11,8",HRIS,2026-04-30
+HRIS00014,fsh0014,Alba Martín Hernández,F,18-09-89,2017-09-26,,Activo,,Marketing,Madrid,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0772,0,"15,9",HRIS,30/04/2026
+HRIS00015,FSH0015,Raúl García Romero,M,1985-12-16,2019-05-08,,Activo,,TIENDA FÍSICA,Sevilla,Vendedor/a,N1,Indefinido,Parcial,fsh0616,0,15.1,HRIS,30-04-26
+HRIS00016,FSH0016,Álvaro Gutiérrez Rodríguez,Hombre,1982-07-06,2022-10-29,,Activo,,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0026,3,"5,2",HRIS,2026-04-30
+HRIS00017,FSH0017,Clara Martínez Muñoz,F,11/11/1997,2019-02-11,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Duración determinada,Jornada completa,FSH0351,0,"11,6",HRIS,30/04/2026
+HRIS00018,FSH0018,Sergio Sánchez Sánchez,M,03/11/87,2020-02-16,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Fijo discontinuo,FULL TIME,FSH0061,3,"15,0",HRIS,2026-04-30
+HRIS00019,FSH0019,Álvaro González Pérez,M,1985-09-19,20/01/2024,,ACTIVO,,TIENDA FÍSICA,Zaragoza,Vendedor/a,Junior,Eventual,Completa,FSH0288,0,"20,7",HRIS,30/04/2026
+HRIS00020,FSH0020,Carlos Díaz Rodríguez,M,2005-10-18,2022-06-13,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Contrato indefinido,Completa,FSH0685,0,"25,9",HRIS,2026-04-30
+HRIS00021,FSH0021,Sara Gómez Martínez,F,1993-08-10,2022-09-27,,Activo,,Recursos Humanos,Madrid,Técnico/a selección,Semi Senior,Indefinido,Completa,FSH0199,0,"2,8",HRIS,2026-04-30
+HRIS00022,FSH0022,Ana Martín Moreno,F,1993-02-14,10-10-20,,Activo/a,,Marketing,Madrid,Especialista marketing,Semi Senior,Temporal,Completa,FSH0069,1,15.0,HRIS,2026-04-30
+HRIS00023,FSH0023,Iván Gómez García,M,1999-09-17,03-07-17,,Activo,,Tienda física,Bilbao,Jefe/a de Sección,Senior,Indefinido,Completa ,FSH0811,0,"1,3",HRIS,2026-04-30
+HRIS00024,FSH0024,Sara García López,F,2001-07-28,2025-07-23,2025-12-04,BAJA,Renuncia,Retail store,Barcelona,Vendedor/a,Junior,Duración determinada,Completa,FSH0294,0,20.6,HRIS,2026-04-30
+HRIS00025, FSH0025 ,Sergio Martínez Martínez,M,1997-07-25,03/03/2024,2025-08-10,Baja,Renuncia,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Parcial,FSH0690,0,11.0,HRIS,2026-04-30
+HRIS00026,FSH0026,Álvaro Pérez Gutiérrez,M,18/12/93,2025-12-04,,Activo,,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,FULL TIME,FSH0403,1,"21,1",HRIS,2026-04-30
+HRIS00027,FSH0027,Javier Pérez Hernández,M,1998-04-20,2023-02-18,04/07/2025,Baja,Voluntaria,Finanzas,Sede Central - A Coruña,Controller,Senior,Fijo,Completa,FSH0383,1,10.3,HRIS,2026-04-30
+HRIS00028,FSH0028,Javier Díaz Rodríguez,M,1974-07-01,27/12/23,13/11/2025,Baja,Renuncia,Compras,Sede Central - A Coruña,Analista proveedores,SSr,Contrato indefinido,Completa,FSH0736,0,5.6,HRIS,2026-04-30
+HRIS00029,FSH0029,Ana López Romero,F,06-08-92,01/09/2021,,Activo,,Tienda Fisica,Barcelona,Vendedor/a,Junior,Duración determinada,Completa ,FSH0682,0,"8,3",HRIS,2026-04-30
+HRIS00030,FSH0030,Adrián Gutiérrez López,M,1994-10-31,2024-12-13,,Activo,,Tienda física ,Bilbao,Vendedor/a,Junior,Indefinido,Completa,FSH0404,0,"20,4",HRIS,30/04/2026
+HRIS00031,FSH0031,Rubén Romero Romero,M,26/11/1979,2019-07-30,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,TEMPORAL,Parcial ,FSH0811,0,6.5,HRIS,30-04-26
+HRIS00032,FSH-0032,Ana Alonso Hernández,Mujer,2001-11-30,2020-10-06,08/02/25,Baja,Voluntaria,Tienda física,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0404,0,19.6,HRIS,30-04-26
+HRIS00033,FSH0033,Álvaro Jiménez Rodríguez,M,1975-10-08,21/12/2022,,Activo,,Retail store,Zaragoza,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0427,0,1.0,HRIS,30/04/2026
+HRIS00034,FSH0034,Sofía González Álvarez,F,11/03/1989,2026-02-22,,Activo,,Online,Online - A Coruña,Product Owner e-commerce,Senior,Fijo,Completa,FSH0271,1,12.7,HRIS,30/04/2026
+HRIS00035,FSH0035,Paula Fernández Ruiz,F,27-05-02,2025-07-16,,Activo,,Procurement,Sede Central - A Coruña,Category Manager,Senior,Temporal,Completa,FSH0080,0,"13,9",HRIS,2026-04-30
+HRIS00036, FSH0036 ,Adrián González Jiménez,M,1997-09-18,04/11/2015,,Activo/a,,Tienda física,Zaragoza,Vendedor/a,Junior,Eventual,Completa,FSH0355,0,"1,9",HRIS,30/04/26
+HRIS00037,FSH0037,Ana López González,F,1982-09-19,2022-10-11,,Activo,,Tienda física ,Madrid,Vendedor/a,N1,Indefinido,Completa,FSH0482,0,"8,3",HRIS,2026-04-30
+HRIS00038,FSH0038,Hugo Álvarez Álvarez,M,1984-04-30,2024-05-22,,Activo,,TIENDA FÍSICA,Barcelona,Jefe/a de Sección,Senior,Temporal,Completa,FSH0506,0,"17,1",HRIS,2026-04-30
+HRIS00039,FSH0039,Elena López Muñoz,F,2005-07-22,01-12-24,,ACTIVO,,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Indefinido,Completa ,FSH0109,0,22.3,HRIS,2026-04-30
+HRIS00040,FSH0040,Alejandro Hernández Ruiz,M,1990-02-20,23/02/2025,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0716,0,"16,3",HRIS,30/04/26
+HRIS00041,FSH-0041,Paula Jiménez Gómez,F,24/01/1982,25/11/2016,,Activo,,Tienda física,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0595,0,8.9,HRIS,30-04-26
+HRIS00042,FSH0042,Hugo Ruiz Álvarez,Hombre,1986-09-17,18/01/2025,2025-09-28,BAJA,Voluntaria,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Indefinido,Completa,FSH0736,3,19.9,HRIS,2026-04-30
+HRIS00043,FSH0043,María Moreno Martínez,F,26/03/94,29/09/2018,,Activo,,Marketing,Madrid,Responsable comunicación,Mánager,Indefinido,Parcial,,3,"11,4",HRIS,2026-04-30
+HRIS00044,FSH0044,Clara González Moreno,F,02/08/1990,2025-04-04,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,N1,Temporal,Completa,FSH0692,0,25.1,HRIS,2026-04-30
+HRIS00045,FSH0045,Rubén Fernández García,M,2004-11-05,2025-01-16,,Activo,,Tienda física,Valladolid,Vendedor/a,JUNIOR,Indefinido,Completa,FSH0649,0,1.2,HRIS,30/04/2026
+HRIS00046,FSH0046,Carmen Fernández Martín,F,1990-04-05,04/07/2022,,Activo,,IT y Datos,Madrid,Analista datos,Semi Senior,Indefinido,Completa,FSH0228,0,"8,2",HRIS,2026-04-30
+HRIS00047,FSH0047,Pablo Hernández Álvarez,M,2004-07-08,2020-02-01,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0416,0,23.7,HRIS,2026-04-30
+HRIS00048,FSH0048,Diego Jiménez Rodríguez,M,03-03-93,2024-04-27,,Activo,,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Indefinido,Completa,FSH0715,1,"9,0",HRIS,2026-04-30
+HRIS00049,FSH0049,Laura Romero Jiménez,F,2005-04-18,02/12/2016,,Activo,,RRHH,Madrid,Técnico/a selección,Semi Senior,Indefinido,Completa ,FSH0181,1,"2,2",HRIS,30/04/26
+HRIS00050,FSH0050,Javier Martín Fernández,M,09-05-88,07/04/2021,,Activo,,Tienda física,Madrid,Vendedor/a,JUNIOR,Contrato indefinido,Completa,FSH0614,0,29.7,HRIS,2026-04-30
+HRIS00051,FSH0051,Paula González Alonso,F,09/10/1982,29/05/2019,,Activo,,TIENDA FÍSICA,A Coruña,Jefe/a de Sección,Sr,Indefinido,Media jornada,FSH0160,0,15.0,HRIS,30/04/2026
+HRIS00052,FSH0052,Hugo Díaz Álvarez,M,10-12-82,2021-10-13,,Activo,,Tienda Fisica,Zaragoza,Visual Merchandiser,Semi Senior,Fijo,Completa ,FSH0248,0,5.1,HRIS,2026-04-30
+HRIS00053,FSH0053,David Díaz Romero,No declarado,16/08/04,2025-09-27,,Activo,,IT y Datos,Sede Central - A Coruña,Data Engineer,Senior,Indefinido,Completa,FSH0336,1,"16,8",HRIS,2026-04-30
+HRIS00054,FSH0054,Raquel Ruiz González,F,1989-06-10,2023-08-02,,Activo,,Logística,Almacén Central - A Coruña,Responsable almacén,Mánager,Indefinido,Parcial,,0,16.6,HRIS,2026-04-30
+HRIS00055,FSH0055,Alba López Gómez,F,1991-11-22,2015-02-02,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,Indefinido,Completa,FSH0142,0,8.7,HRIS,30/04/2026
+HRIS00056,FSH0056,Natalia Alonso Martínez,F,1990-04-04,15-07-25,,Activo,,Online,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0325,2,19.4,HRIS,30/04/2026
+HRIS00057,FSH0057,Julia Romero Sánchez,f,1992-04-17,2020-04-25,2024-08-14,Baja,Voluntaria,Logística,Almacén Madrid,Operario/a almacén,Junior,Fijo discontinuo,Completa, FSH0237 ,0,"1,9",HRIS,2026-04-30
+HRIS00058,FSH0058,Clara Pérez Hernández,F,1978-11-15,2024-06-24,,Activo,,E-Commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0271,1,2.2,HRIS,2026-04-30
+HRIS00059,FSH0059,Lucía Romero Romero,Mujer,08/01/1985,2023-10-30,,Activo,,Tienda física ,A Coruña,Vendedor/a,Junior,Contrato indefinido,Parcial,FSH0294,0,"4,5",HRIS,30/04/2026
+HRIS00060,FSH0060,Elena Díaz Jiménez,F,20/09/1983,2018-11-18,2025-12-06,BAJA,Voluntaria,Online,Online - A Coruña,Product Owner e-commerce,Senior,Temporal,Completa,FSH0767,3,"19,1",HRIS,30-04-26
+HRIS00061,FSH0061,María Jiménez Gutiérrez,Mujer,1999-11-09,19/08/2025,,Activo,,Atencion Cliente,Contact Center - Madrid,Supervisor/a contact center,Mánager,INDEFINIDO,Completa,,1,14.2,HRIS,2026-04-30
+HRIS00062,FSH0062,Ainhoa Jiménez Hernández,F,16/07/1996,2016-05-12,,Activo,,Tienda física ,Zaragoza,Vendedor/a,Junior,Indefinido,Parcial,FSH0455,0,"18,2",HRIS,2026-04-30
+HRIS00063,FSH0063,Laura Muñoz Jiménez,F,04/06/1994,19/09/2021,,Activo,,Tienda física,Zaragoza,Store Manager,Manager,Indefinido,Completa,,0,"2,4",HRIS,2026-04-30
+HRIS00064,FSH0064,Nerea Romero Álvarez,F,2005-11-06,04/01/2018,,Activo,,Sistemas y datos,Madrid,Desarrollador/a BI,Senior,Indefinido,Completa,FSH-0694,2,3.8,HRIS,2026-04-30
+HRIS00065,FSH0065,María Rodríguez López,F,22/12/1993,30-11-23,,Activo,,Tiendas,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0482,0,17.4,HRIS,30/04/2026
+HRIS00066,FSH0066,Laura Sánchez Gómez,F,1998-05-15,2021-03-18,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,TEMPORAL,FULL TIME,FSH0061,0,16.2,HRIS,2026-04-30
+HRIS00067,FSH0067,Sergio Romero Martínez,M,09/11/1997,20-01-15,,Activo,,Centro logístico,Almacén Central - A Coruña,Operario/a almacén,JUNIOR,Temporal,Completa ,FSH0180,0,"27,5",HRIS,30/04/26
+HRIS00068,FSH0068,Alejandro Moreno Romero,M,1999-09-03,2019-05-13,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Temporal,Completa,FSH0635,0,16.7,HRIS,2026-04-30
+HRIS00069,FSH0069,Manuel Fernández Gómez,M,1990-08-09,10/10/21,,Activo,,Marketing Digital,Sede Central - A Coruña,CRM Specialist,Senior,Indefinido,Completa,FSH0772,0,"11,8",HRIS,2026-04-30
+HRIS00070,FSH0070,Carlos Muñoz Gómez,M,1980-03-11,08-11-22,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa,fsh0421,0,2.4,HRIS,2026-04-30
+HRIS00071,FSH0071,Miguel Díaz González,M,1977-12-04,28-12-23,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Jr,Indefinido,Completa,FSH0423,0,"32,7",HRIS,30/04/26
+HRIS00072,FSH0072,Carlos González Rodríguez,M,1992-03-27,26/07/2020,04/01/25,Baja,Involuntaria/fin contrato,Tienda física,Madrid,Vendedor/a,Junior,Indefinido,Parcial,FSH0051,0,"8,3",HRIS,30/04/2026
+HRIS00073, FSH0073 ,Sergio Muñoz González,M,2004-09-05,26/03/2017,29-03-24,Baja,BAJA VOL.,Tienda física,Madrid,Vendedor/a,Junior,Indefinido,Media jornada,FSH0649,0,"3,6",HRIS,30/04/2026
+HRIS00074,FSH0074,Sergio Rodríguez García,M,1992-09-19,05/01/26,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Fijo discontinuo,Jornada completa,FSH0095,0,"10,3",HRIS,30/04/2026
+HRIS00075,FSH0075,Daniel Pérez Fernández,M,1990-09-24,14/09/2023,,Activo,,Logística,Almacén Madrid,Planificador/a demanda,N3,Indefinido,Parcial,FSH0332,0,18.6,HRIS,2026-04-30
+HRIS00076,FSH0076,Miguel López García,M,27/03/1979,17/11/16,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Indefinido,Parcial,FSH0064,0,29.6,HRIS,2026-04-30
+HRIS00077,FSH0077,Clara Hernández Jiménez,F,17/07/88,2025-02-25,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0421,0,"7,9",HRIS,2026-04-30
+HRIS00078,FSH0078,Jorge Romero Pérez,M,1980-07-27,2025-04-24,,Activo,,Tienda Fisica,Madrid,Jefe/a de Sección,N3,Fijo,Completa,FSH0248,0,"15,2",HRIS,30/04/2026
+HRIS00079,FSH0079,Ana Fernández Gutiérrez,F,1992-08-28,26/12/2019,,Activo,,Online,Online - A Coruña,Especialista e-commerce,Semi Senior,INDEFINIDO,Parcial,FSH0476,0,"20,3",HRIS,2026-04-30
+HRIS00080,FSH0080,Marta Gómez Romero,F,02/05/2002,06/03/2017,,Activo,,Procurement,Sede Central - A Coruña,Category Manager,Senior,TEMPORAL,Completa,FSH0035,1,"12,8",HRIS,30/04/26
+HRIS00081,FSH0081,Sofía Jiménez Fernández,Mujer,09/04/1984,2023-02-03,,Activo/a,,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Indefinido,FULL TIME,FSH0386,0,"7,9",HRIS,2026-04-30
+HRIS00082,FSH0082,Ainhoa Jiménez Gutiérrez,F,17-09-86,21/11/22,2025-05-05,Baja,Voluntaria,Tienda física,Valladolid,Vendedor/a,N1,Contrato indefinido,Completa,FSH-0452,0,1.0,HRIS,30-04-26
+HRIS00083,FSH0083,Paula Martín García,F,14-11-68,2025-10-08,,Activo,,Tienda física ,Madrid,Vendedor/a,Junior,Indefinido,FULL TIME,FSH-0760,0,11.1,HRIS,2026-04-30
+HRIS00084,FSH0084,Marcos Muñoz Sánchez,M,1990-04-26,07/06/2025,2026-01-12,Baja,Voluntaria,Retail store,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0584,0,"20,8",HRIS,30/04/26
+HRIS00085,FSH-0085,Raúl Martín González,M,1978-07-19,14/11/2025,28-04-26,Baja,Involuntaria/fin contrato,Retail store,A Coruña,Vendedor/a,JUNIOR,Fijo discontinuo,Completa,FSH0716,0,10.8,HRIS,30/04/2026
+HRIS00086,FSH0086,David Martín Romero,M,28/11/1992,06/12/2020,,Activo/a,,Marketing,Madrid,Especialista marketing,N2,INDEFINIDO,Completa,FSH0596,1,20.1,HRIS,2026-04-30
+HRIS00087,FSH0087,María Sánchez Moreno,F,1990-05-17,21/09/2025,,Activo,,Retail store,Zaragoza,Visual Merchandiser,Semi Senior,Temporal,Parcial,FSH0635,0,24.9,HRIS,2026-04-30
+HRIS00088,FSH0088,Mario González Martín,M,1990-11-21,2018-08-18,,Activo,,Tienda física,A Coruña,Vendedor/a,JUNIOR,Indefinido,Parcial,FSH0386,0,30.8,HRIS,30/04/2026
+HRIS00089,FSH0089,David Romero Gutiérrez,No declarado,04-12-86,2022-08-24,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,N2,Indefinido,Completa,FSH0481,1,"13,9",HRIS,2026-04-30
+HRIS00090,FSH-0090,Noelia Martínez Romero,F,1973-07-04,04/04/2025,,Activo,,Tienda Fisica,Madrid,Vendedor/a,Jr,Temporal,Completa,FSH0321,0,"14,9",HRIS,30/04/2026
+HRIS00091,FSH0091,Álvaro López Jiménez,No declarado,1985-03-16,26-08-19,,Activo,,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Indefinido,Completa,FSH0043,0,"21,3",HRIS,30/04/2026
+HRIS00092,FSH0092,Nerea Álvarez Alonso,F,07/03/01,02-11-25,,Activo,,Tienda física,Madrid,Jefe/a de Sección,Senior,Contrato indefinido,Completa,FSH0784,,"1,0",HRIS,30/04/2026
+HRIS00093,FSH0093,Manuel Moreno Hernández,M,1996-01-23,2025-06-04,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa ,FSH0760,0,20.4,HRIS,2026-04-30
+HRIS00094,FSH0094,Raúl López González,M,1991-06-01,27-04-22,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0095,1,1.7,HRIS,30/04/26
+HRIS00095,FSH0095,Sergio Rodríguez López,M,1987-10-22,2017-09-15,,Activo,,Atención al Cliente,Contact Center - A Coruña,Supervisor/a contact center,Manager,Duración determinada,Completa,,2,2.4,HRIS,30-04-26
+HRIS00096,FSH0096,Miguel Muñoz Ruiz,M,17/01/1995,2025-01-06,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,TEMPORAL,Parcial,FSH0200,1,19.1,HRIS,2026-04-30
+HRIS00097,FSH0097,Álvaro Álvarez Romero,Hombre,29/04/00,05/02/24,2025-07-11,Baja,Voluntaria,Tienda física ,Málaga,Store Manager,Mánager,Indefinido,Completa,,0,"14,7",HRIS,30-04-26
+HRIS00098,FSH0098,Rubén Rodríguez Moreno,M,2000-10-19,2019-07-18,2025-09-08,Baja,Voluntaria,Logística,Almacén Barcelona,Responsable almacén,Manager,Indefinido,Completa,,0,"8,3",HRIS,2026-04-30
+HRIS00099, FSH0099 ,Jorge Sánchez Sánchez,M,07/09/2005,02/04/2025,,Activo,,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Fijo discontinuo,Completa,FSH0179,0,"23,4",HRIS,2026-04-30
+HRIS00100,FSH0100,Alejandro Ruiz Moreno,Hombre,28-07-92,24/03/2022,,Activo,,Tienda física,Vigo,Jefe/a de Sección,Senior,Temporal,Jornada completa,FSH0426,0,21.9,HRIS,30/04/2026
+HRIS00101,FSH0101,Nerea Fernández Díaz,F,1972-02-01,2020-09-26,,Activo,,Tienda física ,Bilbao,Vendedor/a,N1,INDEFINIDO,Jornada completa,FSH0552,0,22.4,HRIS,2026-04-30
+HRIS00102,FSH0102,Natalia García Rodríguez,Mujer,27/12/1994,2019-06-13,,Activo,,Online,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Media jornada,FSH0481,3,"12,5",HRIS,30/04/26
+HRIS00103,FSH0103,Raquel González López,F,1998-03-01,2019-10-16,,Activo,,Tienda física ,Sevilla,Vendedor/a,Junior,Indefinido,Completa ,FSH0289,0,"12,3",HRIS,2026-04-30
+HRIS00104,FSH0104,Ana Hernández Romero,F,21/11/2005,19/08/2018,,Activo,,Tienda Fisica,Barcelona,Vendedor/a,N1,Temporal,PART TIME,FSH0386,0,18.8,HRIS,2026-04-30
+HRIS00105,FSH0105,Álvaro González Gómez,M,01/11/92,2025-02-21,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,Completa,FSH0808,0,,HRIS,2026-04-30
+HRIS00106,fsh0106,Pablo Gómez López,M,1984-10-21,2019-03-18,2024-09-01,BAJA,Voluntaria,Marketing,Sede Central - A Coruña,Especialista marketing,N2,Temporal,Completa,FSH0621,3,7.3,HRIS,30-04-26
+HRIS00107,FSH0107,Julia Alonso López,F,15/12/1993,2021-12-18,,Activo,,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Contrato indefinido,Completa,,1,"24,3",HRIS,30-04-26
+HRIS00108,FSH0108,Marcos García Álvarez,M,1984-06-04,04-02-21,,Activo,,Marketing,Madrid,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0772,0,21.7,HRIS,2026-04-30
+HRIS00109,FSH0109,Noelia González Sánchez,F,14/01/2005,11/02/2026,,Activo,,Logística,Almacén Madrid,Planificador/a demanda,Senior,Indefinido,Parcial,FSH0075,0,7.7,HRIS,2026-04-30
+HRIS00110,FSH0110,Iván Díaz Ruiz,M,11/03/1998,2020-02-05,,Activo,,Marketing Digital,Madrid,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0814,3,17.8,HRIS,30/04/2026
+HRIS00111,FSH0111,Laura Díaz Romero,F,1999-05-01,2018-03-29,2024-08-15,BAJA,BAJA VOL.,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Contrato indefinido,Completa,FSH0095,0,31.5,HRIS,30/04/2026
+HRIS00112,FSH0112,Álvaro Gutiérrez Fernández,M,1997-10-15,2026-02-16,,ACTIVO,,Sistemas y datos,Sede Central - A Coruña,Desarrollador/a BI,Sr,Contrato indefinido,FULL TIME,FSH0228,2,1.0,HRIS,30/04/2026
+HRIS00113,FSH0113,Óscar Hernández Alonso,Hombre,1985-01-20,2020-04-24,,Activo,,Tienda física,Barcelona,Vendedor/a,Junior,Indefinido,FULL TIME,FSH0552,0,"16,0",HRIS,2026-04-30
+HRIS00114,FSH0114,Miguel Martín González,M,1985-05-10,2022-01-07,,Activo,,Tienda física,Sevilla,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0404,0,"11,4",HRIS,2026-04-30
+HRIS00115,FSH0115,Andrea Gómez Hernández,F,2000-05-11,08/03/2015,,ACTIVO,,Tienda física,Valladolid,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0190,0,"23,0",HRIS,30/04/26
+HRIS00116,FSH0116,Ana Alonso Pérez,F,1992-05-06,04/09/2020,,Activo,,Compras ,Sede Central - A Coruña,Analista proveedores,Semi Senior,Contrato indefinido,Parcial,FSH0172,3,20.0,HRIS,2026-04-30
+HRIS00117,FSH0117,Ainhoa Sánchez Alonso,F,1984-10-12,05/01/24,,Activo,,ecommerce,Online - A Coruña,Analista CRO,SENIOR,Indefinido,Completa ,FSH0034,1,"25,4",HRIS,2026-04-30
+HRIS00118,FSH0118,Marta Gómez González,F,02/05/1990,2019-04-18,15/12/2025,Baja,Renuncia,Tienda física,Zaragoza,Vendedor/a,N1,Indefinido,Parcial ,FSH0244,0,"5,9",HRIS,2026-04-30
+HRIS00119,FSH0119,Jorge Martín Ruiz,M,1981-01-11,2022-05-28,,Activo,,Logística,Almacén Central - A Coruña,Coordinador/a logística,N2,Indefinido,Completa,FSH0109,0,29.3,HRIS,30/04/2026
+HRIS00120,FSH0120,Ainhoa Gómez Martín,F,1996-05-21,2024-02-09,,Activo,,ecommerce,Online - Madrid,Gestor/a catálogo online,Junior,Temporal,Completa ,FSH0268,2,19.8,HRIS,2026-04-30
+HRIS00121,FSH0121,Sergio Sánchez Gómez,M,04/02/91,2025-08-15,,Activo,,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0026,1,"20,4",HRIS,2026-04-30
+HRIS00122,FSH0122,Marta García Fernández,F,08/01/1982,2024-08-09,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Fijo,Completa,FSH0645,2,"16,0",HRIS,30/04/2026
+HRIS00123,FSH0123,Alba Jiménez Moreno,F,1986-05-31,26-04-22,,Activo,,Tienda Fisica,Valladolid,Jefe/a de Sección,SENIOR,Indefinido,Completa,FSH0491,0,9.4,HRIS,30/04/2026
+HRIS00124,FSH0124,Elena Sánchez Rodríguez,F,01/08/88,2023-02-09,,Activo,,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Contrato indefinido,Completa,FSH0426,0,"7,4",HRIS,30/04/2026
+HRIS00125,FSH0125,Marta Alonso Martínez,F,1994-12-25,2024-02-22,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Completa,FSH0237,0,2.9,HRIS,30-04-26
+HRIS00126,FSH0126,Daniel Fernández Martín,M,1975-03-14,13/07/22,,Activo,,E-commerce,Online - A Coruña,Analista CRO,Senior,Fijo,Jornada completa,,2,24.5,HRIS,2026-04-30
+HRIS00127,FSH0127,Julia Hernández González,Mujer,1992-03-11,09/04/16,,Activo,,Atencion Cliente,Contact Center - Madrid,Agente soporte,Junior,Eventual,FULL TIME,FSH0095,0,"3,5",HRIS,2026-04-30
+HRIS00128,FSH0128,Raquel López López,F,1998-05-07,2026-01-12,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,JUNIOR,Temporal,Completa,FSH0185,0,3.4,HRIS,2026-04-30
+HRIS00129,FSH0129,Miguel Gutiérrez López,M,21/11/1998,2019-04-04,07/11/2025,Baja,Voluntaria,MARKETING,Madrid,Especialista marketing,Semi Senior,Indefinido,Completa ,FSH0091,0,"16,8",HRIS,2026-04-30
+HRIS00130,FSH0130,Nerea Álvarez Rodríguez,F,16/10/2004,19/02/2024,,Activo,,IT y Datos,Madrid,Data Engineer,Senior,Indefinido,Jornada completa,FSH0112,3,37.2,HRIS,2026-04-30
+HRIS00131,FSH0131,Ana Díaz Martín,Mujer,04/03/86,2025-12-17,,Activo,,IT y Datos,Madrid,Desarrollador/a BI,Senior,Indefinido,Completa,FSH0053,3,,HRIS,2026-04-30
+HRIS00132,FSH0132,Lucía Gutiérrez Gutiérrez,F,1995-12-18,2019-11-22,,Activo,,Tienda física,Valladolid,Vendedor/a,Jr,Fijo,Jornada completa,FSH0421,0,1.0,HRIS,30/04/2026
+HRIS00133,FSH0133,Paula Gutiérrez Hernández,F,05/06/01,2019-06-07,,ACTIVO,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Jr,TEMPORAL,Completa,FSH0061,1,6.1,HRIS,2026-04-30
+HRIS00134,FSH0134,Jorge López Hernández,M,1985-02-25,2017-07-20,2026-02-26,Baja,Voluntaria,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Media jornada,FSH0063,0,15.3,HRIS,2026-04-30
+HRIS00135,FSH0135,David López Sánchez,Hombre,1986-08-13,08/11/25,,ACTIVO,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa,FSH0506,0,"4,6",HRIS,2026-04-30
+HRIS00136,FSH0136,Marcos Alonso Romero,Hombre,22/10/97,2025-06-15,,Activo,,Tienda física,Málaga,Visual Merchandiser,SSr,Contrato indefinido,Jornada completa,FSH0762,0,"13,3",HRIS,30/04/26
+HRIS00137, FSH0137 ,Raúl Álvarez Muñoz,M,1980-01-21,29/04/2020,28/06/2024,Baja,BAJA VOL.,Centro logístico,Almacén Central - A Coruña,Planificador/a demanda,Senior,Indefinido,Jornada completa,FSH0416,0,"14,8",HRIS,2026-04-30
+HRIS00138,FSH0138,Raúl López Moreno,M,1996-01-03,04/11/2024,,Activo,,Marketing,Madrid,Especialista marketing,Semi Senior,Indefinido,PART TIME,FSH0069,1,"5,3",HRIS,2026-04-30
+HRIS00139,FSH0139,Marta Ruiz Moreno,F,1991-01-01,2026-02-03,,ACTIVO,,Procurement,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Fijo,Completa,FSH0080,0,11.5,HRIS,30/04/2026
+HRIS00140,FSH0140,Pablo Jiménez Moreno,M,1996-01-11,2025-06-09,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,N2,Indefinido,Completa,FSH0536,3,"12,1",HRIS,2026-04-30
+HRIS00141,FSH0141,Alejandro Rodríguez Hernández,M,1996-01-08,20-12-25,,Activo,,Tienda física,Zaragoza,Vendedor/a,N1,Indefinido,PART TIME,FSH0155,0,"15,3",HRIS,30/04/2026
+HRIS00142,FSH0142,María Muñoz Rodríguez,F,1978-08-19,2025-09-18,,ACTIVO,,Tienda física,Málaga,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0260,0,"19,6",HRIS,30/04/2026
+HRIS00143,FSH0143,Natalia Rodríguez Moreno,f,1997-08-04,2025-07-14,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0552,0,27.5,HRIS,2026-04-30
+HRIS00144,FSH0144,Sergio López Martín,No declarado,02/09/1979,2015-08-13,,Activo,,Tienda física,Vigo,Store Manager,Manager,INDEFINIDO,Completa,,0,13.8,HRIS,2026-04-30
+HRIS00145,FSH0145,Manuel Moreno Gutiérrez,M,1986-12-30,13/07/2021,,Activo,,IT & Data,Sede Central - A Coruña,Desarrollador/a BI,Senior,Indefinido,Parcial,FSH0053,2,11.6,HRIS,2026-04-30
+HRIS00146,FSH0146,Rubén Martín Gutiérrez,M,29-08-92,2018-03-21,,ACTIVO,,Retail store,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0248,0,"3,6",HRIS,2026-04-30
+HRIS00147,FSH0147,Marcos Martínez Alonso,M,1986-11-27,10/01/21,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Jornada completa,FSH0251,2,"23,5",HRIS,30/04/2026
+HRIS00148,FSH0148,Raúl Gómez López,M,11-07-92,29/09/2025,,Activo,,Logística,Almacén Madrid,Operario/a almacén,N1,Fijo discontinuo,Completa,FSH0692,0,"11,2",HRIS,30/04/2026
+HRIS00149,FSH0149,Sara Ruiz Pérez,Mujer,07/06/1986,06/09/2018,,Activo,,Customer Service,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Completa,FSH0061,1,11.3,HRIS,30-04-26
+HRIS00150,FSH0150,Clara Fernández Gómez,F,1986-06-01,28/05/23,,Activo,,FINANZAS,Sede Central - A Coruña,Controller,Senior,Indefinido,Parcial,FSH0048,2,1.0,HRIS,2026-04-30
+HRIS00151,FSH0151,María Romero Pérez,F,2001-05-31,25/05/2022,,Activo,,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Parcial,FSH-0289,0,"8,5",HRIS,2026-04-30
+HRIS00152,FSH0152,Natalia Martín Muñoz,F,01/12/1996,25/06/19,,Activo,,Logística,Almacén Madrid,Responsable almacén,N4,Indefinido,Completa,,0,"12,9",HRIS,2026-04-30
+HRIS00153,FSH0153,Ainhoa Pérez González,F,1980-01-26,09/05/2020,2025-05-13,Baja,Voluntaria,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0201,0,20.9,HRIS,2026-04-30
+HRIS00154,FSH0154,Raúl López Sánchez,M,2004-01-01,20/01/2025,,Activo,,Tienda física,Bilbao,Vendedor/a,N1,INDEFINIDO,Parcial,FSH0716,0,"10,1",HRIS,30/04/26
+HRIS00155,FSH0155,Álvaro Sánchez Díaz,M,13/06/1984,03/10/2025,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,Senior,Temporal,Completa ,FSH0142,0,22.9,HRIS,2026-04-30
+HRIS00156,FSH0156,Irene Sánchez Jiménez,F,1992-03-07,02/12/2020,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Contrato indefinido,Parcial , FSH0491 ,0,14.8,HRIS,30/04/26
+HRIS00157,FSH0157,María Muñoz Álvarez,No declarado,22/10/1990,21/07/24,,ACTIVO,,TIENDA FÍSICA,Vigo,Vendedor/a,Junior,Temporal,Completa,FSH0690,0,"17,9",HRIS,30-04-26
+HRIS00158,FSH0158,Adrián Álvarez Fernández,M,25/08/1997,2019-11-28,,Activo,,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Indefinido,Jornada completa,FSH0223,0,19.5,HRIS,2026-04-30
+HRIS00159,FSH0159,Irene Álvarez Díaz,F,1994-09-05,29/08/25,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,Fijo,Completa,FSH0538,0,18.1,HRIS,30/04/26
+HRIS00160,FSH0160,Sara García Martín,F,08/01/04,30/07/2025,,Activo,,Tienda física,A Coruña,Jefe/a de Sección,Sr,Indefinido,PART TIME,FSH0051,0,"11,0",HRIS,30-04-26
+HRIS00161,FSH0161,Clara Alonso López,F,1985-11-03,2022-11-09,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Completa,FSH0692,0,30.3,HRIS,30/04/2026
+HRIS00162,FSH0162,Elena Fernández López,F,1997-12-10,2020-01-14,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Media jornada,FSH0268,1,"18,1",HRIS,2026-04-30
+HRIS00163,FSH0163,Óscar Díaz Moreno,M,12/04/1989,2025-03-15,,Activo,,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,INDEFINIDO,Parcial,FSH0300,0,"13,2",HRIS,30-04-26
+HRIS00164,FSH0164,Raúl Rodríguez Martín,M,1989-01-27,10/09/2025,,Activo,,TIENDA FÍSICA,Málaga,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0300,0,17.6,HRIS,2026-04-30
+HRIS00165,FSH0165,Sergio Rodríguez Gutiérrez,Hombre,1981-05-17,24/01/23,18-04-26,Baja,Voluntaria,Atencion Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Temporal,Completa,FSH0095,2,5.5,HRIS,2026-04-30
+HRIS00166,FSH0166,Marcos Álvarez Jiménez,M,08/02/95,2015-10-19,,Activo,,Tienda Fisica,Bilbao,Vendedor/a,Junior,Temporal,Completa,FSH0616,0,,HRIS,30/04/2026
+HRIS00167,FSH0167,Irene Alonso Ruiz,F,05-01-06,2019-02-27,,Activo,,Tiendas,Vigo,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0449,0,1.0,HRIS,2026-04-30
+HRIS00168,FSH0168,Álvaro Romero Fernández,M,1990-10-06,2023-12-24,,ACTIVO,,Tienda física,Málaga,Vendedor/a,JUNIOR,Indefinido,Completa,FSH0051,0,"19,5",HRIS,2026-04-30
+HRIS00169,FSH0169,Hugo Rodríguez Pérez,M,1999-09-16,28/06/2023,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi-Senior,Indefinido,Completa,FSH0736,0,5.8,HRIS,30/04/2026
+HRIS00170, FSH0170 ,Elena Muñoz Álvarez,F,1988-12-17,2025-08-09,,Activo,,Tienda física,Sevilla,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0223,0,10.7,HRIS,30/04/2026
+HRIS00171,FSH0171,Álvaro Jiménez Fernández,M,1986-03-10,2026-01-27,,Activo,,TIENDA FÍSICA,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0386,0,,HRIS,2026-04-30
+HRIS00172,FSH0172,Adrián Alonso Rodríguez,M,1998-06-03,2025-12-08,,Activo,,Compras ,Sede Central - A Coruña,Category Manager,N3,Indefinido,Completa,FSH0035,0,22.4,HRIS,30/04/26
+HRIS00173,FSH0173,Manuel Romero Jiménez,M,2000-02-09,2019-03-18,,Activo,,Tiendas,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0635,0,"22,5",HRIS,30/04/2026
+HRIS00174,FSH0174,Noelia Martínez Gómez,F,24/04/03,25-06-22,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0767,2,"11,4",HRIS,30-04-26
+HRIS00175,FSH0175,Andrea Rodríguez Álvarez,F,1997-06-21,2025-06-10,,ACTIVO,,E COMMERCE,Online - Madrid,Especialista e-commerce,Semi-Senior,Indefinido,Completa,FSH0687,3,"19,6",HRIS,2026-04-30
+HRIS00176, FSH0176 ,Alejandro Pérez Gómez,M,1979-11-21,01-10-25,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Temporal,Parcial,FSH0416,0,17.4,HRIS,30-04-26
+HRIS00177,FSH0177,Iván González Ruiz,M,1995-09-11,02/08/2019,,Activo,,LOGISTICA,Almacén Barcelona,Coordinador/a logística,Semi Senior,Temporal,Completa,FSH0332,0,24.1,HRIS,30-04-26
+HRIS00178,FSH0178,Nerea Hernández Alonso,F,04-10-87,2017-08-05,2024-07-30,Baja,Voluntaria,Tiendas,A Coruña,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0568,0,8.9,HRIS,2026-04-30
+HRIS00179,FSH0179,Daniel Martín Gómez,M,2006-04-06,12-02-19,,Activo,,Tiendas,Málaga,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0248,0,"2,1",HRIS,30/04/26
+HRIS00180,FSH0180,Mario Martínez Álvarez,M,01/12/1992,03-08-20,,Activo,,Logística,Almacén Madrid,Planificador/a demanda,Senior,Indefinido,FULL TIME,FSH0640,0,15.1,HRIS,2026-04-30
+HRIS00181,FSH0181,Sara Díaz Rodríguez,F,27/07/80,12/07/2024,,Activo,,RRHH,Madrid,HRBP,Senior,Indefinido,Completa,FSH0537,,"9,0",HRIS,2026-04-30
+HRIS00182,FSH0182,Carmen Jiménez López,F,1996-04-02,01/05/2018,2024-08-01,Baja,Voluntaria,Tienda física ,Málaga,Jefe/a de Sección,Sr,Indefinido,Completa,FSH0355,0,11.9,HRIS,30/04/26
+HRIS00183,fsh0183,Raquel Martín Gutiérrez,F,1992-10-14,02/09/2017,,Activo,,Tienda física,Madrid,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0100,0,18.5,HRIS,30/04/2026
+HRIS00184,FSH0184,Jorge González Fernández,M,1999-01-21,2025-05-10,,Activo,,LOGISTICA,Almacén Barcelona,Operario/a almacén,JUNIOR,Contrato indefinido,Completa,FSH0180,0,29.0,HRIS,30/04/2026
+HRIS00185,FSH0185,Lucía Martínez Muñoz,F,28/05/99,2023-01-17,,Activo,,Logística,Almacén Madrid,Planificador/a demanda,N3,Fijo discontinuo,Jornada completa,FSH0308,0,13.2,HRIS,2026-04-30
+HRIS00186,FSH0186,Sara Alonso Pérez,Mujer,17/07/1974,04-11-23,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0636,0,"16,7",HRIS,30-04-26
+HRIS00187,FSH0187,Laura Muñoz Ruiz,F,1993-09-14,08/03/26,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0075,0,18.1,HRIS,30-04-26
+HRIS00188,FSH0188,Irene Ruiz Martínez,F,2001-09-20,2025-03-03,,Activo,,TIENDA FÍSICA,Vigo,Vendedor/a,Junior,Indefinido,FULL TIME,FSH0649,0,"1,0",HRIS,2026-04-30
+HRIS00189,FSH0189,Sergio Martín Moreno,M,1988-04-27,2020-07-18,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Contrato indefinido,Completa,FSH0061,0,11.4,HRIS,30/04/2026
+HRIS00190,FSH0190,Iván González González,M,25-07-86,05/12/2025,,Activo,,Tienda física,Zaragoza,Store Manager,Mánager,Indefinido,Completa,,0,"11,1",HRIS,30/04/2026
+HRIS00191,FSH0191,Pablo Fernández Romero,M,05-11-05,2022-07-02,,Activo,,Retail store,Barcelona,Vendedor/a,Junior,Indefinido,Completa,FSH0260,0,"17,4",HRIS,2026-04-30
+HRIS00192,FSH0192,Julia López Hernández,F,1979-07-08,2025-08-21,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,JUNIOR,Indefinido,FULL TIME,FSH0109,0,20.8,HRIS,30/04/2026
+HRIS00193,FSH0193,Elena Fernández Martínez,F,1993-06-06,2023-02-22,,Activo,,IT,Madrid,Responsable IT,Manager,Indefinido,Parcial,,1,27.2,HRIS,2026-04-30
+HRIS00194,FSH0194,Sara Moreno Moreno,F,1993-03-23,2023-06-08,2025-11-05,Baja,Voluntaria,Tienda física,Sevilla,Vendedor/a,Junior,Contrato indefinido,FULL TIME,FSH0584,0,"10,5",HRIS,2026-04-30
+HRIS00195,FSH0195,Rubén Moreno González,M,20/06/1990,26/11/23,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Parcial ,FSH0524,2,12.8,HRIS,30/04/2026
+HRIS00196,FSH0196,Ainhoa Alonso Pérez,Mujer,14/10/89,26/07/2023,,Activo,,LOGISTICA,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Completa,FSH0308,0,"9,7",HRIS,30/04/26
+HRIS00197,FSH0197,Sofía García Fernández,F,1988-01-07,18-07-18,,Activo,,IT & Data,Madrid,Analista datos,SSr,INDEFINIDO,Completa,FSH0748,2,1.1,HRIS,2026-04-30
+HRIS00198,FSH0198,Javier García Gutiérrez,Hombre,1994-07-02,2026-01-26,,Activo,,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi-Senior,INDEFINIDO,Parcial,FSH0686,0,17.8,HRIS,30-04-26
+HRIS00199,FSH0199,Álvaro Pérez Pérez,M,18/03/1986,04/01/2025,,Activo,,RRHH,Madrid,HRBP,SENIOR,Fijo,Completa,,0,"24,4",HRIS,2026-04-30
+HRIS00200,FSH0200,Óscar García Díaz,M,07-08-95,13/05/2020,,Activo,,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Indefinido,Media jornada,,0,,HRIS,30/04/26
+HRIS00201,FSH0201,Elena Pérez Jiménez,F,18/05/90,2025-08-13,,Activo,,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,Completa,FSH0518,1,4.8,HRIS,30-04-26
+HRIS00202,FSH0202,Marcos Gutiérrez Rodríguez,M,2006-03-19,2019-10-04,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,Fijo,Completa ,FSH0023,0,"22,3",HRIS,2026-04-30
+HRIS00203,FSH0203,Natalia Fernández Díaz,F,17/05/2000,2024-05-02,,Activo,,TIENDA FÍSICA,Valencia,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0248,0,"25,1",HRIS,2026-04-30
+HRIS00204,FSH0204,Alba García Romero,F,1989-11-08,2019-05-02,,Activo,,Retail store,Bilbao,Vendedor/a,Junior,INDEFINIDO,Parcial,FSH0560,0,22.6,HRIS,2026-04-30
+HRIS00205,FSH0205,Ana Sánchez Sánchez,F,29/06/1990,09-07-19,,ACTIVO,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Parcial,FSH0039,0,20.9,HRIS,2026-04-30
+HRIS00206,fsh0206,Raúl Gómez Alonso,M,10/12/1997,18-08-21,,Activo,,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Indefinido,Parcial,FSH0762,0,21.8,HRIS,2026-04-30
+HRIS00207,FSH0207,Pablo Gómez Pérez,M,1997-04-28,2025-05-09,,Activo,,Retail store,Madrid,Vendedor/a,Junior,Indefinido,Completa,FSH0426,0,8.4,HRIS,2026-04-30
+HRIS00208,FSH0208,Natalia Moreno Moreno,F,07/09/05,18/04/2025,,Activo,,TIENDA FÍSICA,Madrid,Vendedor/a,Junior,Indefinido,Completa,FSH0552,0,8.6,HRIS,2026-04-30
+HRIS00209,FSH0209,Nerea González Romero,F,21/07/1985,10/07/15,,Activo,,Tiendas,Málaga,Vendedor/a,Jr,Indefinido,Jornada completa,FSH0401,0,"29,5",HRIS,2026-04-30
+HRIS00210,FSH0210,Álvaro Díaz Muñoz,M,1983-05-27,2025-05-22,,Activo/a,,Tienda física,Valladolid,Store Manager,Manager,Indefinido,Jornada completa,,0,"23,4",HRIS,30/04/2026
+HRIS00211,FSH0211,Alejandro Pérez Martínez,M,03/04/1984,2025-04-22,07/02/26,Baja,Voluntaria,Tienda física,Vigo,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0491,0,"20,7",HRIS,2026-04-30
+HRIS00212,FSH0212,Óscar López Muñoz,M,1991-06-22,2024-12-29,07/11/2025,Baja,Voluntaria,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0324,2,12.3,HRIS,2026-04-30
+HRIS00213,FSH0213,Lucía Jiménez Sánchez,F,1992-04-26,2025-03-27,,Activo,,Online,Online - A Coruña,Gestor/a catálogo online,Junior,Temporal,FULL TIME,FSH0740,2,"19,5",HRIS,30/04/2026
+HRIS00214,FSH0214,Julia Martínez Gómez,F,21/12/1987,2018-11-21,20/05/24,Baja,BAJA VOL.,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Indefinido,Completa,FSH0383,2,"14,1",HRIS,30-04-26
+HRIS00215,FSH0215,Marcos Moreno Jiménez,M,1985-11-09,2018-08-20,,Activo,,TIENDA FÍSICA,Sevilla,Visual Merchandiser,Semi Senior,Temporal,Completa,FSH0155,0,11.9,HRIS,2026-04-30
+HRIS00216,FSH0216,María Díaz Moreno,F,1986-04-19,2024-01-11,03/06/25,Baja,Voluntaria,Tienda física ,Valencia,Vendedor/a,Junior,Indefinido,Jornada completa,FSH0155,0,15.5,HRIS,2026-04-30
+HRIS00217,FSH0217,Elena Sánchez López,Mujer,1970-02-25,31-08-23,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,INDEFINIDO,Completa,FSH0463,1,4.6,HRIS,2026-04-30
+HRIS00218,FSH0218,Daniel López Gómez,M,1988-11-04,2025-01-07,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Contrato indefinido,Parcial,FSH0606,3,1.0,HRIS,30/04/2026
+HRIS00219,FSH0219,Sofía Muñoz García,F,1989-06-29,15/03/2023,28/08/2024,Baja definitiva,Voluntaria,Tienda física,Zaragoza,Vendedor/a,Junior,Fijo,FULL TIME,FSH0817,0,21.2,HRIS,30/04/2026
+HRIS00220, FSH0220 ,Alejandro Rodríguez Sánchez,M,13/12/99,2024-06-13,,Activo,,Centro logístico,Almacén Central - A Coruña,Operario/a almacén,Junior,INDEFINIDO,Media jornada,FSH0685,0,1.0,HRIS,30/04/2026
+HRIS00221,FSH0221,Laura García Jiménez,F,1998-11-12,2025-04-30,,ACTIVO,,Tienda física,Sevilla,Jefe/a de Sección,Senior,Fijo discontinuo,Jornada completa,FSH0568,0,"13,9",HRIS,30/04/2026
+HRIS00222,FSH0222,Miguel Pérez Sánchez,M,1979-03-13,30/10/2016,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0449,0,7.2,HRIS,2026-04-30
+HRIS00223,FSH0223,Noelia González Rodríguez,F,1980-09-20,2022-07-07,,Activo,,Tienda física,Valladolid,Store Manager,Manager,Temporal,Completa,,0,15.1,HRIS,30/04/26
+HRIS00224,FSH0224,Andrea Rodríguez Gómez,F,1983-06-15,01/05/15,,ACTIVO,,RRHH,Madrid,Técnico/a selección,Semi Senior,Indefinido,Completa,FSH0181,3,1.0,HRIS,2026-04-30
+HRIS00225,FSH0225,Carlos Romero Hernández,M,19/09/1995,2025-12-30,,Activo,,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Indefinido,Jornada completa,FSH0808,0,12.7,HRIS,2026-04-30
+HRIS00226,FSH0226,Ana Hernández Pérez,F,27/01/1988,2023-03-18,,Activo,,Retail store,Valencia,Vendedor/a,Junior,Indefinido,FULL TIME,FSH0455,0,"1,7",HRIS,30-04-26
+HRIS00227,FSH0227,Clara González Romero,F,24-02-04,19/09/2019,,Activo/a,,Tienda física,A Coruña,Vendedor/a,Junior,Eventual,Completa,fsh0078,0,18.6,HRIS,2026-04-30
+HRIS00228,FSH0228,Noelia Fernández Álvarez,F,1965-06-07,25/09/2025,,ACTIVO,,IT y Datos,Madrid,Desarrollador/a BI,Senior,Indefinido,Jornada completa,FSH0478,2,"12,1",HRIS,2026-04-30
+HRIS00229,FSH0229,Carlos Ruiz Alonso,M,24/12/1984,17/04/2019,23/12/2024,Baja,Voluntaria,ecommerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Parcial,FSH0200,0,9.8,HRIS,30/04/26
+HRIS00230,FSH0230,Nerea Martínez Ruiz,F,1994-10-22,28/09/2020,08/11/24,Baja,Renuncia,Compras ,Sede Central - A Coruña,Category Manager,Senior,Indefinido,Completa,FSH0172,2,"33,2",HRIS,30-04-26
+HRIS00231,FSH0231,María Martínez Alonso,F,19/04/01,2017-05-18,,Activo,,TIENDA FÍSICA,Bilbao,Vendedor/a,JUNIOR,Indefinido,Parcial,FSH0760,0,1.0,HRIS,30/04/2026
+HRIS00232,FSH0232,Ana Álvarez Ruiz,F,1982-11-15,20/10/2021,24/12/2024,Baja,Voluntaria,Finanzas,Sede Central - A Coruña,Técnico/a administración,N2,Indefinido,Parcial,FSH0150,3,"7,3",HRIS,30/04/2026
+HRIS00233,FSH0233,Andrea Álvarez López,F,1994-10-17,2023-03-14,,ACTIVO,,Tienda física,Málaga,Vendedor/a,Junior,Temporal,Completa,FSH0455,0,"22,1",HRIS,2026-04-30
+HRIS00234,FSH0234,Javier Jiménez Hernández,M,1985-07-12,2019-03-28,,Activo,,Logística,Almacén Barcelona,Planificador/a demanda,Senior,Indefinido,Jornada completa,FSH0416,0,17.9,HRIS,2026-04-30
+HRIS00235,FSH0235,Jorge López Pérez,No declarado,1989-10-01,2021-03-28,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Fijo discontinuo,Parcial,FSH0063,0,14.7,HRIS,2026-04-30
+HRIS00236,fsh0236,Carmen Rodríguez García,F,03/04/1997,2025-09-28,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Jr,Indefinido,FULL TIME,FSH0399,1,9.4,HRIS,2026-04-30
+HRIS00237,FSH0237,Carmen Díaz González,Mujer,1984-05-26,2025-12-23,,Activo,,Logística,Almacén Barcelona,Responsable almacén,Responsable,Indefinido,Completa,,0,14.2,HRIS,2026-04-30
+HRIS00238,FSH0238,Álvaro Gómez Romero,M,1985-10-18,11/02/22,,Activo,,Tienda física,Valencia,Vendedor/a,Junior,Fijo,Completa ,FSH0803,,"20,0",HRIS,2026-04-30
+HRIS00239,FSH0239,Rubén Rodríguez Hernández,M,17/08/94,2025-04-23,,Activo,,DATA/IT,Madrid,Data Engineer,Senior,Contrato indefinido,Completa,FSH0053,3,20.8,HRIS,2026-04-30
+HRIS00240,FSH0240,Javier García Gutiérrez,M,22/11/1981,2025-01-23,2025-05-15,Baja,Involuntaria/fin contrato,Tienda física,Zaragoza,Vendedor/a,Junior,Temporal,Completa,FSH0190,0,"7,7",HRIS,2026-04-30
+HRIS00241,FSH0241,Marta García Pérez,f,1979-03-01,2025-12-18,,Activo,,LOGISTICA,Almacén Central - A Coruña,Operario/a almacén,Jr,INDEFINIDO,PART TIME,FSH0308,0,"9,9",HRIS,2026-04-30
+HRIS00242,FSH0242,Pablo García López,M,1989-08-29,2025-09-02,2026-04-01,Baja,Voluntaria,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,INDEFINIDO,Completa,FSH0095,2,10.3,HRIS,2026-04-30
+HRIS00243,FSH0243,Alba García Sánchez,F,2002-09-08,01/12/22,,Activo,,RRHH,Sede Central - A Coruña,Técnico/a selección,Semi Senior,Indefinido,Completa, FSH0537 ,2,9.8,HRIS,2026-04-30
+HRIS00244,FSH0244,Ana González Pérez,F,1991-07-30,27-07-20,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,Sr,Indefinido,Completa,FSH-0100,0,6.9,HRIS,30/04/2026
+HRIS00245,FSH0245,Hugo Gutiérrez Fernández,M,2005-03-04,2024-04-02,06/03/2026,Baja,Voluntaria,Tienda física ,Barcelona,Jefe/a de Sección,SENIOR,Fijo discontinuo,Completa,FSH0568,0,"15,2",HRIS,2026-04-30
+HRIS00246,FSH0246,Noelia García Ruiz,F,1992-08-05,14/06/2020,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Jornada completa,FSH0095,3,21.0,HRIS,2026-04-30
+HRIS00247,fsh0247,Adrián Martín Ruiz,m,1980-06-14,2019-11-04,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa ,FSH0388,0,,HRIS,30-04-26
+HRIS00248,FSH-0248,Alba Martín Hernández,F,2001-12-09,2025-06-10,,Activo,,Retail store,Valladolid,Jefe/a de Sección,Senior,Indefinido,Completa ,FSH0210,0,19.8,HRIS,30/04/2026
+HRIS00249,FSH0249,Clara González Jiménez,F,2005-07-17,06-06-19,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,Completa ,FSH0160,0,16.8,HRIS,30/04/2026
+HRIS00250,FSH0250,Sergio Fernández González,M,21/06/2002,13/09/23,,ACTIVO,,Marketing,Madrid,Especialista marketing,SSr,Fijo,Completa,FSH0069,3,23.3,HRIS,30-04-26
+HRIS00251,FSH0251,Manuel Gómez Álvarez,hombre,1987-01-01,24-10-25,,Activo,,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Temporal,Jornada completa,,,"3,0",HRIS,30/04/2026
+HRIS00252,FSH0252,Ainhoa Martínez Romero,F,25/11/1975,11/02/2020,,Activo,,Logistica,Almacén Madrid,Planificador/a demanda,SENIOR,Temporal,Completa,FSH0308,0,16.2,HRIS,30-04-26
+HRIS00253,FSH0253,Alba Pérez Álvarez,F,11/11/1983,2025-01-03,,Activo,,Tienda física,Bilbao,Vendedor/a,JUNIOR,Fijo discontinuo,Parcial,FSH0762,0,4.0,HRIS,30/04/2026
+HRIS00254,FSH0254,Iván Rodríguez Alonso,M,2004-02-06,2019-04-16,,Activo,,Customer Service,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0107,0,"23,5",HRIS,2026-04-30
+HRIS00255,FSH0255,David Moreno Gutiérrez,M,1987-03-14,20-01-23,,Activo/a,,TIENDA FÍSICA,Barcelona,Vendedor/a,Junior,Temporal,Completa,FSH0280,0,4.5,HRIS,2026-04-30
+HRIS00256,FSH0256,Lucía Romero García,F,1989-04-28,2020-07-21,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,JUNIOR,Indefinido,Media jornada,FSH0308,0,"9,8",HRIS,2026-04-30
+HRIS00257,FSH0257,Mario Jiménez Gutiérrez,M,2005-12-11,2025-02-02,,Activo,,Tienda física,Zaragoza,Vendedor/a,Jr,Fijo,Completa,FSH0808,0,21.5,HRIS,2026-04-30
+HRIS00258,FSH0258,Hugo Martín Gutiérrez,M,1975-04-03,06-10-18,,ACTIVO,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0636,0,11.0,HRIS,2026-04-30
+HRIS00259,FSH0259,Lucía González Muñoz,F,09-09-94,2022-07-06,2025-12-05,Baja,No voluntaria,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Indefinido,Completa ,FSH0300,0,"8,3",HRIS,30/04/2026
+HRIS00260,FSH0260,Clara Gutiérrez Hernández,F,1991-08-14,2020-08-29,,Activo,,Retail store,Barcelona,Jefe/a de Sección,Sr,Indefinido,Completa,FSH0144,0,"8,2",HRIS,30/04/2026
+HRIS00261,FSH0261,Carlos Muñoz Rodríguez,M,26/07/1996,2018-12-22,2024-01-30,Baja,Voluntaria,Tienda física ,Valladolid,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0690,0,"10,4",HRIS,2026-04-30
+HRIS00262,FSH0262,Ana Hernández Álvarez,Mujer,1986-07-07,10/01/2026,,Activo,,Logistica,Almacén Madrid,Operario/a almacén,Junior,Fijo,Completa,FSH0152,0,30.3,HRIS,30/04/2026
+HRIS00263,FSH0263,Laura Ruiz Martín,F,1992-08-12,02/09/2025,28/03/26,Baja,BAJA VOL.,Atención al Cliente,Contact Center - Madrid,Especialista postventa,N2,Indefinido,Completa,FSH0423,1,"14,5",HRIS,30/04/2026
+HRIS00264,fsh0264,Clara Moreno Muñoz,F,28/10/1996,2025-06-04,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Jornada completa,FSH0095,1,1.0,HRIS,2026-04-30
+HRIS00265,FSH0265,Alba Jiménez Hernández,F,28/01/2001,18/05/2020,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,JUNIOR,Indefinido,Completa,FSH0342,0,"12,7",HRIS,2026-04-30
+HRIS00266,FSH0266,Noelia Álvarez Romero,F,1992-05-12,27-11-19,,ACTIVO,,Tienda física ,Madrid,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0404,0,24.5,HRIS,2026-04-30
+HRIS00267,FSH0267,Manuel Rodríguez López,M,25/04/06,2023-10-18,,Activo,,Operaciones logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0416,0,19.1,HRIS,30-04-26
+HRIS00268,FSH0268,Ainhoa Rodríguez Martín,F,15/06/1994,2019-08-06,,ACTIVO,,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0388,0,"7,4",HRIS,2026-04-30
+HRIS00269,FSH0269,Jorge Gómez Gutiérrez,M,03/08/1990,2025-12-03,,Activo,,E-Commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Fijo,FULL TIME,FSH0268,2,"19,4",HRIS,30/04/2026
+HRIS00270,FSH0270,Sofía Ruiz Álvarez,F,2000-08-01,12/09/20,,Activo,,MARKETING,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,FULL TIME,FSH0772,3,"5,2",HRIS,2026-04-30
+HRIS00271,FSH0271,Sofía Pérez Rodríguez,F,11/03/1977,2016-04-29,,Activo,,ecommerce,Online - Madrid,Analista CRO,Senior,Indefinido,Completa,fsh0342,2,"15,3",HRIS,2026-04-30
+HRIS00272,FSH0272,David Sánchez Fernández,Hombre,22/01/2001,29/01/2021,2025-07-07,BAJA,Voluntaria,COMPRAS,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa ,FSH0172,2,2.5,HRIS,30/04/2026
+HRIS00273,FSH0273,Pablo Martínez Martín,M,2005-05-24,2019-08-21,,Activo,,Tienda física,Valladolid,Vendedor/a,N1,INDEFINIDO,Completa,FSH0123,0,"12,5",HRIS,30/04/2026
+HRIS00274,FSH0274,Marcos González Romero,Hombre,1998-09-16,2022-12-05,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Indefinido,FULL TIME,FSH0237,0,6.0,HRIS,2026-04-30
+HRIS00275,FSH0275,María Alonso García,F,1989-03-26,21/02/26,,Activo/a,,TIENDA FÍSICA,Vigo,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0682,0,1.0,HRIS,30/04/2026
+HRIS00276,FSH0276,Adrián Romero Álvarez,M,03-06-76,13/04/2021,2025-01-26,Baja,Renuncia,Tienda física,Sevilla,Jefe/a de Sección,Sr,INDEFINIDO,Completa,FSH0427,0,10.4,HRIS,2026-04-30
+HRIS00277,FSH0277,Noelia Fernández Romero,F,22-04-88,15/05/2025,2025-09-15,BAJA,Voluntaria,Atención al Cliente,Contact Center - A Coruña,Supervisor/a contact center,Mánager,Temporal,Jornada completa,,2,9.4,HRIS,2026-04-30
+HRIS00278,FSH0278,Julia Hernández Fernández,Mujer,1983-06-03,07/01/2025,25-03-26,Baja,Renuncia,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,INDEFINIDO,Completa,FSH0200,0,9.6,HRIS,30/04/2026
+HRIS00279,FSH0279,Sergio Álvarez Moreno,M,1975-02-19,2016-06-11,,Activo,,E COMMERCE,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Parcial,FSH-0271,2,15.8,HRIS,2026-04-30
+HRIS00280,FSH0280,Ana Alonso García,F,25-08-83,10/11/2022,,Activo/a,,Tienda física,Valencia,Jefe/a de Sección,SENIOR,Indefinido,Completa,FSH0421,0,4.1,HRIS,30/04/26
+HRIS00281,FSH0281,Diego Pérez Moreno,M,1997-06-13,2019-11-23,,Activo,,Retail store,Madrid,Visual Merchandiser,Semi Senior,Indefinido,Parcial,FSH0280,0,20.8,HRIS,30-04-26
+HRIS00282,FSH0282,Raquel Gómez Romero,Mujer,1986-08-19,14/11/2020,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0107,1,17.7,HRIS,30/04/2026
+HRIS00283,FSH0283,Iván González López,M,1987-07-02,2022-02-18,,Activo,,Marketing,Madrid,CRM Specialist,Senior,Indefinido,Completa ,,0,"1,0",HRIS,30/04/2026
+HRIS00284,FSH0284,Álvaro Gómez Gutiérrez,M,1986-01-29,22/01/2026,,Activo,,Atencion Cliente,Contact Center - A Coruña,Especialista postventa,N2,Indefinido,FULL TIME,FSH0107,0,1.0,HRIS,30-04-26
+HRIS00285,FSH0285,Miguel González Jiménez,M,1998-07-09,2025-12-28,,Activo,,Tienda física,Sevilla,Vendedor/a,N1,Indefinido,FULL TIME,FSH0690,0,22.5,HRIS,30-04-26
+HRIS00286,FSH0286,Raquel González Muñoz,F,2002-09-29,20-11-25,,Activo,,Logística,Almacén Central - A Coruña,Coordinador/a logística,N2,Indefinido,Completa,FSH0054,0,7.4,HRIS,2026-04-30
+HRIS00287,FSH0287,Raúl Muñoz Gutiérrez,M,1977-05-23,2017-04-17,09/01/2026,Baja,No voluntaria,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0063,0,18.7,HRIS,30/04/2026
+HRIS00288,FSH0288,Paula Álvarez Sánchez,F,1985-07-10,29/05/25,,Activo,,Tienda física,Valencia,Store Manager,Manager,Eventual,Completa,,0,18.1,HRIS,30/04/2026
+HRIS00289,FSH0289,Natalia Gutiérrez López,F,16/01/2005,2022-08-18,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,Senior,Indefinido,FULL TIME,,0,"13,4",HRIS,30/04/2026
+HRIS00290,FSH0290,Julia Rodríguez Martín,F,19-05-83,2021-10-20,,Activo,,Tienda Fisica,Madrid,Vendedor/a,Junior,Fijo,Media jornada,FSH0142,0,"23,9",HRIS,30/04/26
+HRIS00291,FSH0291,Carmen Díaz González,F,1982-07-27,10-04-20,,Activo,,Retail store,A Coruña,Vendedor/a,Junior,Temporal,FULL TIME,FSH0051,0,22.4,HRIS,30/04/2026
+HRIS00292,FSH0292,Javier Martínez Álvarez,M,1993-11-25,23/01/19,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,JUNIOR,INDEFINIDO,Completa,FSH0061,1,"6,2",HRIS,2026-04-30
+HRIS00293,FSH0293,Irene Alonso Rodríguez,F,2006-02-25,2025-10-31,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Temporal,Completa,FSH0452,0,"25,0",HRIS,30/04/2026
+HRIS00294,FSH0294,Andrea Jiménez Álvarez,F,14/08/1985,31/12/25,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,Senior,Fijo discontinuo,Parcial,FSH0210,0,"27,2",HRIS,2026-04-30
+HRIS00295, FSH0295 ,Mario Álvarez García,M,1991-06-07,2018-12-13,14/10/2025,Baja,Dimisión,E-Commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0325,2,"11,2",HRIS,2026-04-30
+HRIS00296,FSH0296,Daniel Jiménez Jiménez,M,15-09-03,2023-07-10,02-04-24,Baja,Voluntaria,Marketing Digital,Sede Central - A Coruña,Responsable comunicación,Manager,Fijo,Parcial,,0,23.5,HRIS,30/04/2026
+HRIS00297,FSH0297,Carlos Ruiz Moreno,M,16/03/1995,2015-09-29,,ACTIVO,,Tienda física ,Valencia,Vendedor/a,N1,Fijo,Parcial,FSH0655,0,,HRIS,2026-04-30
+HRIS00298,FSH0298,Álvaro Sánchez Jiménez,M,1981-12-17,09/05/2019,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Temporal,Completa,FSH0107,0,"28,8",HRIS,30/04/2026
+HRIS00299,FSH0299,Raúl Pérez Gómez,m,1989-05-10,2016-04-24,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Jr,Fijo,Completa,FSH0107,1,9.8,HRIS,2026-04-30
+HRIS00300,FSH0300,Sofía Martín Martín,F,13/06/1986,2023-03-13,,Activo,,Tienda física,Valencia,Jefe/a de Sección,Senior,Fijo,Completa,fsh0452,0,"25,7",HRIS,30-04-26
+HRIS00301,FSH0301,Diego Ruiz Jiménez,M,09-03-95,2025-03-12,2026-03-26,Baja,Voluntaria,Logística,Almacén Central - A Coruña,Operario/a almacén,N1,Temporal,Media jornada,FSH0685,0,24.7,HRIS,30-04-26
+HRIS00302,FSH0302,Álvaro Díaz Gómez,M,30-06-95,2024-04-23,,Activo,,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Temporal,Completa,FSH0061,,"7,9",HRIS,2026-04-30
+HRIS00303,FSH-0303,Daniel Romero Gómez,Hombre,1994-04-14,2020-04-02,,Activo,,Tienda física,Sevilla,Vendedor/a,Junior,INDEFINIDO,FULL TIME, FSH0355 ,0,4.3,HRIS,2026-04-30
+HRIS00304,FSH0304,Sofía Jiménez Martín,No declarado,1986-08-17,10/02/2025,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Jornada completa,FSH0686,0,"7,7",HRIS,30/04/2026
+HRIS00305,FSH0305,Mario Gómez Moreno,M,07/03/1994,2022-03-24,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0342,1,"21,0",HRIS,2026-04-30
+HRIS00306,FSH0306,Clara Moreno Moreno,F,1991-11-23,06-04-19,2026-02-27,Baja,Voluntaria,Tiendas,Valladolid,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0616,0,11.8,HRIS,30/04/2026
+HRIS00307,FSH0307,Natalia Romero Hernández,F,03-02-93,28/12/2020,,ACTIVO,,Tiendas,Zaragoza,Vendedor/a,Junior,Indefinido,Parcial,FSH0584,0,10.5,HRIS,30/04/26
+HRIS00308,FSH0308,Andrea Sánchez Martínez,F,12/08/89,2016-10-22,,Activo,,Logística,Almacén Barcelona,Planificador/a demanda,Senior,Indefinido,Media jornada,FSH0620,0,"19,6",HRIS,2026-04-30
+HRIS00309,FSH0309,Jorge García Moreno,M,2000-08-07,21-01-25,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Temporal,Parcial,FSH0620,0,"17,5",HRIS,2026-04-30
+HRIS00310,FSH0310,Mario Alonso Gómez,M,1993-05-28,25/01/2023,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0268,0,"11,7",HRIS,30/04/2026
+HRIS00311,FSH0311,Adrián Álvarez Ruiz,M,1969-10-19,2023-04-05,,Activo,,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Temporal,Completa,FSH0063,0,"4,5",HRIS,2026-04-30
+HRIS00312,FSH0312,Jorge Romero González,M,1996-12-31,2025-04-04,,Activo,,Administración financiera,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Indefinido,Completa ,FSH0465,2,16.1,HRIS,30-04-26
+HRIS00313,FSH0313,Laura Rodríguez Romero,F,1991-03-10,25/06/17,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0476,2,20.4,HRIS,30/04/2026
+HRIS00314,FSH0314,María Díaz Martín,Mujer,1990-07-08,2020-03-21,,ACTIVO,,Tienda física,Málaga,Vendedor/a,Junior,Fijo,Parcial ,FSH0678,0,7.9,HRIS,30/04/2026
+HRIS00315,FSH0315,Clara Ruiz Jiménez,F,10/08/1983,24-04-15,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Temporal,Completa,FSH-0617,0,19.3,HRIS,30/04/2026
+HRIS00316,FSH0316,Hugo Muñoz Pérez,M,1998-09-20,2023-02-22,,Activo,,Tienda física,Valladolid,Vendedor/a,Jr,INDEFINIDO,FULL TIME,FSH0595,0,"5,4",HRIS,2026-04-30
+HRIS00317,FSH0317,Carlos Martínez Jiménez,M,21/02/84,2019-04-05,2025-06-09,BAJA,Voluntaria,Operaciones logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Parcial,FSH0775,0,16.6,HRIS,2026-04-30
+HRIS00318,FSH0318,Manuel Gómez Moreno,M,04/03/06,2025-08-21,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Completa ,FSH0686,0,"2,2",HRIS,2026-04-30
+HRIS00319,FSH0319,Ainhoa Fernández López,F,1977-12-11,2022-05-25,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,JUNIOR,Indefinido,Completa,FSH0332,0,,HRIS,30/04/26
+HRIS00320,FSH0320,David Muñoz Gutiérrez,M,1991-06-25,11/05/2024,,ACTIVO,,Tienda física,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0326,0,7.8,HRIS,30-04-26
+HRIS00321,FSH0321,Ana Muñoz Fernández,F,27/11/1996,07-10-20,,ACTIVO,,Tienda física,Valencia,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0223,0,14.3,HRIS,30-04-26
+HRIS00322,FSH0322,Alba Pérez González,F,2006-03-10,2018-01-04,,Activo,,Tiendas,Madrid,Vendedor/a,N1,Indefinido,Parcial ,FSH0811,0,"12,7",HRIS,30/04/2026
+HRIS00323,FSH0323,Álvaro Jiménez Moreno,M,02-06-92,2025-10-24,,Activo,,Online,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa ,FSH0476,1,1.0,HRIS,2026-04-30
+HRIS00324,FSH0324,Alba Gómez Jiménez,No declarado,19/04/1993,2017-11-29,,Activo,,Compras ,Sede Central - A Coruña,Category Manager,Senior,Fijo,Completa,fsh0513,3,6.3,HRIS,2026-04-30
+HRIS00325,FSH0325,Iván Gutiérrez López,M,1989-01-06,2017-12-23,,Activo,,ecommerce,Online - A Coruña,Product Owner e-commerce,Senior,INDEFINIDO,Completa,FSH0399,1,12.9,HRIS,30-04-26
+HRIS00326,FSH0326,Pablo Fernández Díaz,M,1995-10-24,2016-05-11,,Activo,,Tienda física ,Málaga,Jefe/a de Sección,Senior,Temporal,Completa,FSH-0455,0,24.1,HRIS,30/04/2026
+HRIS00327,FSH0327,Clara Gómez Fernández,Mujer,1984-06-28,2018-11-17,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa ,FSH0552,0,1.0,HRIS,2026-04-30
+HRIS00328,FSH0328,Elena Pérez Alonso,F,02/03/06,2025-09-07,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,PART TIME,FSH0237,0,22.2,HRIS,30/04/2026
+HRIS00329, FSH0329 ,Carlos Alonso Martínez,M,1984-05-29,11/03/2026,,Activo,,Tienda física ,Sevilla,Vendedor/a,JUNIOR,Fijo discontinuo,Completa,FSH0260,0,"1,0",HRIS,2026-04-30
+HRIS00330,FSH0330,David González Hernández,M,06/12/01,2017-09-21,,Activo,,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Duración determinada,Completa,FSH0294,0,"17,3",HRIS,30/04/2026
+HRIS00331,FSH0331,Álvaro Gutiérrez Alonso,M,07/03/86,26/01/2022,,Activo,,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Indefinido,Jornada completa,FSH0724,0,"13,9",HRIS,2026-04-30
+HRIS00332,FSH0332,Alba Pérez Jiménez,F,1988-06-26,20-05-16,,Activo,,Centro logístico,Almacén Central - A Coruña,Responsable almacén,Mánager,Contrato indefinido,Parcial,,0,16.1,HRIS,2026-04-30
+HRIS00333,FSH0333,Javier González Ruiz,M,12/03/2006,2025-09-09,,Activo,,TIENDA FÍSICA,Bilbao,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH-0678,0,13.5,HRIS,2026-04-30
+HRIS00334,FSH0334,Sergio Martínez García,M,1988-08-20,2023-05-06,2024-01-02,Baja,Voluntaria,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0126,1,15.1,HRIS,30/04/2026
+HRIS00335,FSH0335,Rubén Alonso Ruiz,m,1980-12-22,2022-11-15,,Activo,,MARKETING,Sede Central - A Coruña,Especialista marketing,N2,Indefinido,Completa,FSH0621,0,"4,8",HRIS,2026-04-30
+HRIS00336,FSH0336,Ana Gutiérrez Jiménez,f,1995-06-26,2021-10-05,,Activo,,IT y Datos,Madrid,Data Engineer,Senior,Temporal,Completa,FSH0520,2,12.2,HRIS,30/04/2026
+HRIS00337,FSH0337,María Muñoz García,F,1989-10-10,2016-08-11,2025-01-14,Baja,Baja voluntaria,Operaciones logística,Almacén Madrid,Operario/a almacén,JUNIOR,Indefinido,Completa , FSH0039 ,0,13.4,HRIS,2026-04-30
+HRIS00338,FSH0338,Miguel Jiménez González,M,1987-09-13,26-02-16,,Activo,,Customer Service,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Completa,FSH0061,2,32.1,HRIS,30/04/2026
+HRIS00339,FSH0339,Hugo Gómez Sánchez,M,1982-05-18,2024-01-14,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0026,3,,HRIS,2026-04-30
+HRIS00340,FSH0340,Paula Muñoz Muñoz,F,22-01-91,04/02/2025,,Activo,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0487,0,10.5,HRIS,30/04/26
+HRIS00341,FSH0341,Óscar García Moreno,M,1979-02-07,2022-07-24,,Activo,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0186,0,"17,9",HRIS,30-04-26
+HRIS00342,FSH0342,Óscar Pérez Muñoz,M,1999-08-17,19/07/17,,ACTIVO,,E-commerce,Online - Madrid,Analista CRO,Senior,Indefinido,Completa,FSH0200,1,"22,8",HRIS,2026-04-30
+HRIS00343,FSH0343,Nerea López Álvarez,F,2005-09-18,2026-02-06,,Activo,,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Indefinido,PART TIME,FSH0170,0,"20,6",HRIS,2026-04-30
+HRIS00344,FSH0344,Iván López Hernández,No declarado,19-02-85,2026-01-26,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,JUNIOR,Indefinido,Completa,FSH0034,3,18.5,HRIS,2026-04-30
+HRIS00345,FSH0345,Carmen Romero Martínez,F,1993-09-23,07/04/2024,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Fijo,Media jornada,FSH0478,1,"17,8",HRIS,30/04/2026
+HRIS00346,FSH0346,Hugo López Rodríguez,M,11/06/2005,20/06/2015,,Activo,,People,Sede Central - A Coruña,People Analytics Analyst,Senior,Fijo,Completa,FSH0537,1,4.0,HRIS,30/04/2026
+HRIS00347,FSH0347,Marcos García Alonso,M,18-06-94,2025-05-19,2025-12-20,Baja,Voluntaria,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0584,0,22.7,HRIS,2026-04-30
+HRIS00348,FSH0348,Adrián Gutiérrez González,M,1993-07-28,2025-01-29,,Activo,,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0716,,"13,2",HRIS,30/04/2026
+HRIS00349,FSH0349,Natalia Alonso Sánchez,F,1999-07-08,05/06/2023,01-02-26,Baja,Voluntaria,Customer Service,Contact Center - A Coruña,Agente soporte,Junior,Eventual,Completa,FSH0423,2,"24,8",HRIS,2026-04-30
+HRIS00350,FSH0350,Pablo Alonso Gómez,M,2005-03-14,26/06/2024,19/03/2025,BAJA,Involuntaria/fin contrato,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Temporal,Completa,FSH0107,0,5.7,HRIS,2026-04-30
+HRIS00351,FSH0351,Laura García Muñoz,F,2005-09-08,2024-08-06,,Activo,,Tienda física,Bilbao,Jefe/a de Sección,Senior,Duración determinada,FULL TIME,FSH0294,0,23.5,HRIS,2026-04-30
+HRIS00352,FSH0352,Raúl González García,M,2004-08-25,02-10-16,2024-11-25,BAJA,BAJA VOL.,Logística,Almacén Madrid,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0252,0,24.3,HRIS,30/04/2026
+HRIS00353,FSH0353,Laura Gómez López,F,15/08/2005,30/05/2024,,Activo,,Tienda física ,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0455,0,13.8,HRIS,30/04/2026
+HRIS00354,FSH0354,Ana Moreno Hernández,F,03/05/1994,21/03/21,2026-01-04,Baja,Voluntaria,Logística,Almacén Barcelona,Operario/a almacén,Jr,Indefinido,Media jornada,FSH0692,0,12.2,HRIS,30/04/2026
+HRIS00355,FSH0355,Andrea Martínez Pérez,F,1994-10-07,2025-09-10,,Activo,,Tienda física,Sevilla,Store Manager,Manager,Indefinido,Jornada completa,,0,"14,3",HRIS,2026-04-30
+HRIS00356,FSH0356,Noelia Muñoz García,F,1977-06-20,2024-07-06,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi-Senior,Indefinido,Completa,FSH0200,1,"9,5",HRIS,2026-04-30
+HRIS00357,FSH0357,Paula Hernández Rodríguez,F,04/10/88,12/12/2025,,Activo/a,,ATC,Contact Center - A Coruña,Agente soporte,Junior,Contrato indefinido,Completa,FSH0061,2,34.4,HRIS,2026-04-30
+HRIS00358,FSH0358,Marcos Fernández García,M,26/12/00,08/08/2019,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Indefinido,Completa,FSH0053,3,21.8,HRIS,30/04/2026
+HRIS00359,FSH0359,Julia Muñoz González,F,1987-08-13,2023-11-07,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,N1,Fijo,Completa,FSH0061,2,"14,2",HRIS,30/04/2026
+HRIS00360,FSH0360,Ainhoa Ruiz Moreno,f,1992-11-17,2022-08-06,02-06-25,Baja,Involuntaria/fin contrato,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Temporal,Completa,FSH0080,1,4.0,HRIS,30/04/2026
+HRIS00361,FSH0361,Laura Hernández González,F,1979-11-02,2025-05-11,,Activo,,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Indefinido,Completa,FSH0026,3,"1,8",HRIS,30/04/26
+HRIS00362,FSH0362,María Martín Pérez,F,27-10-84,2025-01-13,,ACTIVO,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0061,2,"1,8",HRIS,2026-04-30
+HRIS00363,FSH0363,Manuel Alonso Gutiérrez,M,2003-03-28,14-02-25,,Activo,,MARKETING,Madrid,Responsable comunicación,Manager,Indefinido,Parcial ,,0,14.6,HRIS,2026-04-30
+HRIS00364,FSH0364,Alejandro Gómez Alonso,M,1999-10-05,2022-04-04,2024-05-15,Baja,Voluntaria,Tienda Fisica,Vigo,Vendedor/a,Junior,Fijo discontinuo,Completa ,FSH0092,0,"9,3",HRIS,30/04/2026
+HRIS00365,FSH0365,Andrea Ruiz Romero,F,1994-04-16,2019-12-24,,Activo,,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Completa,FSH0482,0,"19,8",HRIS,2026-04-30
+HRIS00366,FSH0366,Lucía Rodríguez Álvarez,Mujer,1990-02-26,21-05-24,,ACTIVO,,Online,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0126,0,"13,2",HRIS,30/04/2026
+HRIS00367,FSH0367,Alba Hernández Moreno,F,2000-05-28,28/07/25,,Activo,,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,INDEFINIDO,Completa,FSH0782,1,1.0,HRIS,30/04/2026
+HRIS00368,FSH0368,Elena Jiménez Romero,F,1999-12-21,2018-05-02,,Activo,,LOGISTICA,Almacén Barcelona,Operario/a almacén,Jr,Eventual,Parcial,FSH0152,0,"7,4",HRIS,2026-04-30
+HRIS00369,FSH0369,Ainhoa Jiménez Martínez,F,1996-07-18,29/07/2017,,Activo,,Marketing,Madrid,Especialista marketing,Semi Senior,Indefinido,FULL TIME,FSH0283,2,10.8,HRIS,2026-04-30
+HRIS00370,FSH0370,Alba Fernández Fernández,F,08/01/1987,30/09/23,,Activo,,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi-Senior,Indefinido,Completa,FSH0172,2,"10,1",HRIS,30/04/2026
+HRIS00371,FSH0371,Mario Muñoz Rodríguez,M,1991-10-29,21/06/2021,,Activo/a,,Tienda física,Zaragoza,Vendedor/a,JUNIOR,Indefinido,Jornada completa,FSH0386,0,"16,0",HRIS,2026-04-30
+HRIS00372,FSH0372,Diego López González,M,1991-10-23,2022-01-27,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Contrato indefinido,Completa,FSH0606,0,1.0,HRIS,30/04/2026
+HRIS00373,FSH0373,Diego Fernández Pérez,M,30-07-98,11/11/21,30-12-25,Baja,Voluntaria,Tienda física,Barcelona,Vendedor/a,Junior,Indefinido,Completa ,FSH0404,0,23.0,HRIS,2026-04-30
+HRIS00374,FSH0374,Jorge Ruiz Martínez,M,22/10/1987,20/09/2025,,Activo,,Tienda Fisica,Barcelona,Vendedor/a,Junior,INDEFINIDO,Parcial ,FSH0584,0,"20,0",HRIS,2026-04-30
+HRIS00375,FSH0375,Diego Gutiérrez Alonso,Hombre,1989-09-15,2024-08-08,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,N2,Contrato indefinido,Completa,FSH0107,2,17.3,HRIS,30/04/2026
+HRIS00376,FSH0376,Diego Sánchez Moreno,Hombre,1982-01-04,13/03/2023,17/06/2025,BAJA,Voluntaria,Retail store,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0288,0,35.5,HRIS,30/04/2026
+HRIS00377,FSH0377,Álvaro Ruiz Fernández,m,06/10/1969,2024-09-03,,Activo,,COMPRAS,Sede Central - A Coruña,Analista proveedores,Semi Senior,INDEFINIDO,Completa,FSH0736,3,15.8,HRIS,2026-04-30
+HRIS00378, FSH0378 ,Clara Fernández Gómez,No declarado,1983-01-24,28-02-25,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Temporal,Completa,FSH0423,2,4.8,HRIS,2026-04-30
+HRIS00379,FSH0379,Hugo Fernández Alonso,M,04/07/1996,08-05-25,,ACTIVO,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa,FSH0482,0,9.8,HRIS,30/04/2026
+HRIS00380, FSH0380 ,Raquel Pérez Martín,F,1977-11-26,26-07-15,,ACTIVO,,Tienda Fisica,Barcelona,Vendedor/a,Junior,Indefinido,Completa,fsh0690,0,1.0,HRIS,2026-04-30
+HRIS00381,FSH0381,Laura Martínez Hernández,F,1985-09-28,11-03-22,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,SSr,Indefinido,Completa,FSH0080,1,"19,8",HRIS,2026-04-30
+HRIS00382,FSH0382,Ana Fernández González,F,1989-12-25,25-05-25,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,Fijo discontinuo,Jornada completa,FSH0092,0,"14,8",HRIS,30/04/2026
+HRIS00383,FSH0383,Clara Díaz Jiménez,F,08/05/1985,2024-06-17,,Activo,,Finanzas,Sede Central - A Coruña,Controller,Senior,Indefinido,Parcial ,FSH0331,3,22.4,HRIS,2026-04-30
+HRIS00384, FSH0384 ,Alejandro Moreno Alonso,M,15/11/2005,15/09/2019,,Activo,,Logística,Almacén Barcelona,Responsable almacén,N4,Indefinido,Completa,,,13.6,HRIS,2026-04-30
+HRIS00385,FSH0385,Noelia Gutiérrez Fernández,F,06-09-83,19-08-21,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Temporal,Completa,FSH0617,0,"18,7",HRIS,2026-04-30
+HRIS00386,FSH-0386,Marta García Pérez,No declarado,11/01/1996,2024-12-29,,Activo,,Tienda física,Bilbao,Store Manager,Manager,Fijo,Completa,,0,"20,2",HRIS,2026-04-30
+HRIS00387,FSH0387,Andrea Hernández Sánchez,mujer,1980-12-29,17/07/21,,Activo/a,,Tiendas,Valladolid,Visual Merchandiser,Semi-Senior,Temporal,Completa,FSH0280,0,"13,0",HRIS,2026-04-30
+HRIS00388,fsh0388,Jorge Jiménez Rodríguez,M,1997-01-02,2023-10-10,,Activo,,E-commerce,Online - A Coruña,Product Owner e-commerce,SENIOR,INDEFINIDO,Completa,FSH0476,1,17.2,HRIS,30/04/26
+HRIS00389,FSH0389,Carmen Martínez Alonso,F,13/07/88,05/10/2025,,Activo,,Tiendas,Madrid,Vendedor/a,Junior,Indefinido,Parcial,FSH0560,0,"24,8",HRIS,2026-04-30
+HRIS00390,FSH0390,Sofía Martínez Alonso,mujer,01/01/1993,28/03/2025,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,SSr,Indefinido,Completa ,FSH0061,3,18.2,HRIS,30/04/2026
+HRIS00391,FSH0391,Hugo Alonso Sánchez,M,1989-11-13,2016-05-24,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Jr,Temporal,Completa,FSH0251,2,18.3,HRIS,2026-04-30
+HRIS00392,FSH-0392,Nerea Ruiz Sánchez,Mujer,17/11/94,10/11/23,,Activo,,MKT,Sede Central - A Coruña,Especialista marketing,Semi Senior,Temporal,Completa,FSH0283,1,12.0,HRIS,2026-04-30
+HRIS00393,FSH0393,Daniel Pérez Muñoz,M,31/01/1992,2025-09-25,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0288,0,5.7,HRIS,2026-04-30
+HRIS00394,FSH0394,Laura Martínez Rodríguez,F,17/10/1984,2025-12-09,2026-04-25,Baja,Voluntaria,ATC,Contact Center - Madrid,Agente soporte,Junior,Duración determinada,Jornada completa,fsh0423,1,"12,3",HRIS,2026-04-30
+HRIS00395,FSH0395,Lucía Alonso Díaz,F,1994-10-10,27/08/21,,Activo,,Retail store,Bilbao,Visual Merchandiser,N2,Temporal,Parcial,FSH0144,0,"11,6",HRIS,2026-04-30
+HRIS00396,FSH0396,Rubén García Gómez,M,15/10/1984,12/04/2025,,Activo,,Tienda física,Barcelona,Vendedor/a,N1,Indefinido,Jornada completa,FSH0506,0,,HRIS,30/04/2026
+HRIS00397,FSH0397,Sofía Gómez Álvarez,F,1982-06-05,2021-06-02,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,SSr,Indefinido,Parcial,FSH0061,0,1.0,HRIS,30-04-26
+HRIS00398,FSH0398,Natalia Pérez López,F,1998-03-06,2019-12-09,22/02/26,Baja,Voluntaria,Tienda física,A Coruña,Vendedor/a,Junior,Indefinido,Parcial,FSH0289,0,"10,2",HRIS,2026-04-30
+HRIS00399,FSH0399,Julia González González,F,17-08-79,2023-03-02,,Activo,,E-commerce,Online - Madrid,Analista CRO,Senior,Indefinido,Completa,FSH0117,3,"15,4",HRIS,2026-04-30
+HRIS00400,FSH0400,Ainhoa Fernández García,F,15/04/01,21/05/2025,24/02/2026,Baja,Baja voluntaria,E-commerce,Online - A Coruña,Gestor/a catálogo online,JUNIOR,Indefinido,Completa,FSH0117,1,15.8,HRIS,30-04-26
+HRIS00401,FSH0401,Hugo Gómez Álvarez,Hombre,1998-10-28,15-03-26,,Activo,,Tienda Fisica,Vigo,Jefe/a de Sección,Senior,Temporal,Jornada completa,FSH0482,0,"4,6",HRIS,2026-04-30
+HRIS00402,FSH0402,Iván Díaz Sánchez,Hombre,09/06/1979,16/05/2023,2024-08-19,Baja,Involuntaria/fin contrato,Tienda física,Bilbao,Vendedor/a,Junior,Duración determinada,Parcial,FSH0092,0,"27,3",HRIS,2026-04-30
+HRIS00403,FSH0403,Ana Moreno Gutiérrez,F,1993-08-07,13/03/2026,,Activo,,Compras,Sede Central - A Coruña,Category Manager,Senior,Contrato indefinido,Completa,FSH0513,3,16.5,HRIS,30/04/2026
+HRIS00404,FSH0404,Nerea Jiménez Pérez,F,1991-03-07,2018-06-07,,Activo,,Tienda física,Zaragoza,Jefe/a de Sección,Senior,TEMPORAL,Parcial,FSH0560,0,"19,1",HRIS,30/04/2026
+HRIS00405,FSH0405,Raquel García Gutiérrez,F,27/06/2004,28/06/22,2024-09-18,BAJA,BAJA VOL.,E-commerce,Online - Madrid,Gestor/a catálogo online,JUNIOR,Indefinido,Completa,FSH0500,2,18.7,HRIS,30/04/2026
+HRIS00406,FSH0406,Paula Ruiz García,F,1996-04-30,05/04/2015,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Fijo discontinuo,Completa ,fsh0251,0,"22,0",HRIS,2026-04-30
+HRIS00407,FSH0407,Manuel Alonso Rodríguez,M,1987-05-18,26/09/25,2026-01-30,Baja,Voluntaria,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Parcial,FSH0054,0,5.3,HRIS,2026-04-30
+HRIS00408,FSH0408,Daniel Moreno Gómez,M,1991-01-05,11-05-17,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa ,FSH0687,3,"19,9",HRIS,30/04/2026
+HRIS00409,FSH0409,David Martínez Pérez,M,22/01/2004,2015-04-23,,Activo,,Tienda Fisica,Barcelona,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0100,0,"25,7",HRIS,30-04-26
+HRIS00410,FSH0410,Manuel Rodríguez López,M,1997-03-09,2023-01-09,,Activo,,DATA/IT,Madrid,Analista datos,Semi Senior,Fijo,Parcial,FSH0646,1,"7,5",HRIS,2026-04-30
+HRIS00411,FSH0411,Paula García Martínez,F,13/05/1988,19-07-25,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,N1,Temporal,Completa,FSH0819,0,24.5,HRIS,30/04/26
+HRIS00412,FSH0412,Ana Fernández Ruiz,F,28/08/1984,2025-07-20,,Activo,,TIENDA FÍSICA,Bilbao,Vendedor/a,Jr,Temporal,Completa,FSH0682,0,"12,8",HRIS,30-04-26
+HRIS00413,FSH0413,Marta González López,F,29/07/1982,2017-04-01,14/11/2025,Baja,Voluntaria,FINANZAS,Sede Central - A Coruña,Controller,Senior,Temporal,FULL TIME,FSH0150,1,"10,3",HRIS,2026-04-30
+HRIS00414,FSH0414,Ana Hernández Martín,F,1987-09-27,2021-10-21,,Activo,,Centro logístico,Almacén Central - A Coruña,Operario/a almacén,Junior,Indefinido,Completa,FSH0640,0,10.7,HRIS,2026-04-30
+HRIS00415,FSH0415,Miguel Romero Pérez,M,1990-01-24,2024-01-16,06/11/2024,Baja,BAJA VOL.,MKT,Sede Central - A Coruña,Especialista marketing,Semi Senior,Fijo discontinuo,Completa ,FSH0772,0,"21,8",HRIS,30/04/2026
+HRIS00416,FSH0416,Diego García Jiménez,M,2005-06-04,2019-10-26,,Activo,,Logística,Almacén Madrid,Responsable almacén,Manager,TEMPORAL,Completa,,0,"1,0",HRIS,2026-04-30
+HRIS00417,FSH0417,Manuel Gutiérrez Gómez,M,11/11/04,2025-11-09,,Activo,,Logística,Almacén Madrid,Operario/a almacén,JUNIOR,Indefinido,Completa,FSH0109,0,"26,9",HRIS,2026-04-30
+HRIS00418,FSH0418,Raúl Hernández Romero,M,06-04-88,2026-03-05,,Activo,,Tienda física,Valladolid,Vendedor/a,Jr,Indefinido,FULL TIME,FSH-0803,0,"4,1",HRIS,30/04/2026
+HRIS00419,FSH0419,Natalia Martínez Jiménez,F,1980-05-04,11/04/25,,Activo,,Marketing,Madrid,Especialista marketing,Semi Senior,Temporal,Completa,FSH0363,0,7.9,HRIS,30/04/26
+HRIS00420,FSH0420,Adrián Hernández Martínez,M,2003-02-05,2024-12-09,,Activo,,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Indefinido,Parcial,FSH0048,1,14.7,HRIS,30/04/2026
+HRIS00421,FSH0421,Marcos Muñoz Martínez,M,1988-04-30,2025-02-14,,Activo,,Retail store,Vigo,Jefe/a de Sección,Senior,Fijo,Completa,FSH0784,0,"21,0",HRIS,2026-04-30
+HRIS00422,FSH0422,Sergio Moreno Hernández,M,1984-05-18,2026-03-04,,Activo,,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0399,2,4.6,HRIS,30-04-26
+HRIS00423,fsh0423,Irene Romero Jiménez,F,01-04-95,2025-11-11,,Activo,,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,TEMPORAL,Completa,,2,"16,6",HRIS,2026-04-30
+HRIS00424,FSH0424,Andrea Sánchez Díaz,F,21/10/2000,2023-04-19,2024-08-11,Baja,Voluntaria,Logistica,Almacén Central - A Coruña,Coordinador/a logística,SSr,Contrato indefinido,Completa,FSH0109,0,1.0,HRIS,30/04/26
+HRIS00425,FSH0425,María López Sánchez,F,01/03/2001,2025-02-16,27/08/2025,Baja,Voluntaria,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,FULL TIME,FSH0476,2,"35,5",HRIS,30/04/26
+HRIS00426,FSH0426,Jorge Pérez Rodríguez,M,26/04/1979,2025-03-31,,Activo,,Tienda física,Vigo,Jefe/a de Sección,Senior,Indefinido,Parcial ,FSH0351,0,1.0,HRIS,2026-04-30
+HRIS00427,FSH0427,Miguel Alonso Romero,M,1993-07-02,2025-08-26,,Activo,,Tienda Fisica,Vigo,Store Manager,Manager,Indefinido,Completa,,0,"15,9",HRIS,2026-04-30
+HRIS00428,FSH0428,Elena Jiménez López,F,1989-09-24,03-10-15,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,JUNIOR,Contrato indefinido,Completa,FSH0481,2,"18,5",HRIS,30/04/2026
+HRIS00429,FSH0429,Noelia Pérez Hernández,F,17/05/1983,10/05/2021,,Activo,,E COMMERCE,Online - Madrid,Gestor/a catálogo online,N1,Indefinido,Parcial,FSH-0481,3,"19,2",HRIS,2026-04-30
+HRIS00430,FSH0430,Javier Rodríguez Sánchez,M,1985-03-11,2020-01-01,,ACTIVO,,Tiendas,Málaga,Vendedor/a,JUNIOR,Temporal,Completa,FSH0288,0,20.5,HRIS,2026-04-30
+HRIS00431,FSH0431,Noelia Martínez Rodríguez,F,19/04/1984,12/10/2022,,Activo,,Tiendas,A Coruña,Visual Merchandiser,Semi Senior,Indefinido,Completa ,FSH0123,0,"13,6",HRIS,2026-04-30
+HRIS00432,FSH0432,David López Gómez,Hombre,09/02/1992,2025-03-08,,Activo,,Tienda Fisica,Sevilla,Vendedor/a,JUNIOR,Indefinido,Completa,FSH0760,0,"1,0",HRIS,2026-04-30
+HRIS00433,FSH0433,Sofía García Pérez,F,04/04/1981,20/07/23,2026-03-13,Baja,Voluntaria,Atención al Cliente,Contact Center - Madrid,Agente soporte,Jr,Indefinido,Completa,FSH0061,3,"10,4",HRIS,30/04/26
+HRIS00434,FSH0434,Sara Hernández Gómez,F,30/01/1987,2020-02-04,,Activo/a,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0423,3,15.2,HRIS,30/04/2026
+HRIS00435,FSH0435,Raquel Martínez Ruiz,F,1988-02-11,2025-09-12,,Activo,,Logística,Almacén Barcelona,Coordinador/a logística,N2,Indefinido,FULL TIME, FSH0620 ,0,9.0,HRIS,2026-04-30
+HRIS00436,FSH0436,Daniel González Rodríguez,M,25/03/2002,2021-12-11,,Activo,,Tienda física ,Valladolid,Vendedor/a,Junior,Indefinido,Parcial,FSH-0784,0,13.8,HRIS,2026-04-30
+HRIS00437,FSH0437,Sara Alonso Moreno,F,1987-04-26,14/04/2023,,Activo,,ecommerce,Online - Madrid,Gestor/a catálogo online,N1,Indefinido,Completa,FSH0126,2,12.4,HRIS,2026-04-30
+HRIS00438,FSH0438,Paula Álvarez Moreno,Mujer,1975-10-01,04/12/25,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Parcial,FSH0080,0,"15,4",HRIS,2026-04-30
+HRIS00439,FSH0439,Hugo Gómez Martín,M,1992-11-11,2024-10-02,,Activo,,Centro logístico,Almacén Central - A Coruña,Coordinador/a logística,SSr,Indefinido,Parcial,FSH0692,0,11.4,HRIS,30/04/2026
+HRIS00440,FSH0440,Manuel Romero Álvarez,M,29/04/1993,24/07/2019,,Activo,,Tienda física,Zaragoza,Vendedor/a,N1,Fijo discontinuo,Parcial,FSH0210,0,26.6,HRIS,2026-04-30
+HRIS00441,FSH0441,Paula Gutiérrez Díaz,F,1997-10-01,2025-11-10,2026-04-06,Baja,Voluntaria,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0095,2,"9,9",HRIS,30/04/26
+HRIS00442,FSH0442,Pablo Díaz García,M,22-04-01,13/10/2021,,Activo,,E-Commerce,Online - A Coruña,Gestor/a catálogo online,N1,INDEFINIDO,Media jornada,FSH0481,3,18.0,HRIS,2026-04-30
+HRIS00443, FSH0443 ,Paula Sánchez Martín,Mujer,1982-04-03,2026-01-18,,Activo,,Retail store,Valladolid,Vendedor/a,Junior,Temporal,Completa,FSH0223,0,10.9,HRIS,30/04/2026
+HRIS00444,FSH0444,Natalia Gutiérrez Pérez,F,1998-09-15,2022-07-03,,Activo,,Customer Service,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0061,0,"6,7",HRIS,2026-04-30
+HRIS00445,FSH0445,Marta Díaz López,F,1979-03-14,21/07/2019,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,Completa,FSH0123,0,17.4,HRIS,30/04/2026
+HRIS00446, FSH0446 ,Lucía Alonso Moreno,F,1998-01-21,2019-04-29,2026-02-19,Baja,Voluntaria,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi-Senior,Fijo discontinuo,FULL TIME,FSH0107,3,13.5,HRIS,2026-04-30
+HRIS00447,FSH0447,Ana Jiménez Gutiérrez,F,1977-03-14,2023-03-06,,Activo/a,,Tienda Fisica,A Coruña,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0568,0,,HRIS,30/04/2026
+HRIS00448,FSH0448,Raquel Gómez Martínez,F,30/08/1991,05/12/24,,Activo,,ecommerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Parcial,FSH0645,2,22.6,HRIS,30/04/26
+HRIS00449,FSH-0449,Alba Martín Moreno,F,08/11/1983,03/03/2021,,Activo,,Retail store,Barcelona,Jefe/a de Sección,Senior,Temporal,Completa,FSH0622,0,"3,8",HRIS,30-04-26
+HRIS00450,FSH0450,Jorge Fernández González,M,1980-03-17,2025-04-10,2025-12-16,Baja,Voluntaria,E-Commerce,Online - Madrid,Analista CRO,Senior,Temporal,Completa,FSH0126,1,"6,2",HRIS,2026-04-30
+HRIS00451,FSH0451,Carlos Romero Ruiz,M,1999-10-04,08/01/2025,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0782,2,,HRIS,30-04-26
+HRIS00452,FSH0452,Sara López Gómez,F,1992-12-03,2023-04-11,,Activo,,Tienda física,A Coruña,Jefe/a de Sección,Senior,TEMPORAL,Parcial,FSH0655,0,"10,3",HRIS,2026-04-30
+HRIS00453,FSH0453,Marta Martínez García,F,25/06/84,2017-11-06,,Activo,,Retail store,Vigo,Vendedor/a,N1,Fijo,Completa,FSH0078,0,,HRIS,30/04/2026
+HRIS00454,FSH0454,Raquel Alonso Jiménez,F,26-09-90,2023-07-14,,Activo,,COMPRAS,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa ,FSH0403,0,"18,0",HRIS,2026-04-30
+HRIS00455,FSH0455,Sara Romero Jiménez,F,13/05/1993,22-01-25,,Activo,,Tiendas,Valladolid,Jefe/a de Sección,Senior,Fijo discontinuo,FULL TIME,fsh0560,0,"10,5",HRIS,30/04/2026
+HRIS00456,FSH0456,Manuel Martínez Ruiz,Hombre,21/05/1987,06/03/2025,,Activo,,Logistica,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Completa ,FSH0152,0,5.9,HRIS,2026-04-30
+HRIS00457,FSH0457,Ana Muñoz Martín,F,1989-10-26,2025-10-10,,ACTIVO,,Retail store,Barcelona,Visual Merchandiser,Semi Senior,Indefinido,Jornada completa,FSH0702,0,"27,3",HRIS,2026-04-30
+HRIS00458,FSH0458,Javier López Ruiz,M,28-05-88,2023-06-24,,Activo,,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Indefinido,Completa,FSH0109,0,16.7,HRIS,2026-04-30
+HRIS00459,FSH0459,Raquel González Hernández,F,1998-12-03,2018-08-06,,Activo,,IT y Datos,Madrid,Analista datos,Semi Senior,Indefinido,Completa,FSH0130,2,"28,6",HRIS,2026-04-30
+HRIS00460,fsh0460,Mario González Álvarez,M,28-05-88,2025-03-14,2025-12-29,Baja,Voluntaria,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Jornada completa,FSH0342,1,"13,2",HRIS,30/04/2026
+HRIS00461,FSH0461,Pablo Moreno Martín,M,1995-04-04,2020-09-12,,Activo,,Tiendas,Sevilla,Vendedor/a,Junior,Indefinido,Parcial,FSH0248,0,6.5,HRIS,30/04/26
+HRIS00462, FSH0462 ,Mario Fernández Hernández,Hombre,17/01/1992,18/01/21,,Activo/a,,Tienda física ,Valladolid,Vendedor/a,Jr,Indefinido,Parcial,FSH0221,0,"13,6",HRIS,30-04-26
+HRIS00463,FSH0463,Hugo Gutiérrez Ruiz,M,19/10/1972,2020-12-26,,Activo,,IT y Datos,Madrid,Data Engineer,Senior,Eventual,Jornada completa,FSH0053,3,"1,0",HRIS,2026-04-30
+HRIS00464,FSH0464,Elena Rodríguez Moreno,F,1998-04-19,30-10-25,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Parcial,FSH0251,0,"15,1",HRIS,30/04/26
+HRIS00465,FSH0465,Ainhoa Gutiérrez Martínez,F,1986-06-27,2025-06-24,,Activo,,Finanzas,Sede Central - A Coruña,Controller,SENIOR,INDEFINIDO,Media jornada,FSH0383,0,17.4,HRIS,30/04/26
+HRIS00466,FSH0466,Diego Pérez García,M,1988-11-03,2019-02-02,2024-02-10,Baja,Voluntaria,Tienda física,Málaga,Vendedor/a,N1,Eventual,Media jornada,FSH0622,0,25.4,HRIS,30-04-26
+HRIS00467,FSH0467,Jorge Romero Díaz,M,1990-06-16,24-12-23,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,N1,Eventual,Completa,FSH0775,0,"19,6",HRIS,2026-04-30
+HRIS00468,FSH0468,Javier Moreno Ruiz,M,1981-10-22,31/05/2020,,Activo,,Tienda Fisica,Barcelona,Vendedor/a,Junior,Indefinido,Completa,FSH0038,0,6.5,HRIS,30-04-26
+HRIS00469,FSH0469,Natalia Ruiz Jiménez,F,1985-03-23,2024-04-10,,Activo,,LOGISTICA,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,TEMPORAL,Completa,FSH0308,0,,HRIS,30/04/2026
+HRIS00470, FSH0470 ,Elena Martínez García,F,1977-07-10,2016-04-13,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Indefinido,Completa,FSH0584,0,1.9,HRIS,2026-04-30
+HRIS00471,FSH0471,Javier Moreno Muñoz,M,06/04/01,2020-06-19,2025-11-30,Baja,Voluntaria,TIENDA FÍSICA,Barcelona,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0183,0,10.3,HRIS,30/04/26
+HRIS00472,FSH0472,Alejandro Martínez Alonso,M,04/04/1999,15/01/2026,,Activo,,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Temporal,FULL TIME,FSH0061,3,"26,3",HRIS,2026-04-30
+HRIS00473,FSH0473,Noelia Alonso Martín,F,27/02/1997,2021-03-15,,Activo,,Contact Center,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Parcial,FSH0107,0,"22,0",HRIS,2026-04-30
+HRIS00474,FSH0474,Marcos Gutiérrez Rodríguez,M,12-01-98,13/02/2025,,ACTIVO,,Atención al Cliente,Contact Center - Madrid,Agente soporte,JUNIOR,Indefinido,Completa,FSH0061,3,"20,0",HRIS,2026-04-30
+HRIS00475,FSH0475,Irene Ruiz Moreno,F,2003-06-18,01-02-24,22/06/2024,Baja,Voluntaria,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,N4,Indefinido,Completa,,3,6.3,HRIS,2026-04-30
+HRIS00476,FSH0476,Clara Martínez Hernández,F,1985-01-12,2024-01-04,,Activo,,E-commerce,Online - Madrid,Product Owner e-commerce,Sr,Indefinido,Completa,FSH0388,3,11.0,HRIS,30/04/26
+HRIS00477,FSH0477,Sara Pérez Rodríguez,F,08-01-83,14/12/2024,2025-12-23,Baja,Voluntaria,Finance,Sede Central - A Coruña,Controller,Senior,INDEFINIDO,FULL TIME,FSH0150,2,21.1,HRIS,30/04/2026
+HRIS00478,FSH0478,Clara López Pérez,F,26-11-91,2021-02-10,,Activo,,DATA/IT,Madrid,Desarrollador/a BI,Senior,Fijo,Completa,FSH0145,1,18.1,HRIS,2026-04-30
+HRIS00479,FSH0479,Miguel Alonso Rodríguez,Hombre,1986-12-25,2020-11-04,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,SSr,Indefinido,Completa,FSH0107,1,"1,0",HRIS,2026-04-30
+HRIS00480,FSH0480,Carlos Álvarez Gutiérrez,M,1983-05-03,2026-02-05,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,N1,Temporal,Completa,FSH0782,3,13.8,HRIS,2026-04-30
+HRIS00481,FSH0481,Sergio González Muñoz,M,16-03-00,2023-07-07,,Activo,,E-commerce,Online - Madrid,Analista CRO,Senior,Fijo,Completa,FSH0800,3,"34,1",HRIS,2026-04-30
+HRIS00482,FSH0482,Ainhoa Jiménez Sánchez,F,07/11/87,2025-09-03,,Activo,,Tienda física,A Coruña,Jefe/a de Sección,Senior,Fijo,Parcial,FSH0491,0,"20,0",HRIS,2026-04-30
+HRIS00483,FSH0483,Irene Muñoz Fernández,f,1970-12-07,2025-07-08,,Activo,,TIENDA FÍSICA,Bilbao,Vendedor/a,Junior,Temporal,Parcial,FSH0501,0,19.3,HRIS,2026-04-30
+HRIS00484,FSH0484,María López Martín,F,20/03/03,2017-04-06,,Activo/a,,TIENDA FÍSICA,Valencia,Vendedor/a,Junior,Duración determinada,Completa,FSH0560,0,"5,2",HRIS,30/04/2026
+HRIS00485,FSH0485,Álvaro Sánchez Rodríguez,M,27-11-98,2026-02-07,,Activo,,E-Commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Parcial,FSH0271,1,30.2,HRIS,30-04-26
+HRIS00486,FSH0486,Sara Martín González,F,17/04/1983,2022-09-16,,Activo,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa ,FSH0427,0,23.4,HRIS,30-04-26
+HRIS00487,FSH0487,Raquel Sánchez Díaz,F,18/03/1984,14/10/2025,,ACTIVO,,Tienda física,Madrid,Jefe/a de Sección,Senior,Indefinido,Parcial,FSH0164,0,9.4,HRIS,2026-04-30
+HRIS00488,FSH0488,Andrea Romero Martínez,Mujer,1966-06-13,06/01/2026,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0288,0,14.3,HRIS,30-04-26
+HRIS00489,FSH0489,Julia López López,F,25/07/1984,2019-09-20,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,INDEFINIDO,Completa,FSH0183,0,23.8,HRIS,2026-04-30
+HRIS00490,FSH0490,Mario Ruiz Romero,M,08/05/1985,2023-02-28,,Activo,,Tiendas,Bilbao,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0421,0,3.2,HRIS,2026-04-30
+HRIS00491,FSH0491,Ana Alonso Gómez,F,1999-02-08,2024-06-18,,Activo,,Tienda física,Valladolid,Store Manager,Manager,Indefinido,Jornada completa,,0,"21,4",HRIS,30-04-26
+HRIS00492,FSH0492,Ana Jiménez Hernández,F,1999-06-05,2021-11-04,,Activo,,Online,Online - A Coruña,Gestor/a catálogo online,N1,Temporal,Completa,FSH0740,2,9.1,HRIS,30/04/2026
+HRIS00493,FSH0493,Laura Gómez López,F,1985-12-30,2026-01-15,,Activo,,Tiendas,Vigo,Vendedor/a,JUNIOR,Indefinido,Parcial,FSH0614,0,24.6,HRIS,30/04/2026
+HRIS00494,FSH0494,Marcos Martínez Gómez,M,1998-01-18,05/04/2024,,Activo,,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Indefinido,Media jornada,FSH0223,0,"15,0",HRIS,2026-04-30
+HRIS00495,FSH0495,Alba Romero Díaz,F,06/06/1984,22/07/2019,2024-01-22,Baja,Renuncia,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,PART TIME,FSH0518,3,"17,0",HRIS,30-04-26
+HRIS00496,FSH0496,Mario Alonso Hernández,M,1989-12-03,11/03/2021,,Activo,,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Indefinido,Completa,FSH-0080,2,14.5,HRIS,2026-04-30
+HRIS00497,FSH0497,Sergio Hernández Díaz,M,1984-04-15,02/01/2022,,ACTIVO,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Temporal,Completa,FSH0117,1,12.0,HRIS,2026-04-30
+HRIS00498,FSH0498,Sara López Díaz,F,1980-03-25,25/03/2023,2026-02-06,Baja,Voluntaria,TIENDA FÍSICA,Valladolid,Visual Merchandiser,Semi Senior,INDEFINIDO,Parcial, FSH0811 ,0,"18,5",HRIS,30/04/2026
+HRIS00499,FSH0499,Raquel Romero Díaz,F,1993-04-21,2022-08-31,,Activo,,Operaciones logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Completa ,FSH0416,0,,HRIS,2026-04-30
+HRIS00500,FSH0500,Noelia Martínez Rodríguez,Mujer,1986-07-30,2019-09-19,,Activo,,E COMMERCE,Online - Madrid,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0117,2,"8,4",HRIS,30/04/26
+HRIS00501,FSH0501,Lucía Martínez García,F,15/01/1990,11/06/23,,Activo,,Tienda física,Sevilla,Store Manager,Mánager,Temporal,Completa,,0,9.7,HRIS,2026-04-30
+HRIS00502,FSH0502,Carlos Álvarez Gutiérrez,M,2004-01-17,09-10-22,,Activo,,MKT,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Parcial,FSH0772,0,"1,9",HRIS,30-04-26
+HRIS00503,FSH0503,Pablo Álvarez Muñoz,m,2003-03-18,2019-06-27,,ACTIVO,,Tienda física ,A Coruña,Vendedor/a,Junior,Temporal,FULL TIME,FSH0552,0,16.3,HRIS,2026-04-30
+HRIS00504,FSH0504,Daniel López Hernández,M,02/07/85,21/01/2020,,Activo/a,,Tienda física,Zaragoza,Vendedor/a,Junior,Temporal,Completa,FSH0616,0,8.6,HRIS,30/04/2026
+HRIS00505,FSH0505,Lucía Romero García,F,2000-12-18,18/12/2025,,Activo,,Logistica,Almacén Barcelona,Operario/a almacén,Junior,Duración determinada,FULL TIME,FSH0152,0,10.5,HRIS,2026-04-30
+HRIS00506,fsh0506,Sofía Rodríguez Fernández,F,1980-07-13,2025-02-01,,Activo,,Tiendas,Barcelona,Store Manager,Manager,Indefinido,Completa,,0,5.1,HRIS,2026-04-30
+HRIS00507,FSH0507,Alejandro García Sánchez,M,19/12/2002,2026-02-03,,Activo,,Tienda física,Sevilla,Visual Merchandiser,N2,Temporal,Jornada completa,FSH0248,0,15.6,HRIS,30-04-26
+HRIS00508,FSH0508,Laura Díaz Ruiz,F,1983-11-02,2016-05-31,,Activo,,MARKETING,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa ,FSH0772,3,"10,1",HRIS,2026-04-30
+HRIS00509,FSH-0509,Adrián Pérez Sánchez,M,01/06/93,12-05-23,2024-04-03,Baja,Voluntaria,IT y Datos,Madrid,Desarrollador/a BI,Senior,Indefinido,Completa,FSH0478,3,"21,4",HRIS,30/04/2026
+HRIS00510,FSH0510,Sara Muñoz Martínez,F,17/10/93,07/08/2022,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Completa,FSH0234,0,20.0,HRIS,30-04-26
+HRIS00511,FSH0511,Diego López Martín,M,1999-11-14,09/03/26,,Activo,,Logística,Almacén Barcelona,Coordinador/a logística,Semi Senior,Temporal,Completa,FSH0109,0,2.1,HRIS,30-04-26
+HRIS00512,FSH0512,Natalia Martínez Romero,F,25/02/1986,2025-08-11,,Activo,,Tienda física ,Barcelona,Vendedor/a,Junior,Indefinido,Completa,FSH0190,0,"9,3",HRIS,2026-04-30
+HRIS00513,FSH0513,Álvaro Pérez Sánchez,M,1992-12-17,2025-08-09,,Activo,,Compras ,Sede Central - A Coruña,Category Manager,Senior,Indefinido,Parcial,FSH0026,2,15.9,HRIS,30/04/2026
+HRIS00514,FSH0514,Marcos Moreno Alonso,Hombre,20/06/1999,03/11/2016,,Activo,,Tienda física ,Barcelona,Vendedor/a,Junior,Temporal,Parcial,FSH0636,0,"21,5",HRIS,30/04/2026
+HRIS00515,FSH0515,David Gómez Sánchez,M,21/05/1995,2021-06-10,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,N1,Contrato indefinido,Jornada completa,FSH0686,0,16.0,HRIS,2026-04-30
+HRIS00516,FSH0516,Ana Romero Díaz,F,1991-12-10,2025-06-10,,Activo,,Sistemas y datos,Sede Central - A Coruña,Analista datos,Semi Senior,Indefinido,Completa,FSH0130,2,10.8,HRIS,2026-04-30
+HRIS00517,FSH0517,Natalia Rodríguez Álvarez,f,1991-04-10,03/03/24,,Activo,,Customer Service,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0061,2,25.1,HRIS,2026-04-30
+HRIS00518,FSH0518,Pablo Jiménez Hernández,M,1986-02-19,2025-03-01,,Activo,,Procurement,Sede Central - A Coruña,Category Manager,Senior,Indefinido,Completa,FSH0035,1,14.5,HRIS,30/04/2026
+HRIS00519,FSH0519,Álvaro Jiménez Sánchez,No declarado,1987-06-15,2015-03-18,,ACTIVO,,Tienda física,Bilbao,Vendedor/a,Junior,Contrato indefinido,Media jornada,FSH0552,0,"20,9",HRIS,2026-04-30
+HRIS00520,FSH0520,Andrea Romero Gómez,F,22/08/1984,2021-08-29,,Activo,,IT,Madrid,Data Engineer,Senior,Fijo,Completa,FSH0239,2,1.5,HRIS,2026-04-30
+HRIS00521,FSH0521,Diego Álvarez Pérez,M,1991-12-01,2025-02-18,,ACTIVO,,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Temporal,Completa ,FSH0107,3,12.6,HRIS,2026-04-30
+HRIS00522,FSH0522,Paula Muñoz Alonso,F,31/12/1984,2016-05-06,2025-05-22,BAJA,Voluntaria,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,INDEFINIDO,Completa,FSH0403,3,"16,1",HRIS,30/04/2026
+HRIS00523,FSH0523,Sergio Díaz Rodríguez,M,1989-06-20,12/04/2023,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,Completa,FSH0051,0,11.7,HRIS,30-04-26
+HRIS00524,FSH0524,Julia García García,F,03/01/90,2024-01-24,,Activo,,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,FULL TIME,FSH0518,1,"7,7",HRIS,2026-04-30
+HRIS00525,FSH0525,Raquel Fernández López,F,1983-10-20,13/08/2020,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi-Senior,Contrato indefinido,PART TIME,FSH0035,1,1.0,HRIS,2026-04-30
+HRIS00526,FSH0526,Marcos Martín Romero,M,1989-05-30,29-06-25,,Activo,,Tienda física,Barcelona,Vendedor/a,Junior,Indefinido,Completa,FSH0595,0,18.7,HRIS,2026-04-30
+HRIS00527,FSH0527,Irene Martín Moreno,F,02/01/90,2018-03-02,,Activo,,Tienda física ,Vigo,Visual Merchandiser,Semi Senior,Contrato indefinido,Completa,FSH0210,0,9.8,HRIS,2026-04-30
+HRIS00528,FSH0528,Marta Alonso Álvarez,Mujer,1986-11-22,2020-11-12,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Parcial,FSH0595,0,17.1,HRIS,30/04/2026
+HRIS00529,FSH0529,María Hernández Alonso,f,2002-03-08,2018-04-06,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,N2,Indefinido,Completa,FSH0423,0,"14,0",HRIS,2026-04-30
+HRIS00530,FSH0530,Óscar González Rodríguez,M,1993-12-01,2021-11-27,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Completa,FSH0332,0,21.4,HRIS,30/04/26
+HRIS00531,FSH0531,Mario García López,M,2005-02-20,04/01/24,2024-08-07,Baja,Voluntaria,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Indefinido,Completa,FSH0095,3,"20,5",HRIS,2026-04-30
+HRIS00532,FSH0532,Manuel González Martínez,M,06/12/89,23/08/2015,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Jr,INDEFINIDO,FULL TIME,FSH0423,3,"8,1",HRIS,30/04/2026
+HRIS00533,FSH0533,Manuel Jiménez Pérez,M,1971-07-02,2020-12-28,,Activo,,FINANZAS,Sede Central - A Coruña,Controller,N3,Indefinido,Parcial,FSH0724,1,"28,4",HRIS,30/04/2026
+HRIS00534,FSH0534,Óscar Martínez Hernández,M,1977-12-28,2022-12-09,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Jr,Temporal,Completa,FSH0252,0,14.7,HRIS,30/04/2026
+HRIS00535,FSH0535,Álvaro López López,M,2005-07-19,2023-03-30,30/05/2024,Baja,Voluntaria,Tienda física,Bilbao,Jefe/a de Sección,SENIOR,Indefinido,FULL TIME,FSH0655,,"16,2",HRIS,2026-04-30
+HRIS00536,FSH0536,Julia Martín Álvarez,F,22/12/82,02/10/2025,,Activo/a,,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Indefinido,Completa,FSH0621,2,16.0,HRIS,30-04-26
+HRIS00537,FSH0537,Nerea Martínez Fernández,No declarado,1977-07-25,26-01-25,,Activo/a,,RRHH,Sede Central - A Coruña,HRBP,Senior,Fijo,Parcial,FSH0199,2,1.0,HRIS,2026-04-30
+HRIS00538,FSH0538,Álvaro Moreno Álvarez,M,1989-05-02,28-11-16,,Activo,,Tienda física,Sevilla,Jefe/a de Sección,Sr,Indefinido,Completa ,FSH-0038,0,15.2,HRIS,30-04-26
+HRIS00539,FSH0539,Carmen Romero Sánchez,F,1989-04-29,2019-01-29,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Completa,FSH0075,0,"17,1",HRIS,30-04-26
+HRIS00540,FSH-0540,Elena García Hernández,F,06/06/1998,2025-07-06,,Activo,,Procurement,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Jornada completa,FSH0201,2,8.7,HRIS,30/04/2026
+HRIS00541, FSH0541 ,Natalia Martín Álvarez,F,03-11-90,2026-02-19,,Activo,,Tienda física,A Coruña,Vendedor/a,N1,Fijo discontinuo,Completa,FSH0244,0,9.3,HRIS,30/04/2026
+HRIS00542,FSH0542,Ana Muñoz Álvarez,F,15/03/1993,2025-06-14,,Activo,,Compras,Sede Central - A Coruña,Analista proveedores,N2,Indefinido,Completa,FSH0035,2,"27,0",HRIS,2026-04-30
+HRIS00543,FSH0543,Diego Gómez Díaz,M,09/11/1981,2021-04-13,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Completa,FSH0251,1,1.0,HRIS,2026-04-30
+HRIS00544,FSH0544,Irene Hernández Álvarez,F,2001-04-10,2019-07-07,18/11/2025,Baja,Voluntaria,Tienda Fisica,Barcelona,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0716,0,"17,2",HRIS,2026-04-30
+HRIS00545,FSH0545,Sergio Fernández Jiménez,M,2004-04-03,16/08/2020,2026-03-11,Baja,BAJA VOL.,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0251,1,,HRIS,2026-04-30
+HRIS00546,FSH0546,Óscar Sánchez Martínez,M,10/03/1983,04/11/2019,2026-04-05,Baja,Baja voluntaria,TIENDA FÍSICA,Barcelona,Vendedor/a,Junior,Indefinido,Completa,FSH0552,0,13.3,HRIS,30/04/2026
+HRIS00547,FSH0547,Irene Martínez Hernández,F,07/01/1978,21/03/2019,,Activo,,Tienda física,Madrid,Vendedor/a,Junior,INDEFINIDO,PART TIME,FSH0716,0,"17,9",HRIS,2026-04-30
+HRIS00548,FSH0548,Nerea Jiménez Gómez,F,1991-08-28,2021-06-15,,ACTIVO,,Tienda física,Sevilla,Vendedor/a,N1,Indefinido,PART TIME,FSH0762,0,,HRIS,30/04/2026
+HRIS00549,FSH0549,Ainhoa Alonso Ruiz,F,22-05-76,2024-07-21,2025-07-06,Baja,Voluntaria,Retail store,A Coruña,Vendedor/a,Junior,INDEFINIDO,Completa,FSH0179,0,"8,3",HRIS,30/04/26
+HRIS00550,FSH-0550,Sofía Pérez Ruiz,F,1977-07-02,2019-09-01,2025-07-04,Baja,Voluntaria,Tienda física,Barcelona,Jefe/a de Sección,Senior,Fijo discontinuo,FULL TIME,FSH0622,0,"18,5",HRIS,2026-04-30
+HRIS00551,FSH0551,Irene Gómez González,F,1987-11-30,2020-07-02,22/08/2024,Baja,Voluntaria,TIENDA FÍSICA,Valladolid,Vendedor/a,N1,Temporal,Completa ,FSH-0568,0,9.8,HRIS,30-04-26
+HRIS00552,FSH0552,Ana Álvarez Hernández,Mujer,2006-03-10,03/03/25,,Activo,,Tiendas,Madrid,Jefe/a de Sección,Senior,Contrato indefinido,Completa,FSH0427,0,26.7,HRIS,30/04/2026
+HRIS00553,FSH0553,Óscar López Gómez,M,10/05/1998,2020-01-18,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,N1,Temporal,Parcial,FSH0416,0,"4,8",HRIS,2026-04-30
+HRIS00554,FSH0554,Natalia Martín Díaz,F,28/06/1986,29/09/2025,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Indefinido,Completa,FSH0455,0,"5,3",HRIS,30-04-26
+HRIS00555,FSH0555,Alba Hernández Martínez,F,1994-02-12,03-04-25,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Jornada completa,FSH0251,3,17.7,HRIS,2026-04-30
+HRIS00556,FSH0556,Marcos González Fernández,M,1987-02-10,28/12/2020,22/06/25,Baja,Voluntaria,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa ,FSH0061,3,"7,9",HRIS,30/04/2026
+HRIS00557,FSH0557,Irene Díaz González,F,1990-10-07,2021-03-22,,Activo,,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Temporal,Completa ,FSH0237,0,16.2,HRIS,2026-04-30
+HRIS00558,FSH0558,Sergio Gutiérrez Fernández,M,31-01-88,2023-12-13,,Activo/a,,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Indefinido,Parcial,FSH0736,1,19.5,HRIS,30/04/2026
+HRIS00559,FSH0559,Diego Pérez Hernández,M,2006-04-19,21/03/2021,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Jornada completa,FSH0035,1,18.1,HRIS,2026-04-30
+HRIS00560,FSH0560,Raquel Rodríguez Martín,F,22/02/1993,11/06/23,,Activo,,Tienda física,Vigo,Store Manager,Manager,Indefinido,FULL TIME,,0,19.0,HRIS,2026-04-30
+HRIS00561,FSH0561,Carmen García Álvarez,F,1984-04-14,2022-04-03,,Activo,,Tienda física,A Coruña,Visual Merchandiser,Semi Senior,Indefinido,Parcial,FSH-0560,0,"16,6",HRIS,2026-04-30
+HRIS00562,FSH0562,Iván Moreno Álvarez,M,12/08/1981,28/02/2026,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Jornada completa,FSH0388,1,"15,6",HRIS,30-04-26
+HRIS00563,FSH0563,Jorge Hernández Moreno,M,22/08/2005,29/10/2020,25/01/2026,Baja,Voluntaria,TIENDA FÍSICA,Zaragoza,Vendedor/a,JUNIOR,Temporal,Completa,FSH0482,0,24.3,HRIS,30/04/2026
+HRIS00564,FSH0564,Nerea Alonso Martín,F,1995-02-10,14-02-25,,Activo,,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Contrato indefinido,Completa,FSH0560,0,12.8,HRIS,2026-04-30
+HRIS00565,FSH0565,Alejandro López González,M,1984-10-19,24/03/2023,2025-09-05,Baja,Baja voluntaria,LOGISTICA,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Media jornada,FSH0180,0,11.1,HRIS,30-04-26
+HRIS00566,FSH0566,Natalia Fernández Álvarez,F,2003-08-06,2025-08-01,,Activo,,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0800,2,"17,1",HRIS,30/04/2026
+HRIS00567,FSH-0567,Lucía Romero Fernández,F,12/05/1982,31/03/2025,,Activo,,Logistica,Almacén Central - A Coruña,Operario/a almacén,Junior,Indefinido,Completa,FSH0180,0,7.3,HRIS,2026-04-30
+HRIS00568,FSH0568,Óscar Ruiz Pérez,M,1980-03-11,2025-12-27,,Activo,,Retail store,Vigo,Jefe/a de Sección,N3,Indefinido,Completa,FSH0288,0,"1,0",HRIS,30-04-26
+HRIS00569,FSH0569,Alba Alonso Moreno,F,1985-06-20,2021-03-20,,Activo,,RRHH,Sede Central - A Coruña,Técnico/a selección,Semi Senior,INDEFINIDO,FULL TIME,FSH0346,3,"5,2",HRIS,30-04-26
+HRIS00570,FSH0570,Nerea González Moreno,Mujer,13-08-94,2018-05-15,,Activo,,IT y Datos,Madrid,Analista datos,Semi Senior,Indefinido,Completa,FSH0336,1,"9,7",HRIS,2026-04-30
+HRIS00571,FSH0571,Andrea Sánchez Gutiérrez,F,23-06-99,23/07/2019,,Activo,,Retail store,Barcelona,Vendedor/a,Junior,Indefinido,Parcial,FSH0568,0,15.0,HRIS,2026-04-30
+HRIS00572,FSH0572,Nerea Martín Martínez,F,1987-02-15,2025-03-19,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0107,3,,HRIS,30/04/2026
+HRIS00573,FSH0573,Óscar Gutiérrez Díaz,m,1981-01-14,30/11/2025,,Activo,,Tienda Fisica,Vigo,Vendedor/a,Junior,Indefinido,Completa,FSH0616,0,14.7,HRIS,30/04/26
+HRIS00574,FSH0574,Clara Gutiérrez Alonso,F,07/04/1994,2021-02-16,,Activo,,E COMMERCE,Online - A Coruña,Especialista e-commerce,SSr,Indefinido,Completa ,FSH0342,3,"12,5",HRIS,2026-04-30
+HRIS00575,FSH0575,Marta Martínez Romero,F,13/02/2000,2019-10-28,2024-11-14,Baja,Voluntaria,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Parcial,FSH0476,1,"16,7",HRIS,2026-04-30
+HRIS00576,FSH0576,Jorge López Martínez,M,04/01/78,2026-01-28,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Indefinido,Completa,FSH0355,0,23.3,HRIS,30/04/26
+HRIS00577,FSH0577,Laura Fernández Sánchez,F,15/08/1990,07/08/2019,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Temporal,Completa,FSH0476,1,1.0,HRIS,30/04/2026
+HRIS00578,FSH0578,Paula Jiménez Martínez,F,1975-05-16,24/04/2022,,Activo,,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa ,fsh0080,3,"1,0",HRIS,30/04/2026
+HRIS00579,FSH0579,Ainhoa Alonso Jiménez,F,15/11/1987,28/09/2015,,Activo,,Atencion Cliente,Contact Center - Madrid,Agente soporte,Jr,Temporal,Completa,FSH0107,2,"14,7",HRIS,2026-04-30
+HRIS00580, FSH0580 ,Andrea González Díaz,F,26-11-05,29/06/19,,Activo,,Tienda física ,A Coruña,Vendedor/a,Jr,Indefinido,Completa,FSH0501,0,"17,9",HRIS,2026-04-30
+HRIS00581,FSH0581,Raúl Martín Jiménez,M,08/07/1998,27/02/2022,2025-12-17,Baja,Voluntaria,Tienda física,Bilbao,Store Manager,Manager,Indefinido,Completa,,,"18,0",HRIS,30/04/26
+HRIS00582,FSH0582,Álvaro Romero Díaz,M,10/03/1986,22/07/2023,08-09-24,Baja,Voluntaria,TIENDA FÍSICA,A Coruña,Vendedor/a,Junior,Temporal,Jornada completa,FSH0427,,"17,4",HRIS,2026-04-30
+HRIS00583,FSH0583,Diego Sánchez Rodríguez,M,11-04-77,2024-02-29,2025-10-20,BAJA,Voluntaria,ecommerce,Online - Madrid,Especialista e-commerce,Semi Senior,Fijo discontinuo,Completa, FSH0481 ,2,20.6,HRIS,30/04/2026
+HRIS00584,FSH0584,Pablo Romero Gómez,M,1998-04-16,2023-01-14,,Activo,,Tienda física,A Coruña,Jefe/a de Sección,Senior,Indefinido,Jornada completa,FSH0210,0,1.0,HRIS,30-04-26
+HRIS00585,FSH0585,Sergio Pérez Romero,m,31-07-91,2025-05-09,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0621,3,"5,3",HRIS,2026-04-30
+HRIS00586,FSH0586,Marcos Gutiérrez González,M,1991-02-16,06/05/2025,,Activo,,Tiendas,Valencia,Vendedor/a,Junior,Indefinido,Parcial,FSH0170,0,"12,1",HRIS,30/04/2026
+HRIS00587,FSH0587,Noelia López Martín,F,08/07/93,2024-07-24,,Activo,,Tienda física,A Coruña,Visual Merchandiser,Semi Senior,Duración determinada,Completa ,FSH0100,0,22.1,HRIS,2026-04-30
+HRIS00588,FSH0588,Julia Moreno Gómez,F,1992-01-12,07-06-24,2025-05-20,Baja,Voluntaria,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0760,0,8.8,HRIS,30/04/26
+HRIS00589,FSH0589,Rubén Romero González,M,1988-02-26,2019-03-08,11/05/2024,BAJA,Voluntaria,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,INDEFINIDO,Media jornada,FSH0399,2,24.7,HRIS,30/04/2026
+HRIS00590,FSH0590,Álvaro González Hernández,M,1997-08-02,22/10/2025,,Activo,,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Fijo discontinuo,Completa,FSH0640,0,"8,5",HRIS,2026-04-30
+HRIS00591,FSH0591,Nerea Hernández López,F,08/10/1983,2025-07-28,2026-03-02,Baja,Voluntaria,Tienda física,Zaragoza,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0655,0,12.1,HRIS,2026-04-30
+HRIS00592,FSH0592,Andrea Alonso Gutiérrez,F,08/02/65,2023-07-24,,Activo,,Operaciones logística,Almacén Madrid,Operario/a almacén,Junior,Duración determinada,PART TIME,FSH0075,,"13,3",HRIS,2026-04-30
+HRIS00593,FSH0593,Irene Alonso García,F,1986-06-13,2024-06-17,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Eventual,Completa,FSH-0757,0,"12,4",HRIS,2026-04-30
+HRIS00594,FSH0594,Manuel García Martínez,M,03/05/1983,13/08/21,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,N1,Indefinido,Completa,FSH0061,1,22.4,HRIS,2026-04-30
+HRIS00595,FSH0595,Andrea López Gutiérrez,F,1984-12-23,18-09-23,,Activo,,Tienda física ,Vigo,Jefe/a de Sección,N3,Indefinido,Completa ,FSH0501,0,18.3,HRIS,2026-04-30
+HRIS00596,FSH0596,Javier Martín López,M,26/06/1972,2019-04-06,,Activo,,Marketing,Madrid,CRM Specialist,Senior,Indefinido,Completa,FSH0069,2,18.4,HRIS,2026-04-30
+HRIS00597,FSH0597,Jorge Jiménez Gómez,No declarado,1983-10-09,12/06/2019,2025-05-05,Baja,Renuncia,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,FULL TIME,FSH0063,0,"13,6",HRIS,30/04/2026
+HRIS00598,FSH0598,Ainhoa García Jiménez,F,09/06/1982,05/05/2023,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,N1,Indefinido,Jornada completa,FSH0423,2,"27,7",HRIS,30/04/2026
+HRIS00599,FSH0599,Sara Fernández Pérez,F,1987-06-08,2024-10-25,,Activo,,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Fijo,Completa,FSH0107,2,"5,1",HRIS,30/04/2026
+HRIS00600,FSH0600,Irene Gómez Fernández,F,1980-01-20,2024-06-02,,ACTIVO,,Tienda física ,Vigo,Vendedor/a,JUNIOR,Indefinido,Completa,FSH0386,0,"6,1",HRIS,30/04/26
+HRIS00601,FSH0601,Mario Ruiz Díaz,M,17-04-88,2021-08-07,2025-06-05,Baja,Voluntaria,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Completa,FSH0234,0,"23,3",HRIS,30/04/2026
+HRIS00602,FSH0602,Pablo Jiménez Romero,M,2005-10-14,06/01/20,2025-10-04,Baja,Voluntaria,Tiendas,Bilbao,Visual Merchandiser,Semi-Senior,Fijo discontinuo,Completa,FSH0386,0,22.3,HRIS,2026-04-30
+HRIS00603,FSH0603,Lucía Jiménez García,F,26/06/1987,2025-11-27,,Activo,,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Indefinido,Completa,FSH0228,3,"24,5",HRIS,30-04-26
+HRIS00604,FSH0604,Lucía Alonso Alonso,F,14/02/1999,19/05/2020,,ACTIVO,,Tienda física,Barcelona,Vendedor/a,Junior,Temporal,Completa,FSH0355,0,"8,6",HRIS,30/04/2026
+HRIS00605,FSH0605,Lucía Rodríguez Muñoz,F,13/08/94,2022-01-28,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0536,2,12.2,HRIS,30/04/2026
+HRIS00606,FSH0606,Sergio Martínez Muñoz,M,30/01/88,14/01/2025,,Activo/a,,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0476,0,11.2,HRIS,30-04-26
+HRIS00607,FSH0607,María Ruiz Muñoz,F,18/08/2001,2025-08-23,,ACTIVO,,Retail store,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0155,0,"15,2",HRIS,30-04-26
+HRIS00608,FSH0608,Natalia Díaz Martínez,F,1996-07-16,2023-07-19,,Activo,,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0687,2,"12,2",HRIS,30-04-26
+HRIS00609,FSH0609,Clara López Martínez,F,1989-04-15,2019-05-31,2025-11-10,Baja,Despido/fin contrato,Tienda física,Madrid,Vendedor/a,Junior,Temporal,Completa,FSH0183,0,"28,6",HRIS,2026-04-30
+HRIS00610,FSH0610,Noelia Sánchez Pérez,F,1990-03-02,2020-04-23,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0687,1,23.5,HRIS,2026-04-30
+HRIS00611,FSH0611,Miguel Gómez Alonso,M,1994-08-04,2020-01-13,,Activo,,Centro logístico,Almacén Barcelona,Operario/a almacén,Junior,Temporal,Parcial,FSH0775,0,20.0,HRIS,30/04/2026
+HRIS00612,FSH0612,Clara Pérez Jiménez,F,04/12/2005,28-01-26,,Activo,,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH-0160,0,"10,0",HRIS,30-04-26
+HRIS00613,FSH0613,Miguel Alonso García,M,2002-09-20,26/08/21,07-04-24,Baja,Involuntaria/fin contrato,Tienda Fisica,Madrid,Vendedor/a,Junior,Indefinido,Completa,FSH-0092,0,"16,1",HRIS,30-04-26
+HRIS00614,FSH0614,Hugo Gómez Alonso,M,1989-05-28,04-05-22,,Activo,,Tienda Fisica,Barcelona,Store Manager,Manager,Fijo discontinuo,Completa ,,0,"7,3",HRIS,30/04/26
+HRIS00615,FSH0615,Hugo Martín Alonso,M,31-05-90,2025-10-09,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0416,0,20.3,HRIS,2026-04-30
+HRIS00616,FSH0616,Julia Romero Gómez,F,24/08/1971,30/10/2019,,ACTIVO,,TIENDA FÍSICA,A Coruña,Store Manager,Responsable,Temporal,Completa,,0,6.7,HRIS,2026-04-30
+HRIS00617,FSH0617,Carmen Sánchez Gómez,F,1989-08-08,03/09/2019,,Activo,,Logística,Almacén Barcelona,Responsable almacén,Responsable,Indefinido,Completa,,0,10.2,HRIS,30/04/2026
+HRIS00618,FSH0618,Daniel Martínez Álvarez,M,2000-04-08,10/05/2022,,Activo,,Logistica,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Jornada completa,FSH0180,0,16.7,HRIS,30/04/2026
+HRIS00619,FSH0619,Paula González Pérez,F,1998-12-04,29/01/2021,,Activo,,TIENDA FÍSICA,Sevilla,Vendedor/a,Junior,Indefinido,Completa,fsh0142,,"16,1",HRIS,30/04/2026
+HRIS00620,FSH0620,Carmen Alonso Jiménez,f,1993-01-06,29/08/2024,,Activo/a,,Operaciones logística,Almacén Madrid,Responsable almacén,Manager,Fijo discontinuo,Completa ,,0,13.9,HRIS,30-04-26
+HRIS00621,FSH0621,Iván Moreno Rodríguez,M,11/02/05,2019-08-30,,Activo,,MKT,Sede Central - A Coruña,Responsable comunicación,Manager,Fijo discontinuo,Completa,,2,12.4,HRIS,2026-04-30
+HRIS00622,FSH0622,María Fernández Romero,F,1983-10-08,17/04/20,,Activo,,Tienda física,Valladolid,Jefe/a de Sección,N3,INDEFINIDO,Media jornada,FSH0614,0,"11,0",HRIS,2026-04-30
+HRIS00623,FSH0623,David Gutiérrez Martín,M,03-10-90,07/02/2026,,Activo,,IT y Datos,Madrid,Analista datos,Semi-Senior,INDEFINIDO,Completa,FSH0694,3,,HRIS,2026-04-30
+HRIS00624,FSH0624,Marta Gutiérrez Moreno,F,14/07/2005,21-09-22,2024-12-05,Baja,Baja voluntaria,Tienda física,Valencia,Jefe/a de Sección,N3,Indefinido,Completa,FSH0221,0,"17,6",HRIS,30-04-26
+HRIS00625,FSH0625,Pablo Hernández Jiménez,M,1987-11-22,28-08-19,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0449,0,"13,2",HRIS,2026-04-30
+HRIS00626,FSH0626,Ana Martín Rodríguez,F,01-08-94,16/10/22,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,N1,Temporal,Completa ,FSH0107,1,2.5,HRIS,2026-04-30
+HRIS00627,FSH0627,Ana Gutiérrez Díaz,F,17/09/05,04-10-20,,Activo,,Tienda Fisica,Valladolid,Vendedor/a,Junior,Indefinido,Completa,FSH0491,0,28.2,HRIS,2026-04-30
+HRIS00628,FSH0628,Ana Fernández Díaz,F,2002-03-19,2021-07-13,,Activo,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,FULL TIME,FSH0614,0,"13,3",HRIS,2026-04-30
+HRIS00629,FSH0629,Carlos López Pérez,M,1994-04-10,06/11/19,,Activo,,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Contrato indefinido,Parcial ,FSH0482,0,"11,6",HRIS,30-04-26
+HRIS00630,FSH0630,Clara Muñoz Romero,F,2001-09-25,2020-04-11,2024-06-04,Baja,Voluntaria,Tienda física,Madrid,Jefe/a de Sección,Senior,Indefinido,Completa, FSH0811 ,0,"4,4",HRIS,2026-04-30
+HRIS00631,FSH0631,Clara Pérez Alonso,f,1998-07-12,27-11-23,,Activo,,ATC,Contact Center - A Coruña,Especialista postventa,Semi Senior,Temporal,Completa,FSH0061,0,9.1,HRIS,2026-04-30
+HRIS00632,FSH0632,Noelia Martínez Díaz,F,1995-03-20,2022-02-19,2024-01-06,Baja,Voluntaria,Logística,Almacén Central - A Coruña,Planificador/a demanda,N3,Indefinido,FULL TIME,FSH0819,0,4.3,HRIS,2026-04-30
+HRIS00633,FSH0633,Clara Rodríguez López,F,2004-01-20,2018-12-27,,Activo,,COMPRAS,Sede Central - A Coruña,Analista proveedores,SSr,Indefinido,Completa,FSH0035,3,5.4,HRIS,30/04/2026
+HRIS00634,FSH0634,Raúl Alonso Moreno,Hombre,1985-05-16,23/08/2025,,Activo,,Marketing Digital,Sede Central - A Coruña,Especialista marketing,Semi Senior,Fijo,Completa,FSH0536,1,"8,5",HRIS,2026-04-30
+HRIS00635,FSH0635,Andrea Díaz Sánchez,F,1980-08-28,2019-07-20,,Activo,,Tienda física,Madrid,Store Manager,Manager,Temporal,Parcial ,,0,"12,6",HRIS,30/04/2026
+HRIS00636,FSH0636,Manuel Gutiérrez López,M,1983-09-29,08/02/2021,,Activo,,Tienda física,Sevilla,Jefe/a de Sección,Sr,Indefinido,Completa,FSH0221,0,"2,3",HRIS,30/04/26
+HRIS00637,FSH0637,María Fernández Martín,F,1988-07-23,24/05/21,2025-04-18,Baja,Voluntaria,TIENDA FÍSICA,Valencia,Vendedor/a,Junior,Indefinido,Parcial ,FSH0622,0,"23,8",HRIS,30/04/2026
+HRIS00638,FSH0638,Carlos Muñoz Rodríguez,M,15-05-82,05-08-25,,Activo,,Centro logístico,Almacén Central - A Coruña,Operario/a almacén,N1,Fijo discontinuo,FULL TIME,FSH0308,0,18.3,HRIS,2026-04-30
+HRIS00639,FSH0639,Rubén Álvarez Martínez,M,08/12/1992,04/09/2025,18-02-26,Baja,Voluntaria,Tienda física,Zaragoza,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0186,0,"26,1",HRIS,2026-04-30
+HRIS00640,FSH0640,Marta García Romero,F,06/09/1978,14/09/2015,,Activo,,Logistica,Almacén Central - A Coruña,Responsable almacén,Manager,Indefinido,Parcial,,0,2.4,HRIS,30/04/2026
+HRIS00641,FSH0641,Javier Sánchez Martín,M,13/12/1983,05/09/25,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,FULL TIME,FSH0325,1,"19,1",HRIS,2026-04-30
+HRIS00642,FSH0642,Sofía Martín López,F,30/11/84,2025-12-22,,ACTIVO,,Recursos Humanos,Madrid,Técnico/a selección,Semi Senior,Indefinido,FULL TIME,FSH0537,3,11.0,HRIS,2026-04-30
+HRIS00643,FSH0643,Nerea Ruiz Romero,F,1987-04-22,2025-10-12,,Activo,,E COMMERCE,Online - A Coruña,Especialista e-commerce,Semi Senior,Temporal,Parcial,FSH0476,2,2.3,HRIS,30/04/2026
+HRIS00644,FSH0644,Ana Álvarez López,F,1995-08-20,2024-08-02,,ACTIVO,,TIENDA FÍSICA,Vigo,Vendedor/a,Junior,Temporal,Completa,FSH0326,0,7.5,HRIS,30-04-26
+HRIS00645,FSH0645,Raquel Sánchez Hernández,F,14/09/1975,2025-10-29,,Activo,,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,INDEFINIDO,Completa,FSH0117,0,6.6,HRIS,2026-04-30
+HRIS00646,FSH-0646,Hugo Martínez Romero,M,13/08/1999,2023-10-24,,Activo,,IT y Datos,Sede Central - A Coruña,Desarrollador/a BI,Senior,Indefinido,Completa,FSH0112,0,22.2,HRIS,30/04/2026
+HRIS00647,FSH0647,Julia Rodríguez Martín,F,1977-12-07,2018-08-19,,Activo,,TIENDA FÍSICA,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0355,0,"12,1",HRIS,2026-04-30
+HRIS00648,FSH0648,Raquel Díaz Díaz,F,16/01/1984,2023-06-15,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo,Completa,FSH0819,0,24.0,HRIS,30/04/2026
+HRIS00649,FSH0649,Natalia García Jiménez,F,1979-11-15,25/02/25,,Activo,,Tienda física,Madrid,Jefe/a de Sección,Senior,Fijo discontinuo,Completa,FSH0682,0,"21,9",HRIS,2026-04-30
+HRIS00650,FSH0650,Jorge Muñoz Ruiz,M,1981-07-14,2025-01-10,21/12/2025,Baja,Involuntaria/fin contrato,E-commerce,Online - A Coruña,Especialista e-commerce,SSr,Indefinido,Completa,FSH0606,1,27.3,HRIS,30/04/2026
+HRIS00651,FSH0651,Manuel López Gómez,M,1994-08-30,2025-01-13,23/11/2025,Baja,Baja voluntaria,Customer Service,Contact Center - Madrid,Agente soporte,Junior,Contrato indefinido,Completa,FSH0423,1,5.9,HRIS,30/04/26
+HRIS00652,FSH0652,Iván Sánchez Gómez,M,08-12-00,2018-09-03,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Duración determinada,Completa,FSH0819,0,"13,5",HRIS,2026-04-30
+HRIS00653,FSH0653,Raquel Gutiérrez Jiménez,F,2000-10-24,2019-09-02,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0536,0,16.5,HRIS,30/04/2026
+HRIS00654,FSH0654,Natalia García González,F,05/10/1991,2025-12-19,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,Jornada completa,FSH0308,0,14.8,HRIS,2026-04-30
+HRIS00655,FSH0655,Clara Hernández Ruiz,No declarado,1989-01-15,04/04/2025,,Activo,,Retail store,Málaga,Jefe/a de Sección,Senior,INDEFINIDO,Completa,FSH0716,0,"17,5",HRIS,30/04/26
+HRIS00656,FSH0656,Sofía Romero Rodríguez,F,06/08/1984,2026-03-10,,Activo,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0170,0,14.8,HRIS,2026-04-30
+HRIS00657, FSH0657 ,Miguel Gutiérrez Gutiérrez,M,1994-10-05,2022-09-13,,Activo,,Tiendas,Madrid,Vendedor/a,JUNIOR,Indefinido,FULL TIME,FSH0280,,"9,2",HRIS,2026-04-30
+HRIS00658,FSH0658,Alba Fernández López,F,26/11/00,2023-02-28,,Activo,,LOGISTICA,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Completa,FSH0054,0,"26,8",HRIS,30/04/26
+HRIS00659,FSH0659,Raquel López Alonso,F,1986-08-22,2019-09-21,20/05/2024,Baja,Voluntaria,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Completa , FSH0160 ,0,"17,2",HRIS,2026-04-30
+HRIS00660,FSH0660,Marcos González Ruiz,m,1983-04-25,2015-01-13,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa,FSH-0772,0,22.0,HRIS,2026-04-30
+HRIS00661,FSH0661,María Romero López,F,1995-02-06,2020-06-25,,ACTIVO,,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH-0144,0,1.0,HRIS,2026-04-30
+HRIS00662,FSH0662,Julia González Muñoz,F,15/09/01,28/11/2025,,Activo,,People,Madrid,Técnico/a selección,Semi Senior,Indefinido,Completa,FSH0199,2,"1,0",HRIS,2026-04-30
+HRIS00663,FSH0663,Marcos Gómez Martín,M,1986-05-06,2023-05-15,07/01/25,Baja,Voluntaria,Retail store,Sevilla,Vendedor/a,Jr,Indefinido,Completa,FSH0501,0,"20,1",HRIS,2026-04-30
+HRIS00664,fsh0664,Paula Martínez López,F,1987-07-19,15/07/2025,,ACTIVO,,Tiendas,Bilbao,Visual Merchandiser,Semi Senior,Fijo discontinuo,Completa,FSH0568,0,12.3,HRIS,2026-04-30
+HRIS00665,FSH0665,Elena García Sánchez,F,2000-01-12,2024-06-15,,ACTIVO,,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Indefinido,Completa ,FSH0144,0,"10,9",HRIS,2026-04-30
+HRIS00666,FSH0666,Sergio López Álvarez,M,17-11-01,2023-06-29,,Activo/a,,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Completa,FSH0568,0,12.2,HRIS,2026-04-30
+HRIS00667,FSH0667,David García Díaz,Hombre,1989-03-23,2025-07-28,,Activo/a,,Tiendas,Valencia,Visual Merchandiser,Semi Senior,Indefinido,PART TIME,FSH0210,0,18.5,HRIS,30-04-26
+HRIS00668,FSH0668,Laura García Muñoz,F,1987-07-04,2021-06-27,,Activo,,Retail store,Málaga,Vendedor/a,Junior,Eventual,Completa,FSH0190,0,"20,4",HRIS,2026-04-30
+HRIS00669,FSH0669,Rubén Romero Rodríguez,M,1989-01-23,2022-08-12,13/12/2025,Baja,Voluntaria,Tienda física,Bilbao,Store Manager,Responsable,Fijo,Completa,,0,30.9,HRIS,2026-04-30
+HRIS00670,FSH0670,Laura Romero Gómez,F,02-12-00,2024-04-10,2024-11-11,Baja,Voluntaria,Tienda física,Madrid,Vendedor/a,Junior,Fijo,Completa,FSH0260,0,"3,1",HRIS,2026-04-30
+HRIS00671,FSH0671,Raquel Moreno García,F,1984-12-21,2018-12-17,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Completa ,FSH0237,0,20.9,HRIS,2026-04-30
+HRIS00672,FSH0672,Lucía Martínez Gómez,F,26-03-81,08/01/2020,,Activo,,TIENDA FÍSICA,Sevilla,Vendedor/a,Junior,Indefinido,Jornada completa,FSH0616,0,15.7,HRIS,30-04-26
+HRIS00673,FSH0673,Pablo García Sánchez,M,13/02/1996,14/03/15,,ACTIVO,,Tiendas,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0560,0,6.9,HRIS,30-04-26
+HRIS00674,FSH0674,Álvaro García Hernández,M,1997-01-08,2022-05-13,,Activo/a,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Indefinido,Completa ,FSH0692,0,"19,4",HRIS,30/04/2026
+HRIS00675,FSH0675,Lucía Alonso Ruiz,F,20/09/1995,2018-05-31,,Activo,,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Fijo discontinuo,Completa,FSH0560,0,"18,1",HRIS,2026-04-30
+HRIS00676,FSH0676,Álvaro Gutiérrez Hernández,M,03/01/1996,2019-03-09,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Contrato indefinido,Completa ,FSH0767,2,"33,6",HRIS,2026-04-30
+HRIS00677,FSH0677,Iván Díaz García,M,1987-12-19,2025-04-03,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,INDEFINIDO,Completa,FSH0782,1,"5,0",HRIS,2026-04-30
+HRIS00678,FSH0678,Sofía Jiménez Moreno,F,25/01/2006,04/05/2025,,Activo,,Tienda física,A Coruña,Jefe/a de Sección,Senior,Indefinido,Parcial ,FSH0160,0,"18,7",HRIS,30/04/2026
+HRIS00679,FSH0679,Marcos Jiménez González,M,1976-03-27,2015-10-29,2024-06-03,Baja,Voluntaria,FINANZAS,Sede Central - A Coruña,Controller,Senior,Indefinido,Parcial,FSH0724,2,"9,4",HRIS,30/04/2026
+HRIS00680,FSH0680,Alejandro Moreno Pérez,M,2000-10-24,21/12/2015,,Activo,,Compras ,Sede Central - A Coruña,Técnico/a compras,SSr,Indefinido,Completa,FSH0035,1,14.4,HRIS,30/04/26
+HRIS00681,FSH0681,Mario García Pérez,M,1981-08-07,2015-02-16,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Fijo,Completa,FSH0237,0,"3,8",HRIS,2026-04-30
+HRIS00682,FSH0682,Andrea Jiménez Díaz,F,22/04/1994,2023-08-13,,Activo,,Tienda física,Sevilla,Store Manager,Manager,Fijo discontinuo,Parcial,,0,19.1,HRIS,2026-04-30
+HRIS00683,FSH0683,Sara Gómez Hernández,Mujer,2005-01-16,2023-07-31,,Activo,,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Indefinido,Completa,FSH0775,0,12.5,HRIS,30-04-26
+HRIS00684,FSH0684,Raúl Díaz Martín,M,1988-08-28,16/12/2020,,ACTIVO,,Marketing,Madrid,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0043,1,"17,8",HRIS,2026-04-30
+HRIS00685, FSH0685 ,Sergio Pérez Álvarez,M,10/08/1991,25/12/2025,,Activo,,Logística,Almacén Central - A Coruña,Planificador/a demanda,Sr,Fijo discontinuo,Completa,FSH0640,0,"27,4",HRIS,30-04-26
+HRIS00686,FSH0686,Marcos Fernández Alonso,M,2000-03-14,17/03/2023,,Activo,,Logistica,Almacén Barcelona,Planificador/a demanda,Senior,Temporal,Completa,FSH0039,0,1.1,HRIS,30/04/2026
+HRIS00687,FSH0687,David Gutiérrez Ruiz,M,08-01-87,2025-02-22,,Activo,,E-commerce,Online - A Coruña,Analista CRO,Senior,Temporal,Parcial,FSH0126,1,7.7,HRIS,2026-04-30
+HRIS00688,FSH0688,Adrián Moreno Díaz,M,1989-02-10,03-09-15,,Activo,,Contact Center,Contact Center - Madrid,Agente soporte,JUNIOR,Temporal,Completa,FSH0423,2,"15,8",HRIS,2026-04-30
+HRIS00689,FSH0689,Javier Rodríguez Hernández,M,07/01/2000,2024-08-06,,Activo,,Centro logístico,Almacén Madrid,Coordinador/a logística,Semi Senior,Fijo discontinuo,Jornada completa,FSH0152,0,12.2,HRIS,2026-04-30
+HRIS00690,FSH0690,Sergio López García,M,1991-10-06,11-06-20,,Activo,,Tienda física,Málaga,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0538,0,"11,4",HRIS,2026-04-30
+HRIS00691,FSH0691,Mario Moreno Hernández,M,1979-10-21,2024-08-20,05/07/25,Baja,Voluntaria,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,INDEFINIDO,FULL TIME,FSH0095,1,"19,8",HRIS,30/04/2026
+HRIS00692,FSH0692,María Rodríguez Sánchez,F,10/04/1989,17-08-25,,Activo,,Logistica,Almacén Central - A Coruña,Planificador/a demanda,Senior,Indefinido,Completa,FSH0075,0,19.6,HRIS,2026-04-30
+HRIS00693,FSH0693,María Díaz Muñoz,F,2005-09-06,2025-07-21,2026-01-12,Baja,Baja voluntaria,Tienda física,A Coruña,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0164,0,"10,6",HRIS,30/04/26
+HRIS00694,FSH0694,Noelia Díaz Muñoz,F,23/11/1998,2021-06-15,,Activo,,DATA/IT,Madrid,Desarrollador/a BI,Senior,Fijo,Completa,FSH0064,2,5.2,HRIS,30/04/26
+HRIS00695, FSH0695 ,Carmen Rodríguez Gutiérrez,F,1983-07-23,2022-07-27,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0800,2,15.4,HRIS,2026-04-30
+HRIS00696,FSH0696,Natalia Sánchez Martín,F,1991-11-15,28-01-26,,Activo,,Contact Center,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0423,1,4.6,HRIS,30-04-26
+HRIS00697,FSH0697,Ana Hernández Fernández,F,1995-01-28,2018-07-20,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Fijo,Completa,FSH0782,3,5.3,HRIS,30/04/2026
+HRIS00698,FSH0698,Lucía Muñoz Moreno,F,21/06/89,2021-11-30,,Activo,,Tienda física,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0811,0,9.9,HRIS,2026-04-30
+HRIS00699,FSH0699,Adrián Sánchez Rodríguez,M,20/11/1989,22/09/2025,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Contrato indefinido,Completa,FSH0054,0,27.4,HRIS,2026-04-30
+HRIS00700,FSH0700,Ainhoa Fernández Muñoz,F,29/09/1989,2025-08-27,,ACTIVO,,Tienda física,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0449,0,"20,1",HRIS,30/04/2026
+HRIS00701,FSH0701,Clara Ruiz Moreno,F,23/04/06,16/12/2016,,Activo,,TIENDA FÍSICA,Sevilla,Vendedor/a,Junior,Temporal,Completa,FSH0051,0,"7,8",HRIS,2026-04-30
+HRIS00702,FSH0702,Lucía Moreno Rodríguez,F,24/07/96,2024-07-11,,Activo,,Tienda física,Valladolid,Store Manager,Manager,INDEFINIDO,Completa ,,0,15.2,HRIS,2026-04-30
+HRIS00703,FSH0703,Hugo Moreno Alonso,M,27-08-96,2025-09-28,2026-02-02,Baja,Dimisión,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,FULL TIME,FSH0324,0,5.1,HRIS,30/04/2026
+HRIS00704,FSH0704,Alba Rodríguez Sánchez,F,2000-04-15,2015-12-04,07/01/2025,Baja,Voluntaria,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0740,3,26.9,HRIS,2026-04-30
+HRIS00705,fsh0705,Iván Martínez Jiménez,m,24/10/1990,2018-12-20,,Activo,,Tiendas,Zaragoza,Vendedor/a,Junior,Temporal,Completa,FSH0501,0,"3,3",HRIS,2026-04-30
+HRIS00706,FSH0706,Adrián Moreno Gómez,M,21/08/1995,2022-07-22,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,FULL TIME,FSH0117,2,28.4,HRIS,2026-04-30
+HRIS00707,FSH0707,Mario Hernández López,M,1987-10-03,2019-09-02,2025-03-07,Baja,Fin contrato,Tienda física,Madrid,Vendedor/a,Junior,Indefinido,Completa,FSH0427,0,"6,6",HRIS,2026-04-30
+HRIS00708,FSH0708,Paula Martín Romero,F,1974-03-21,29/06/2021,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,Completa,FSH0685,0,"13,0",HRIS,30-04-26
+HRIS00709,fsh0709,Clara Rodríguez Gutiérrez,Mujer,14-03-81,2025-02-21,,Activo,,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,INDEFINIDO,Parcial,FSH0686,0,9.8,HRIS,30/04/2026
+HRIS00710,FSH0710,Marcos Pérez Sánchez,M,08-03-83,05/12/2019,,Activo/a,,Customer Service,Contact Center - Madrid,Agente soporte,JUNIOR,Temporal,Parcial,FSH0095,2,9.5,HRIS,2026-04-30
+HRIS00711,FSH0711,Marcos Moreno Rodríguez,M,2005-08-03,10-08-23,,Activo,,Centro logístico,Almacén Madrid,Operario/a almacén,N1,Indefinido,Completa,FSH0686,0,21.9,HRIS,2026-04-30
+HRIS00712,FSH0712,Marta Martín Jiménez,F,23/05/1991,2024-04-19,2024-11-19,Baja,Voluntaria,IT y Datos,Madrid,Desarrollador/a BI,Senior,Indefinido,Completa,fsh0064,2,4.4,HRIS,30/04/2026
+HRIS00713,FSH0713,Sara Gutiérrez Alonso,F,24-10-89,2020-04-25,2025-06-03,Baja,Baja voluntaria,Marketing,Madrid,CRM Specialist,Senior,Indefinido,Completa ,FSH0621,2,9.0,HRIS,2026-04-30
+HRIS00714,FSH0714,Raquel Hernández Alonso,F,2005-10-01,13/06/2021,2025-03-24,Baja,Voluntaria,Atencion Cliente,Contact Center - A Coruña,Supervisor/a contact center,Manager,Fijo discontinuo,Completa ,,3,"14,2",HRIS,2026-04-30
+HRIS00715,FSH0715,Paula Díaz Romero,F,31/12/1986,2016-05-10,,Activo,,Finanzas,Sede Central - A Coruña,Controller,SENIOR,Indefinido,Completa,FSH0331,1,31.7,HRIS,30/04/2026
+HRIS00716,fsh0716,Marta Muñoz Fernández,F,20/06/93,2025-06-22,,Activo,,Tienda física,Zaragoza,Jefe/a de Sección,Senior,Indefinido,Jornada completa,FSH0784,0,7.2,HRIS,2026-04-30
+HRIS00717,FSH0717,Sofía Fernández Pérez,F,2002-01-18,2020-01-17,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0107,1,3.0,HRIS,2026-04-30
+HRIS00718,FSH0718,Raquel García Pérez,F,19/02/94,2019-11-18,,Activo,,Tienda física,Barcelona,Vendedor/a,Jr,Indefinido,Completa,FSH0144,0,19.9,HRIS,30-04-26
+HRIS00719,FSH0719,Daniel Rodríguez Ruiz,M,14/03/82,2023-06-20,2025-05-12,Baja,Baja voluntaria,Tienda física,Valladolid,Vendedor/a,Junior,Contrato indefinido,Parcial,FSH0803,0,20.4,HRIS,30/04/26
+HRIS00720,FSH0720,Daniel Rodríguez Ruiz,M,1983-12-10,2018-10-02,,ACTIVO,,Tienda física,Madrid,Vendedor/a,JUNIOR,INDEFINIDO,Parcial,FSH0817,0,22.6,HRIS,30/04/2026
+HRIS00721,FSH0721,Laura Gutiérrez Moreno,F,05-01-98,2024-02-26,,Activo/a,,Tienda física,Valladolid,Vendedor/a,Junior,Indefinido,Completa ,fsh0506,0,24.5,HRIS,2026-04-30
+HRIS00722,FSH0722,Irene Martín Sánchez,F,2004-02-10,28/11/2017,,Activo,,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0271,2,8.0,HRIS,2026-04-30
+HRIS00723,FSH0723,Ainhoa González Díaz,F,1999-07-15,2023-04-14,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Contrato indefinido,Completa ,FSH0251,0,7.7,HRIS,2026-04-30
+HRIS00724,FSH-0724,Adrián Díaz Alonso,M,1989-05-07,01-07-21,,Activo,,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Indefinido,Completa,FSH0331,1,9.2,HRIS,2026-04-30
+HRIS00725,FSH0725,Marta Hernández Jiménez,Mujer,11/11/1984,22/11/2025,,Activo,,Tienda Fisica,Valencia,Vendedor/a,Junior,Indefinido,Completa,FSH0289,0,"21,9",HRIS,30/04/2026
+HRIS00726,FSH0726,Marta Alonso Hernández,F,17/04/1988,04-04-25,,Activo,,E-commerce,Online - Madrid,Gestor/a catálogo online,Jr,Indefinido,Completa,FSH0126,3,11.7,HRIS,30/04/26
+HRIS00727,FSH0727,Sara Martínez Fernández,F,17/04/2000,2020-06-24,,Activo,,Tienda Fisica,Sevilla,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0716,0,7.8,HRIS,2026-04-30
+HRIS00728,FSH0728,Andrea Fernández Muñoz,F,1985-04-09,2025-06-26,,Activo,,Contact Center,Contact Center - A Coruña,Agente soporte,Junior,Eventual,Parcial,FSH0061,3,"16,4",HRIS,2026-04-30
+HRIS00729,FSH0729,Jorge Ruiz Díaz,M,17/11/1986,2016-10-02,,Activo,,Tienda física,Barcelona,Vendedor/a,Junior,Duración determinada,Completa,FSH0552,,13.6,HRIS,30/04/26
+HRIS00730,FSH0730,Andrea Álvarez Álvarez,F,1975-08-05,2018-09-06,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Indefinido,FULL TIME,FSH0109,0,10.1,HRIS,2026-04-30
+HRIS00731,FSH0731,Lucía Romero Rodríguez,F,21/01/1981,2022-03-04,,Activo,,E COMMERCE,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0388,2,,HRIS,30-04-26
+HRIS00732,FSH0732,Natalia Jiménez Muñoz,F,1998-02-23,2026-02-12,,Activo,,Marketing Digital,Sede Central - A Coruña,Especialista marketing,N2,Fijo,Completa,FSH0363,2,19.9,HRIS,2026-04-30
+HRIS00733,FSH0733,Natalia Muñoz Rodríguez,F,1987-05-17,21/09/2020,21-01-25,Baja,Voluntaria,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Indefinido,Jornada completa,FSH0126,2,"6,4",HRIS,30/04/26
+HRIS00734, FSH0734 ,Paula García García,F,12/11/2005,2015-02-06,12-05-24,Baja,Baja voluntaria,E COMMERCE,Online - Madrid,Gestor/a catálogo online,JUNIOR,Indefinido,Completa,FSH0476,0,"17,1",HRIS,30/04/2026
+HRIS00735,FSH0735,David Martínez Ruiz,M,1988-09-10,16/10/2024,,Activo,,Tienda física,Sevilla,Vendedor/a,JUNIOR,Temporal,Parcial ,FSH0288,0,7.0,HRIS,2026-04-30
+HRIS00736,FSH0736,Lucía López Martínez,F,1992-11-14,2025-04-08,,Activo,,Compras,Sede Central - A Coruña,Category Manager,Senior,Indefinido,Completa,FSH0518,2,7.2,HRIS,2026-04-30
+HRIS00737,FSH0737,Marcos López Jiménez,M,13/05/2001,14/06/24,,Activo,,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Indefinido,Completa,FSH0201,3,"8,9",HRIS,30/04/2026
+HRIS00738,FSH0738,Paula Álvarez Ruiz,F,1981-02-26,2017-07-17,,Activo,,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Temporal,Completa,FSH0426,0,15.1,HRIS,2026-04-30
+HRIS00739,FSH0739,Miguel Pérez Gutiérrez,Hombre,11-09-88,2023-07-15,2024-11-25,Baja,Voluntaria,Tienda física,Valencia,Vendedor/a,Junior,Fijo discontinuo,Completa,FSH0078,0,14.4,HRIS,2026-04-30
+HRIS00740,FSH0740,Andrea Hernández Moreno,F,11-05-91,2025-09-18,,ACTIVO,,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0117,0,"18,9",HRIS,30/04/26
+HRIS00741,FSH-0741,Natalia Gutiérrez García,No declarado,1986-01-12,21/06/2025,,ACTIVO,,Tienda física,Madrid,Vendedor/a,Junior,Indefinido,Parcial,FSH0501,0,20.0,HRIS,2026-04-30
+HRIS00742,FSH0742,Nerea Rodríguez Gutiérrez,F,1991-04-10,2025-06-05,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Fijo discontinuo,Completa,FSH0617,0,"15,9",HRIS,2026-04-30
+HRIS00743,FSH0743,Hugo Moreno Fernández,M,23/10/1996,2022-08-01,2024-08-24,Baja,Involuntaria/fin contrato,Logística,Almacén Madrid,Operario/a almacén,Junior,Temporal,Jornada completa,FSH0332,0,"5,8",HRIS,30/04/2026
+HRIS00744,FSH0744,Hugo Hernández Alonso,M,1995-10-21,2019-04-08,19/11/2025,Baja,Involuntaria/fin contrato,Finanzas,Sede Central - A Coruña,Controller,Senior,Indefinido,PART TIME,FSH0724,3,8.7,HRIS,2026-04-30
+HRIS00745,FSH0745,Rubén Gutiérrez Fernández,M,1998-01-06,16/12/2021,,Activo,,ATC,Contact Center - Madrid,Agente soporte,Junior,Indefinido,Parcial ,FSH0423,0,"13,2",HRIS,30/04/26
+HRIS00746,FSH0746,Miguel García López,M,04-01-85,2024-09-06,17/07/2025,Baja,Voluntaria,TIENDA FÍSICA,Bilbao,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0506,0,4.4,HRIS,2026-04-30
+HRIS00747,FSH0747,Adrián Martínez Gutiérrez,M,2004-07-23,2018-07-13,,Activo,,Tienda física,Bilbao,Vendedor/a,Junior,Indefinido,Completa,FSH0808,0,"17,7",HRIS,30/04/2026
+HRIS00748,FSH0748,Ainhoa Fernández Martínez,F,15/05/1995,2016-04-27,,Activo,,Sistemas y datos,Sede Central - A Coruña,Data Engineer,Senior,Fijo,Completa,FSH0463,1,"15,1",HRIS,30/04/2026
+HRIS00749,FSH0749,Javier Gómez Moreno,M,1978-04-30,11-02-24,,ACTIVO,,Tienda física,Madrid,Vendedor/a,Junior,INDEFINIDO,Completa,FSH0560,0,"16,1",HRIS,2026-04-30
+HRIS00750,FSH-0750,Sofía Rodríguez Fernández,F,1990-06-21,2022-12-17,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,N2,Indefinido,Completa,FSH-0536,2,9.7,HRIS,2026-04-30
+HRIS00751,FSH0751,Lucía García Ruiz,F,28/06/1984,2025-12-30,,Activo,,MKT,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Completa,FSH0091,3,"3,4",HRIS,30/04/2026
+HRIS00752,FSH0752,Ainhoa Rodríguez Díaz,Mujer,26/06/05,2026-03-05,,ACTIVO,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Jr,Temporal,Jornada completa,FSH0423,0,3.9,HRIS,2026-04-30
+HRIS00753,fsh0753,Ana Martín Rodríguez,F,2005-01-16,12/11/2025,2026-04-25,Baja,Voluntaria,Tienda física,A Coruña,Vendedor/a,N1,Indefinido,Completa,FSH0223,0,22.3,HRIS,2026-04-30
+HRIS00754,FSH0754,Carlos Gutiérrez Ruiz,M,2001-07-01,2025-06-13,29-12-25,BAJA,Voluntaria,Tienda física,Madrid,Vendedor/a,Jr,Fijo discontinuo,Completa,FSH0210,0,8.0,HRIS,2026-04-30
+HRIS00755,FSH0755,Adrián Martín Ruiz,Hombre,11-08-02,08/08/2022,,Activo,,E-commerce,Online - A Coruña,Gestor/a catálogo online,Jr,Contrato indefinido,FULL TIME,FSH0126,0,"1,9",HRIS,2026-04-30
+HRIS00756,FSH0756,Sergio Martínez Rodríguez,M,02/01/89,2024-10-06,,Activo,,ATC,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa ,FSH0095,2,"29,2",HRIS,30-04-26
+HRIS00757,FSH0757,Miguel Sánchez Álvarez,M,1984-08-19,2025-10-15,,Activo,,ecommerce,Online - Madrid,Product Owner e-commerce,SENIOR,INDEFINIDO,Completa ,FSH0034,3,12.1,HRIS,30/04/26
+HRIS00758,FSH0758,Paula Moreno Hernández,F,15/05/1995,2016-08-06,,Activo,,E-Commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0271,2,1.9,HRIS,30/04/2026
+HRIS00759,FSH0759,Raquel Romero González,F,22/04/1985,2025-09-08,,Activo,,Tienda física,Vigo,Vendedor/a,Junior,Temporal,Parcial,FSH0078,0,17.0,HRIS,30-04-26
+HRIS00760,FSH0760,Adrián Fernández Martínez,M,1990-06-22,22/02/24,,Activo,,Tienda física,Barcelona,Jefe/a de Sección,N3,INDEFINIDO,Completa ,FSH0636,0,"7,6",HRIS,30/04/26
+HRIS00761,FSH0761,Laura Díaz Martín,F,1982-09-11,2020-10-17,,Activo,,Retail store,Sevilla,Vendedor/a,Junior,Temporal,Completa,FSH0655,0,"8,5",HRIS,30/04/26
+HRIS00762,FSH0762,Clara Jiménez Alonso,f,11/04/2003,03/08/2024,,Activo,,Tiendas,Barcelona,Store Manager,Manager,Indefinido,Completa,,0,"6,8",HRIS,2026-04-30
+HRIS00763,FSH0763,Paula Alonso Moreno,F,2004-04-11,2025-08-10,,ACTIVO,,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Indefinido,FULL TIME,FSH0487,0,16.9,HRIS,30-04-26
+HRIS00764,FSH0764,Marcos López Rodríguez,M,1978-10-12,2015-03-28,,Activo,,Tienda física,Sevilla,Vendedor/a,JUNIOR,Indefinido,Completa,FSH0170,0,"22,7",HRIS,30/04/26
+HRIS00765,FSH0765,Clara Díaz Alonso,No declarado,08-01-92,12/03/25,,Activo,,Centro logístico,Almacén Madrid,Operario/a almacén,Junior,Duración determinada,Completa,FSH0332,0,,HRIS,2026-04-30
+HRIS00766,FSH0766,Sara Moreno Fernández,f,1996-08-24,19/09/2020,2024-07-25,Baja,Involuntaria/fin contrato,RRHH,Sede Central - A Coruña,HRBP,N3,Indefinido,Jornada completa,FSH0346,2,"22,8",HRIS,30-04-26
+HRIS00767,FSH0767,Pablo López Moreno,M,2000-01-14,2015-10-01,,Activo,,E-commerce,Online - A Coruña,Product Owner e-commerce,N3,Temporal,Completa,FSH0476,2,"14,1",HRIS,30/04/26
+HRIS00768,FSH0768,Alejandro Martín Pérez,M,16/12/1995,2020-09-13,,Activo,,Tienda física ,Vigo,Vendedor/a,Junior,Temporal,Completa,FSH0421,0,14.2,HRIS,30/04/2026
+HRIS00769,FSH0769,Sofía Gutiérrez Muñoz,F,27-04-03,01/12/25,25/04/2026,Baja,Voluntaria,Tienda física,Valladolid,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0491,0,"15,2",HRIS,30-04-26
+HRIS00770,FSH0770,Ainhoa Pérez Moreno,F,1982-02-19,25/12/2024,,Activo,,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Eventual,Jornada completa,FSH0107,2,13.6,HRIS,30/04/26
+HRIS00771,FSH0771,Clara García Alonso,F,1992-04-17,13/12/2023,,Activo,,ecommerce,Online - Madrid,Gestor/a catálogo online,Junior,Indefinido,Completa,FSH0399,,"3,3",HRIS,2026-04-30
+HRIS00772,FSH0772,Natalia García Fernández,F,1994-06-10,2025-09-11,,Activo,,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Indefinido,Completa,FSH0363,2,5.5,HRIS,2026-04-30
+HRIS00773,FSH0773,Mario Muñoz Martínez,Hombre,02/12/1994,16-01-22,2025-09-17,Baja,Voluntaria,Tienda Fisica,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0760,0,19.4,HRIS,2026-04-30
+HRIS00774,FSH0774,Lucía Jiménez Gutiérrez,F,1991-11-26,2025-04-17,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,TEMPORAL,Completa,FSH0640,0,"21,8",HRIS,2026-04-30
+HRIS00775,FSH0775,Adrián Gutiérrez Gómez,M,1996-09-05,19-08-25,,Activo,,Logística,Almacén Madrid,Responsable almacén,Manager,Indefinido,Completa,,0,3.0,HRIS,30/04/2026
+HRIS00776,FSH0776,Alejandro Hernández Díaz,M,1996-10-12,2021-08-06,,ACTIVO,,Tiendas,Bilbao,Vendedor/a,Junior,Temporal,Completa,FSH0678,0,"18,7",HRIS,30/04/2026
+HRIS00777,FSH0777,Álvaro Moreno Fernández,M,15/07/1979,29/02/2024,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,INDEFINIDO,Media jornada,FSH0164,0,11.0,HRIS,2026-04-30
+HRIS00778,FSH0778,Mario Moreno González,M,18-11-85,2022-11-22,,Activo,,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Indefinido,FULL TIME,FSH0724,1,"11,9",HRIS,30-04-26
+HRIS00779,FSH0779,Óscar García Martín,M,1982-06-25,2022-04-04,,Activo,,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Temporal,Completa,FSH0095,2,"22,2",HRIS,30/04/26
+HRIS00780,FSH0780,Irene Álvarez Gómez,F,1986-08-08,16/10/2019,28/03/2024,Baja,Baja voluntaria,Atención al Cliente,Contact Center - Madrid,Agente soporte,N1,Indefinido,Completa,FSH0061,1,"1,0",HRIS,2026-04-30
+HRIS00781,FSH0781,Carmen Pérez Álvarez,F,1999-05-06,07-08-19,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,Indefinido,FULL TIME,FSH0685,0,14.5,HRIS,30/04/2026
+HRIS00782,FSH0782,Diego Muñoz Jiménez,M,17/11/1994,06/05/16,,Activo,,ecommerce,Online - Madrid,Analista CRO,Senior,Fijo,Completa,FSH0325,3,11.3,HRIS,2026-04-30
+HRIS00783,FSH0783,Marcos Martínez González,M,21/01/76,2021-04-17,2025-12-20,Baja,Baja voluntaria,Tienda Fisica,Sevilla,Vendedor/a,N1,Indefinido,Completa,FSH0702,0,"30,6",HRIS,2026-04-30
+HRIS00784,FSH0784,Daniel Alonso Gómez,M,1999-03-08,26/03/2025,,Activo,,Tienda física,Madrid,Jefe/a de Sección,Senior,Fijo discontinuo,Completa,FSH0636,0,"13,2",HRIS,2026-04-30
+HRIS00785,FSH0785,Marcos Díaz Martínez,M,24/04/1989,2020-06-10,,Activo,,MARKETING,Madrid,Especialista marketing,N2,Indefinido,FULL TIME,FSH0772,0,1.0,HRIS,2026-04-30
+HRIS00786,FSH0786,Julia Rodríguez Alonso,F,22-04-73,2021-04-27,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,FULL TIME,FSH0536,2,,HRIS,2026-04-30
+HRIS00787,FSH0787,Laura Martínez García,F,1974-09-10,12/07/2024,,Activo,,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Temporal,Completa, FSH0107 ,0,"15,2",HRIS,2026-04-30
+HRIS00788,FSH0788,Óscar García Sánchez,M,03/01/80,2015-02-16,06-03-25,Baja,Baja voluntaria,Contact Center,Contact Center - Madrid,Especialista postventa,Semi Senior,Indefinido,FULL TIME,FSH0251,0,5.2,HRIS,2026-04-30
+HRIS00789,FSH0789,Natalia Muñoz Martín,mujer,2003-05-03,2025-05-05,,Activo/a,,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Indefinido,Completa,FSH0506,0,11.3,HRIS,2026-04-30
+HRIS00790,FSH0790,Natalia Sánchez Romero,F,1993-09-25,2021-09-12,2024-09-23,Baja,Voluntaria,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0095,0,"19,9",HRIS,2026-04-30
+HRIS00791,FSH0791,Diego Moreno Martínez,hombre,15/03/1996,2023-08-24,,Activo,,Logística,Almacén Barcelona,Operario/a almacén,Junior,Fijo,Completa,FSH0109,0,"19,0",HRIS,2026-04-30
+HRIS00792,FSH0792,Irene García Sánchez,F,1999-01-03,2025-07-01,,Activo,,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Contrato indefinido,PART TIME,FSH0784,0,"3,2",HRIS,30/04/2026
+HRIS00793,FSH0793,Alejandro Alonso Jiménez,M,11-11-05,15/12/19,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0403,3,"20,4",HRIS,30-04-26
+HRIS00794,FSH0794,Sofía Gutiérrez Ruiz,F,21/04/1977,2019-12-13,,ACTIVO,,Tienda física,Valladolid,Visual Merchandiser,N2,Indefinido,FULL TIME, FSH0449 ,0,5.3,HRIS,30/04/2026
+HRIS00795,FSH0795,Manuel Sánchez Romero,M,16/07/1996,09/01/2020,,Activo,,Tienda Fisica,Barcelona,Vendedor/a,Junior,Fijo discontinuo,Completa ,FSH0023,0,1.2,HRIS,30/04/2026
+HRIS00796,FSH0796,Miguel Jiménez Ruiz,M,1998-01-19,2026-01-01,,Activo,,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,N2,Indefinido,Completa,FSH0423,3,"1,0",HRIS,2026-04-30
+HRIS00797,FSH0797,Daniel Muñoz Alonso,M,1964-05-13,2019-12-01,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Contrato indefinido,Completa,FSH0179,0,3.4,HRIS,30-04-26
+HRIS00798,FSH0798,Elena Romero Romero,F,02/02/1997,2019-05-07,,Activo,,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Indefinido,Parcial,FSH0043,3,24.2,HRIS,2026-04-30
+HRIS00799,FSH0799,Elena García Alonso,F,2001-07-05,28/09/2025,,Activo,,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Indefinido,Completa,FSH0026,1,"13,4",HRIS,2026-04-30
+HRIS00800,FSH0800,Paula Muñoz Martín,F,1997-02-28,2023-06-07,,Activo,,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0342,2,"15,9",HRIS,2026-04-30
+HRIS00801,FSH0801,Lucía Gutiérrez Fernández,F,1990-07-16,2023-04-10,,ACTIVO,,RRHH,Madrid,Técnico/a selección,Semi-Senior,Indefinido,Completa,FSH0181,2,13.7,HRIS,30/04/2026
+HRIS00802,FSH0802,Marta Sánchez Gómez,Mujer,1990-08-29,30/11/2017,21/07/2024,Baja,Involuntaria/fin contrato,Tienda física,Vigo,Store Manager,Manager,Indefinido,Completa ,,0,11.2,HRIS,2026-04-30
+HRIS00803,FSH0803,Nerea González López,F,19/10/1982,07-12-23,,Activo,,Tienda física,Málaga,Jefe/a de Sección,Senior,Contrato indefinido,Completa,FSH0568,0,,HRIS,2026-04-30
+HRIS00804,FSH0804,Ana Moreno Sánchez,F,22/11/02,2025-03-09,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0500,3,"13,2",HRIS,2026-04-30
+HRIS00805,FSH0805,Andrea Hernández Fernández,Mujer,1985-08-01,04/05/22,,Activo,,Tienda física,Málaga,Vendedor/a,Junior,Indefinido,Completa,FSH0386,0,24.8,HRIS,30/04/2026
+HRIS00806,FSH0806,Álvaro García Sánchez,M,1988-12-24,2023-02-16,,Activo,,Logística,Almacén Madrid,Operario/a almacén,Junior,TEMPORAL,FULL TIME,FSH0185,0,20.4,HRIS,30-04-26
+HRIS00807,FSH0807,Marcos González Díaz,M,2004-10-28,28/10/2024,06-06-25,Baja,Voluntaria,Online,Online - A Coruña,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0200,0,28.4,HRIS,30/04/2026
+HRIS00808,FSH0808,David García Martín,M,1991-07-01,06/09/2016,,Activo,,Tienda física,Málaga,Jefe/a de Sección,Senior,Indefinido,Completa,FSH0023,0,"12,3",HRIS,2026-04-30
+HRIS00809,FSH0809,Irene Ruiz Fernández,F,16/12/1985,17/08/2022,,Activo,,E-commerce,Online - Madrid,Especialista e-commerce,N2,Indefinido,Completa,FSH0342,0,11.2,HRIS,2026-04-30
+HRIS00810,FSH0810,Noelia Díaz Gutiérrez,F,1992-02-27,07/07/23,,Activo,,Tienda física,Zaragoza,Vendedor/a,Junior,Indefinido,Completa,FSH0682,0,20.9,HRIS,2026-04-30
+HRIS00811,FSH0811,Ainhoa Pérez Sánchez,F,1987-09-28,16/02/2020,,Activo,,Tienda física,Barcelona,Jefe/a de Sección,SENIOR,Indefinido,FULL TIME,FSH0760,0,18.4,HRIS,30/04/2026
+HRIS00812,FSH0812,Diego Fernández Ruiz,M,1995-07-20,14/08/2023,2025-03-08,Baja,Voluntaria,Tienda física ,Valladolid,Vendedor/a,Junior,Temporal,Completa,FSH0622,0,1.0,HRIS,2026-04-30
+HRIS00813,FSH0813,Alba Martínez López,F,23-02-83,2019-10-27,2024-11-21,Baja,Voluntaria,Tienda física ,Bilbao,Vendedor/a,Junior,Indefinido,Parcial,fsh0552,0,"15,2",HRIS,2026-04-30
+HRIS00814,FSH0814,Pablo Romero González,M,1981-01-28,2018-06-12,,Activo,,Marketing,Sede Central - A Coruña,Responsable comunicación,Manager,Indefinido,Jornada completa,,2,4.8,HRIS,30-04-26
+HRIS00815,fsh0815,Jorge Fernández Martín,M,2001-12-23,2026-02-10,,Activo,,Tiendas,Sevilla,Vendedor/a,Junior,Indefinido,Completa,FSH0803,0,28.4,HRIS,2026-04-30
+HRIS00816,FSH0816,Daniel Alonso Jiménez,M,2001-12-12,2023-06-20,,Activo,,COMPRAS,Sede Central - A Coruña,Técnico/a compras,SSr,Contrato indefinido,Parcial ,FSH0080,3,"8,0",HRIS,30/04/2026
+HRIS00817,FSH0817,Marcos Ruiz Sánchez,M,09/06/1972,30/06/2023,,Activo,,TIENDA FÍSICA,Zaragoza,Store Manager,Manager,Fijo discontinuo,Completa,,0,"6,1",HRIS,2026-04-30
+HRIS00818,FSH0818,Paula Rodríguez Hernández,F,25/10/83,2020-10-09,02/03/2026,Baja,Voluntaria,Tienda física,Barcelona,Jefe/a de Sección,Senior,Temporal,Parcial,FSH0144,0,"6,6",HRIS,30/04/2026
+HRIS00819,FSH0819,María Sánchez Rodríguez,F,1993-01-15,28-04-25,,Activo,,Logística,Almacén Madrid,Planificador/a demanda,Senior,Indefinido,Completa,FSH0620,,16.0,HRIS,2026-04-30
+HRIS00820, FSH0820 ,Jorge López Martín,M,14/10/1988,15/01/2020,,Activo,,Tiendas,Barcelona,Vendedor/a,Junior,Indefinido,Media jornada,FSH0280,0,4.3,HRIS,30/04/2026
+HRIS_DUP001, fsh0642 ,Sofía Martín López,F,30/11/84,2025-12-22,,ACTIVO,,RRHH,Madrid,Técnico/a selección,Semi Senior,Indefinido,FULL TIME,FSH0537,3,11.0,HRIS,30/04/2026
+HRIS_DUP002, fsh0334 ,Sergio Martínez García,M,1988-08-20,2023-05-06,2024-01-02,Baja,Voluntaria,E-Commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Indefinido,Completa,FSH0126,1,15.1,HRIS,30/04/2026
+HRIS_DUP003, fsh0068 ,Alejandro Moreno Romero,M,1999-09-03,2019-05-13,,Activo,,Retail store,Zaragoza,Vendedor/a,Junior,Temporal,Completa,FSH0635,0,16.7,HRIS,30/04/2026
+HRIS_DUP004, fsh0683 ,Sara Gómez Hernández,Mujer,2005-01-16,2023-07-31,,Activo,,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Indefinido,Completa,FSH0775,0,12.5,HRIS,30/04/2026
+HRIS_DUP005, fsh0399 ,Julia González González,F,17-08-79,2023-03-02,,Activo,,E COMMERCE,Online - Madrid,Analista CRO,Senior,Indefinido,Completa,FSH0117,3,"15,4",HRIS,30/04/2026
+HRIS_DUP006, fsh0216 ,María Díaz Moreno,F,1986-04-19,2024-01-11,03/06/25,Baja,Voluntaria,TIENDA FÍSICA,Valencia,Vendedor/a,Junior,Indefinido,Jornada completa,FSH0155,0,15.5,HRIS,30/04/2026
+HRIS_DUP007, fsh0807 ,Marcos González Díaz,M,2004-10-28,28/10/2024,06-06-25,Baja,Voluntaria,E COMMERCE,Online - A Coruña,Product Owner e-commerce,Senior,Indefinido,Completa,FSH0200,0,28.4,HRIS,30/04/2026
+HRIS_DUP008, fsh0087 ,María Sánchez Moreno,F,1990-05-17,21/09/2025,,Activo,,Tienda física ,Zaragoza,Visual Merchandiser,Semi Senior,Temporal,Parcial,FSH0635,0,24.9,HRIS,30/04/2026
+HRIS_DUP009, fsh0539 ,Carmen Romero Sánchez,F,1989-04-29,2019-01-29,,Activo,,Operaciones logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Temporal,Completa,FSH0075,0,"17,1",HRIS,30/04/2026
+HRIS_DUP010, fsh0713 ,Sara Gutiérrez Alonso,F,24-10-89,2020-04-25,2025-06-03,Baja,Baja voluntaria,MARKETING,Madrid,CRM Specialist,Senior,Indefinido,Completa ,FSH0621,2,9.0,HRIS,30/04/2026
+HRIS_DUP011, fsh0522 ,Paula Muñoz Alonso,F,31/12/1984,2016-05-06,2025-05-22,BAJA,Voluntaria,Compras ,Sede Central - A Coruña,Técnico/a compras,Semi Senior,INDEFINIDO,Completa,FSH0403,3,"16,1",HRIS,30/04/2026
+HRIS_DUP012, fsh0772 ,Natalia García Fernández,F,1994-06-10,2025-09-11,,Activo,,MKT,Sede Central - A Coruña,CRM Specialist,Senior,Indefinido,Completa,FSH0363,2,5.5,HRIS,30/04/2026
+HRIS_DUP013, fsh0435 ,Raquel Martínez Ruiz,F,1988-02-11,2025-09-12,,Activo,,Operaciones logística,Almacén Barcelona,Coordinador/a logística,N2,Indefinido,FULL TIME, FSH0620 ,0,9.0,HRIS,30/04/2026
+HRIS_DUP014, fsh0031 ,Rubén Romero Romero,M,26/11/1979,2019-07-30,,Activo,,Tiendas,Madrid,Vendedor/a,Junior,TEMPORAL,Parcial ,FSH0811,0,6.5,HRIS,30/04/2026
+HRIS_DUP015, fsh0776 ,Alejandro Hernández Díaz,M,1996-10-12,2021-08-06,,ACTIVO,,Tiendas,Bilbao,Vendedor/a,Junior,Temporal,Completa,FSH0678,0,"18,7",HRIS,30/04/2026
+HRIS_DUP016, fsh0434 ,Sara Hernández Gómez,F,30/01/1987,2020-02-04,,Activo/a,,Atencion Cliente,Contact Center - A Coruña,Agente soporte,Junior,Indefinido,Completa,FSH0423,3,15.2,HRIS,30/04/2026
+HRIS_DUP017, fsh0040 ,Alejandro Hernández Ruiz,M,1990-02-20,23/02/2025,,Activo,,Tienda física,A Coruña,Vendedor/a,Junior,Indefinido,Completa,FSH0716,0,"16,3",HRIS,30/04/2026
+HRIS_DUP018, fsh0213 ,Lucía Jiménez Sánchez,F,1992-04-26,2025-03-27,,Activo,,E-Commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Temporal,FULL TIME,FSH0740,2,"19,5",HRIS,30/04/2026
+HRIS_ERROR001,FSH9999,Registro Duplicado Prueba,M,31/02/1990,2026-13-01,,Activo,,No informado,,,,,,,,,HRIS,30/04/2026

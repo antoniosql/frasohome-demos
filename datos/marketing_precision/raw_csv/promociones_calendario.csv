@@ -1,0 +1,99 @@
+﻿promo_id,nombre_promocion,fecha_inicio,fecha_fin,ambito,scope_id,tipo_promocion,descuento_pct,descuento_importe_eur,canal,segmento_objetivo,store_id,combinable,umbral_cesta_eur,objetivo_margen_min_pct,campana_id_relacionada
+PROMO-0027,Textil hogar bundle Jan 2024,2024-01-08 00:00:00,2024-01-21 00:00:00,categoria_tienda,Textil hogar|S001,bundle,,15.0,PUSH,VIP_OMNICANAL,S001,1,150,18,
+PROMO-0028,Decoración bundle Jan 2024,2024-01-08 00:00:00,2024-01-14 00:00:00,categoria_tienda,Decoración|S005,bundle,,15.0,SMS,LOCAL_STORE,S005,0,0,25,
+PROMO-0001,Bienvenida Club FraSoHome,2024-01-10 00:00:00,2024-01-31 00:00:00,campana,CAM-2024-001,puntos,,,EMAIL,NUEVO_CONTACTABLE,,1,0,20,CAM-2024-001
+PROMO-0029,Decoración descuento pct Jan 2024,2024-01-18 00:00:00,2024-01-23 00:00:00,categoria,Decoración,descuento_pct,10.0,,WEB,PROMO_SENSIBLE_TEXTIL,,0,0,28,
+PROMO-0032,Decoración envio gratis Feb 2024,2024-02-04 00:00:00,2024-02-19 00:00:00,categoria_tienda,Decoración|S001,envio_gratis,,,WEB,VIP_OMNICANAL,S001,0,150,20,
+PROMO-0002,Reactivación Invierno Alto Valor,2024-02-05 00:00:00,2024-02-20 00:00:00,campana,CAM-2024-002,descuento_pct,10.0,,EMAIL,RIESGO_CHURN,,0,75,20,CAM-2024-002
+PROMO-0030,Decoración bundle Feb 2024,2024-02-06 00:00:00,2024-02-21 00:00:00,categoria_tienda,Decoración|S005,bundle,,10.0,WEB,PROMO_SENSIBLE_TEXTIL,S005,0,75,22,
+PROMO-0031,Textil hogar envio gratis Feb 2024,2024-02-15 00:00:00,2024-03-01 00:00:00,categoria_tienda,Textil hogar|S003,envio_gratis,,,SMS,PROMO_SENSIBLE_TEXTIL,S003,1,0,20,
+PROMO-0035,Muebles descuento pct Mar 2024,2024-03-07 00:00:00,2024-03-21 00:00:00,categoria,Muebles,descuento_pct,12.0,,PUSH,PROMO_SENSIBLE_TEXTIL,,0,75,28,
+PROMO-0003,Primavera Decoración,2024-03-12 00:00:00,2024-03-31 00:00:00,campana,CAM-2024-003,descuento_pct,12.0,,EMAIL,DECORACION_FRECUENTE,,0,75,28,CAM-2024-003
+PROMO-0034,Decoración 2a unidad Mar 2024,2024-03-12 00:00:00,2024-03-19 00:00:00,categoria_tienda,Decoración|S002,2a_unidad,,,EMAIL,ACTIVO_BASE,S002,0,50,22,
+PROMO-0033,Decoración bundle Mar 2024,2024-03-19 00:00:00,2024-03-24 00:00:00,categoria_tienda,Decoración|S005,bundle,,10.0,PUSH,ACTIVO_BASE,S005,1,50,22,
+PROMO-0037,Iluminación descuento pct Apr 2024,2024-04-01 00:00:00,2024-04-10 00:00:00,categoria_tienda,Iluminación|S006,descuento_pct,10.0,,SMS,ACTIVO_BASE,S006,0,150,20,
+PROMO-0038,Muebles envio gratis Apr 2024,2024-04-11 00:00:00,2024-04-19 00:00:00,categoria_tienda,Muebles|S006,envio_gratis,,,WEB,ACTIVO_BASE,S006,1,50,25,
+PROMO-0004,Click & Collect Madrid Primavera,2024-04-15 00:00:00,2024-04-25 00:00:00,campana,CAM-2024-004,cupon_importe,,15.0,SMS,LOCAL_STORE,S001,0,0,22,CAM-2024-004
+PROMO-0036,Muebles 2a unidad Apr 2024,2024-04-16 00:00:00,2024-04-21 00:00:00,categoria_tienda,Muebles|S006,2a_unidad,,,PUSH,LOCAL_STORE,S006,0,150,18,
+PROMO-0040,Textil hogar bundle May 2024,2024-05-04 00:00:00,2024-05-14 00:00:00,categoria,Textil hogar,bundle,,15.0,SMS,VIP_OMNICANAL,,0,75,20,
+PROMO-0039,Decoración envio gratis May 2024,2024-05-05 00:00:00,2024-05-19 00:00:00,categoria_tienda,Decoración|S002,envio_gratis,,,WEB,ACTIVO_BASE,S002,1,0,28,
+PROMO-0041,Muebles 2a unidad May 2024,2024-05-06 00:00:00,2024-05-14 00:00:00,categoria_tienda,Muebles|S004,2a_unidad,,,PUSH,ACTIVO_BASE,S004,1,50,25,
+PROMO-0005,VIP Muebles Verano,2024-05-20 00:00:00,2024-06-05 00:00:00,campana,CAM-2024-005,acceso_anticipado,,,EMAIL,VIP_OMNICANAL,,0,0,18,CAM-2024-005
+PROMO-0043,Iluminación 2a unidad Jun 2024,2024-06-02 00:00:00,2024-06-08 00:00:00,categoria,Iluminación,2a_unidad,,,SMS,PROMO_SENSIBLE_TEXTIL,,1,50,25,
+PROMO-0044,Iluminación bundle Jun 2024,2024-06-06 00:00:00,2024-06-19 00:00:00,categoria_tienda,Iluminación|S005,bundle,,15.0,PUSH,ACTIVO_BASE,S005,0,100,25,
+PROMO-0006,Luz para tus espacios,2024-06-10 00:00:00,2024-06-25 00:00:00,campana,CAM-2024-006,descuento_pct,8.0,,EMAIL,ALTO_TICKET_MUEBLES,,0,100,22,CAM-2024-006
+PROMO-0042,Textil hogar descuento pct Jun 2024,2024-06-14 00:00:00,2024-06-24 00:00:00,categoria_tienda,Textil hogar|S006,descuento_pct,10.0,,EMAIL,VIP_OMNICANAL,S006,1,100,28,
+PROMO-0045,Iluminación envio gratis Jul 2024,2024-07-02 00:00:00,2024-07-13 00:00:00,categoria,Iluminación,envio_gratis,,,SMS,LOCAL_STORE,,0,50,18,
+PROMO-0047,Iluminación envio gratis Jul 2024,2024-07-12 00:00:00,2024-07-21 00:00:00,categoria_tienda,Iluminación|S002,envio_gratis,,,WEB,LOCAL_STORE,S002,0,50,25,
+PROMO-0046,Textil hogar 2a unidad Jul 2024,2024-07-19 00:00:00,2024-07-30 00:00:00,categoria_tienda,Textil hogar|S005,2a_unidad,,,EMAIL,PROMO_SENSIBLE_TEXTIL,S005,0,100,18,
+PROMO-0050,Iluminación envio gratis Aug 2024,2024-08-03 00:00:00,2024-08-18 00:00:00,categoria_tienda,Iluminación|S002,envio_gratis,,,EMAIL,VIP_OMNICANAL,S002,1,100,25,
+PROMO-0048,Iluminación descuento pct Aug 2024,2024-08-06 00:00:00,2024-08-14 00:00:00,categoria_tienda,Iluminación|S005,descuento_pct,10.0,,PUSH,ACTIVO_BASE,S005,1,0,18,
+PROMO-0049,Muebles 2a unidad Aug 2024,2024-08-10 00:00:00,2024-08-15 00:00:00,categoria,Muebles,2a_unidad,,,WEB,LOCAL_STORE,,0,100,20,
+PROMO-0007,Rebajas Textil Septiembre,2024-09-01 00:00:00,2024-09-15 00:00:00,campana,CAM-2024-007,descuento_pct,20.0,,SMS,PROMO_SENSIBLE_TEXTIL,,0,0,28,CAM-2024-007
+PROMO-0053,Iluminación envio gratis Sep 2024,2024-09-13 00:00:00,2024-09-22 00:00:00,categoria_tienda,Iluminación|S001,envio_gratis,,,WEB,VIP_OMNICANAL,S001,1,150,22,
+PROMO-0052,Muebles 2a unidad Sep 2024,2024-09-16 00:00:00,2024-09-26 00:00:00,categoria_tienda,Muebles|S001,2a_unidad,,,PUSH,VIP_OMNICANAL,S001,0,75,20,
+PROMO-0051,Muebles envio gratis Sep 2024,2024-09-17 00:00:00,2024-09-26 00:00:00,categoria,Muebles,envio_gratis,,,PUSH,ACTIVO_BASE,,0,75,25,
+PROMO-0008,Post devolución Recupera Confianza,2024-10-03 00:00:00,2024-10-20 00:00:00,campana,CAM-2024-008,cupon_importe,,20.0,EMAIL,POST_DEVOLUCION,,0,50,22,CAM-2024-008
+PROMO-0056,Decoración envio gratis Oct 2024,2024-10-04 00:00:00,2024-10-10 00:00:00,categoria_tienda,Decoración|S004,envio_gratis,,,EMAIL,ACTIVO_BASE,S004,1,150,20,
+PROMO-0054,Decoración bundle Oct 2024,2024-10-12 00:00:00,2024-10-27 00:00:00,categoria_tienda,Decoración|S006,bundle,,10.0,EMAIL,VIP_OMNICANAL,S006,0,100,25,
+PROMO-0055,Iluminación bundle Oct 2024,2024-10-14 00:00:00,2024-10-27 00:00:00,categoria_tienda,Iluminación|S003,bundle,,15.0,EMAIL,PROMO_SENSIBLE_TEXTIL,S003,1,75,20,
+PROMO-0057,Decoración descuento pct Nov 2024,2024-11-07 00:00:00,2024-11-18 00:00:00,categoria,Decoración,descuento_pct,10.0,,SMS,VIP_OMNICANAL,,1,100,25,
+PROMO-0058,Iluminación bundle Nov 2024,2024-11-10 00:00:00,2024-11-20 00:00:00,categoria,Iluminación,bundle,,10.0,EMAIL,LOCAL_STORE,,0,100,22,
+PROMO-0059,Decoración bundle Nov 2024,2024-11-20 00:00:00,2024-12-03 00:00:00,categoria_tienda,Decoración|S003,bundle,,20.0,EMAIL,VIP_OMNICANAL,S003,0,50,18,
+PROMO-0009,Black Friday Hogar 2024,2024-11-22 00:00:00,2024-11-30 00:00:00,campana,CAM-2024-009,descuento_pct,18.0,,PUSH,ACTIVO_BASE,,0,100,20,CAM-2024-009
+PROMO-0060,Muebles bundle Dec 2024,2024-12-02 00:00:00,2024-12-17 00:00:00,categoria_tienda,Muebles|S003,bundle,,15.0,WEB,ACTIVO_BASE,S003,1,75,18,
+PROMO-0062,Textil hogar envio gratis Dec 2024,2024-12-09 00:00:00,2024-12-23 00:00:00,categoria_tienda,Textil hogar|S004,envio_gratis,,,PUSH,LOCAL_STORE,S004,0,100,20,
+PROMO-0010,Navidad Deco Regalo,2024-12-10 00:00:00,2024-12-24 00:00:00,campana,CAM-2024-010,descuento_pct,10.0,,EMAIL,ACTIVO_BASE,,0,0,22,CAM-2024-010
+PROMO-0061,Textil hogar bundle Dec 2024,2024-12-15 00:00:00,2024-12-28 00:00:00,categoria_tienda,Textil hogar|S002,bundle,,10.0,EMAIL,ACTIVO_BASE,S002,0,50,28,
+PROMO-0065,Textil hogar bundle Jan 2025,2025-01-01 00:00:00,2025-01-13 00:00:00,categoria_tienda,Textil hogar|S004,bundle,,15.0,SMS,VIP_OMNICANAL,S004,0,75,25,
+PROMO-0064,Textil hogar 2a unidad Jan 2025,2025-01-05 00:00:00,2025-01-14 00:00:00,categoria_tienda,Textil hogar|S002,2a_unidad,,,SMS,PROMO_SENSIBLE_TEXTIL,S002,0,100,22,
+PROMO-0011,Bienvenida App y Wishlist,2025-01-08 00:00:00,2025-01-31 00:00:00,campana,CAM-2025-001,puntos,,,PUSH,NUEVO_CONTACTABLE,,1,0,28,CAM-2025-001
+PROMO-0063,Textil hogar envio gratis Jan 2025,2025-01-10 00:00:00,2025-01-20 00:00:00,categoria_tienda,Textil hogar|S005,envio_gratis,,,SMS,ACTIVO_BASE,S005,1,50,18,
+PROMO-0012,Reactivación Invierno 2025,2025-02-03 00:00:00,2025-02-20 00:00:00,campana,CAM-2025-002,descuento_pct,12.0,,EMAIL,RIESGO_CHURN,,0,75,25,CAM-2025-002
+PROMO-0067,Muebles 2a unidad Feb 2025,2025-02-05 00:00:00,2025-02-12 00:00:00,categoria,Muebles,2a_unidad,,,PUSH,PROMO_SENSIBLE_TEXTIL,,1,100,18,
+PROMO-0066,Textil hogar bundle Feb 2025,2025-02-17 00:00:00,2025-03-02 00:00:00,categoria,Textil hogar,bundle,,20.0,WEB,VIP_OMNICANAL,,0,50,18,
+PROMO-0068,Iluminación bundle Feb 2025,2025-02-17 00:00:00,2025-02-27 00:00:00,categoria,Iluminación,bundle,,20.0,EMAIL,VIP_OMNICANAL,,1,100,20,
+PROMO-0071,Textil hogar 2a unidad Mar 2025,2025-03-02 00:00:00,2025-03-16 00:00:00,categoria,Textil hogar,2a_unidad,,,WEB,VIP_OMNICANAL,,0,75,25,
+PROMO-0069,Textil hogar 2a unidad Mar 2025,2025-03-09 00:00:00,2025-03-15 00:00:00,categoria,Textil hogar,2a_unidad,,,SMS,ACTIVO_BASE,,0,75,28,
+PROMO-0013,Colección Muebles Primavera,2025-03-15 00:00:00,2025-04-05 00:00:00,campana,CAM-2025-003,financiacion,,,EMAIL,ALTO_TICKET_MUEBLES,,0,0,18,CAM-2025-003
+PROMO-0070,Iluminación descuento pct Mar 2025,2025-03-18 00:00:00,2025-03-25 00:00:00,categoria,Iluminación,descuento_pct,15.0,,PUSH,VIP_OMNICANAL,,1,75,25,
+PROMO-0072,Iluminación descuento pct Apr 2025,2025-04-04 00:00:00,2025-04-10 00:00:00,categoria_tienda,Iluminación|S006,descuento_pct,10.0,,WEB,LOCAL_STORE,S006,0,150,20,
+PROMO-0074,Muebles descuento pct Apr 2025,2025-04-04 00:00:00,2025-04-13 00:00:00,categoria_tienda,Muebles|S002,descuento_pct,15.0,,SMS,VIP_OMNICANAL,S002,1,50,20,
+PROMO-0014,Barcelona Click & Collect Terraza,2025-04-18 00:00:00,2025-04-28 00:00:00,campana,CAM-2025-004,cupon_importe,,15.0,SMS,LOCAL_STORE,S002,0,0,28,CAM-2025-004
+PROMO-0073,Iluminación bundle Apr 2025,2025-04-19 00:00:00,2025-05-02 00:00:00,categoria_tienda,Iluminación|S002,bundle,,10.0,EMAIL,ACTIVO_BASE,S002,0,0,22,
+PROMO-0015,Iluminación Primavera,2025-05-05 00:00:00,2025-05-20 00:00:00,campana,CAM-2025-005,descuento_pct,10.0,,EMAIL,ACTIVO_BASE,,0,75,22,CAM-2025-005
+PROMO-0076,Iluminación descuento pct May 2025,2025-05-09 00:00:00,2025-05-24 00:00:00,categoria_tienda,Iluminación|S001,descuento_pct,5.0,,EMAIL,LOCAL_STORE,S001,0,0,20,
+PROMO-0075,Textil hogar bundle May 2025,2025-05-18 00:00:00,2025-05-30 00:00:00,categoria_tienda,Textil hogar|S004,bundle,,10.0,PUSH,VIP_OMNICANAL,S004,0,50,28,
+PROMO-0077,Muebles descuento pct May 2025,2025-05-20 00:00:00,2025-06-02 00:00:00,categoria_tienda,Muebles|S005,descuento_pct,8.0,,SMS,ACTIVO_BASE,S005,0,0,25,
+PROMO-0023,Sevilla Inspiración Dormitorio,2025-05-22 00:00:00,2025-05-31 00:00:00,campana,CAM-2025-013,cupon_importe,,10.0,SMS,LOCAL_STORE,S004,0,50,22,CAM-2025-013
+PROMO-0016,VIP Early Access Verano,2025-06-01 00:00:00,2025-06-10 00:00:00,campana,CAM-2025-006,acceso_anticipado,,,PUSH,VIP_OMNICANAL,,0,0,28,CAM-2025-006
+PROMO-0079,Decoración descuento pct Jun 2025,2025-06-08 00:00:00,2025-06-15 00:00:00,categoria_tienda,Decoración|S003,descuento_pct,15.0,,WEB,PROMO_SENSIBLE_TEXTIL,S003,1,75,22,
+PROMO-0078,Textil hogar bundle Jun 2025,2025-06-10 00:00:00,2025-06-24 00:00:00,categoria_tienda,Textil hogar|S003,bundle,,10.0,EMAIL,ACTIVO_BASE,S003,1,100,18,
+PROMO-0024,Bilbao Deco Express,2025-06-18 00:00:00,2025-06-28 00:00:00,campana,CAM-2025-014,cupon_importe,,10.0,PUSH,LOCAL_STORE,S005,0,0,20,CAM-2025-014
+PROMO-0080,Textil hogar bundle Jun 2025,2025-06-20 00:00:00,2025-06-28 00:00:00,categoria_tienda,Textil hogar|S001,bundle,,15.0,WEB,PROMO_SENSIBLE_TEXTIL,S001,0,75,28,
+PROMO-0082,Textil hogar envio gratis Jul 2025,2025-07-10 00:00:00,2025-07-23 00:00:00,categoria_tienda,Textil hogar|S005,envio_gratis,,,WEB,ACTIVO_BASE,S005,0,100,22,
+PROMO-0083,Decoración envio gratis Jul 2025,2025-07-13 00:00:00,2025-07-26 00:00:00,categoria,Decoración,envio_gratis,,,EMAIL,LOCAL_STORE,,0,100,22,
+PROMO-0081,Textil hogar bundle Jul 2025,2025-07-18 00:00:00,2025-07-31 00:00:00,categoria,Textil hogar,bundle,,15.0,EMAIL,PROMO_SENSIBLE_TEXTIL,,0,150,22,
+PROMO-0017,Agosto Textil Hogar,2025-08-04 00:00:00,2025-08-18 00:00:00,campana,CAM-2025-007,descuento_pct,18.0,,EMAIL,PROMO_SENSIBLE_TEXTIL,,0,75,25,CAM-2025-007
+PROMO-0085,Iluminación envio gratis Aug 2025,2025-08-04 00:00:00,2025-08-11 00:00:00,categoria,Iluminación,envio_gratis,,,EMAIL,PROMO_SENSIBLE_TEXTIL,,0,150,25,
+PROMO-0084,Textil hogar bundle Aug 2025,2025-08-07 00:00:00,2025-08-20 00:00:00,categoria_tienda,Textil hogar|S002,bundle,,15.0,SMS,ACTIVO_BASE,S002,0,150,20,
+PROMO-0086,Iluminación 2a unidad Aug 2025,2025-08-20 00:00:00,2025-08-28 00:00:00,categoria_tienda,Iluminación|S001,2a_unidad,,,PUSH,LOCAL_STORE,S001,0,75,20,
+PROMO-0087,Decoración 2a unidad Sep 2025,2025-09-03 00:00:00,2025-09-18 00:00:00,categoria_tienda,Decoración|S006,2a_unidad,,,EMAIL,VIP_OMNICANAL,S006,1,50,28,
+PROMO-0018,Recuperación Carrito y Wishlist,2025-09-05 00:00:00,2025-09-20 00:00:00,campana,CAM-2025-008,descuento_pct,5.0,,PUSH,ACTIVO_BASE,,0,100,28,CAM-2025-008
+PROMO-0025,Málaga Luz y Ambiente,2025-09-12 00:00:00,2025-09-21 00:00:00,campana,CAM-2025-015,cupon_importe,,12.0,SMS,LOCAL_STORE,S006,0,100,22,CAM-2025-015
+PROMO-0089,Decoración 2a unidad Sep 2025,2025-09-13 00:00:00,2025-09-26 00:00:00,categoria_tienda,Decoración|S002,2a_unidad,,,EMAIL,LOCAL_STORE,S002,0,0,20,
+PROMO-0088,Textil hogar bundle Sep 2025,2025-09-19 00:00:00,2025-09-30 00:00:00,categoria,Textil hogar,bundle,,20.0,SMS,VIP_OMNICANAL,,0,100,28,
+PROMO-0019,Valencia Stock Local Alto,2025-10-02 00:00:00,2025-10-12 00:00:00,campana,CAM-2025-009,cupon_importe,,12.0,SMS,LOCAL_STORE,S003,0,100,22,CAM-2025-009
+PROMO-0091,Iluminación envio gratis Oct 2025,2025-10-02 00:00:00,2025-10-17 00:00:00,categoria,Iluminación,envio_gratis,,,WEB,LOCAL_STORE,,0,75,18,
+PROMO-0090,Decoración envio gratis Oct 2025,2025-10-07 00:00:00,2025-10-18 00:00:00,categoria_tienda,Decoración|S003,envio_gratis,,,WEB,ACTIVO_BASE,S003,0,100,25,
+PROMO-0092,Textil hogar bundle Oct 2025,2025-10-18 00:00:00,2025-11-01 00:00:00,categoria_tienda,Textil hogar|S005,bundle,,20.0,PUSH,VIP_OMNICANAL,S005,1,50,20,
+PROMO-0020,Post devolución Recompra,2025-10-20 00:00:00,2025-11-05 00:00:00,campana,CAM-2025-010,cupon_importe,,18.0,EMAIL,POST_DEVOLUCION,,0,30,25,CAM-2025-010
+PROMO-0095,Textil hogar descuento pct Nov 2025,2025-11-02 00:00:00,2025-11-10 00:00:00,categoria_tienda,Textil hogar|S002,descuento_pct,10.0,,SMS,PROMO_SENSIBLE_TEXTIL,S002,1,0,28,
+PROMO-0094,Iluminación 2a unidad Nov 2025,2025-11-10 00:00:00,2025-11-24 00:00:00,categoria_tienda,Iluminación|S003,2a_unidad,,,EMAIL,VIP_OMNICANAL,S003,0,50,20,
+PROMO-0093,Muebles bundle Nov 2025,2025-11-11 00:00:00,2025-11-18 00:00:00,categoria_tienda,Muebles|S004,bundle,,20.0,PUSH,LOCAL_STORE,S004,0,50,22,
+PROMO-0021,Black Friday Precision 2025,2025-11-20 00:00:00,2025-11-30 00:00:00,campana,CAM-2025-011,descuento_pct,20.0,,EMAIL,ACTIVO_BASE,,0,75,20,CAM-2025-011
+PROMO-0026,Dormidos Alto Valor Fin de Año,2025-12-01 00:00:00,2025-12-18 00:00:00,campana,CAM-2025-016,descuento_pct,15.0,,EMAIL,RIESGO_CHURN,,0,50,28,CAM-2025-016
+PROMO-0022,Navidad Hogar Premium,2025-12-05 00:00:00,2025-12-22 00:00:00,campana,CAM-2025-012,descuento_pct,8.0,,EMAIL,VIP_OMNICANAL,,0,30,18,CAM-2025-012
+PROMO-0098,Muebles bundle Dec 2025,2025-12-05 00:00:00,2025-12-13 00:00:00,categoria,Muebles,bundle,,20.0,SMS,ACTIVO_BASE,,1,50,18,
+PROMO-0096,Textil hogar descuento pct Dec 2025,2025-12-06 00:00:00,2025-12-15 00:00:00,categoria_tienda,Textil hogar|S006,descuento_pct,5.0,,WEB,PROMO_SENSIBLE_TEXTIL,S006,0,75,28,
+PROMO-0097,Iluminación descuento pct Dec 2025,2025-12-18 00:00:00,2026-01-01 00:00:00,categoria_tienda,Iluminación|S006,descuento_pct,8.0,,PUSH,VIP_OMNICANAL,S006,0,150,22,

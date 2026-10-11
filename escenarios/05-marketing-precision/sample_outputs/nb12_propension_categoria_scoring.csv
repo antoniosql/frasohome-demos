@@ -1,0 +1,31 @@
+customer_id,last_category,top_viewed_category,categoria_rank_1,score_rank_1,categoria_rank_2,score_rank_2,categoria_rank_3,score_rank_3,recomendacion_campana
+C0090,Muebles,,Iluminación,0.8766666666666667,Muebles,0.06,Decoración,0.05333333333333334,Activar descubrimiento guiado con prueba social
+C0001,Textil Hogar,,Decoración,0.82,Muebles,0.11333333333333333,Textil Hogar,0.05,Activar descubrimiento guiado con prueba social
+C0072,Muebles,,Muebles,0.82,Iluminación,0.13333333333333333,Decoración,0.03,Activar descubrimiento guiado con prueba social
+C0067,Muebles,,Textil Hogar,0.8,Muebles,0.15,Iluminación,0.043333333333333335,Activar descubrimiento guiado con prueba social
+C0051,Muebles,,Textil Hogar,0.7966666666666666,Muebles,0.12333333333333334,Decoración,0.06666666666666667,Activar descubrimiento guiado con prueba social
+C0006,Muebles,,Muebles,0.79,Decoración,0.12333333333333334,Iluminación,0.04666666666666667,Activar descubrimiento guiado con prueba social
+C0083,Muebles,,Textil Hogar,0.7666666666666667,Muebles,0.15333333333333332,Iluminación,0.04666666666666667,Activar descubrimiento guiado con prueba social
+C0075,Textil Hogar,,Muebles,0.75,Decoración,0.17,Textil Hogar,0.056666666666666664,Activar descubrimiento guiado con prueba social
+C0028,Decoración,,Muebles,0.7366666666666667,Textil Hogar,0.14333333333333334,Decoración,0.07666666666666666,Activar descubrimiento guiado con prueba social
+C0088,Muebles,Muebles,Iluminación,0.7242221812301337,Muebles,0.12764597751147716,Decoración,0.0881318412583891,Activar descubrimiento guiado con prueba social
+C0004,Iluminación,,Decoración,0.7234628103066559,Iluminación,0.18439885690957336,Muebles,0.08213833278377061,Activar descubrimiento guiado con prueba social
+C0046,Decoración,,Muebles,0.7,Decoración,0.14666666666666667,Textil Hogar,0.09333333333333334,Activar descubrimiento guiado con prueba social
+C0022,Textil Hogar,,Decoración,0.6933333333333334,Muebles,0.24666666666666667,Textil Hogar,0.056666666666666664,Activar descubrimiento guiado con prueba social
+C0081,Iluminación,Muebles,Decoración,0.6866666666666666,Iluminación,0.16913051821061645,Muebles,0.12420281512271689,Activar descubrimiento guiado con prueba social
+C0076,Muebles,Muebles,Muebles,0.6818303316811798,Iluminación,0.19070662156165588,Textil Hogar,0.09,Activar mensaje de conversión con categoría ya explorada
+C0097,Decoración,Muebles,Muebles,0.68,Decoración,0.12333333333333334,Iluminación,0.11333333333333333,Activar mensaje de conversión con categoría ya explorada
+C0069,Iluminación,,Muebles,0.6733333333333333,Decoración,0.21,Textil Hogar,0.08,Activar descubrimiento guiado con prueba social
+C0053,Muebles,,Muebles,0.6533333333333333,Textil Hogar,0.21333333333333335,Iluminación,0.10333333333333333,Activar descubrimiento guiado con prueba social
+C0011,Decoración,,Iluminación,0.6374597386812519,Decoración,0.2298960447315949,Muebles,0.09931088325381987,Activar descubrimiento guiado con prueba social
+C0009,Iluminación,,Decoración,0.6366666666666667,Muebles,0.23666666666666666,Iluminación,0.09333333333333334,Activar descubrimiento guiado con prueba social
+C0012,Textil Hogar,,Decoración,0.5927745664739884,Muebles,0.3405587668593449,Textil Hogar,0.056666666666666664,Activar descubrimiento guiado con prueba social
+C0089,,Iluminación,Textil Hogar,0.5825380596601855,Muebles,0.3716974815508885,Decoración,0.037696900041375624,Activar descubrimiento guiado con prueba social
+C0044,,Muebles,Muebles,0.5797071487387182,Iluminación,0.4079558600962216,Decoración,0.01233699116506116,Activar mensaje de conversión con categoría ya explorada
+GUEST,Textil Hogar,,Decoración,0.53,Muebles,0.24333333333333335,Textil Hogar,0.20333333333333334,Activar descubrimiento guiado con prueba social
+C0071,Iluminación,Decoración,Iluminación,0.5185616488632099,Decoración,0.3614668281184091,Muebles,0.09868967024514022,Activar descubrimiento guiado con prueba social
+C0033,,Muebles,Decoración,0.5117710475414157,Muebles,0.2840437899384931,Iluminación,0.20418516252009059,Activar descubrimiento guiado con prueba social
+C0047,Iluminación,,Muebles,0.46,Decoración,0.42333333333333334,Textil Hogar,0.09666666666666666,Activar descubrimiento guiado con prueba social
+C0007,Decoración,,Iluminación,0.42412640534791857,Muebles,0.27334981269420916,Decoración,0.25585711529120564,Activar descubrimiento guiado con prueba social
+C0064,Textil Hogar,,Decoración,0.41333333333333333,Muebles,0.4,Iluminación,0.11666666666666667,Activar descubrimiento guiado con prueba social
+C0092,Decoración,,Muebles,0.3466666666666667,Decoración,0.33,Iluminación,0.18,Activar descubrimiento guiado con prueba social

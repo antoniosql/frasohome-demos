@@ -1,0 +1,37 @@
+[
+  {
+    "step": 1,
+    "component": "modelo_ml",
+    "detail": "score de inactividad",
+    "value": 0.9469
+  },
+  {
+    "step": 2,
+    "component": "interpretabilidad_ml",
+    "detail": "señales locales principales",
+    "value": [
+      "gross_margin_rate",
+      "margin_gross",
+      "ciudad_Córdoba",
+      "recency_days",
+      "avg_order_value",
+      "provincia_Córdoba"
+    ]
+  },
+  {
+    "step": 3,
+    "component": "rag",
+    "detail": "fuentes recuperadas",
+    "value": [
+      "FS-KB-07_Guia_Fidelizacion_CRM_v1.1.docx",
+      "FS-KB-07_Guia_Fidelizacion_CRM_v1.1.docx",
+      "FS-KB-01_Politica_Devoluciones_v1.3_Vigente.docx"
+    ]
+  },
+  {
+    "step": 4,
+    "component": "generación_controlada",
+    "detail": "recomendación con cautelas",
+    "value": "Priorizar una acción de reactivación para cliente nan. El score de inactividad es 0.95; la recencia observada es 149 días. Personalizar el mensaje con novedades o ventaja moderada relacionada con nan. Antes de activar, comprobar consentimiento, presión comercial y margen esperado."
+  }
+]

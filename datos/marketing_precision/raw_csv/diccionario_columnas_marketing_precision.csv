@@ -1,0 +1,259 @@
+﻿dataset,columna,tipo_dato,ejemplo_valor
+identidades_cliente.csv,identity_signal_id,object,IDS-000041
+identidades_cliente.csv,fecha_evento,datetime64[ns],2018-01-07 00:00:00
+identidades_cliente.csv,fuente_sistema,object,CRM
+identidades_cliente.csv,tipo_senal,object,alta_programa
+identidades_cliente.csv,customer_id_raw,object,C0041
+identidades_cliente.csv,email_hash,object,2b5c60b2827e6e46
+identidades_cliente.csv,telefono_hash,object,74a99f25fd11033c
+identidades_cliente.csv,tarjeta_fidelizacion_id,object,LOY-10040
+identidades_cliente.csv,cookie_id,object,CK-100015
+identidades_cliente.csv,device_id,object,DV-200015
+identidades_cliente.csv,app_user_id,object,APP-00019
+identidades_cliente.csv,usuario_online_id,object,UO-X100003
+identidades_cliente.csv,order_id,object,O-202400366
+identidades_cliente.csv,ticket_id,object,T-500198
+identidades_cliente.csv,store_id,object,S001
+identidades_cliente.csv,consentimiento_snapshot,float64,1.0
+identidades_cliente.csv,confianza_origen,float64,0.98
+identidades_cliente_ground_truth.csv,identity_signal_id,object,IDS-000001
+identidades_cliente_ground_truth.csv,customer_id_canonico,object,C0001
+campanas_marketing.csv,campaign_id,object,CAM-2024-001
+campanas_marketing.csv,nombre_campana,object,Bienvenida Club FraSoHome
+campanas_marketing.csv,objetivo,object,onboarding
+campanas_marketing.csv,canal,object,EMAIL
+campanas_marketing.csv,fecha_inicio,datetime64[ns],2024-01-10 00:00:00
+campanas_marketing.csv,fecha_fin,datetime64[ns],2024-01-31 00:00:00
+campanas_marketing.csv,segmento_objetivo,object,NUEVO_CONTACTABLE
+campanas_marketing.csv,categoria_objetivo,object,Decoración
+campanas_marketing.csv,subcategoria_objetivo,object,
+campanas_marketing.csv,store_id_objetivo,object,S001
+campanas_marketing.csv,tipo_oferta,object,puntos
+campanas_marketing.csv,descuento_pct,int64,0
+campanas_marketing.csv,presupuesto_plan_eur,int64,1800
+campanas_marketing.csv,grupo_control_pct,float64,0.1
+campanas_marketing.csv,kpi_primario,object,cvr_registro
+campanas_marketing.csv,estado,object,finalizada
+campanas_marketing.csv,copy_eje,object,"Descubre ventajas del club, inspiración y primera compra"
+campanas_marketing.csv,audiencia_estimada,int64,7
+campanas_marketing.csv,contactos,int64,7
+campanas_marketing.csv,audiencias,int64,7
+campanas_marketing.csv,control,int64,1
+campanas_marketing.csv,entregados,int64,6
+campanas_marketing.csv,conversiones_30d,int64,0
+campanas_marketing.csv,revenue_30d_total_eur,float64,0.0
+campanas_marketing.csv,margen_30d_total_eur,float64,0.0
+campanas_marketing.csv,coste_contacto_total_eur,float64,0.11
+campanas_marketing.csv,cnt_add_to_cart,int64,0
+campanas_marketing.csv,cnt_bounce,int64,0
+campanas_marketing.csv,cnt_click,int64,1
+campanas_marketing.csv,cnt_delivered,int64,6
+campanas_marketing.csv,cnt_fallido,int64,0
+campanas_marketing.csv,cnt_landing_visit,int64,1
+campanas_marketing.csv,cnt_open,int64,2
+campanas_marketing.csv,cnt_purchase,int64,0
+campanas_marketing.csv,cnt_rechazado,int64,0
+campanas_marketing.csv,cnt_redeem_coupon,int64,0
+campanas_marketing.csv,cnt_store_visit_estimada,int64,0
+campanas_marketing.csv,cnt_unsubscribe,int64,0
+campanas_marketing.csv,cupones_emitidos,int64,0
+campanas_marketing.csv,cupones_canjeados,int64,0
+contactos_campana.csv,contact_id,object,CT-000001
+contactos_campana.csv,campaign_id,object,CAM-2024-001
+contactos_campana.csv,customer_id,object,C0008
+contactos_campana.csv,fecha_contacto,datetime64[ns],2024-01-11 10:26:00
+contactos_campana.csv,canal_contacto,object,EMAIL
+contactos_campana.csv,grupo_experimental,object,treatment
+contactos_campana.csv,grupo_control_flag,int64,0
+contactos_campana.csv,segmento_asignado,object,LOCAL_STORE
+contactos_campana.csv,offer_code,object,OFF-001
+contactos_campana.csv,coupon_instance_id,object,CPN-000001
+contactos_campana.csv,estado_entrega,object,entregado
+contactos_campana.csv,coste_contacto_eur,float64,0.018
+contactos_campana.csv,prioridad_contacto,object,Media
+contactos_campana.csv,store_id_personalizado,object,S003
+contactos_campana.csv,product_id_recomendado_1,object,P1068
+contactos_campana.csv,product_id_recomendado_2,object,P1053
+contactos_campana.csv,app_user_id,object,APP-00027
+contactos_campana.csv,conversion_30d_flag,int64,0
+contactos_campana.csv,order_id_conversion_30d,object,O-202400244
+contactos_campana.csv,ticket_id_conversion_30d,object,T-500730
+contactos_campana.csv,revenue_30d_eur,float64,0.0
+contactos_campana.csv,margen_30d_eur,float64,0.0
+contactos_campana.csv,fecha_conversion_30d,datetime64[ns],2024-03-03 11:49:23
+eventos_campana.csv,event_id,object,EV-0000001
+eventos_campana.csv,contact_id,object,CT-000001
+eventos_campana.csv,campaign_id,object,CAM-2024-001
+eventos_campana.csv,customer_id,object,C0008
+eventos_campana.csv,fecha_evento,datetime64[ns],2024-01-11 10:26:00
+eventos_campana.csv,tipo_evento,object,delivered
+eventos_campana.csv,order_id,object,O-202400194
+eventos_campana.csv,ticket_id,object,T-501176
+eventos_campana.csv,store_id,object,S001
+eventos_campana.csv,revenue_atribuido_eur,float64,0.0
+eventos_campana.csv,margen_atribuido_eur,float64,0.0
+eventos_campana.csv,device_type,object,mobile
+eventos_campana.csv,origen_evento,object,EMAIL
+eventos_web_app.csv,event_id,object,WEB-0006392
+eventos_web_app.csv,fecha_hora_evento,datetime64[ns],2024-01-01 08:09:00
+eventos_web_app.csv,session_id,object,SE-0001559
+eventos_web_app.csv,customer_id,object,C0086
+eventos_web_app.csv,cookie_id,object,CK-100085
+eventos_web_app.csv,device_id,object,DV-200085
+eventos_web_app.csv,usuario_online_id,object,UO-X100040
+eventos_web_app.csv,canal_adquisicion,object,crm
+eventos_web_app.csv,utm_source,object,newsletter
+eventos_web_app.csv,utm_medium,object,email
+eventos_web_app.csv,utm_campaign,object,CAM-2024-001
+eventos_web_app.csv,tipo_evento,object,page_view
+eventos_web_app.csv,page_type,object,home
+eventos_web_app.csv,product_id,object,P1065
+eventos_web_app.csv,categoria,object,Muebles
+eventos_web_app.csv,subcategoria,object,Sofás
+eventos_web_app.csv,search_term,object,mueble TV minimalista
+eventos_web_app.csv,store_id_interes,object,S005
+eventos_web_app.csv,valor_evento_eur,float64,0.0
+eventos_web_app.csv,order_id,object,O-202400600
+eventos_web_app.csv,consent_analytics,int64,0
+eventos_web_app.csv,logged_in_flag,int64,1
+promociones_calendario.csv,promo_id,object,PROMO-0027
+promociones_calendario.csv,nombre_promocion,object,Textil hogar bundle Jan 2024
+promociones_calendario.csv,fecha_inicio,datetime64[ns],2024-01-08 00:00:00
+promociones_calendario.csv,fecha_fin,datetime64[ns],2024-01-21 00:00:00
+promociones_calendario.csv,ambito,object,categoria_tienda
+promociones_calendario.csv,scope_id,object,Textil hogar|S001
+promociones_calendario.csv,tipo_promocion,object,bundle
+promociones_calendario.csv,descuento_pct,float64,10.0
+promociones_calendario.csv,descuento_importe_eur,float64,15.0
+promociones_calendario.csv,canal,object,PUSH
+promociones_calendario.csv,segmento_objetivo,object,VIP_OMNICANAL
+promociones_calendario.csv,store_id,object,S001
+promociones_calendario.csv,combinable,int64,1
+promociones_calendario.csv,umbral_cesta_eur,int64,150
+promociones_calendario.csv,objetivo_margen_min_pct,int64,18
+promociones_calendario.csv,campana_id_relacionada,object,CAM-2024-001
+cupones_clientes.csv,coupon_instance_id,object,CPN-000001
+cupones_clientes.csv,coupon_code,object,FSH20240001
+cupones_clientes.csv,campaign_id,object,CAM-2024-002
+cupones_clientes.csv,customer_id,object,C0045
+cupones_clientes.csv,fecha_emision,datetime64[ns],2024-02-05 15:28:00
+cupones_clientes.csv,fecha_inicio_validez,datetime64[ns],2024-02-05 15:28:00
+cupones_clientes.csv,fecha_fin_validez,datetime64[ns],2024-02-20 15:28:00
+cupones_clientes.csv,tipo_cupon,object,porcentaje
+cupones_clientes.csv,descuento_pct,float64,10.0
+cupones_clientes.csv,descuento_importe_eur,float64,15.0
+cupones_clientes.csv,gasto_minimo_eur,int64,150
+cupones_clientes.csv,categoria_restringida,object,Decoración
+cupones_clientes.csv,store_id_restringido,object,S001
+cupones_clientes.csv,canal_emision,object,EMAIL
+cupones_clientes.csv,estado_cupon,object,emitido
+cupones_clientes.csv,fecha_canje,datetime64[ns],2024-04-13 02:18:15
+cupones_clientes.csv,order_id,object,O-202400593
+cupones_clientes.csv,ticket_id,object,T-500189
+cupones_clientes.csv,importe_cesta_eur,float64,953.29
+cupones_clientes.csv,descuento_aplicado_eur,float64,114.39
+cupones_clientes.csv,margen_post_descuento_eur,float64,275.8
+tickets_atencion_cliente.csv,service_ticket_id,object,SRV-000266
+tickets_atencion_cliente.csv,fecha_apertura,datetime64[ns],2024-01-02 10:00:00
+tickets_atencion_cliente.csv,fecha_cierre,datetime64[ns],2024-01-02 11:00:00
+tickets_atencion_cliente.csv,customer_id,object,C0089
+tickets_atencion_cliente.csv,order_id,object,O-202400185
+tickets_atencion_cliente.csv,ticket_id,object,T-999999
+tickets_atencion_cliente.csv,store_id,object,S002
+tickets_atencion_cliente.csv,canal_soporte,object,Chat
+tickets_atencion_cliente.csv,tipo_caso,object,entrega
+tickets_atencion_cliente.csv,subtipo_caso,object,Incidencia
+tickets_atencion_cliente.csv,motivo_contacto,object,entrega
+tickets_atencion_cliente.csv,prioridad,object,Alta
+tickets_atencion_cliente.csv,sentimiento_inicial,object,Neutral
+tickets_atencion_cliente.csv,estado_resolucion,object,Escalado
+tickets_atencion_cliente.csv,sla_horas,float64,1.0
+tickets_atencion_cliente.csv,csat_1_5,int64,3
+tickets_atencion_cliente.csv,agente_id,object,AGT-012
+tickets_atencion_cliente.csv,importe_compensacion_eur,float64,14.81
+tickets_atencion_cliente.csv,texto_cliente,object,"Mi Lámparas pie Boreal ""Star"" asociado a pedido llegó más tarde de lo previsto y necesito una actualización del envío."
+tickets_atencion_cliente.csv,texto_resolucion,object,Se localiza el envío con el operador logístico y se actualiza la fecha estimada de entrega.
+feedback_clientes.csv,feedback_id,object,FB-000013
+feedback_clientes.csv,fecha_feedback,datetime64[ns],2024-01-09 16:24:45
+feedback_clientes.csv,customer_id,object,C0015
+feedback_clientes.csv,order_id,object,O-202400292
+feedback_clientes.csv,product_id,object,P1070
+feedback_clientes.csv,store_id,object,S002
+feedback_clientes.csv,canal_feedback,object,email_postcompra
+feedback_clientes.csv,tipo_feedback,object,review_producto
+feedback_clientes.csv,rating_1_5,float64,4.0
+feedback_clientes.csv,nps_0_10,float64,8.0
+feedback_clientes.csv,sentimiento,object,Neutral
+feedback_clientes.csv,tema_principal,object,calidad_producto
+feedback_clientes.csv,texto_feedback,object,"En general bien, pero el acabado del Aplique Boreal ""Star"" podría estar mejor rematado."
+feedback_clientes.csv,publicado_flag,int64,1
+feedback_clientes.csv,respondido_flag,int64,0
+costes_operativos_transaccion.csv,transaction_cost_id,object,CTC-000656
+costes_operativos_transaccion.csv,tipo_documento,object,ORDER
+costes_operativos_transaccion.csv,order_id,object,O-202400613
+costes_operativos_transaccion.csv,ticket_id,object,T-501169
+costes_operativos_transaccion.csv,customer_id,object,C9999
+costes_operativos_transaccion.csv,fecha_transaccion,datetime64[ns],2024-01-01 10:34:09
+costes_operativos_transaccion.csv,canal,object,ONLINE
+costes_operativos_transaccion.csv,store_id,object,S001
+costes_operativos_transaccion.csv,categoria_principal,object,Iluminación
+costes_operativos_transaccion.csv,ingreso_bruto_eur,float64,2336.15
+costes_operativos_transaccion.csv,descuento_total_eur,float64,253.44
+costes_operativos_transaccion.csv,coste_producto_eur,float64,1578.82
+costes_operativos_transaccion.csv,coste_logistico_eur,float64,7.82
+costes_operativos_transaccion.csv,coste_packaging_eur,float64,3.22
+costes_operativos_transaccion.csv,coste_ultima_milla_eur,float64,6.69
+costes_operativos_transaccion.csv,coste_pago_eur,float64,23.36
+costes_operativos_transaccion.csv,coste_servicio_eur,float64,1.82
+costes_operativos_transaccion.csv,coste_devolucion_esperado_eur,float64,84.1
+costes_operativos_transaccion.csv,cac_asignado_eur,float64,12.14
+costes_operativos_transaccion.csv,campaign_id_atribuida,object,CAM-2024-003
+costes_operativos_transaccion.csv,margen_contribucion_neto_eur,float64,618.18
+afinidad_tienda_cliente.csv,customer_id,object,C0001
+afinidad_tienda_cliente.csv,store_id_preferida,object,S005
+afinidad_tienda_cliente.csv,store_id_mas_cercana,object,S004
+afinidad_tienda_cliente.csv,distancia_km_store_mas_cercana,float64,36.0
+afinidad_tienda_cliente.csv,frecuencia_visita_tienda_12m,int64,3
+afinidad_tienda_cliente.csv,gasto_tienda_12m_eur,float64,1787.09
+afinidad_tienda_cliente.csv,gasto_online_12m_eur,float64,2631.83
+afinidad_tienda_cliente.csv,click_collect_propension,float64,0.299
+afinidad_tienda_cliente.csv,probabilidad_visita_30d,float64,0.235
+afinidad_tienda_cliente.csv,cluster_local,object,metropolitano
+afinidad_tienda_cliente.csv,es_capturable_localmente,int64,1
+afinidad_tienda_cliente.csv,ciudad_residencia,object,Sevilla
+afinidad_tienda_cliente.csv,provincia_residencia,object,Sevilla
+creatividades_segmento.csv,creative_id,object,CR-00001
+creatividades_segmento.csv,campaign_id,object,CAM-2024-001
+creatividades_segmento.csv,microsegmento,object,NUEVO_CONTACTABLE
+creatividades_segmento.csv,canal,object,EMAIL
+creatividades_segmento.csv,categoria_objetivo,object,multicategoría
+creatividades_segmento.csv,tono,object,urgencia_suave
+creatividades_segmento.csv,beneficio_principal,object,activar ventajas del club
+creatividades_segmento.csv,cta,object,Reservar ahora
+creatividades_segmento.csv,asunto,object,Tu hogar: ideas que encajan contigo
+creatividades_segmento.csv,copy_corto,object,Activar ventajas del club con una propuesta de multicategoría ajustada a tu perfil.
+creatividades_segmento.csv,copy_largo,object,Esta variante prioriza el tono urgencia_suave y el beneficio 'activar ventajas del club' para el segmento NUEVO_CONTACTA
+creatividades_segmento.csv,prueba_social,object,Selección recomendada por clientes similares
+creatividades_segmento.csv,prompt_base,object,Genera un mensaje EMAIL para FraSoHome. Segmento: NUEVO_CONTACTABLE. Objetivo: onboarding. Categoría: multicategoría. To
+creatividades_segmento.csv,guardrail_legal,object,No usar claims absolutos de precio (“el más barato”).
+creatividades_segmento.csv,open_rate,float64,0.365
+creatividades_segmento.csv,ctr,float64,0.082
+creatividades_segmento.csv,cvr,float64,0.02
+creatividades_segmento.csv,revenue_por_1000_envios_eur,float64,426.4
+creatividades_segmento.csv,winning_variant_flag,int64,0
+guardrails_marca_genai.csv,regla_id,object,GR-001
+guardrails_marca_genai.csv,categoria_regla,object,tono
+guardrails_marca_genai.csv,descripcion_regla,object,"Mantener un tono cercano, claro y premium; evitar lenguaje agresivo o sensacionalista."
+guardrails_marca_genai.csv,aplica_a_canal,object,all
+guardrails_marca_genai.csv,severidad,object,alta
+mapeo_casos_marketing_precision.csv,caso_id,int64,1
+mapeo_casos_marketing_precision.csv,caso,object,Resolución de identidad y customer 360 accionable
+mapeo_casos_marketing_precision.csv,datasets_principales,object,identidades_cliente.csv; identidades_cliente_ground_truth.csv; crm.csv; pedidos.csv; ventas_pos.csv
+mapeo_casos_marketing_precision.csv,pregunta_negocio,object,"¿Qué señales permiten unificar cliente online, tienda y fidelización?"
+mapeo_casos_marketing_precision.csv,output_esperado,object,"customer_id_canonico, tasa_match, duplicados resueltos"
+catalogo_datasets_marketing_precision.csv,dataset,object,identidades_cliente.csv
+catalogo_datasets_marketing_precision.csv,descripcion,object,Señales de identidad cross-canal para entity resolution
+catalogo_datasets_marketing_precision.csv,granularidad,object,señal individual
+catalogo_datasets_marketing_precision.csv,clave_principal,object,identity_signal_id
+catalogo_datasets_marketing_precision.csv,campos_clave,object,"customer_id_raw, email_hash, telefono_hash, tarjeta_fidelizacion_id, cookie_id, app_user_id, order_id, ticket_id"
+catalogo_datasets_marketing_precision.csv,casos_relacionados,object,1

@@ -1,0 +1,6 @@
+﻿pregunta_alumnos,indicador,datos_origen,formula_negocio,visual_sugerido
+¿Dónde se concentra la rotación voluntaria?,Tasa de rotación voluntaria mensual,raw_movimientos_personal + raw_hris_empleados + dim_calendario,Bajas voluntarias del mes / headcount medio del mes,Línea mensual + barras por departamento
+¿Qué colectivos tienen mayor exposición a abandono?,Empleados activos en alto riesgo,clima + desempeño + salario + formación + absentismo + horas extra,Score heurístico por empleado a partir de señales normalizadas,Barras por departamento + tabla de priorización
+¿La falta de desarrollo aparece en los datos?,Promociones 24m y desarrollo carrera,raw_movimientos_personal + raw_encuesta_clima_respuestas,Nº promociones 24m y media de desarrollo por empleado/departamento,Dispersión o barras comparativas
+¿La sobrecarga está relacionada con riesgo?,Horas extra medias y carga percibida,raw_horas_extra + raw_encuesta_clima_respuestas,Media mensual de horas extra y media de carga de trabajo,Dispersión o matriz por departamento
+¿Qué dice la voz del empleado?,Temas de comentarios de salida/clima,raw_exit_interviews + raw_encuesta_clima_respuestas,Clasificación cualitativa con ChatGPT y contraste con motivo RR.HH.,Tabla de temas + recuento por categoría

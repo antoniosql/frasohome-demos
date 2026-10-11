@@ -1,0 +1,821 @@
+﻿employee_id,departamento,ubicacion,rol,nivel,estado_actual,satisfaccion_1_10,engagement_1_10,comentario_clima
+FSH0001,Tienda física,Madrid,Visual Merchandiser,Semi Senior,Baja,5.6,4.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0002,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,5.9,5.4,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0003,Tienda física,Vigo,Vendedor/a,Junior,Activo,7.0,5.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0004,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,7.3,6.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0005,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Baja,6.0,6.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0006,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.2,7.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0007,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,8.5,7.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0008,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,7.2,5.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0009,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,7.1,8.7,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0010,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.3,6.4,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0011,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,6.1,6.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0012,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Activo,5.9,5.8,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0013,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,6.8,6.6,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0014,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,6.7,6.4,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0015,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.9,6.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0016,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,5.8,5.4,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0017,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.9,7.0,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0018,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,7.9,6.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0019,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.0,5.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0020,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.5,6.7,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0021,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,5.9,6.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0022,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,8.1,7.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0023,Tienda física,Bilbao,Jefe/a de Sección,Senior,Activo,6.0,6.7,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0024,Tienda física,Barcelona,Vendedor/a,Junior,Baja,6.7,6.7,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0025,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,5.5,4.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0026,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,10.0,9.2,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0027,Finanzas,Sede Central - A Coruña,Controller,Senior,Baja,8.4,6.9,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0028,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Baja,5.6,6.1,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0029,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.5,6.7,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0030,Tienda física,Bilbao,Vendedor/a,Junior,Activo,9.7,7.1,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0031,Tienda física,Madrid,Vendedor/a,Junior,Activo,8.2,9.0,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0032,Tienda física,A Coruña,Vendedor/a,Junior,Baja,7.2,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0033,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,8.7,7.7,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0034,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,7.0,6.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0035,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,6.5,4.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0036,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,5.7,5.8,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0037,Tienda física,Madrid,Vendedor/a,Junior,Activo,9.3,6.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0038,Tienda física,Barcelona,Jefe/a de Sección,Senior,Activo,10.0,7.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0039,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Activo,8.7,7.5,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0040,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.3,5.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0041,Tienda física,Sevilla,Vendedor/a,Junior,Activo,4.9,4.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0042,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Baja,6.8,6.7,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0043,Marketing,Madrid,Responsable comunicación,Manager,Activo,6.0,4.8,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0044,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.1,5.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0045,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.4,7.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0046,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,7.7,7.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0047,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,9.8,7.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0048,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Activo,7.3,5.9,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0049,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,5.5,4.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0050,Tienda física,Madrid,Vendedor/a,Junior,Activo,6.7,7.3,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0051,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,7.2,6.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0052,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Activo,5.4,5.7,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0053,IT y Datos,Sede Central - A Coruña,Data Engineer,Senior,Activo,8.4,8.0,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0054,Logística,Almacén Central - A Coruña,Responsable almacén,Manager,Activo,7.6,7.6,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0055,Tienda física,Madrid,Vendedor/a,Junior,Activo,4.1,3.6,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0056,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,6.1,6.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0057,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,5.0,6.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0058,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,6.7,6.1,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0059,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.8,7.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0060,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Baja,7.4,5.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0061,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Activo,6.5,6.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0062,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.9,7.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0063,Tienda física,Zaragoza,Store Manager,Manager,Activo,6.4,6.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0064,IT y Datos,Madrid,Desarrollador/a BI,Senior,Activo,7.8,6.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0065,Tienda física,Sevilla,Vendedor/a,Junior,Activo,5.4,5.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0066,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.8,5.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0067,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,4.6,4.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0068,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.4,6.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0069,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Activo,4.9,6.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0070,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.9,7.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0071,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.2,6.2,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0072,Tienda física,Madrid,Vendedor/a,Junior,Baja,7.1,6.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0073,Tienda física,Madrid,Vendedor/a,Junior,Baja,7.5,6.6,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0074,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,5.2,5.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0075,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,6.8,6.2,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0076,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,7.0,7.1,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0077,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.2,5.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0078,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,4.3,4.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0079,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,8.1,7.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0080,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,8.3,4.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0081,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,7.8,7.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0082,Tienda física,Valladolid,Vendedor/a,Junior,Baja,6.7,6.8,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0083,Tienda física,Madrid,Vendedor/a,Junior,Activo,6.2,6.1,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0084,Tienda física,Valencia,Vendedor/a,Junior,Baja,5.1,6.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0085,Tienda física,A Coruña,Vendedor/a,Junior,Baja,5.9,5.2,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0086,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,6.3,6.3,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0087,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Activo,5.2,5.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0088,Tienda física,A Coruña,Vendedor/a,Junior,Activo,6.5,6.1,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0089,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,7.3,5.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0090,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.2,7.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0091,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Activo,7.8,5.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0092,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,7.1,5.6,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0093,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.8,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0094,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,6.0,5.6,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0095,Atención al Cliente,Contact Center - A Coruña,Supervisor/a contact center,Manager,Activo,6.4,5.8,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0096,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.5,6.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0097,Tienda física,Málaga,Store Manager,Manager,Baja,5.6,5.9,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0098,Logística,Almacén Barcelona,Responsable almacén,Manager,Baja,5.7,4.0,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0099,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,8.3,6.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0100,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,5.9,6.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0101,Tienda física,Bilbao,Vendedor/a,Junior,Activo,4.7,3.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0102,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,5.4,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0103,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.1,6.8,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0104,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.4,5.8,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0105,Tienda física,Valladolid,Vendedor/a,Junior,Activo,7.8,6.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0106,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Baja,7.6,6.9,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0107,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Activo,5.3,6.4,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0108,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,5.4,4.8,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0109,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,7.0,7.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0110,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,6.9,5.8,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0111,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,5.9,4.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0112,IT y Datos,Sede Central - A Coruña,Desarrollador/a BI,Senior,Activo,5.4,4.9,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0113,Tienda física,Barcelona,Vendedor/a,Junior,Activo,2.9,4.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0114,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.6,7.7,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0115,Tienda física,Valladolid,Vendedor/a,Junior,Activo,5.5,5.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0116,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,8.4,7.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0117,E-commerce,Online - A Coruña,Analista CRO,Senior,Activo,7.3,5.5,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0118,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.1,5.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0119,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,7.0,5.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0120,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.1,6.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0121,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.0,7.9,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0122,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,7.5,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0123,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,7.2,5.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0124,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Activo,5.7,6.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0125,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.3,6.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0126,E-commerce,Online - A Coruña,Analista CRO,Senior,Activo,5.0,5.3,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0127,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.8,4.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0128,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.9,4.8,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0129,Marketing,Madrid,Especialista marketing,Semi Senior,Baja,7.4,5.7,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0130,IT y Datos,Madrid,Data Engineer,Senior,Activo,8.0,9.1,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0131,IT y Datos,Madrid,Desarrollador/a BI,Senior,Activo,7.0,6.3,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0132,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.3,5.8,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0133,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.7,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0134,Tienda física,Málaga,Vendedor/a,Junior,Baja,7.4,6.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0135,Tienda física,Bilbao,Vendedor/a,Junior,Activo,5.9,5.9,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0136,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Activo,4.4,6.2,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0137,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Baja,5.8,6.4,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0138,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,7.4,6.3,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0139,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,6.7,6.4,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0140,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.1,6.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0141,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,7.6,5.6,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0142,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,5.6,4.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0143,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.3,6.6,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0144,Tienda física,Vigo,Store Manager,Manager,Activo,6.5,6.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0145,IT y Datos,Sede Central - A Coruña,Desarrollador/a BI,Senior,Activo,6.1,5.0,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0146,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.7,7.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0147,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.9,8.1,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0148,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,8.5,6.8,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0149,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,7.3,7.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0150,Finanzas,Sede Central - A Coruña,Controller,Senior,Activo,10.0,8.3,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0151,Tienda física,Málaga,Vendedor/a,Junior,Activo,7.2,6.7,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0152,Logística,Almacén Madrid,Responsable almacén,Manager,Activo,4.5,4.5,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0153,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Baja,9.1,8.1,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0154,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.0,6.0,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0155,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,6.2,4.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0156,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.7,6.8,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0157,Tienda física,Vigo,Vendedor/a,Junior,Activo,6.5,7.6,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0158,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,5.8,6.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0159,Tienda física,Madrid,Vendedor/a,Junior,Activo,5.0,5.4,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0160,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,6.9,5.5,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0161,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,8.2,8.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0162,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,6.0,6.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0163,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Activo,6.7,7.8,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0164,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,6.6,4.5,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0165,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Baja,4.9,4.4,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0166,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.0,7.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0167,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Activo,7.4,5.4,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0168,Tienda física,Málaga,Vendedor/a,Junior,Activo,5.9,6.2,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0169,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.3,6.8,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0170,Tienda física,Sevilla,Jefe/a de Sección,Senior,Activo,5.1,5.0,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0171,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.3,5.2,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0172,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,8.2,5.9,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0173,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,7.8,6.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0174,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,6.1,7.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0175,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,6.7,8.0,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0176,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,4.7,7.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0177,Logística,Almacén Barcelona,Coordinador/a logística,Semi Senior,Activo,5.3,4.6,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0178,Tienda física,A Coruña,Jefe/a de Sección,Senior,Baja,6.6,8.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0179,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,6.6,6.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0180,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,4.9,5.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0181,RRHH,Madrid,HRBP,Senior,Activo,9.7,7.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0182,Tienda física,Málaga,Jefe/a de Sección,Senior,Baja,7.5,7.1,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0183,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,8.9,7.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0184,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.4,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0185,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,4.7,6.1,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0186,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,5.6,5.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0187,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.1,5.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0188,Tienda física,Vigo,Vendedor/a,Junior,Activo,5.4,5.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0189,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,7.1,5.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0190,Tienda física,Zaragoza,Store Manager,Manager,Activo,7.6,5.2,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0191,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.4,6.6,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0192,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.9,4.8,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0193,IT y Datos,Madrid,Responsable IT,Manager,Activo,5.9,5.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0194,Tienda física,Sevilla,Vendedor/a,Junior,Baja,6.6,6.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0195,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,7.7,6.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0196,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.7,5.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0197,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,7.7,7.9,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0198,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,7.7,6.8,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0199,RRHH,Madrid,HRBP,Senior,Activo,5.8,4.0,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0200,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,6.9,6.0,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0201,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,5.6,5.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0202,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.5,5.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0203,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Activo,6.6,4.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0204,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.6,7.1,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0205,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.6,7.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0206,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,7.5,6.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0207,Tienda física,Madrid,Vendedor/a,Junior,Activo,5.8,4.3,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0208,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.9,7.0,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0209,Tienda física,Málaga,Vendedor/a,Junior,Activo,7.1,5.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0210,Tienda física,Valladolid,Store Manager,Manager,Activo,5.5,5.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0211,Tienda física,Vigo,Vendedor/a,Junior,Baja,6.3,5.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0212,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Baja,7.7,7.9,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0213,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,8.0,5.1,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0214,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Baja,7.8,6.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0215,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Activo,5.4,5.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0216,Tienda física,Valencia,Vendedor/a,Junior,Baja,6.1,6.8,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0217,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,4.6,5.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0218,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,5.7,5.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0219,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.8,6.9,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0220,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,9.2,7.2,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0221,Tienda física,Sevilla,Jefe/a de Sección,Senior,Activo,6.6,6.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0222,Tienda física,Madrid,Vendedor/a,Junior,Activo,6.3,5.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0223,Tienda física,Valladolid,Store Manager,Manager,Activo,6.8,7.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0224,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,5.9,4.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0225,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Activo,5.7,5.4,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0226,Tienda física,Valencia,Vendedor/a,Junior,Activo,4.1,4.1,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0227,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.8,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0228,IT y Datos,Madrid,Desarrollador/a BI,Senior,Activo,6.6,5.5,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0229,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Baja,5.1,4.4,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0230,Compras,Sede Central - A Coruña,Category Manager,Senior,Baja,3.9,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0231,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.5,8.1,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0232,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Baja,6.8,6.8,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0233,Tienda física,Málaga,Vendedor/a,Junior,Activo,8.2,8.4,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0234,Logística,Almacén Barcelona,Planificador/a demanda,Senior,Activo,8.5,7.3,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0235,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.9,6.9,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0236,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,6.5,6.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0237,Logística,Almacén Barcelona,Responsable almacén,Manager,Activo,7.3,6.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0238,Tienda física,Valencia,Vendedor/a,Junior,Activo,6.9,6.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0239,IT y Datos,Madrid,Data Engineer,Senior,Activo,6.1,5.7,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0240,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.7,6.1,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0241,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.2,7.0,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0242,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,5.5,6.1,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0243,RRHH,Sede Central - A Coruña,Técnico/a selección,Semi Senior,Activo,5.8,4.8,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0244,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,6.0,7.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0245,Tienda física,Barcelona,Jefe/a de Sección,Senior,Baja,7.4,6.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0246,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.8,7.8,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0247,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,5.0,6.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0248,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,8.0,6.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0249,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.4,5.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0250,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,4.8,4.7,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0251,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Activo,6.1,5.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0252,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,7.4,6.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0253,Tienda física,Bilbao,Vendedor/a,Junior,Activo,8.7,7.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0254,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,4.8,5.9,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0255,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.0,7.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0256,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.0,4.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0257,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,8.9,7.4,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0258,Tienda física,Valencia,Vendedor/a,Junior,Activo,4.2,5.5,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0259,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Baja,8.8,8.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0260,Tienda física,Barcelona,Jefe/a de Sección,Senior,Activo,4.5,5.3,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0261,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Baja,6.6,7.5,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0262,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,6.1,6.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0263,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Baja,6.1,7.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0264,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,5.0,6.3,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0265,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,8.2,6.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0266,Tienda física,Madrid,Visual Merchandiser,Semi Senior,Activo,6.0,5.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0267,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.9,7.4,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0268,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,6.9,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0269,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.6,7.3,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0270,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.9,6.7,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0271,E-commerce,Online - Madrid,Analista CRO,Senior,Activo,6.8,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0272,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Baja,8.1,7.1,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0273,Tienda física,Valladolid,Vendedor/a,Junior,Activo,5.3,4.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0274,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,7.5,5.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0275,Tienda física,Vigo,Vendedor/a,Junior,Activo,8.1,7.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0276,Tienda física,Sevilla,Jefe/a de Sección,Senior,Baja,7.2,6.0,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0277,Atención al Cliente,Contact Center - A Coruña,Supervisor/a contact center,Manager,Baja,6.3,5.9,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0278,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Baja,8.5,7.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0279,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,7.6,5.5,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0280,Tienda física,Valencia,Jefe/a de Sección,Senior,Activo,5.9,5.0,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0281,Tienda física,Madrid,Visual Merchandiser,Semi Senior,Activo,6.7,6.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0282,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,5.7,5.3,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0283,Marketing,Madrid,CRM Specialist,Senior,Activo,5.8,4.1,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0284,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,6.7,7.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0285,Tienda física,Sevilla,Vendedor/a,Junior,Activo,5.0,5.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0286,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,6.2,6.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0287,Tienda física,Valencia,Vendedor/a,Junior,Baja,3.6,4.6,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0288,Tienda física,Valencia,Store Manager,Manager,Activo,4.7,6.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0289,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,8.3,8.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0290,Tienda física,Madrid,Vendedor/a,Junior,Activo,5.9,5.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0291,Tienda física,A Coruña,Vendedor/a,Junior,Activo,8.1,7.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0292,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.3,5.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0293,Tienda física,Vigo,Vendedor/a,Junior,Activo,6.0,5.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0294,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,7.9,7.1,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0295,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Baja,7.6,7.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0296,Marketing,Sede Central - A Coruña,Responsable comunicación,Manager,Baja,6.1,5.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0297,Tienda física,Valencia,Vendedor/a,Junior,Activo,6.5,5.9,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0298,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.0,4.8,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0299,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.1,7.2,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0300,Tienda física,Valencia,Jefe/a de Sección,Senior,Activo,6.5,7.4,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0301,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Baja,5.4,6.2,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0302,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,9.2,8.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0303,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.2,5.9,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0304,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.2,5.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0305,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,4.4,4.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0306,Tienda física,Valladolid,Vendedor/a,Junior,Baja,3.9,4.1,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0307,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.7,6.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0308,Logística,Almacén Barcelona,Planificador/a demanda,Senior,Activo,5.7,5.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0309,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.7,5.6,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0310,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.0,5.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0311,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Activo,8.5,7.0,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0312,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Activo,6.2,5.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0313,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.8,5.7,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0314,Tienda física,Málaga,Vendedor/a,Junior,Activo,3.6,4.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0315,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.4,4.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0316,Tienda física,Valladolid,Vendedor/a,Junior,Activo,7.1,7.3,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0317,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,6.6,6.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0318,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.5,6.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0319,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,7.9,7.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0320,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.0,4.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0321,Tienda física,Valencia,Jefe/a de Sección,Senior,Activo,4.7,4.1,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0322,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.2,6.4,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0323,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,5.9,5.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0324,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,9.6,7.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0325,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,7.9,5.4,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0326,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,5.3,5.6,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0327,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.0,7.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0328,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.2,5.3,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0329,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.9,6.7,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0330,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Activo,4.9,5.7,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0331,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Activo,6.6,5.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0332,Logística,Almacén Central - A Coruña,Responsable almacén,Manager,Activo,7.0,7.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0333,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.2,6.4,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0334,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Baja,6.1,6.6,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0335,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,9.1,9.5,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0336,IT y Datos,Madrid,Data Engineer,Senior,Activo,8.0,5.8,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0337,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,5.5,6.5,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0338,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,3.9,5.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0339,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,9.2,7.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0340,Tienda física,Valencia,Vendedor/a,Junior,Activo,8.9,7.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0341,Tienda física,Valencia,Vendedor/a,Junior,Activo,5.8,5.6,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0342,E-commerce,Online - Madrid,Analista CRO,Senior,Activo,8.9,9.8,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0343,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Activo,5.1,4.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0344,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.8,4.5,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0345,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,8.3,8.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0346,RRHH,Sede Central - A Coruña,People Analytics Analyst,Senior,Activo,6.2,5.1,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0347,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.5,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0348,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Activo,8.4,8.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0349,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,6.9,6.4,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0350,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,8.0,7.4,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0351,Tienda física,Bilbao,Jefe/a de Sección,Senior,Activo,7.4,8.7,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0352,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,6.8,6.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0353,Tienda física,A Coruña,Vendedor/a,Junior,Activo,6.4,6.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0354,Logística,Almacén Barcelona,Operario/a almacén,Junior,Baja,8.2,6.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0355,Tienda física,Sevilla,Store Manager,Manager,Activo,4.4,5.8,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0356,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,6.3,5.8,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0357,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,9.1,7.3,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0358,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,6.4,7.2,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0359,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.9,8.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0360,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Baja,6.2,6.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0361,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,7.8,7.1,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0362,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,5.4,5.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0363,Marketing,Madrid,Responsable comunicación,Manager,Activo,5.9,6.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0364,Tienda física,Vigo,Vendedor/a,Junior,Baja,3.8,5.4,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0365,Tienda física,Málaga,Vendedor/a,Junior,Activo,8.6,7.2,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0366,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,5.6,6.2,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0367,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,6.7,6.8,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0368,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,4.5,5.5,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0369,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,7.4,6.8,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0370,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,7.2,6.2,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0371,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,7.2,5.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0372,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,8.2,7.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0373,Tienda física,Barcelona,Vendedor/a,Junior,Baja,6.5,7.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0374,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.9,7.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0375,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,9.6,8.7,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0376,Tienda física,A Coruña,Vendedor/a,Junior,Baja,7.2,6.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0377,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,8.6,6.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0378,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.4,7.7,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0379,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.7,6.6,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0380,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.9,6.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0381,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,5.0,5.0,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0382,Tienda física,Madrid,Vendedor/a,Junior,Activo,6.1,5.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0383,Finanzas,Sede Central - A Coruña,Controller,Senior,Activo,6.9,6.4,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0384,Logística,Almacén Barcelona,Responsable almacén,Manager,Activo,6.2,6.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0385,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.8,4.6,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0386,Tienda física,Bilbao,Store Manager,Manager,Activo,5.5,5.3,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0387,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,5.3,4.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0388,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,5.3,6.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0389,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.8,7.4,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0390,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,6.4,5.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0391,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,5.0,6.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0392,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,4.8,5.1,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0393,Tienda física,Vigo,Vendedor/a,Junior,Activo,4.2,5.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0394,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,6.8,6.8,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0395,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,5.5,5.6,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0396,Tienda física,Barcelona,Vendedor/a,Junior,Activo,5.9,5.2,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0397,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,3.1,5.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0398,Tienda física,A Coruña,Vendedor/a,Junior,Baja,6.8,6.2,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0399,E-commerce,Online - Madrid,Analista CRO,Senior,Activo,7.5,7.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0400,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Baja,5.9,6.9,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0401,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,6.9,5.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0402,Tienda física,Bilbao,Vendedor/a,Junior,Baja,7.7,7.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0403,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,7.9,7.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0404,Tienda física,Zaragoza,Jefe/a de Sección,Senior,Activo,7.7,8.7,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0405,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Baja,6.7,6.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0406,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,7.2,6.9,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0407,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,8.6,7.3,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0408,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.6,6.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0409,Tienda física,Barcelona,Visual Merchandiser,Semi Senior,Activo,7.7,6.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0410,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,5.4,5.5,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0411,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.7,6.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0412,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.3,6.1,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0413,Finanzas,Sede Central - A Coruña,Controller,Senior,Baja,6.2,5.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0414,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.6,5.5,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0415,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Baja,6.8,5.4,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0416,Logística,Almacén Madrid,Responsable almacén,Manager,Activo,10.0,10.0,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0417,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.1,4.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0418,Tienda física,Valladolid,Vendedor/a,Junior,Activo,5.9,3.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0419,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,8.2,6.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0420,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Activo,6.1,6.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0421,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,8.0,8.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0422,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,7.4,5.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0423,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Activo,6.9,7.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0424,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Baja,5.2,6.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0425,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Baja,6.6,5.0,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0426,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,6.1,5.2,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0427,Tienda física,Vigo,Store Manager,Manager,Activo,7.6,7.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0428,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,5.6,5.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0429,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,2.9,4.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0430,Tienda física,Málaga,Vendedor/a,Junior,Activo,8.9,8.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0431,Tienda física,A Coruña,Visual Merchandiser,Semi Senior,Activo,6.7,7.7,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0432,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.0,5.8,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0433,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,6.3,5.4,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0434,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,7.5,6.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0435,Logística,Almacén Barcelona,Coordinador/a logística,Semi Senior,Activo,4.9,6.3,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0436,Tienda física,Valladolid,Vendedor/a,Junior,Activo,8.2,5.7,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0437,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,4.7,5.1,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0438,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.9,9.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0439,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,6.9,5.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0440,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,7.6,5.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0441,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Baja,6.7,5.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0442,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.6,6.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0443,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.7,5.7,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0444,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,7.9,8.0,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0445,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.5,5.5,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0446,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Baja,5.9,5.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0447,Tienda física,A Coruña,Vendedor/a,Junior,Activo,7.0,6.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0448,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,8.8,6.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0449,Tienda física,Barcelona,Jefe/a de Sección,Senior,Activo,6.4,5.4,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0450,E-commerce,Online - Madrid,Analista CRO,Senior,Baja,7.6,5.5,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0451,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,6.2,7.9,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0452,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,8.0,6.7,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0453,Tienda física,Vigo,Vendedor/a,Junior,Activo,7.5,6.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0454,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,5.9,6.7,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0455,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,5.4,5.3,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0456,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,7.3,8.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0457,Tienda física,Barcelona,Visual Merchandiser,Semi Senior,Activo,7.4,7.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0458,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,6.8,5.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0459,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,9.2,8.8,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0460,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Baja,5.8,6.2,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0461,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.8,7.1,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0462,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.1,6.9,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0463,IT y Datos,Madrid,Data Engineer,Senior,Activo,7.9,5.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0464,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,4.2,5.2,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0465,Finanzas,Sede Central - A Coruña,Controller,Senior,Activo,7.2,5.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0466,Tienda física,Málaga,Vendedor/a,Junior,Baja,7.5,6.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0467,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.5,4.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0468,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.0,5.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0469,Logística,Almacén Central - A Coruña,Coordinador/a logística,Semi Senior,Activo,7.4,5.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0470,Tienda física,Vigo,Vendedor/a,Junior,Activo,6.3,6.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0471,Tienda física,Barcelona,Visual Merchandiser,Semi Senior,Baja,5.5,6.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0472,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,8.2,7.2,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0473,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.5,6.9,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0474,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.6,6.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0475,Atención al Cliente,Contact Center - Madrid,Supervisor/a contact center,Manager,Baja,5.7,3.0,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0476,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,7.1,7.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0477,Finanzas,Sede Central - A Coruña,Controller,Senior,Baja,7.9,7.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0478,IT y Datos,Madrid,Desarrollador/a BI,Senior,Activo,5.5,5.4,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0479,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,7.2,8.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0480,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.1,6.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0481,E-commerce,Online - Madrid,Analista CRO,Senior,Activo,5.5,6.1,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0482,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,8.7,7.5,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0483,Tienda física,Bilbao,Vendedor/a,Junior,Activo,6.2,6.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0484,Tienda física,Valencia,Vendedor/a,Junior,Activo,7.2,6.4,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0485,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.8,6.7,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0486,Tienda física,Valencia,Vendedor/a,Junior,Activo,8.5,6.4,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0487,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,6.6,6.2,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0488,Tienda física,A Coruña,Vendedor/a,Junior,Activo,7.3,4.8,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0489,Tienda física,A Coruña,Vendedor/a,Junior,Activo,4.8,5.1,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0490,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,6.7,5.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0491,Tienda física,Valladolid,Store Manager,Manager,Activo,7.2,5.5,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0492,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,6.3,5.9,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0493,Tienda física,Vigo,Vendedor/a,Junior,Activo,5.6,6.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0494,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Activo,7.2,5.9,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0495,Compras,Sede Central - A Coruña,Category Manager,Senior,Baja,6.0,6.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0496,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,6.9,7.2,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0497,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,8.7,8.0,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0498,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Baja,6.3,6.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0499,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.7,5.5,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0500,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,5.9,5.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0501,Tienda física,Sevilla,Store Manager,Manager,Activo,8.7,7.7,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0502,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,7.2,6.6,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0503,Tienda física,A Coruña,Vendedor/a,Junior,Activo,9.6,8.7,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0504,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,5.4,5.1,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0505,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.5,4.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0506,Tienda física,Barcelona,Store Manager,Manager,Activo,8.1,7.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0507,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Activo,7.3,7.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0508,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,5.8,4.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0509,IT y Datos,Madrid,Desarrollador/a BI,Senior,Baja,6.3,6.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0510,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.6,5.2,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0511,Logística,Almacén Barcelona,Coordinador/a logística,Semi Senior,Activo,7.1,6.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0512,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.8,6.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0513,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,6.9,6.7,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0514,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.6,6.2,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0515,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,4.0,5.1,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0516,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,7.4,6.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0517,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,4.8,5.3,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0518,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,6.4,5.6,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0519,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.4,6.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0520,IT y Datos,Madrid,Data Engineer,Senior,Activo,6.2,5.9,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0521,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.8,7.2,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0522,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Baja,6.7,7.4,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0523,Tienda física,Valladolid,Vendedor/a,Junior,Activo,7.8,7.8,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0524,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,8.1,7.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0525,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.0,8.7,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0526,Tienda física,Barcelona,Vendedor/a,Junior,Activo,7.6,6.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0527,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Activo,8.2,8.0,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0528,Tienda física,Bilbao,Vendedor/a,Junior,Activo,5.4,5.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0529,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,6.9,7.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0530,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.9,4.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0531,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Baja,9.5,6.7,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0532,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.3,6.3,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0533,Finanzas,Sede Central - A Coruña,Controller,Senior,Activo,7.2,4.8,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0534,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,7.9,7.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0535,Tienda física,Bilbao,Jefe/a de Sección,Senior,Baja,5.3,5.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0536,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Activo,8.4,8.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0537,RRHH,Sede Central - A Coruña,HRBP,Senior,Activo,8.0,7.5,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0538,Tienda física,Sevilla,Jefe/a de Sección,Senior,Activo,7.3,6.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0539,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.1,5.7,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0540,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,7.6,6.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0541,Tienda física,A Coruña,Vendedor/a,Junior,Activo,6.6,6.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0542,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,5.4,7.2,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0543,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,8.0,7.4,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0544,Tienda física,Barcelona,Jefe/a de Sección,Senior,Baja,6.7,8.2,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0545,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,6.9,5.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0546,Tienda física,Barcelona,Vendedor/a,Junior,Baja,5.3,4.8,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0547,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.2,7.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0548,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.1,5.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0549,Tienda física,A Coruña,Vendedor/a,Junior,Baja,6.9,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0550,Tienda física,Barcelona,Jefe/a de Sección,Senior,Baja,7.4,7.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0551,Tienda física,Valladolid,Vendedor/a,Junior,Baja,6.9,7.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0552,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,8.7,8.2,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0553,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.7,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0554,Tienda física,Vigo,Vendedor/a,Junior,Activo,7.3,5.8,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0555,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,6.9,6.0,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0556,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,8.3,7.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0557,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Activo,5.4,5.7,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0558,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,7.0,5.7,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0559,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,6.4,6.7,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0560,Tienda física,Vigo,Store Manager,Manager,Activo,4.1,5.0,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0561,Tienda física,A Coruña,Visual Merchandiser,Semi Senior,Activo,6.6,6.7,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0562,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,9.9,7.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0563,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,7.6,8.0,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0564,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Activo,6.7,4.2,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0565,Logística,Almacén Barcelona,Operario/a almacén,Junior,Baja,8.8,9.0,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0566,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,6.8,5.2,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0567,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.1,5.0,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0568,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,5.8,6.7,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0569,RRHH,Sede Central - A Coruña,Técnico/a selección,Semi Senior,Activo,7.6,7.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0570,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,7.1,6.8,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0571,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.3,5.9,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0572,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,7.8,7.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0573,Tienda física,Vigo,Vendedor/a,Junior,Activo,6.1,5.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0574,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,6.4,6.7,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0575,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Baja,7.2,6.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0576,Tienda física,Vigo,Vendedor/a,Junior,Activo,7.5,6.2,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0577,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,6.8,6.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0578,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,6.3,6.4,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0579,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,8.3,8.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0580,Tienda física,A Coruña,Vendedor/a,Junior,Activo,5.7,6.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0581,Tienda física,Bilbao,Store Manager,Manager,Baja,5.0,6.4,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0582,Tienda física,A Coruña,Vendedor/a,Junior,Baja,6.3,5.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0583,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Baja,7.0,5.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0584,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,6.9,7.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0585,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.2,6.6,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0586,Tienda física,Valencia,Vendedor/a,Junior,Activo,6.4,5.5,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0587,Tienda física,A Coruña,Visual Merchandiser,Semi Senior,Activo,5.4,5.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0588,Tienda física,Málaga,Visual Merchandiser,Semi Senior,Baja,4.8,5.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0589,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Baja,4.8,5.1,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0590,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Activo,4.8,5.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0591,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.1,6.2,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0592,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,9.1,7.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0593,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,8.4,6.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0594,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,7.2,3.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0595,Tienda física,Vigo,Jefe/a de Sección,Senior,Activo,6.6,6.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0596,Marketing,Madrid,CRM Specialist,Senior,Activo,7.7,8.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0597,Tienda física,Málaga,Vendedor/a,Junior,Baja,6.1,5.0,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0598,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,8.1,7.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0599,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.5,5.1,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0600,Tienda física,Vigo,Vendedor/a,Junior,Activo,6.5,5.3,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0601,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,8.1,7.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0602,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Baja,6.7,5.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0603,IT y Datos,Sede Central - A Coruña,Analista datos,Semi Senior,Activo,6.2,5.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0604,Tienda física,Barcelona,Vendedor/a,Junior,Activo,5.0,5.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0605,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,9.1,7.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0606,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,7.6,6.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0607,Tienda física,Valencia,Vendedor/a,Junior,Activo,5.2,6.6,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0608,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,7.3,6.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0609,Tienda física,Madrid,Vendedor/a,Junior,Baja,7.0,6.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0610,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.3,5.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0611,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.5,6.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0612,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,6.8,6.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0613,Tienda física,Madrid,Vendedor/a,Junior,Baja,6.6,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0614,Tienda física,Barcelona,Store Manager,Manager,Activo,5.3,5.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0615,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.8,5.9,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0616,Tienda física,A Coruña,Store Manager,Manager,Activo,8.2,6.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0617,Logística,Almacén Barcelona,Responsable almacén,Manager,Activo,5.3,5.7,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0618,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,8.0,5.3,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0619,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.3,7.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0620,Logística,Almacén Madrid,Responsable almacén,Manager,Activo,7.0,6.6,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0621,Marketing,Sede Central - A Coruña,Responsable comunicación,Manager,Activo,7.2,6.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0622,Tienda física,Valladolid,Jefe/a de Sección,Senior,Activo,6.2,5.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0623,IT y Datos,Madrid,Analista datos,Semi Senior,Activo,6.4,6.3,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0624,Tienda física,Valencia,Jefe/a de Sección,Senior,Baja,6.0,5.4,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0625,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,7.3,5.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0626,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,7.7,6.6,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0627,Tienda física,Valladolid,Vendedor/a,Junior,Activo,4.9,6.5,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0628,Tienda física,Valladolid,Vendedor/a,Junior,Activo,6.9,6.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0629,Tienda física,Zaragoza,Visual Merchandiser,Semi Senior,Activo,7.7,5.8,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0630,Tienda física,Madrid,Jefe/a de Sección,Senior,Baja,5.9,5.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0631,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,5.5,4.7,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0632,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Baja,5.3,5.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0633,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,9.6,7.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0634,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,10.0,8.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0635,Tienda física,Madrid,Store Manager,Manager,Activo,5.6,5.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0636,Tienda física,Sevilla,Jefe/a de Sección,Senior,Activo,8.2,8.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0637,Tienda física,Valencia,Vendedor/a,Junior,Baja,5.5,5.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0638,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.3,5.3,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0639,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,6.3,4.6,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0640,Logística,Almacén Central - A Coruña,Responsable almacén,Manager,Activo,7.7,7.2,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0641,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,5.7,4.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0642,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,8.0,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0643,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,7.9,6.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0644,Tienda física,Vigo,Vendedor/a,Junior,Activo,5.6,7.3,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0645,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,5.8,6.1,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0646,IT y Datos,Sede Central - A Coruña,Desarrollador/a BI,Senior,Activo,7.3,7.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0647,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.0,5.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0648,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.5,5.0,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0649,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,8.5,8.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0650,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Baja,8.6,7.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0651,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,6.6,5.1,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0652,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,7.6,6.3,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0653,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,5.2,5.7,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0654,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.9,7.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0655,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,5.0,3.2,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0656,Tienda física,Valencia,Vendedor/a,Junior,Activo,6.5,4.8,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0657,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.5,7.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0658,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,6.7,6.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0659,Tienda física,Málaga,Vendedor/a,Junior,Baja,7.6,6.7,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0660,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.3,5.5,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0661,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.6,7.0,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0662,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,7.7,7.2,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0663,Tienda física,Sevilla,Vendedor/a,Junior,Baja,5.5,7.3,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0664,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,7.6,7.3,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0665,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Activo,4.7,5.9,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0666,Tienda física,Málaga,Vendedor/a,Junior,Activo,6.1,5.1,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0667,Tienda física,Valencia,Visual Merchandiser,Semi Senior,Activo,7.4,8.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0668,Tienda física,Málaga,Vendedor/a,Junior,Activo,7.3,5.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0669,Tienda física,Bilbao,Store Manager,Manager,Baja,6.1,9.1,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0670,Tienda física,Madrid,Vendedor/a,Junior,Baja,5.3,4.6,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0671,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,5.1,5.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0672,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.6,6.7,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0673,Tienda física,Sevilla,Vendedor/a,Junior,Activo,5.2,6.1,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0674,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,6.7,6.8,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0675,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Activo,7.2,6.1,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0676,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.7,6.9,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0677,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,7.6,6.0,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0678,Tienda física,A Coruña,Jefe/a de Sección,Senior,Activo,7.8,7.3,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0679,Finanzas,Sede Central - A Coruña,Controller,Senior,Baja,7.4,5.5,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0680,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,7.1,6.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0681,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,6.0,5.6,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0682,Tienda física,Sevilla,Store Manager,Manager,Activo,4.6,5.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0683,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Activo,7.9,6.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0684,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,7.2,6.4,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0685,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Activo,6.8,5.6,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0686,Logística,Almacén Barcelona,Planificador/a demanda,Senior,Activo,8.7,8.6,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0687,E-commerce,Online - A Coruña,Analista CRO,Senior,Activo,6.6,6.7,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0688,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,8.5,7.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0689,Logística,Almacén Madrid,Coordinador/a logística,Semi Senior,Activo,6.2,7.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0690,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,5.5,5.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0691,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,4.3,6.0,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0692,Logística,Almacén Central - A Coruña,Planificador/a demanda,Senior,Activo,7.1,7.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0693,Tienda física,A Coruña,Jefe/a de Sección,Senior,Baja,6.2,6.6,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0694,IT y Datos,Madrid,Desarrollador/a BI,Senior,Activo,6.5,5.8,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0695,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,6.7,6.2,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0696,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.3,5.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0697,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,8.1,7.8,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0698,Tienda física,Sevilla,Vendedor/a,Junior,Activo,8.3,8.1,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0699,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,6.0,4.8,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0700,Tienda física,Valencia,Vendedor/a,Junior,Activo,6.9,7.1,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0701,Tienda física,Sevilla,Vendedor/a,Junior,Activo,5.0,5.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0702,Tienda física,Valladolid,Store Manager,Manager,Activo,6.0,5.8,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0703,Compras,Sede Central - A Coruña,Category Manager,Senior,Baja,7.6,7.8,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0704,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Baja,4.1,4.8,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0705,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.9,6.3,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0706,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,9.7,7.6,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0707,Tienda física,Madrid,Vendedor/a,Junior,Baja,6.8,7.0,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0708,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.4,5.9,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0709,Logística,Almacén Central - A Coruña,Operario/a almacén,Junior,Activo,8.2,8.4,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0710,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,7.8,7.2,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0711,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,8.9,7.5,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0712,IT y Datos,Madrid,Desarrollador/a BI,Senior,Baja,4.6,5.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0713,Marketing,Madrid,CRM Specialist,Senior,Baja,8.5,6.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0714,Atención al Cliente,Contact Center - A Coruña,Supervisor/a contact center,Manager,Baja,5.5,6.2,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0715,Finanzas,Sede Central - A Coruña,Controller,Senior,Activo,7.8,5.5,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0716,Tienda física,Zaragoza,Jefe/a de Sección,Senior,Activo,9.2,7.7,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0717,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,7.4,6.4,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0718,Tienda física,Barcelona,Vendedor/a,Junior,Activo,5.4,6.4,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0719,Tienda física,Valladolid,Vendedor/a,Junior,Baja,5.5,5.6,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0720,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.3,7.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0721,Tienda física,Valladolid,Vendedor/a,Junior,Activo,9.3,9.3,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0722,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,9.1,8.0,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0723,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,8.2,7.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0724,Finanzas,Sede Central - A Coruña,Analista financiero,Senior,Activo,6.6,7.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0725,Tienda física,Valencia,Vendedor/a,Junior,Activo,4.9,5.4,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0726,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,5.8,6.4,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0727,Tienda física,Sevilla,Vendedor/a,Junior,Activo,7.5,6.1,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0728,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,6.8,6.5,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0729,Tienda física,Barcelona,Vendedor/a,Junior,Activo,6.7,6.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0730,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,7.0,5.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0731,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,6.7,5.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0732,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,8.7,6.9,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0733,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Baja,6.0,5.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0734,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Baja,3.9,4.7,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0735,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.5,6.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0736,Compras,Sede Central - A Coruña,Category Manager,Senior,Activo,8.5,6.8,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0737,Compras,Sede Central - A Coruña,Analista proveedores,Semi Senior,Activo,7.2,6.3,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0738,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,7.1,7.4,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0739,Tienda física,Valencia,Vendedor/a,Junior,Baja,6.2,6.0,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0740,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,7.9,7.6,El equipo se esfuerza mucho en campañas y falta reconocerlo de forma más visible.
+FSH0741,Tienda física,Madrid,Vendedor/a,Junior,Activo,7.7,7.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0742,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,6.1,6.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0743,Logística,Almacén Madrid,Operario/a almacén,Junior,Baja,7.9,6.7,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0744,Finanzas,Sede Central - A Coruña,Controller,Senior,Baja,5.6,5.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0745,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.5,5.1,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0746,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Baja,6.9,7.2,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0747,Tienda física,Bilbao,Vendedor/a,Junior,Activo,5.2,6.1,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0748,IT y Datos,Sede Central - A Coruña,Data Engineer,Senior,Activo,7.1,7.9,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0749,Tienda física,Madrid,Vendedor/a,Junior,Activo,8.0,6.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0750,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.9,4.5,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0751,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,7.4,7.5,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0752,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,5.7,6.5,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0753,Tienda física,A Coruña,Vendedor/a,Junior,Baja,6.9,7.2,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0754,Tienda física,Madrid,Vendedor/a,Junior,Baja,4.9,5.9,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0755,E-commerce,Online - A Coruña,Gestor/a catálogo online,Junior,Activo,7.1,5.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0756,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,5.8,5.3,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0757,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,5.0,5.6,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0758,E-commerce,Online - A Coruña,Especialista e-commerce,Semi Senior,Activo,5.9,5.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0759,Tienda física,Vigo,Vendedor/a,Junior,Activo,8.2,6.6,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0760,Tienda física,Barcelona,Jefe/a de Sección,Senior,Activo,6.3,5.4,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0761,Tienda física,Sevilla,Vendedor/a,Junior,Activo,9.2,6.6,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0762,Tienda física,Barcelona,Store Manager,Manager,Activo,6.3,5.3,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0763,Tienda física,Sevilla,Visual Merchandiser,Semi Senior,Activo,5.3,6.8,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0764,Tienda física,Sevilla,Vendedor/a,Junior,Activo,8.0,7.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0765,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,7.2,6.4,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0766,RRHH,Sede Central - A Coruña,HRBP,Senior,Baja,6.8,7.0,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0767,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Activo,7.8,5.9,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0768,Tienda física,Vigo,Vendedor/a,Junior,Activo,7.7,6.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0769,Tienda física,Valladolid,Jefe/a de Sección,Senior,Baja,6.5,4.8,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0770,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Activo,6.9,6.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0771,E-commerce,Online - Madrid,Gestor/a catálogo online,Junior,Activo,7.5,6.8,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0772,Marketing,Sede Central - A Coruña,CRM Specialist,Senior,Activo,5.9,5.0,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0773,Tienda física,Zaragoza,Vendedor/a,Junior,Baja,5.1,4.4,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0774,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,8.0,7.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0775,Logística,Almacén Madrid,Responsable almacén,Manager,Activo,8.9,7.4,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0776,Tienda física,Bilbao,Vendedor/a,Junior,Activo,7.3,7.4,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0777,Tienda física,A Coruña,Vendedor/a,Junior,Activo,8.6,6.4,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0778,Finanzas,Sede Central - A Coruña,Técnico/a administración,Semi Senior,Activo,8.3,7.3,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0779,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Activo,5.3,6.1,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0780,Atención al Cliente,Contact Center - Madrid,Agente soporte,Junior,Baja,6.2,5.7,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0781,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,5.6,3.9,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0782,E-commerce,Online - Madrid,Analista CRO,Senior,Activo,5.3,6.4,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0783,Tienda física,Sevilla,Vendedor/a,Junior,Baja,5.6,6.7,"Los beneficios son útiles, pero la revisión salarial pesa mucho en la motivación."
+FSH0784,Tienda física,Madrid,Jefe/a de Sección,Senior,Activo,5.8,6.6,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0785,Marketing,Madrid,Especialista marketing,Semi Senior,Activo,6.6,6.6,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0786,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.4,6.1,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0787,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Activo,5.8,5.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0788,Atención al Cliente,Contact Center - Madrid,Especialista postventa,Semi Senior,Baja,7.0,7.5,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0789,Tienda física,Vigo,Visual Merchandiser,Semi Senior,Activo,7.6,7.3,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0790,Atención al Cliente,Contact Center - A Coruña,Agente soporte,Junior,Baja,6.1,4.2,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0791,Logística,Almacén Barcelona,Operario/a almacén,Junior,Activo,5.9,7.1,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0792,Tienda física,Bilbao,Visual Merchandiser,Semi Senior,Activo,5.2,6.4,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0793,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.6,8.4,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0794,Tienda física,Valladolid,Visual Merchandiser,Semi Senior,Activo,6.2,6.0,La planificación de turnos podría mejorar para repartir mejor la presión.
+FSH0795,Tienda física,Barcelona,Vendedor/a,Junior,Activo,5.3,7.6,Me gusta el proyecto omnicanal y creo que la empresa está avanzando bien.
+FSH0796,Atención al Cliente,Contact Center - A Coruña,Especialista postventa,Semi Senior,Activo,6.3,7.5,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0797,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.7,6.5,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0798,Marketing,Sede Central - A Coruña,Especialista marketing,Semi Senior,Activo,6.5,6.0,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0799,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,8.0,6.7,Necesitamos conversaciones de seguimiento más regulares y orientadas a desarrollo.
+FSH0800,E-commerce,Online - Madrid,Product Owner e-commerce,Senior,Activo,6.8,5.5,Sería positivo recibir feedback más frecuente y no solo cuando hay errores.
+FSH0801,RRHH,Madrid,Técnico/a selección,Semi Senior,Activo,7.0,7.7,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0802,Tienda física,Vigo,Store Manager,Manager,Baja,7.0,7.1,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0803,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,6.5,6.3,"La compensación debería revisarse frente al mercado, sobre todo en puestos de alta demanda."
+FSH0804,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,7.0,5.6,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0805,Tienda física,Málaga,Vendedor/a,Junior,Activo,7.7,5.1,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0806,Logística,Almacén Madrid,Operario/a almacén,Junior,Activo,6.5,7.4,La calidad del liderazgo es desigual entre equipos; algunos managers necesitan más apoyo.
+FSH0807,E-commerce,Online - A Coruña,Product Owner e-commerce,Senior,Baja,7.7,7.9,"Hay ganas de crecer, pero no siempre se ven vacantes internas o itinerarios definidos."
+FSH0808,Tienda física,Málaga,Jefe/a de Sección,Senior,Activo,8.9,7.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0809,E-commerce,Online - Madrid,Especialista e-commerce,Semi Senior,Activo,4.2,5.4,Me gustaría tener un plan de carrera más claro y saber qué competencias necesito para promocionar.
+FSH0810,Tienda física,Zaragoza,Vendedor/a,Junior,Activo,6.1,7.2,Valoro el ambiente de equipo y la cercanía con clientes. Me siento parte de FraSoHome.
+FSH0811,Tienda física,Barcelona,Jefe/a de Sección,Senior,Activo,6.1,6.6,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0812,Tienda física,Valladolid,Vendedor/a,Junior,Baja,6.6,7.1,En picos de demanda la carga se dispara y cuesta mantener la calidad sin horas extra.
+FSH0813,Tienda física,Bilbao,Vendedor/a,Junior,Baja,7.3,7.2,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0814,Marketing,Sede Central - A Coruña,Responsable comunicación,Manager,Activo,5.2,6.0,"Hay buenos resultados, pero pocas ocasiones para celebrar el trabajo bien hecho."
+FSH0815,Tienda física,Sevilla,Vendedor/a,Junior,Activo,6.7,6.4,Me ayudaría que los responsables comuniquen mejor prioridades y expectativas.
+FSH0816,Compras,Sede Central - A Coruña,Técnico/a compras,Semi Senior,Activo,5.0,4.7,El salario no siempre refleja la responsabilidad asumida ni los cambios de rol.
+FSH0817,Tienda física,Zaragoza,Store Manager,Manager,Activo,6.9,6.5,"Cuando falta personal, el resto del equipo asume demasiadas tareas."
+FSH0818,Tienda física,Barcelona,Jefe/a de Sección,Senior,Baja,7.1,8.1,Necesitamos más formación práctica y oportunidades de movilidad interna.
+FSH0819,Logística,Almacén Madrid,Planificador/a demanda,Senior,Activo,7.1,8.9,La cultura es colaborativa y los compañeros ayudan mucho en momentos de presión.
+FSH0820,Tienda física,Barcelona,Vendedor/a,Junior,Activo,5.6,6.0,Necesitamos más formación práctica y oportunidades de movilidad interna.

@@ -1,0 +1,15 @@
+﻿archivo,campo_o_grupo,descripcion,uso_analitico
+raw_hris_empleados.csv,employee_code_raw,"Identificador de empleado tal como llega del HRIS. Requiere TRIM, UPPER y eliminación de guiones.",Clave de empleado
+raw_hris_empleados.csv,fecha_alta_txt / fecha_salida_txt,Fechas en formatos mixtos. Convertir a tipo fecha con cultura es-ES y gestión de errores.,"Altas, bajas y antigüedad"
+raw_hris_empleados.csv,departamento_raw,Etiqueta de departamento con variantes. Cruzar con dim_departamentos_mapeo.,Segmentación y filtros
+raw_hris_empleados.csv,estado_raw / tipo_salida_raw,Estado y tipo de salida no normalizados. Homologar categorías.,"Activo, baja, abandono voluntario"
+raw_movimientos_personal.csv,tipo_movimiento_raw,"Altas, bajas, promociones y cambios con variantes textuales. Homologar.","Cálculo de rotación, promociones y headcount"
+raw_movimientos_personal.csv,fecha_movimiento_txt,Fecha del movimiento. Convertir a fecha.,Evolución mensual
+raw_encuesta_clima_respuestas.csv,dimension_raw / score_raw,Encuesta en formato largo. Limpiar score y pivotar/promediar por empleado y dimensión.,"Satisfacción, engagement, manager, desarrollo, carga"
+raw_encuesta_clima_respuestas.csv,comentario_abierto_raw,Texto libre. Puede resumirse con ChatGPT por temas y sentimiento.,Voz del empleado
+raw_evaluaciones_desempeno.csv,evaluacion_global_raw,Puntuación con coma decimal o valores no evaluados. Convertir a número y filtrar no válidos.,Desempeño
+raw_absentismo.csv,dias_laborables_raw,Días por episodio. Validar negativos y fechas fin anteriores.,Absentismo 12m
+raw_horas_extra.csv,periodo_mes_txt / horas_extra_raw,Periodo en formatos mixtos y horas como texto. Normalizar y agregar.,Carga de trabajo
+raw_formacion.csv,horas_realizadas_raw / estado_curso_raw,Horas y estado del curso. Agregar solo completados/finalizados.,Horas formación 12m
+raw_salarios_beneficios.csv,salario_base_anual_raw / incremento_aplicado_pct_raw,Importes con € y separadores. Limpiar a número.,Compensación e incremento salarial
+raw_exit_interviews.csv,comentario_salida_raw / motivo_salida_rrhh_raw,Comentarios de entrevista de salida y motivo registrado por RR.HH.,Análisis de abandono y ChatGPT

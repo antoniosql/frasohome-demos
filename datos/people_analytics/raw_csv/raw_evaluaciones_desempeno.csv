@@ -1,0 +1,1133 @@
+﻿evaluacion_id,employee_code_raw,ciclo_evaluacion,fecha_evaluacion_txt,evaluacion_global_raw,cumplimiento_objetivos_pct_raw,competencias_1_5_raw,potencial_raw,evaluador_code_raw,comentario_manager_raw,fuente
+EVA000001,FSH0001,2024,15-12-24,3.8,92.4,"3,9",Muy alto,FSH0260,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000002,FSH0001,2025,2026-01-11,3.9,"98,9",3.9,Medio,FSH0784,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000003,FSH0002,2024,2024-11-19,5.0,102.4%,4.9,Alto,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000004,FSH0002,2025,2025-12-06,"4,1","88,5",3.7,Alto,FSH0095,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000005,FSH0003,2025,2026-01-04,5.0,"95,2","4,8",Medio,FSH0326,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000006,FSH0004,2025,2025-12-24,"3,1","100,3","3,1",Medio,FSH0201,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000007,FSH0005,2024,2024-12-30,3.7,93.6%,3.8,Alto,FSH0416,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000008,fsh0005,2025,2025-12-29,3.6,105.0,3.1,Medio,FSH0075,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000009,FSH0006,2024,12-12-24,"4,8",83.5%,4.8,Medio,FSH0487,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000010,FSH0006,2025,2025-11-17,4.4,"117,7",4.6,Medio,FSH0248,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000011,FSH-0007,2025,2025-11-24,"3,1",92.8,3.6,Bajo,FSH0075,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000012,FSH0008,2025,2026-01-14,"3,4",86.6,3.5,Alto,FSH0596,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000013,FSH0009,2025,2025-11-16,2.7,91.2,"2,6",Alto,FSH0061,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000014,FSH0010,2025,06/01/2026,"4,6",98.3,"4,5",Medio,FSH0091,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000015,FSH0011,2024,18/12/2024,"3,2",95.2,3.3,Medio,FSH0145,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000016,FSH0011,2025,17/11/25,3.2,"96,3",2.7,Alto,FSH0694,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000017,FSH0012,2025,2026-01-08,3.4,90.5,3.1,Medio,FSH0784,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000018,FSH0013,2024,13/01/2025,No evaluado,88.9%,2.7,Medio,FSH0180,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000019,FSH0013,2025,2025-11-15,2.6,89.9,2.8,Medio,FSH0237,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000020,FSH0014,2024,18/11/24,4.3,90.8%,3.9,Medio,FSH0772,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000021,FSH0014,2025,18-11-25,"4,3","99,7",,Medio,FSH0536,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000022,FSH0015,2024,2024-12-25,"3,1",95.3,"2,9",Bajo,FSH0538,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000023,FSH0015,2025,2025-12-06,3.4,78.9,3.7,Medio,FSH0190,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000024,FSH0016,2024,03/12/2024,4.0,80.9,3.9,Muy alto,FSH0080,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000025,FSH0016,2025,17/12/2025,3.6,"89,0",4.0,Medio,FSH0201,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000026,FSH0017,2024,2025-01-04,"3,5",80.8,"3,7",Medio,FSH0210,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000027,FSH0017,2025,31/12/2025,3.5,"83,2",,Medio,FSH0288,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000028,FSH0018,2024,2024-11-26,"2,7","82,4","3,0",Medio,FSH0107,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000029,FSH0018,2025,01-12-25,3.0,101.2,"2,7",Medio,FSH0061,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000030,FSH0019,2024,2024-12-17,3.4,86.5,"3,2",Medio,FSH0616,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000031,FSH0019,2025,22/11/2025,3.2,94.5,2.9,Bajo,FSH0160,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000032,FSH0020,2025,2025-12-26,2.8,"91,2","3,0",Medio,FSH0109,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000033,FSH0021,2024,20/12/2024,"3,7",105.6%,3.4,Medio,FSH0537,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000034,FSH0021,2025,15-12-25,3.9,107.0,3.4,Bajo,FSH-0346,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000035,FSH0022,2024,30/11/2024,"4,6","98,9",4.4,Alto,FSH0596,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000036,FSH0022,2025,2026-01-09,3.7,"92,7","3,4",Medio,FSH0621,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000037,FSH0023,2025,18-11-25,3.7,97.7,4.0,Muy alto,FSH0289,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000038,FSH0024,2025,10-12-25,"2,4","76,3","2,5",Medio,FSH0294,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000039,FSH0025,2024,16-11-24,2.4,92.2,"2,5",Bajo,FSH0294,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000040,FSH0025,2025,2025-12-29,2.9,96.8%,2.9,Medio,FSH0702,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000041,FSH0026,2025,28/12/25,3.3,"87,9",3.5,Alto,FSH0524,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000042,FSH0027,2025,12/12/2025,"3,0",78.5%,2.6,Alto,FSH0331,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000043,FSH0028,2024,04-12-24,"3,1","86,7","3,2",Medio,FSH0513,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000044,FSH0028,2025,2025-11-25,3.1,"98,5",,Medio,FSH0035,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000045,FSH0029,2024,2024-12-30,3.9,"98,4","4,0",Alto,FSH0288,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000046,FSH0029,2025,2026-01-04,"3,5","92,1",3.6,Alto,FSH0351,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000047,FSH0030,2025,16/12/25,4.4,"101,5",4.5,Muy alto,FSH0404,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000048,FSH0031,2024,08/01/2025,"3,2",97.4%,3.1,Muy alto,FSH0552,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000049,FSH0031,2025,2025-12-31,3.3,"91,3","3,6",Medio,FSH0455,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000050,FSH0032,2024,2024-12-23,"4,1","80,2","4,2",Alto,FSH0051,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000051,FSH0032,2025,2025-12-15,"4,4","98,1",4.7,Alto,FSH0183,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000052,FSH0033,2025,06-12-25,4.2,97.6,4.0,Medio,FSH0186,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000053,FSH0034,2025,01-01-26,"4,0","96,4","4,3",Muy alto,FSH0399,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000054,FSH0035,2025,2025-12-30,4.0,"101,6",3.4,Alto,FSH0736,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000055,FSH0036,2024,21/11/2024,,102.6,4.5,Muy alto,FSH0092,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000056,FSH0036,2025,26-11-25,4.4,95.3,"4,7",Alto,FSH0288,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000057,FSH0037,2024,16/12/2024,"3,2","73,3%","3,0",Medio,FSH0678,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000058,FSH0037,2025,19-11-25,2.8,86.2,3.0,Alto,FSH0023,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000059,FSH0038,2024,01/12/2024,"3,1",84.4,3.3,Medio,FSH0506,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000060,FSH0038,2025,31/12/2025,3.1,88.1,"3,1",Medio,FSH0682,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000061,FSH0039,2025,15-12-25,4.4,"100,0%","4,5",Bajo,FSH0685,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000062,FSH0040,2025,2025-12-22,"2,3",80.9%,2.5,Medio,FSH0811,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000063,FSH0041,2025,27/12/25,"3,4","91,6%",3.1,Alto,FSH0051,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000064,FSH0042,2025,31/12/2025,3.9,95.9,"3,6",Medio,FSH0524,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000065,FSH0043,2024,2024-12-16,4.1,104.6%,"3,8",Alto,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000066,FSH0043,2025,2025-12-05,"4,1",100.7%,"3,9",Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000067,FSH0044,2025,15-11-25,3.2,"92,2%","3,4",Medio,FSH0384,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000068,FSH0045,2025,2026-01-11,3.6,76.8%,,Medio,FSH0655,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000069,FSH0046,2025,2025-12-06,"4,0",94.0,4.1,Medio,FSH0748,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000070,FSH0047,2025,28/11/25,"4,4",98.9%,"4,4",Alto,FSH0152,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000071,FSH0048,2025,11-01-26,4.9,120.5%,"4,6",Medio,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000072,fsh0049,2025,18/11/2025,3.2,99.7,"3,1",Alto,FSH0181,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000073,FSH0050,2024,2025-01-05,3.2,107.6,3.4,Medio,FSH0038,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000074,FSH0050,2025,08/12/2025,3.0,92.0,"3,4",Medio,FSH0426,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000075,FSH0051,2024,27/12/2024,"4,3",93.0,"4,4",Medio,FSH0636,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000076,FSH0051,2025,23/11/2025,3.9,82.5%,3.8,Medio,FSH0762,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000077,FSH0052,2024,08-12-24,"3,7","89,9",3.8,Medio,FSH0186,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000078,FSH0052,2025,2025-12-25,3.6,"93,7","3,7",Medio,FSH0803,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000079,FSH0053,2025,2025-11-15,4.1,94.4,"3,9",Alto,FSH0228,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000080,FSH0054,2024,24/12/2024,"4,4",96.4,"4,6",Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000081,FSH0054,2025,2025-11-18,"3,9",107.7%,3.9,Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000082,FSH0055,2025,07/12/2025,3.8,88.5,3.8,Muy alto,FSH0716,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000083,FSH0056,2025,2026-01-05,"2,9","96,3",3.0,Medio,FSH0645,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000084,FSH0057,2024,10/01/2025,"1,9",84.8,"2,1",Alto,FSH0416,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000085,FSH0057,2025,03/12/2025,2.3,"80,6","2,5",Alto,FSH0234,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000086,FSH0058,2024,2024-12-29,3.4,90.5%,3.1,Alto,FSH0268,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000087,FSH0058,2025,2025-11-20,"3,3","100,0",3.5,Alto,FSH0740,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000088,FSH0059,2024,2024-12-05,2.2,95.0%,2.4,Medio,FSH0404,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000089,FSH0059,2025,2026-01-09,2.0,"86,5","1,4",Medio, FSH0560 ,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000090,FSH0060,2024,2024-12-04,"3,8",96.2,3.9,Medio,FSH0645,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000091,FSH0060,2025,2025-12-12,3.4,"94,8",3.6,Alto,FSH0476,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000092,FSH0061,2025,25/12/2025,3.6,102.8%,"3,8",Alto,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000093,FSH0062,2024,2024-11-21,3.6,"95,4","2,7",Medio,FSH0280,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000094,FSH0062,2025,03-12-25,"3,4",89.9,"3,2",Medio,FSH0426,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000095,FSH0063,2024,07/12/2024,4.8,108.5,4.7,Bajo,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000096,fsh0063,2025,2025-12-15,4.4,97.3,"4,3",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000097,FSH0064,2025,2026-01-12,3.0,"85,7","2,6",Bajo,FSH0239,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000098,FSH0065,2025,17/11/25,2.7,73.3,2.7,Alto,FSH0762,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000099,FSH0066,2024,29/12/24,"4,1","93,3","4,2",Bajo,FSH0061,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000100,FSH0066,2025,2025-12-28,"3,7","100,5",3.5,Medio,FSH0095,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000101,FSH0067,2025,09/01/2026,"3,6",93.6%,"3,4",Medio,FSH0819,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000102, FSH0068 ,2025,08/01/2026,3.8,"108,2","4,2",Alto, FSH0501 ,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000103,FSH0069,2024,18/12/2024,"2,5",87.7,"2,7",Medio,FSH0043,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000104,FSH0069,2025,05-01-26,2.8,94.2,"2,8",Medio,FSH0043,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000105,FSH0070,2024,2025-01-14,"3,3",83.8,3.2,Medio,FSH0092,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000106,fsh0070,2025,27/12/2025,"2,8",80.4,"3,0",Medio,FSH0803,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000107,FSH0071,2025,21-11-25,3.6,"89,1",3.6,Medio,FSH0251,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000108,FSH0072,2025,23/12/25,,106.7,4.8,Medio,FSH0038,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000109,FSH0073,2025,12/01/2026,"3,5",85.7%,"3,8",Medio,FSH0690,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000110,FSH0074,2025,2026-01-14,"4,3","103,0","4,0",Alto,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000111,FSH0075,2024,2025-01-10,3.8,95.6,4.0,Medio,FSH0308,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000112,FSH0075,2025,16/11/25,"4,3","106,4%",4.4,Alto,FSH0039,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000113,FSH0076,2025,2025-11-21,3.6,94.2,3.7,Medio,FSH0228,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000114,FSH0077,2025,02/01/2026,3.9,89.4%,4.3,Medio,FSH0321,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000115,FSH0078,2025,20/11/2025,5.0,118.4,"5,0",Alto,FSH0491,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000116,FSH0079,2025,17/12/25,"4,0",98.6,3.9,Medio,FSH0740,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000117,FSH0080,2024,2024-12-04,4.9,"98,5%",4.3,Medio,FSH0518,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000118,FSH0080,2025,2025-11-29,"4,7",80.9%,"4,5",Medio,FSH0403,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000119,FSH0081,2024,2024-12-29,3.5,"95,3","3,3",Medio,FSH0560,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000120,FSH0081,2025,23/11/2025,3.4,"93,3",3.3,Medio,fsh0300,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000121,FSH0082,2024,2025-01-04,"3,2",89.8,"3,4",Medio,FSH0164,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000122,FSH0082,2025,2026-01-04,3.5,85.4,3.3,Alto,FSH0427,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000123,FSH0083,2025,07/12/2025,2.8,78.8,2.3,Medio,FSH0584,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000124,FSH0084,2025,22/12/2025,"2,7","82,8",2.9,Medio,FSH0092,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000125,FSH0085,2025,2025-12-05,"5,0","106,4",5.0,Alto,FSH0294,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000126,FSH0086,2024,2024-11-16,4.0,93.4,,Bajo,FSH0596,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000127,FSH0086,2025,26/11/2025,4.0,103.3,4.3,Medio,FSH0091,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000128,FSH0087,2025,23-12-25,"3,3",85.6,3.3,Alto,FSH0078,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000129,FSH0088,2025,2025-11-21,4.1,"95,9","4,2",Muy alto,FSH0160,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000130,FSH0089,2025,2025-12-01,"3,1","103,3",3.4,Medio,FSH0399,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000131,FSH0090,2025,2025-11-21,"3,0","86,0",3.1,Muy alto,FSH0386,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000132,FSH0091,2024,11/12/2024,"4,2",102.2,4.2,Alto,FSH0621,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000133,FSH0091,2025,2025-12-04,"3,8",99.0%,3.6,Alto,FSH0772,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000134,fsh0092,2025,23-12-25,"3,4","87,7","3,1",Medio,FSH0170,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000135,FSH0093,2025,2025-12-01,"3,7",97.1,3.7,Medio,FSH0568,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000136,FSH0094,2025,04/12/25,3.8,88.8%,3.8,Medio,FSH0061,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000137,FSH0095,2025,2025-11-17,"2,9","92,0%","3,4",Medio,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000138,FSH0096,2025,13-12-25,3.2,98.7,2.6,Medio,FSH0481,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000139,FSH0097,2025,28/12/2025,5.0,106.9,5.0,Bajo,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000140,FSH0098,2025,11/12/2025,3.6,83.1,3.7,Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000141,FSH0099,2025,2025-12-09,"3,5",91.1,3.8,Medio,FSH0595,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000142,FSH0100,2024,12/12/2024,"3,7","87,9","3,7",Medio,FSH0560,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000143,FSH0100,2025,07/12/2025,3.6,"92,7","3,6",Alto,FSH0186,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000144,FSH0101,2024,2024-12-28,"4,4",93.4,4.6,Alto,FSH0635,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000145,fsh0101,2025,2025-12-18,"4,0",94.6,"4,1",Muy alto,FSH0351,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000146,FSH0102,2024,2024-11-16,2.9,88.2,2.9,Alto,FSH0325,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000147,FSH0102,2025,2026-01-10,"2,9",99.9,"3,1",Alto,FSH0500,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000148,FSH0103,2024,2024-12-12,3.2,103.0,3.2,Medio,FSH0386,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000149,FSH0103,2025,2026-01-06,3.3,"94,3",3.1,Medio,FSH0455,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000150,FSH0104,2025,27/11/25,4.9,"100,2%",4.7,Medio,FSH0538,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000151,FSH0105,2025,12/01/2026,"3,8","96,1%","4,0",Muy alto,FSH0784,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000152,FSH0106,2025,28/12/25,2.7,"89,5",3.1,Alto,FSH0069,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000153,FSH0107,2024,28/12/2024,3.7,95.4,"3,4",Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000154,FSH0107,2025,19/11/2025,4.0,89.6,4.3,Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000155,FSH0108,2024,2024-12-26,"4,2",92.5,3.7,Medio,FSH0621,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000156,FSH0108,2025,2025-12-01,"4,4",93.7%,4.3,Medio,FSH0283,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000157,FSH0109,2025,2025-12-16,3.0,78.1,2.9,Bajo,FSH0685,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000158,FSH0110,2025,17-11-25,3.8,105.6,3.6,Muy alto,FSH0069,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000159,FSH0111,2024,2024-12-27,"4,2",89.4,"3,9",Muy alto,FSH0107,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000160,FSH0111,2025,05-01-26,4.5,105.3,"4,5",Medio,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000161, FSH0112 ,2025,2025-11-15,3.5,100.7%,4.0,Alto,FSH0131,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000162,FSH0113,2024,2024-11-18,"1,2",77.3%,"1,0",Medio,FSH0636,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000163,FSH0113,2025,2025-12-06,"1,8","85,7",1.7,Alto,FSH0760,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000164,FSH0114,2025,2025-12-06,4.7,102.8,4.4,Bajo,FSH0487,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000165,FSH0115,2024,2025-01-08,3.4,92.5,3.7,Alto,FSH0426,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000166,FSH0115,2025,2025-11-16,3.5,"86,6","3,4",Medio,FSH0595,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000167,FSH0116,2024,2025-01-09,3.9,89.6,"4,2",Medio,FSH0201,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000168,FSH0116,2025,26-11-25,"3,6","93,7",3.7,Medio,FSH0513,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000169,FSH0117,2024,2024-12-23,3.5,88.3,3.6,Alto,FSH0606,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000170,FSH0117,2025,2025-11-22,"3,4",86.0,"3,3",Alto,FSH0782,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000171,FSH0118,2024,2024-11-24,2.8,"89,7","2,8",Medio,FSH0404,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000172,FSH0118,2025,2025-12-20,"2,6",75.7,"2,3",Medio,FSH0183,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000173,FSH0119,2025,15-12-25,3.6,96.0,"3,8",Alto,FSH0252,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000174,FSH0120,2025,2025-11-20,3.1,80.9,2.9,Medio,FSH0645,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000175,FSH0121,2025,28-12-25,"5,0","106,1",5.0,Alto,FSH0518,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000176,FSH0122,2024,2024-12-23,3.5,"94,5%","3,4",Medio,FSH0342,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000177,FSH0122,2025,2025-12-27,"4,1","110,9%",4.2,Alto,FSH0757,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000178,FSH0123,2024,2025-01-03,"2,9","92,2","2,6",Alto,FSH0427,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000179,FSH0123,2025,15/12/2025,2.8,"103,0%",2.4,Medio,FSH0702,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000180,FSH0124,2024,2024-12-29,"5,0","109,8",4.9,Bajo,FSH0449,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000181,FSH0124,2025,2025-12-30,4.7,107.9,"4,6",Medio,FSH0038,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000182,FSH0125,2024,05/01/2025,2.6,"89,3","2,3",Alto,FSH0819,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000183,FSH0125,2025,03/01/26,2.8,"85,6",2.7,Medio,FSH0617,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000184,FSH0126,2025,2025-11-28,"3,8",92.7,3.9,Alto,FSH0388,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000185,FSH0127,2025,27-12-25,"2,1",77.0,"2,1",Alto,FSH0061,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000186,FSH0128,2025,2025-12-15,3.5,89.0%,"3,9",Medio,FSH0054,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000187,FSH0129,2024,2024-11-17,"4,7",104.5,"4,9",Medio,FSH0091,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000188,FSH0129,2025,2025-12-27,4.6,"97,0%",4.8,Medio,FSH-0536,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000189,FSH0130,2025,2025-12-17,3.2,93.4%,2.8,Alto,FSH0239,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000190,FSH0131,2025,05/01/26,"2,5",73.6%,2.4,Muy alto,FSH0478,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000191, FSH0132 ,2025,23-12-25,2.8,76.8,"2,7",Medio,FSH0426,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000192,FSH0133,2025,31/12/2025,"3,4","84,1%","3,4",Medio,FSH0061,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000193,FSH0134,2024,13-12-24,4.4,"99,8","4,3",Bajo,FSH0248,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000194,FSH0134,2025,20/11/25,"3,9","99,3","3,7",Medio,FSH0221,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000195,FSH-0135,2025,2026-01-01,"3,2","97,3",3.3,Alto,FSH0811,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000196,FSH0136,2025,2025-11-26,4.1,98.1,"4,1",Alto,FSH0506,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000197,FSH0137,2025,2025-12-08,"3,7","110,9%","3,9",Medio,FSH0617,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000198,FSH0138,2024,2024-12-10,"5,0","109,3","4,6",Medio,FSH0091,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000199,FSH0138,2025,2025-12-04,4.7,"100,5%",4.3,Medio,FSH0283,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000200,FSH0139,2025,2025-12-29,3.9,"100,4","4,1",Alto,FSH0172,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000201,FSH0140,2025,2026-01-07,"3,2",83.5,3.0,Medio,FSH0283,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000202,FSH0141,2025,2026-01-08,"2,6","87,0",2.3,Medio,FSH0326,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000203,FSH0142,2025,07-12-25,"4,6",91.6,"4,9",Bajo,FSH0690,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000204,FSH0143,2025,2025-12-01,4.5,101.9,4.4,Alto,FSH0482,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000205,FSH0144,2024,2024-11-15,2.0,87.9,"1,8",Alto,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000206,FSH0144,2025,16/11/25,2.6,100.7,"2,8",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000207,FSH0145,2024,2025-01-10,"4,4",94.6%,4.8,Muy alto,FSH-0694,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000208,FSH0145,2025,16-11-25,"4,7",101.9,4.6,Medio,FSH0112,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000209,FSH0146,2024,21/12/2024,2.8,83.3,2.9,Bajo,FSH0288,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000210,FSH0146,2025,2025-12-22,2.8,86.8,"3,0",Bajo,FSH0649,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000211,FSH0147,2024,21/11/2024,"2,0",73.6,"1,9",Medio,FSH0423,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000212,FSH0147,2025,03/12/2025,2.1,79.0,2.1,Muy alto,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000213,FSH0148,2025,26/11/2025,3.4,97.3%,"3,5",Alto,FSH0686,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000214,FSH0149,2025,2025-11-27,"3,2",100.2%,3.0,Medio,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000215,FSH0150,2024,2024-12-06,4.4,"106,3",4.3,Medio,FSH0465,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000216,FSH0150,2025,22/12/2025,"4,3","97,7","3,9",Alto,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000217,FSH0151,2024,02-12-24,4.5,99.4,"4,7",Medio,FSH0702,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000218,FSH0151,2025,04/12/2025,"4,2","100,2",4.2,Medio, FSH0501 ,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000219,FSH0152,2024,2024-12-31,3.5,"82,0","2,9",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000220,FSH0152,2025,2026-01-10,"4,1",93.3,,Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000221,FSH0153,2025,05/01/2026,3.4,"81,9",2.7,Medio,FSH0524,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000222,FSH0154,2025,2026-01-08,2.9,95.9,3.5,Bajo,FSH0294,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000223,FSH0155,2025,2025-12-18,4.8,"105,8",4.9,Medio,FSH0649,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000224,FSH0156,2025,2025-12-28,"3,0","86,5","2,6",Alto,FSH0183,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000225,FSH0157,2025,2025-11-30,4.5,"89,4","4,4",Medio,FSH0560,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000226,FSH0158,2025,18/11/2025,3.1,85.7,"3,1",Alto,FSH0170,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000227,fsh0159,2025,2025-11-26,2.5,"91,6",2.4,Bajo,FSH0622,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000228,FSH0160,2025,2025-11-28,"3,1",96.6%,3.0,Medio,FSH0482,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000229,FSH0161,2025,2025-12-08,4.2,106.9%,4.2,Bajo,FSH0075,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000230,FSH0162,2025,2025-12-02,4.5,97.5%,"4,5",Alto,FSH0767,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000231,FSH0163,2025,2026-01-11,"4,4","97,9","4,4",Medio,FSH0427,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000232,FSH0164,2025,2025-12-08,3.7,"100,7%","3,7",Medio,FSH0649,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000233,FSH0165,2025,25/12/25,"4,1","94,8%",3.8,Medio,FSH0061,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000234,FSH0166,2024,03/01/25,"3,2",93.4,2.9,Alto,FSH0355,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000235,FSH0166,2025,2025-11-15,"3,0",95.7,2.7,Alto,FSH0092,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000236,FSH0167,2024,25/12/2024,3.7,99.8,3.8,Medio,FSH0427,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000237, FSH0167 ,2025,19/11/2025,3.3,"88,4",3.4,Alto,FSH0538,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000238,FSH0168,2025,12/01/2026,4.3,"108,0","4,4",Medio,FSH0622,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000239,FSH0169,2025,12/12/25,"4,4","94,8","4,5",Muy alto,FSH0035,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000240,FSH0170,2025,27/11/2025,"3,4",101.3,3.9,Medio,FSH0404,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000241,FSH0171,2025,2025-12-18,3.1,88.2,3.3,Medio,FSH0280,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000242,FSH0172,2025,2026-01-08,"4,6","110,9",4.4,Alto,FSH0201,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000243,FSH0173,2025,2025-12-11,"2,9","102,5",2.6,Medio,FSH0144,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000244,FSH0174,2025,2025-12-22,"3,8",101.9,3.9,Alto,FSH0399,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000245,FSH0175,2025,2026-01-13,"4,4","100,6%",5.0,Alto,FSH0342,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000246,FSH0176,2025,2025-12-01,2.5,82.6%,"2,4",Alto,FSH0640,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000247,FSH0177,2025,28/12/2025,"3,2","101,3%",3.4,Muy alto,FSH0692,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000248,FSH0178,2025,08-01-26,5.0,"115,3","5,0",Alto,FSH0351,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000249,FSH0179,2025,2025-11-30,3.8,97.9,"4,3",Muy alto,FSH0482,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000250,FSH0180,2025,2025-11-21,"4,5","94,3",4.5,Alto,FSH0152,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000251,FSH0181,2024,2024-12-18,"4,9",102.5,4.7,Bajo,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000252,FSH0181,2025,2025-11-23,4.6,106.7,"4,9",Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000253,FSH0182,2024,2024-11-15,3.3,"89,7",3.1,Bajo,FSH0100,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000254,FSH0182,2025,12/12/25,"3,3",89.0,"3,6",Muy alto,FSH0817,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000255,FSH0183,2024,2025-01-01,4.9,98.0,5.0,Medio,FSH0155,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000256,FSH0183,2025,2025-12-02,4.9,"112,6",4.8,Medio,FSH0155,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000257, FSH0184 ,2025,28/12/25,"4,3","88,8","4,8",Medio,FSH0109,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000258,FSH0185,2025,2025-12-19,1.8,"68,4","1,7",Bajo,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000259,FSH0186,2025,2025-12-11,"3,7",96.5%,3.6,Bajo,FSH0501,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000260,FSH0187,2025,28/12/2025,2.7,86.0,2.8,Medio,FSH0640,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000261,FSH0188,2025,19/12/2025,3.2,71.5,2.9,Alto,FSH0078,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000262,FSH0189,2025,24/12/2025,"3,9","96,6%",3.8,Alto,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000263,FSH0190,2025,29/12/2025,3.6,"94,8","3,7",Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000264,FSH0191,2024,2024-12-01,2.7,96.5,2.5,Bajo,FSH0321,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000265,FSH0191,2025,2026-01-04,"3,4",85.3,3.5,Medio,FSH0355,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000266,FSH0192,2025,2025-11-29,4.2,99.5,4.5,Medio,FSH0237,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000267,FSH0193,2024,2025-01-13,3.6,103.0,"3,4",Bajo,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000268,FSH0193,2025,2026-01-04,3.5,94.1,"3,2",Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000269,FSH0194,2024,15/12/24,3.7,94.0,"3,7",Alto,FSH0289,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000270, FSH0194 ,2025,2026-01-11,"3,7",93.4%,3.9,Alto,FSH0078,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000271,FSH0195,2024,04/01/2025,"3,1",82.9,"3,1",Alto,FSH0324,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000272,FSH0195,2025,02/01/2026,3.7,85.2,3.7,Medio,FSH0324,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000273,FSH0196,2024,2024-11-18,3.6,82.4,"3,2",Medio,FSH0152,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000274,FSH0196,2025,28/11/2025,"3,6",72.8%,"3,3",Bajo,FSH-0308,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000275,FSH0197,2025,2025-12-13,4.9,104.3,"4,9",Medio,FSH0748,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000276,FSH0198,2025,2025-12-22,3.7,"96,2",3.5,Medio,FSH0152,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000277,FSH0199,2025,2025-12-08,5.0,104.9,5.0,Medio, FSH0537 ,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000278,FSH0200,2024,08/12/24,"2,5",85.6%,"2,6",Medio,FSH0342,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000279,FSH0200,2025,14/01/2026,"2,9","84,3",3.2,Medio,FSH0325,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000280,FSH0201,2025,22/12/2025,2.5,81.3,"2,3",Alto,FSH0524,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000281,FSH0202,2025,2025-12-21,2.8,"91,9",3.3,Alto,FSH0649,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000282,FSH0203,2024,28/12/2024,1.6,83.1,"1,5",Alto,FSH0063,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000283,FSH0203,2025,2025-12-09,1.6,67.9,"1,6",Medio,FSH0487,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000284,FSH0204,2024,16/11/24,"4,2",95.8,"4,4",Medio,FSH0487,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000285,FSH0204,2025,13-12-25,4.1,92.6%,"3,9",Muy alto,FSH0294,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000286,FSH0205,2025,2025-12-13,2.6,94.3%,"2,9",Medio,FSH0039,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000287,FSH0206,2024,01/12/2024,"3,7",108.2,3.6,Medio,FSH0294,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000288,FSH0206,2025,07/12/2025,"3,9","96,9",3.9,Muy alto,FSH0100,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000289,FSH0207,2025,21/11/2025,4.9,108.4,"5,0",Alto,FSH0100,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000290,FSH0208,2025,25/12/2025,4.1,"99,9",,Medio,FSH0678,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000291,FSH0209,2025,18/12/2025,"4,5","87,5","4,8",Alto,FSH0078,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000292,FSH0210,2025,2025-12-24,5.0,100.6,"5,0",Alto,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000293,FSH0211,2025,18-11-25,,"92,4%","3,5",Medio,FSH0183,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000294,FSH0212,2025,07/12/2025,3.1,91.1,3.0,Medio,FSH0035,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000295,FSH0213,2025,2025-12-10,"3,3","87,2","3,3",Alto,FSH0399,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000296,FSH0214,2024,2024-12-27,4.0,"97,1",4.0,Medio,FSH0383,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000297,FSH0214,2025,04/01/26,4.3,"112,5",4.3,Bajo,FSH0533,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000298,FSH0215,2024,13/01/2025,"1,7","100,2%","2,0",Medio,FSH0803,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000299,FSH0215,2025,21-12-25,"2,4","100,9",2.1,Medio,FSH0351,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000300,FSH0216,2025,2025-12-25,"3,4",90.4,3.6,Bajo,FSH0190,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000301,FSH0217,2025,2026-01-03,2.8,91.7%,2.9,Muy alto,FSH0053,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000302,FSH0218,2025,2025-11-22,3.8,"77,8",,Alto,FSH0757,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000303,FSH-0219,2025,23/12/25,3.9,108.3,4.3,Medio,FSH0487,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000304,FSH0220,2025,28-12-25,3.7,93.7,4.0,Medio,FSH-0416,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000305,FSH0221,2025,2025-11-30,3.4,"84,0",3.2,Alto,FSH0421,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000306,FSH0222,2024,2024-12-17,2.4,"77,5",2.6,Medio,FSH0023,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000307,FSH0222,2025,2025-11-24,"2,8","80,5%",3.4,Medio,FSH0355,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000308,FSH0223,2025,21/12/2025,"3,6",97.5,3.9,Medio,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000309,FSH0224,2024,2024-11-28,3.7,"104,1",3.5,Alto,FSH0537,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000310,FSH0224,2025,14/01/2026,3.5,"104,6","3,5",Bajo,FSH0181,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000311,FSH0225,2025,2026-01-06,"4,6",111.5,"4,2",Alto,FSH0682,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000312,FSH0226,2025,2025-12-26,1.3,"76,8%","1,3",Medio,FSH0762,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000313,FSH0227,2025,2025-12-02,3.4,87.2,3.5,Medio,FSH0803,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000314,FSH0228,2025,2025-11-18,2.3,95.7,"2,1",Medio,FSH0239,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000315,fsh0229,2024,2025-01-06,3.7,85.9,"4,3",Medio,FSH0740,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000316,FSH0229,2025,2025-11-24,"3,4","98,5","3,8",Medio,FSH0325,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000317,FSH0230,2025,2025-11-20,3.5,98.4,3.6,Alto,FSH0172,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000318,FSH0231,2025,01/12/2025,2.0,"87,3",2.0,Medio,FSH0622,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000319,FSH0232,2025,27-11-25,2.3,"70,5",2.4,Medio,FSH0724,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000320,FSH0233,2025,15/11/25,"4,3",93.4%,4.0,Alto,FSH0186,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000321,FSH0234,2024,09/01/2025,4.3,97.3,"4,6",Medio,FSH0237,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000322,FSH0234,2025,25/12/2025,"4,1","91,5",4.0,Medio,FSH0152,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000323,FSH0235,2024,05/12/2024,"4,1","100,1","3,7",Medio,FSH0784,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000324,FSH0235,2025,23-12-25,"3,7",96.7,4.1,Muy alto,FSH0063,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000325,FSH0236,2025,2026-01-12,Pendiente,86.8%,3.3,Bajo,FSH0687,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000326,FSH0237,2025,2025-11-19,"3,4","85,4","3,4",Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000327,FSH0238,2025,2025-12-28,"3,3",100.1%,3.4,Medio,FSH0190,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000328,FSH0239,2025,2026-01-08,"4,2","108,9",4.3,Medio,FSH0145,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000329,FSH0240,2025,07-01-26,4.5,"118,7","4,1",Medio,FSH0491,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000330,FSH0241,2025,2026-01-14,2.6,"84,1","2,3",Alto,FSH0775,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000331,FSH0242,2025,27-11-25,3.2,"82,5%",2.9,Alto,FSH0423,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000332,FSH0243,2024,25-12-24,"4,8","104,9",4.9,Bajo,FSH0537,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000333,FSH0243,2025,2025-12-19,4.7,93.6,"4,6",Medio,FSH0346,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000334,FSH0244,2025,2025-12-20,"2,4","76,5","2,6",Medio,FSH0294,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000335,FSH0245,2024,2025-01-08,3.7,"92,9","3,8",Alto,FSH0655,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000336,FSH0245,2025,08/12/2025,"4,0","92,1",4.2,Muy alto,FSH0595,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000337,FSH0246,2024,30/12/2024,3.8,96.6,"4,0",Alto,fsh0061,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000338,FSH0246,2025,06-12-25,"3,2",74.0%,"3,1",Alto,FSH-0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000339,FSH-0247,2024,2024-12-15,"3,4","83,5","3,4",Medio,FSH0481,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000340,FSH0247,2025,2025-12-23,"3,3",99.9,"2,8",Medio,FSH0757,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000341,FSH0248,2025,27/11/25,4.7,93.1,4.7,Alto,FSH0649,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000342,FSH0249,2024,2024-12-10,"3,2","96,2",,Medio,FSH0289,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000343,FSH0249,2025,18/12/2025,"3,0",92.7%,"3,2",Alto,FSH0210,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000344,FSH0250,2024,2024-12-30,"3,6",88.6,"3,5",Muy alto,FSH0621,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000345,FSH0250,2025,2025-12-12,"3,7",96.2,"3,5",Alto,FSH0043,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000346,FSH0251,2025,2026-01-01,4.1,94.6,"4,2",Alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000347,FSH0252,2025,2026-01-12,3.7,95.9,"3,7",Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000348,FSH0253,2025,2025-11-30,3.1,"75,9",3.1,Alto,FSH0190,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000349,FSH0254,2024,2024-12-20,"3,7","102,1","3,6",Muy alto,FSH0423,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000350,FSH0254,2025,24/11/25,"4,0",89.0,4.0,Bajo,FSH0061,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000351,FSH0255,2024,2024-12-12,"3,7",100.0,3.8,Medio,FSH0649,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000352,FSH0255,2025,15/11/2025,3.3,80.8%,3.7,Bajo,FSH0248,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000353,FSH0256,2024,15-12-24,4.5,108.3,"4,4",Alto,FSH0054,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000354,FSH0256,2025,26-11-25,4.7,109.3,5.0,Medio,FSH0185,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000355,FSH0257,2025,2025-12-09,4.0,102.2,4.2,Medio,FSH0321,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000356,FSH-0258,2025,2026-01-09,"4,3","98,6","4,2",Medio,FSH0294,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000357,FSH0259,2024,2024-11-22,"3,6",91.5,"4,3",Medio,FSH0248,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000358,FSH0259,2025,2025-12-13,"3,6",85.9,3.9,Medio,FSH0289,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000359,FSH0260,2024,2024-12-02,"2,3","85,1",,Medio,FSH0716,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000360,FSH0260,2025,2025-12-16,"2,1","84,2%","1,9",Medio,FSH0636,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000361,fsh0261,2024,2025-01-11,"3,8","94,0","3,9",Medio,FSH0811,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000362,FSH0261,2025,08/12/2025,3.7,"101,1%",3.5,Medio,FSH0063,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000363,FSH0262,2025,05/12/2025,"3,3",101.0,"3,2",Bajo,FSH-0617,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000364,FSH0263,2025,12/12/2025,2.1,85.3%,2.3,Medio,FSH0061,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000365,FSH0264,2025,14/01/26,"2,0",83.9,2.0,Alto,FSH0107,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000366,FSH0265,2025,06/12/2025,3.9,"92,3%","3,8",Medio,FSH0399,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000367,FSH0266,2025,2025-11-28,"3,7",107.1,"3,5",Medio,FSH0190,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000368,FSH0267,2025,2025-11-26,3.9,90.4,"3,7",Medio,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000369,FSH0268,2024,2024-11-25,3.1,78.0,"2,8",Medio,FSH0740,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000370,FSH0268,2025,2025-12-22,"3,1",87.7,2.8,Medio,FSH0757,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000371,FSH0269,2025,2026-01-09,"4,4","90,5",4.1,Medio,FSH0606,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000372,FSH0270,2025,29-12-25,"4,5","94,2","4,7",Medio,FSH0772,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000373,FSH0271,2024,30-12-24,"5,0","120,4","5,0",Medio,FSH0200,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000374,FSH0271,2025,26/12/2025,4.7,108.9,5.0,Medio,FSH0500,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000375,FSH0272,2025,02/12/2025,"1,8","80,4",1.9,Alto,FSH0513,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000376,FSH0273,2025,16/12/2025,3.1,"105,3","3,2",Medio,FSH0386,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000377,FSH0274,2024,2025-01-12,4.2,91.2,"4,0",Medio, FSH0075 ,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000378,FSH0274,2025,2025-11-30,3.8,97.9,3.8,Alto,FSH0075,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000379,FSH0275,2025,2025-11-22,3.6,88.8%,"4,2",Medio,FSH0210,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000380,FSH0276,2024,15-11-24,3.1,"85,9",3.1,Medio,FSH0023,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000381,FSH0276,2025,2025-11-26,3.0,89.2,3.0,Alto,FSH0321,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000382,FSH0277,2025,2026-01-01,"2,6","73,1","2,9",Bajo,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000383, FSH0278 ,2025,2025-11-25,4.2,"109,4","4,6",Alto,FSH0687,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000384,FSH0279,2024,2024-12-07,"3,8",100.8,3.6,Alto,FSH0476,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000385,FSH0279,2025,23/12/2025,3.7,"101,3",3.8,Alto,FSH0757,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000386,FSH0280,2024,08/12/2024,3.3,98.6,3.6,Bajo,FSH0123,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000387,FSH0280,2025,07/12/2025,"3,5",93.5,,Medio,FSH0294,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000388,FSH0281,2024,2025-01-05,3.9,"106,5%","3,7",Alto,FSH0170,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000389,FSH0281,2025,2026-01-04,"4,3","93,8%","4,3",Medio,FSH-0482,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000390,FSH0282,2025,2025-12-14,"3,5",101.9,3.8,Alto,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000391,FSH0283,2025,04/01/2026,3.6,93.8,"3,8",Medio,FSH0814,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000392,FSH0284,2025,2025-12-05,4.4,86.7,4.2,Muy alto,FSH0061,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000393,FSH0285,2025,2025-12-20,"2,1","76,2%",2.4,Bajo,FSH0678,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000394,FSH0286,2025,28-12-25,"3,0","94,2%","3,0",Muy alto,FSH0416,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000395,FSH0287,2024,2024-12-01,"4,1",110.3,4.1,Medio,FSH0491,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000396,FSH0287,2025,2025-12-24,"4,0","86,5",4.3,Bajo,FSH0123,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000397,FSH0288,2025,2025-12-26,2.2,84.1,"2,4",Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000398,FSH0289,2025,2025-12-22,4.3,99.0,4.1,Bajo,FSH0326,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000399,FSH-0290,2025,2026-01-10,"3,9","99,4","3,9",Medio,FSH0179,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000400,FSH0291,2024,18/11/2024,"3,8",108.1%,"3,5",Medio,FSH0142,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000401,FSH0291,2025,2025-11-24,3.7,96.9%,3.5,Medio,FSH0183,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000402,FSH0292,2024,11/12/2024,"3,1",89.4,3.1,Alto,FSH0251,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000403,FSH0292,2025,2026-01-12,4.0,"102,0",3.9,Alto,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000404,FSH0293,2025,03-01-26,2.4,72.3,"2,2",Medio,FSH0155,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000405,FSH0294,2025,02-12-25,4.5,"111,5","4,3",Alto, FSH0023 ,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000406,FSH0295,2025,2026-01-01,4.6,"114,5",4.9,Alto,FSH0687,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000407,FSH-0296,2025,14/01/26,4.1,"95,3",3.9,Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000408,FSH0297,2025,2025-12-27,"4,2",107.0,4.1,Alto,FSH0351,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000409,FSH0298,2024,2024-12-28,2.6,90.0,"2,7",Medio,FSH0423,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000410,FSH0298,2025,2025-12-16,3.1,98.9,3.2,Alto,FSH0423,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000411,FSH0299,2025,2025-11-20,1.9,75.8,"2,2",Alto,FSH0251,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000412,FSH0300,2024,2025-01-09,"4,5","102,7%",4.5,Medio,FSH0760,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000413,FSH0300,2025,26-12-25,"4,0",86.4,3.8,Muy alto,FSH0690,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000414,FSH0301,2025,2025-12-11,3.6,"99,9","3,5",Medio,FSH0384,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000415,fsh0302,2024,2024-11-30,"1,6","105,7","1,2",Medio,FSH0095,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000416,FSH0302,2025,28-12-25,2.1,"99,9",,Medio,FSH0095,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000417,FSH0303,2024,08/12/2024,3.7,89.0,3.9,Medio,FSH0078,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000418,FSH0303,2025,03/01/2026,"3,7",83.1,"3,2",Medio,FSH0487,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000419,FSH0304,2025,2025-11-30,2.9,"101,1",2.7,Bajo,FSH0819,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000420,FSH0305,2025,2025-11-19,2.5,91.0%,2.2,Medio,FSH0800,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000421,FSH0306,2024,2024-12-17,3.1,103.7,"3,0",Medio,FSH0690,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000422,FSH0306,2025,2026-01-07,"2,9",72.7,"3,3",Muy alto,FSH0487,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000423,FSH-0307,2024,06-12-24,3.9,"92,6",3.9,Medio,FSH0142,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000424,FSH0307,2025,2025-12-19,3.6,84.9,4.0,Medio,FSH0023,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000425,FSH0308,2024,20/11/2024,3.9,"85,0",4.0,Medio,FSH0152,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000426,FSH0308,2025,13-01-26,"4,1",90.9,"3,8",Medio,FSH0185,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000427,FSH0309,2025,05-01-26,"4,5",97.6,"4,5",Medio,fsh0308,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000428,FSH0310,2025,08/12/2025,2.9,77.2%,3.2,Bajo,FSH0767,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000429, FSH0311 ,2025,2025-12-14,"3,7","100,0%",3.6,Medio,FSH0092,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000430,FSH0312,2025,29/11/2025,"2,5",77.8,2.5,Alto,FSH0715,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000431,FSH0313,2025,2025-12-03,"3,1","97,0",,Medio,FSH0200,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000432,FSH0314,2024,09/01/2025,3.4,"88,1","2,6",Medio,FSH0144,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000433,FSH0314,2025,12/12/2025,3.0,99.0,"3,0",Medio,FSH0616,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000434,FSH0315,2025,26-11-25,"3,4","97,5","3,8",Medio,FSH0686,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000435,FSH0316,2024,23/12/2024,"4,7","97,0",4.7,Alto,FSH0636,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000436,FSH0316,2025,29/11/2025,"3,8",106.3,3.6,Alto,FSH0811,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000437,FSH0317,2024,2024-12-18,4.2,"93,9%",4.2,Medio,FSH0180,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000438,FSH0317,2025,2026-01-02,4.4,98.4%,"4,3",Bajo,FSH0308,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000439,FSH0318,2025,2026-01-02,"3,4","84,5",3.6,Alto,FSH0775,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000440,FSH0319,2025,11/01/26,5.0,115.7,5.0,Alto,FSH0685,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000441,FSH0320,2025,30/11/2025,"3,9",92.4,4.1,Medio,FSH0560,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000442,FSH0321,2024,2024-11-20,"4,0",92.3%,"4,2",Medio,FSH0635,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000443,FSH0321,2025,04/01/2026,3.9,"91,3%",3.8,Muy alto,FSH0635,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000444,fsh0322,2024,2025-01-07,3.6,90.2,3.7,Medio,FSH0678,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000445,FSH0322,2025,13/01/2026,4.1,110.4,4.0,Bajo,FSH0321,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000446,FSH0323,2025,2026-01-05,2.1,73.5%,2.5,Medio,FSH0767,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000447,FSH0324,2024,2024-11-22,4.7,88.8,"4,8",Bajo,FSH0201,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000448,FSH0324,2025,2026-01-09,"4,9",101.6,"5,0",Medio,FSH0172,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000449,FSH0325,2025,2025-11-30,4.1,"101,6%","4,1",Medio,FSH0767,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000450,FSH0326,2025,06-12-25,4.1,90.4,4.2,Medio,FSH0280,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000451,FSH0327,2025,2026-01-09,"2,9",99.9,"3,0",Alto,FSH0552,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000452,FSH0328,2025,2026-01-14,"3,0","82,2","3,1",Alto,FSH0617,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000453,FSH0329,2025,12/01/2026,3.1,89.4,3.2,Alto,FSH0300,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000454,FSH0330,2024,28-12-24,"4,5",97.8,"4,4",Medio,FSH0244,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000455,FSH0330,2025,2025-11-18,"4,6","109,3","4,5",Alto,FSH0455,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000456,FSH0331,2024,2024-12-08,3.5,85.8,"3,7",Muy alto,FSH0048,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000457,FSH0331,2025,2025-12-25,3.7,97.1,"3,6",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000458,FSH0332,2024,2025-01-13,2.5,"99,6%","2,0",Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000459,FSH0332,2025,2025-12-17,"2,7",90.5,3.0,Alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000460,FSH0333,2025,20/11/25,"4,1",70.7%,"4,3",Bajo,FSH0123,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000461,FSH0334,2025,2026-01-02,2.9,"86,4%",3.0,Medio,FSH0645,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000462,FSH0335,2024,2024-11-15,4.1,"106,3","4,2",Bajo,FSH0091,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000463,FSH0335,2025,2025-12-24,4.2,99.7,4.0,Medio,FSH0363,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000464,FSH0336,2024,09-01-25,"5,0","104,7",5.0,Muy alto,FSH0131,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000465,FSH0336,2025,15-11-25,4.3,"114,8",3.9,Alto,FSH0145,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000466,FSH0337,2024,2024-12-13,"2,2","74,1%",2.2,Medio,FSH0617,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000467,FSH0337,2025,05/01/2026,"2,4",85.7%,,Medio,FSH0640,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000468,FSH0338,2024,2024-12-28,3.7,"106,3%","3,9",Alto,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000469,FSH0338,2025,30/12/2025,3.3,"86,9","3,1",Medio,FSH-0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000470,FSH0339,2024,2024-11-29,4.4,103.6,4.4,Medio,FSH0736,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000471,FSH0339,2025,20/12/2025,"4,4","89,4%","4,6",Alto,FSH0201,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000472, FSH0340 ,2025,05/01/26,4.6,"98,7",4.5,Medio,FSH0063,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000473,FSH0341,2025,2025-11-18,"3,9",95.8,3.8,Bajo,FSH0355,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000474,FSH0342,2024,29/12/24,3.6,83.3,"3,5",Alto,FSH0782,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000475,FSH0342,2025,18-11-25,"3,7","100,2%",3.8,Medio,FSH0606,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000476,FSH0343,2025,19/12/2025,2.5,"92,6","2,3",Medio,FSH0190,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000477,FSH0344,2025,2025-12-12,"3,3","81,2","3,2",Alto,FSH0740,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000478,FSH0345,2024,2024-12-09,"2,8",83.2%,"2,8",Medio,FSH0228,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000479,FSH0345,2025,2025-12-19,"3,0",85.0,2.7,Medio,FSH0112,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000480,FSH0346,2025,31/12/2025,5.0,100.5%,5.0,Medio,FSH0537,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000481,FSH0347,2025,06/12/25,2.9,"93,6","3,1",Muy alto,FSH0051,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000482,FSH0348,2025,2025-11-21,3.1,"93,2%",3.1,Alto,FSH0616,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000483,FSH0349,2025,11/01/2026,2.8,90.6,"2,8",Alto,FSH0423,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000484,FSH0350,2025,2025-11-19,"5,0","105,9","4,8",Medio,FSH0095,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000485,FSH0351,2025,2025-12-22,4.4,100.6,"4,5",Alto,FSH0386,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000486,FSH0352,2025,31/12/2025,2.3,"86,1","2,0",Medio,FSH0185,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000487,FSH0353,2024,2024-12-16,"3,1","78,5","3,2",Medio,fsh0023,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000488,FSH0353,2025,24-11-25,"3,1",84.2,"3,5",Medio,FSH0223,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000489,FSH0354,2025,2026-01-04,2.8,"88,4",3.0,Medio,FSH0152,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000490,FSH0355,2025,2025-11-27,4.0,"113,9","3,8",Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000491,FSH0356,2025,2025-12-27,3.6,97.3%,3.3,Medio,FSH0800,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000492,FSH0357,2025,2025-12-05,4.5,"103,8","4,9",Medio,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000493,FSH0358,2024,2024-12-16,"4,1","90,6%","4,1",Medio,FSH0130,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000494,FSH0358,2025,03/12/2025,"4,3",115.8,"4,5",Alto,FSH0748,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000495,FSH0359,2024,2024-11-24,2.6,"97,3","2,2",Medio,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000496,FSH0359,2025,09/12/25,"2,9",105.3%,3.1,Alto,FSH0061,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000497,FSH0360,2024,16-11-24,3.5,"80,0%",3.6,Medio,FSH0403,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000498,FSH0360,2025,2025-12-25,"2,9","87,1","2,6",Medio,FSH0172,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000499,FSH0361,2025,2025-12-08,3.1,79.4,"3,2",Medio,FSH0403,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000500,FSH0362,2025,03-12-25,3.6,"98,6%",3.9,Medio,FSH0107,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000501,FSH0363,2025,2025-12-20,3.8,"91,4%",3.8,Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000502,FSH0364,2025,13/01/2026,3.1,78.7%,"3,5",Medio,FSH0482,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000503,FSH0365,2024,2024-12-29,5.0,110.8,"5,0",Alto,FSH0649,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000504,FSH0365,2025,16/11/2025,5.0,116.7%,"4,8",Medio,FSH0568,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000505,FSH0366,2024,2024-11-30,3.3,91.6,"3,9",Alto,FSH0200,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000506,FSH0366,2025,13/12/2025,"3,1",83.1,3.4,Medio,FSH0645,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000507,FSH0367,2025,31-12-25,2.6,88.6,"2,7",Alto,FSH0740,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000508,FSH0368,2024,2025-01-12,"3,5","103,9%","3,6",Alto,FSH0685,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000509,FSH0368,2025,30/12/25,"3,5",80.8,3.8,Muy alto,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000510,FSH0369,2025,10/01/2026,3.5,101.3,"3,6",Medio,FSH0363,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000511,FSH0370,2024,2024-12-10,4.6,"94,1",4.1,Alto,FSH0324,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000512,FSH0370,2025,2025-11-20,"5,0","108,7",4.7,Medio,FSH0403,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000513,FSH0371,2025,21-12-25,"3,6",80.0,"3,9",Medio,FSH0568,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000514,FSH0372,2024,2024-11-27,4.5,"98,1","4,4",Alto,FSH0687,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000515,FSH0372,2025,21-12-25,4.2,79.3,4.4,Medio,FSH0476,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000516,FSH0373,2025,2025-12-25,3.7,89.1,3.8,Medio,FSH0183,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000517,FSH0374,2025,08/12/2025,"2,7",66.7,"2,9",Medio,FSH0326,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000518,FSH0375,2024,23/12/24,3.4,81.5,3.4,Medio,FSH0095,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000519,FSH0375,2025,2025-12-28,3.7,"89,8","4,0",Medio,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000520,FSH0376,2025,03/12/2025,3.8,"92,0","4,1",Alto,FSH0622,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000521,FSH0377,2024,25/12/2024,"4,5",108.3%,4.5,Medio,FSH0736,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000522,FSH0377,2025,30-11-25,Pendiente,"110,4%",4.1,Medio,FSH0524,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000523,FSH0378,2025,23/11/2025,4.0,"97,9",3.9,Medio,FSH0251,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000524,FSH0379,2025,2025-11-21,3.6,"105,0%",4.0,Bajo,FSH0078,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000525,FSH0380,2024,19-12-24,4.2,88.3,"4,3",Medio,FSH0817,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000526,FSH0380,2025,10/01/2026,"4,2","85,3","4,6",Medio,FSH0221,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000527,FSH0381,2024,2024-12-22,4.0,97.0,3.9,Medio,FSH0518,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000528,FSH0381,2025,21/12/2025,"4,2","91,4",4.4,Medio,FSH0518,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000529,FSH0382,2025,2025-11-20,"2,4",82.9%,2.4,Medio,FSH0501,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000530,FSH0383,2025,2025-12-20,3.2,"82,6%","3,4",Alto,FSH0150,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000531,FSH0384,2024,2024-11-20,"4,4","98,8","4,8",Medio,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000532,fsh0384,2025,2026-01-05,4.1,"97,0",4.3,Alto,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000533,FSH0385,2024,10/01/2025,2.6,"88,9","2,6",Medio,FSH0185,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000534,FSH0385,2025,2025-11-19,3.2,"91,8",3.2,Alto,FSH0332,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000535,FSH0386,2025,06/01/2026,"3,9",97.2,4.1,Alto,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000536,FSH0387,2024,12/01/2025,"1,8","84,0","2,1",Bajo,FSH0682,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000537,FSH0387,2025,2026-01-07,"2,0",69.7,1.8,Alto,FSH0426,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000538,FSH0388,2024,28/11/2024,4.7,94.2,"4,6",Alto,FSH0476,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000539,FSH0388,2025,15/12/2025,"5,0",113.3%,5.0,Alto,FSH0645,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000540,FSH0389,2025,2025-11-26,3.4,93.0,3.3,Alto,FSH0170,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000541,FSH0390,2025,04/12/2025,"2,2",89.0%,"1,6",Medio,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000542,FSH0391,2025,2025-11-18,3.7,"86,2",3.1,Alto,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000543,FSH0392,2024,27/11/2024,3.2,84.7,"3,6",Alto,FSH0621,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000544,FSH0392,2025,13/12/2025,3.6,"71,7","3,5",Medio,FSH0091,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000545,FSH0393,2025,30/12/25,3.9,"101,2","4,0",Medio,FSH0294,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000546,FSH0394,2025,2025-11-25,2.7,98.3%,"2,7",Medio,FSH0423,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000547,FSH0395,2024,2025-01-04,"3,4",77.7,"3,2",Medio,FSH0538,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000548,FSH0395,2025,2026-01-11,3.3,77.1,"3,4",Bajo,FSH0326,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000549,FSH0396,2025,2025-12-31,4.2,101.4,"4,3",Bajo,FSH0702,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000550,FSH0397,2025,21/11/25,"3,3",84.3,3.1,Medio,FSH0423,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000551,FSH0398,2025,06/12/2025,4.3,"101,1%",4.1,Alto,FSH0690,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000552,FSH0399,2024,2024-12-31,"3,8","91,7","3,7",Alto,FSH0342,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000553,FSH0399,2025,14-01-26,"4,2",91.7,3.9,Medio,FSH0200,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000554,FSH0400,2025,2026-01-10,3.4,"95,8","3,8",Medio,fsh0800,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000555,FSH0401,2025,2025-12-26,2.9,"87,9",3.0,Alto,fsh0552,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000556,FSH0402,2025,2025-11-20,5.0,"109,3","5,0",Medio,FSH0784,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000557,FSH0403,2025,2026-01-11,4.4,"93,4",4.8,Alto,FSH0524,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000558,FSH0404,2025,2025-12-15,"2,7","80,5%",2.9,Medio,FSH0538,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000559,FSH0405,2025,2025-12-18,2.7,90.8,2.2,Medio,FSH0117,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000560,FSH0406,2025,2025-12-13,"3,5","90,1","3,5",Alto,FSH0095,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000561,FSH0407,2025,2025-11-27,3.0,"90,1","3,1",Muy alto,FSH0185,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000562,FSH0408,2025,16/11/25,2.6,"91,9",2.6,Alto,FSH0687,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000563,FSH0409,2024,2025-01-04,4.3,"99,2%",4.1,Alto,FSH0351,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000564,FSH0409,2025,17/12/25,4.2,98.9,"4,4",Muy alto,FSH0092,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000565,FSH0410,2025,03/01/2026,3.4,"101,1%",3.5,Muy alto,FSH0478,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000566,FSH0411,2025,04/12/2025,"3,6","104,5",3.7,Medio,FSH0180,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000567,FSH0412,2025,08/01/2026,4.6,108.7,4.8,Alto,FSH0811,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000568,FSH0413,2024,28/11/24,4.2,104.6,"4,0",Medio,FSH0048,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000569,FSH0413,2025,09/12/2025,"4,3",102.2%,4.4,Bajo,FSH0383,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000570,FSH0414,2025,2025-11-20,2.9,96.6,"3,1",Medio,FSH0332,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000571,FSH0415,2025,09/01/26,3.5,"101,5","3,5",Medio,FSH-0596,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000572,FSH0416,2024,30/11/2024,3.5,"90,6%",3.5,Medio,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000573,FSH0416,2025,2025-11-15,3.6,79.3,3.9,Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000574,FSH0417,2025,2025-12-13,"3,5",93.4,"3,4",Medio,FSH0152,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000575,FSH0418,2025,01/01/2026,"3,0","68,8","3,0",Alto,FSH0160,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000576,FSH0419,2025,2025-11-16,"4,6","100,2%","4,4",Medio,FSH0043,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000577,FSH0420,2025,11/01/2026,2.8,"82,0","2,8",Medio,FSH0533,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000578,FSH0421,2025,26/12/2025,3.5,88.3,"3,6",Medio,FSH0164,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000579,FSH0422,2025,03/12/2025,"4,2",92.6,4.2,Alto,FSH0500,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000580,FSH0423,2025,28/11/25,4.4,"109,6",4.4,Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000581,FSH0424,2025,21/11/2025,4.2,101.4%,4.3,Alto,FSH0075,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000582,FSH0425,2025,11-12-25,"3,5",93.1%,"3,5",Medio,FSH0200,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000583,FSH0426,2025,13/01/26,"4,1","93,2%","4,1",Medio,FSH0635,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000584,FSH0427,2025,2026-01-14,2.3,81.1,"2,7",Alto,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000585,FSH0428,2025,14/12/2025,2.8,"93,9","2,4",Medio,FSH0271,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000586,FSH0429,2024,2024-11-17,"2,3","82,4",2.2,Medio,FSH0800,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000587,FSH0429,2025,27/12/2025,2.8,85.9,3.0,Medio,FSH0782,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000588,FSH0430,2024,2024-12-23,4.1,100.3,"4,5",Medio,FSH0421,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000589,FSH0430,2025,04/01/2026,4.0,"85,9%","4,0",Medio,FSH0288,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000590,FSH0431,2025,2025-12-29,"2,8",82.8,3.2,Medio,FSH0210,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000591,FSH0432,2025,2025-12-17,No evaluado,76.9,"3,2",Alto,FSH0144,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000592,FSH0433,2024,18/12/2024,3.4,"101,3%","3,6",Medio,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000593,FSH0433,2025,17-12-25,3.3,85.0,"3,7",Medio,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000594,FSH0434,2025,11/12/2025,"2,5",75.1,"2,8",Bajo,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000595,FSH0435,2025,2025-12-26,3.6,85.0%,"3,5",Medio,FSH0109,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000596,FSH0436,2024,2024-11-29,"3,3",79.9,3.7,Alto,FSH0568,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000597,FSH0436,2025,09/01/2026,"3,1",86.9,3.1,Medio,FSH0144,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000598,FSH0437,2025,2025-12-08,3.4,"101,5","3,2",Alto,FSH0034,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000599,FSH0438,2025,14-01-26,"3,8",103.9,4.2,Medio,FSH0080,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000600,FSH0439,2024,2024-12-12,"2,8","98,1%","2,3",Muy alto, FSH0252 ,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000601,fsh0439,2025,2025-12-26,3.0,92.1%,2.7,Medio,FSH0180,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000602,FSH0440,2024,2024-12-20,4.8,110.5%,"5,0",Medio,FSH0678,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000603,FSH0440,2025,2025-11-27,"4,5",112.4%,"4,5",Medio,FSH0248,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000604,FSH0441,2025,16-12-25,3.8,"86,7",3.9,Alto,FSH0061,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000605,FSH0442,2024,2025-01-06,"4,5",113.2,"3,9",Medio,FSH0767,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000606,FSH0442,2025,2026-01-03,4.5,118.5,4.6,Medio,FSH0757,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000607,FSH0443,2025,2025-12-02,3.9,89.7,"4,1",Alto,FSH0051,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000608,FSH0444,2024,2025-01-01,"2,7",87.1%,"2,2",Alto,FSH0095,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000609,FSH0444,2025,05/01/2026,"2,2","80,2%","2,5",Medio,FSH0423,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000610,FSH0445,2024,2024-11-26,No evaluado,"94,7","4,2",Medio,FSH0584,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000611,FSH0445,2025,2025-11-24,"3,7",100.5%,"3,9",Alto,FSH-0355,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000612,fsh0446,2025,30-12-25,3.8,"92,1","3,7",Medio,FSH0095,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000613,FSH0447,2024,01/12/2024,"2,2",80.6,2.4,Medio,FSH0682,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000614,FSH0447,2025,2025-12-22,"2,8","85,8",2.9,Medio,FSH0678,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000615,FSH0448,2025,13-01-26,4.8,112.3,"4,9",Alto,FSH0645,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000616,FSH0449,2025,10/12/2025,4.5,104.8%,"4,2",Alto,FSH0386,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000617,FSH0450,2025,08/12/25,4.2,"96,0","4,6",Medio,FSH0388,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000618,FSH0451,2025,2025-12-05,"2,7",87.4%,,Alto,FSH0800,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000619,FSH0452,2025,2025-11-28,3.2,"84,8%","3,3",Medio,FSH0160,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000620,FSH0453,2025,2025-12-12,"2,7",83.5,2.8,Muy alto,FSH0186,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000621,FSH0454,2024,2024-12-03,3.8,"100,3",4.1,Medio,FSH0035,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000622,FSH0454,2025,2025-12-02,"3,5",92.9%,3.5,Medio,FSH0080,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000623,FSH0455,2025,05/01/2026,"3,7",80.5,"3,9",Medio,FSH0568,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000624,FSH0456,2025,2026-01-02,"3,6",95.2,"3,6",Medio,FSH0775,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000625,FSH0457,2025,2025-12-26,3.8,93.9,3.8,Muy alto,FSH0702,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000626,FSH0458,2024,2024-12-13,4.6,97.7%,,Alto,FSH0819,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000627,FSH0458,2025,2025-12-02,4.7,106.5,4.5,Medio,FSH0054,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000628,FSH0459,2024,27/12/2024,"1,7","76,6",,Medio, FSH0748 ,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000629,FSH0459,2025,2025-12-13,"1,8","78,4%",2.0,Medio,FSH0064,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000630,FSH0460,2025,2025-12-31,"2,7",73.4,2.3,Medio,FSH0399,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000631,FSH0461,2024,31/12/2024,"3,8","90,3",4.0,Alto,FSH0760,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000632,FSH0461,2025,02/01/26,3.7,104.0,3.8,Medio,FSH0223,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000633,FSH0462,2024,2024-12-30,"3,0",97.6,3.1,Alto,FSH0386,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000634,FSH0462,2025,2025-11-27,3.4,80.3%,3.1,Medio,fsh0221,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000635,FSH0463,2024,2024-12-26,4.3,"110,5",3.7,Bajo,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000636,FSH0463,2025,29/12/2025,3.8,84.5,"4,1",Medio,FSH0748,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000637,FSH0464,2025,12/12/2025,2.6,85.7%,"2,8",Medio,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000638,FSH-0465,2025,28-12-25,"4,3",98.9,4.5,Muy alto,FSH0331,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000639,FSH0466,2024,2024-11-30,"4,6",98.3%,4.9,Medio,FSH0289,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000640,FSH0466,2025,2026-01-10,4.6,"103,4%","4,8",Medio,FSH0260,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000641,FSH0467,2024,19/11/2024,,"92,7",4.4,Medio,FSH0234,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000642,FSH0467,2025,2026-01-05,3.9,"99,0%","3,8",Alto,FSH0252,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000643,FSH0468,2024,2025-01-12,4.0,86.8%,"4,6",Bajo,FSH0183,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000644,FSH0468,2025,2025-12-18,3.6,92.4,3.3,Alto,FSH0244,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000645,FSH0469,2024,03-12-24,5.0,"101,3","5,0",Medio,FSH0416,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000646,FSH0469,2025,2026-01-11,4.5,"106,7","4,8",Medio,FSH0308,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000647,FSH-0470,2024,2024-12-28,"5,0",99.8%,5.0,Medio,FSH0063,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000648,FSH0470,2025,2026-01-12,4.9,100.8,"5,0",Medio,FSH0186,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000649,FSH0471,2024,18/11/24,4.1,103.6,4.1,Alto,FSH0635,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000650,FSH0471,2025,01/01/2026,3.5,98.9,"3,7",Alto,FSH0038,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000651,FSH0472,2025,11-12-25,3.4,"83,6",3.4,Muy alto,FSH0061,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000652,FSH0473,2024,2024-12-25,"3,5","102,7",3.4,Bajo,FSH0061,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000653,FSH0473,2025,23/12/2025,2.6,81.0%,2.4,Alto,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000654,FSH0474,2025,2025-12-21,"2,7",93.5,"3,1",Medio,FSH-0061,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000655,FSH0475,2025,2025-12-01,"4,4","104,9","4,4",Alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000656,FSH0476,2024,2024-12-03,4.8,"106,4",4.6,Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000657,FSH0476,2025,2026-01-06,5.0,"89,5","5,0",Bajo,FSH0399,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000658,FSH0477,2025,2026-01-03,2.1,"73,8",2.0,Alto,FSH0383,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000659,FSH0478,2025,2025-11-30,3.8,"100,7","4,2",Medio,FSH0336,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000660,FSH0479,2024,2024-11-26,3.4,82.6%,"3,3",Alto,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000661,FSH0479,2025,16/12/2025,3.3,86.0,3.3,Medio,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000662,fsh0480,2025,10/01/2026,2.4,94.1,"1,8",Medio,FSH0268,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000663,FSH0481,2025,2025-12-15,4.0,93.7,3.9,Medio,FSH0325,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000664,FSH0482,2025,2025-11-21,"3,4",82.1,"3,5",Bajo,FSH0622,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000665,FSH0483,2025,2025-11-27,"4,6","90,5","4,3",Medio,FSH0622,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000666,FSH0484,2025,2025-12-13,"3,8",102.2,4.2,Alto,FSH-0690,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000667,FSH0485,2025,2026-01-06,3.2,90.0,"2,9",Medio,FSH0034,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000668,FSH0486,2024,24-12-24,"3,5",100.7%,3.5,Alto,FSH0386,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000669,FSH0486,2025,2025-12-30,"3,7",93.8,3.8,Alto,fsh0260,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000670,FSH0487,2025,2025-11-15,"2,9",87.9,3.3,Medio,FSH0560,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000671,FSH0488,2025,22-12-25,"2,7",80.6,"2,5",Alto,FSH0595,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000672,FSH0489,2024,2024-12-04,3.9,92.0,"3,6",Alto,FSH0092,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000673,FSH0489,2025,15/12/2025,"4,4","101,9",4.4,Medio,FSH0179,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000674,FSH0490,2024,2024-12-06,3.3,96.3,3.7,Alto,FSH0760,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000675,FSH0490,2025,2026-01-02,3.7,"97,5%","3,1",Medio,FSH0622,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000676,FSH0491,2024,29/12/2024,"4,6",107.7%,"5,0",Bajo,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000677,FSH0491,2025,2025-12-19,"3,9","104,9","4,2",Muy alto,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000678,FSH0492,2025,01/01/26,"4,0","98,6",3.9,Alto,FSH0325,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000679,FSH0493,2025,10/01/2026,"1,9",83.2,"1,7",Medio,FSH0326,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000680,FSH0494,2025,2025-11-26,"3,1",93.3,2.4,Muy alto,FSH0223,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000681,FSH0495,2024,2025-01-07,3.1,100.7,3.1,Medio,FSH0513,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000682,FSH0495,2025,09-01-26,3.1,103.6,3.0,Alto,FSH0518,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000683,FSH0496,2024,25-11-24,4.5,"93,6%","4,7",Alto,FSH0513,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000684,FSH0496,2025,2025-12-30,"4,1","99,7","4,0",Medio,FSH0513,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000685,FSH0497,2024,2025-01-05,"4,1","95,8","4,2",Medio,FSH0476,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000686,FSH0497,2025,29/11/2025,5.0,111.6,"5,0",Bajo,FSH0126,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000687,FSH0498,2024,14/01/25,4.8,113.5,"4,7",Bajo,FSH0092,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000688,FSH0498,2025,25/11/2025,"4,1",95.4,4.3,Medio,FSH0038,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000689,FSH0499,2024,2025-01-13,4.7,115.5,"5,0",Medio,FSH0237,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000690,FSH0499,2025,2025-11-17,4.5,"119,1%","4,9",Muy alto,FSH0692,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000691,FSH0500,2024,05-01-25,"4,2",109.3,"4,6",Alto,FSH0476,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000692,FSH0500,2025,2025-11-15,"4,0",95.8,3.9,Medio,FSH0606,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000693,FSH0501,2025,2025-12-16,"4,0",90.9,"3,8",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000694,FSH0502,2024,12/01/2025,1.9,82.3,1.7,Medio,FSH0363,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000695,FSH0502,2025,2026-01-13,"2,4",77.9%,2.6,Medio,FSH0069,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000696,FSH0503,2024,11-12-24,4.1,"100,9","4,4",Alto,FSH0179,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000697,FSH-0503,2025,2025-11-15,4.0,"103,9",4.4,Medio,FSH0655,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000698, FSH0504 ,2024,05/12/2024,4.2,"111,7",4.3,Alto,FSH0803,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000699,FSH0504,2025,2025-12-03,4.2,99.9,4.6,Medio,FSH0616,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000700,FSH0505,2025,02/01/2026,2.9,"81,2","3,4",Medio,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000701,FSH0506,2025,07/01/26,4.0,"94,7","3,7",Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000702,FSH0507,2025,14/12/2025,"2,9",93.4,"2,8",Medio,FSH0487,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000703,FSH0508,2024,2024-11-17,"5,0",101.5,"5,0",Medio,FSH0596,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000704,FSH0508,2025,2026-01-10,4.3,"88,0",4.5,Medio,FSH0814,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000705,FSH0509,2025,2026-01-08,4.2,92.4,4.4,Medio,FSH0131,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000706,fsh0510,2024,2024-12-02,2.8,70.6%,2.8,Medio,FSH0620,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000707,FSH0510,2025,18/11/2025,"2,9","88,9",3.1,Bajo,FSH0686,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000708,FSH0511,2025,05/12/2025,"3,7",107.0,4.2,Alto,FSH0384,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000709,FSH0512,2025,14/12/25,4.6,108.7,"4,7",Medio,FSH0038,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000710,FSH0513,2025,2025-12-08,5.0,93.6,"5,0",Medio,FSH0524,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000711,FSH0514,2025,2025-11-15,2.8,"89,1",2.8,Medio,FSH0223,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000712,FSH0515,2024,2025-01-07,3.4,"101,3","3,2",Bajo,FSH0620,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000713,FSH0515,2025,09/01/2026,No evaluado,83.9%,3.2,Medio,FSH0109,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000714,FSH0516,2025,2025-12-02,"2,6",80.9,2.2,Alto,FSH0748,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000715,FSH0517,2024,2024-12-13,3.5,"82,8","3,8",Medio,FSH-0423,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000716,FSH0517,2025,24-11-25,3.8,109.0,"3,5",Medio,FSH0423,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000717,FSH0518,2025,2025-11-27,"4,1",102.2%,4.3,Medio,FSH0524,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000718,FSH0519,2024,2024-12-22,"3,9",97.3,"4,5",Alto,FSH0811,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000719,fsh0519,2025,2025-11-27,4.4,"105,6%",4.3,Bajo,FSH0170,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000720,fsh0520,2024,2024-12-16,2.5,"68,9",2.6,Medio,FSH0336,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000721,FSH0520,2025,15/12/2025,2.7,"102,2",2.5,Medio,FSH0193,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000722,FSH-0521,2025,2026-01-08,"3,6",78.3,3.4,Medio,FSH0251,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000723,FSH0522,2025,10-01-26,2.6,"92,9",2.5,Medio,FSH0736,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000724,FSH0523,2024,2024-12-10,"4,1","98,1","4,2",Alto,FSH0538,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000725,FSH0523,2025,2026-01-03,4.4,89.1%,4.3,Medio,FSH0038,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000726,FSH0524,2025,12-01-26,4.0,93.0,"3,8",Medio,FSH0518,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000727,FSH0525,2024,2025-01-01,3.6,"101,7","3,5",Medio,FSH0403,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000728,FSH0525,2025,2025-12-04,4.0,81.0,4.1,Medio,FSH0324,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000729,FSH0526,2025,2025-12-18,3.7,"100,4",3.5,Alto,FSH0326,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000730,FSH0527,2024,2024-12-15,3.5,87.8,"3,4",Bajo,FSH0179,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000731,FSH0527,2025,2026-01-09,3.7,103.5,"3,7",Medio,FSH0584,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000732,FSH0528,2025,22/11/2025,"4,7","109,3","4,5",Medio,FSH0427,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000733,FSH0529,2025,2025-11-18,1.9,"77,1",2.1,Medio,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000734,FSH0530,2024,2024-12-11,3.6,102.0,3.5,Medio,FSH0640,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000735,FSH0530,2025,2025-12-11,"3,9","93,6%",4.3,Medio,FSH0685,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000736,FSH0531,2025,2026-01-03,"2,8",83.9%,"2,8",Medio,FSH0095,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000737,FSH0532,2025,19/11/2025,"3,4",97.1%,"3,5",Alto,FSH0423,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000738,FSH0533,2024,2025-01-10,"2,4",83.7,2.1,Bajo,FSH0048,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000739,FSH0533,2025,21-12-25,"2,3",86.2%,"2,1",Alto,FSH0715,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000740,FSH0534,2025,18/11/2025,"3,0",95.2,"3,3",Alto,fsh0237,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000741,FSH0535,2025,14-12-25,"3,3","77,0",3.6,Medio,FSH0190,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000742,FSH0536,2025,2025-12-03,3.7,"91,3",,Muy alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000743,FSH0537,2025,2025-12-31,4.5,93.7,4.5,Medio,FSH0346,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000744,FSH0538,2024,07/01/2025,4.6,110.6,4.4,Alto,FSH0351,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000745,FSH0538,2025,2026-01-03,4.6,"115,1",4.8,Medio,FSH0702,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000746,FSH0539,2024,14/12/2024,4.1,96.6,4.1,Medio,FSH0185,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000747,FSH0539,2025,2026-01-04,"4,1",95.9,"4,1",Medio,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000748,FSH0540,2025,2025-11-23,"1,9",78.5,1.7,Medio,FSH0201,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000749,FSH0541,2025,2025-12-21,,95.2,3.4,Medio,FSH0552,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000750,FSH0542,2025,01/12/2025,"1,9","82,8",1.8,Medio,FSH0172,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000751,FSH0543,2025,2026-01-12,3.9,101.8,"4,1",Alto,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000752,FSH0544,2025,2025-12-17,"4,2",106.5,4.3,Muy alto,FSH0100,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000753,FSH0545,2025,2025-12-25,3.7,"98,1",3.6,Alto,FSH0095,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000754,FSH-0546,2024,2024-12-16,2.5,91.6,2.1,Medio,FSH0702,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000755,FSH0546,2025,2026-01-07,2.3,86.4,"2,6",Medio,FSH0300,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000756,FSH0547,2024,2024-11-24,2.8,82.6%,2.7,Medio,FSH0682,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000757,FSH0547,2025,2025-11-21,2.9,76.2%,2.9,Medio,FSH0144,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000758,FSH0548,2025,2026-01-07,"3,0","89,2%","3,0",Bajo,FSH0092,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000759,FSH0549,2025,06/01/2026,3.5,96.3%,,Medio,FSH0186,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000760,FSH0550,2024,2024-12-24,4.9,107.7,"4,8",Medio,FSH0655,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000761,FSH0550,2025,07/01/2026,4.8,106.8,"4,8",Medio,FSH0491,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000762,FSH0551,2025,2025-12-05,3.4,87.2,"3,5",Bajo,FSH0552,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000763,FSH0552,2025,2025-12-09,4.1,"95,5",4.3,Alto,FSH0702,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000764,FSH0553,2024,18/12/2024,"3,4",82.0,"3,5",Medio,FSH0039,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000765,FSH0553,2025,2025-12-07,"3,5","94,8",3.2,Bajo,FSH0617,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000766,FSH0554,2025,02/12/2025,"4,7","108,6","4,9",Medio,FSH0655,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000767,FSH0555,2025,2026-01-10,"3,3",84.4,"3,1",Alto,FSH0423,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000768,FSH0556,2025,2025-12-04,"4,0","95,9",3.8,Medio,FSH0251,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000769,FSH0557,2024,05-12-24,3.4,93.6%,3.2,Alto,FSH0416,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000770,FSH-0557,2025,2026-01-09,3.2,"84,0%","3,5",Bajo,FSH0054,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000771,FSH0558,2024,2024-12-15,4.1,102.4,"4,1",Alto,FSH0403,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000772,FSH0558,2025,24/11/25,3.6,90.3,"3,7",Alto,FSH0513,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000773,FSH0559,2024,10/12/2024,"3,4","79,5%",3.7,Medio,fsh0172,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000774,FSH0559,2025,06/01/26,3.4,103.0%,3.6,Medio,FSH0513,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000775,FSH0560,2025,2025-11-19,"3,6","85,1","3,4",Alto,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000776,FSH0561,2025,2025-11-20,"3,4",77.3%,"3,8",Medio,FSH0538,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000777,FSH0562,2025,22-11-25,3.8,"92,5","4,4",Alto, FSH0034 ,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000778,FSH0563,2025,03-01-26,"2,6","101,4",2.4,Medio,FSH0817,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000779,FSH0564,2025,28/12/2025,3.1,"84,1","3,2",Medio,FSH0616,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000780,FSH0565,2024,25/12/2024,2.8,83.8,2.7,Medio,FSH0039,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000781,FSH0565,2025,2025-12-07,"3,4","107,0",3.4,Medio,FSH0620,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000782,FSH0566,2025,2026-01-04,"3,2",88.3,"3,0",Bajo,FSH0782,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000783,FSH0567,2025,2026-01-07,"3,5",100.2%,"3,4",Medio,FSH0384,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000784,FSH0568,2025,02/01/2026,4.0,"96,6","3,8",Medio,FSH0326,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000785,FSH0569,2024,2024-11-26,"2,9","80,0","2,7",Medio,FSH0181,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000786,FSH0569,2025,08-12-25,3.4,90.1%,3.3,Alto,FSH0537,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000787,FSH0570,2024,2024-11-24,3.2,86.4,3.5,Alto,FSH0463,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000788,FSH0570,2025,2025-11-15,3.2,98.2,3.2,Medio,FSH-0336,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000789,FSH0571,2024,2025-01-01,2.8,84.3,"2,1",Medio,FSH0716,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000790,FSH0571,2025,2025-11-23,"2,7","86,8","2,8",Medio,FSH0538,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000791, FSH0572 ,2025,01/01/2026,"3,7",81.7,3.8,Muy alto,FSH0251,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000792,FSH0573,2025,2026-01-01,3.0,86.8,,Medio,FSH0482,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000793,FSH0574,2024,24/11/2024,"3,9",106.3,4.0,Medio,FSH0325,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000794,FSH0574,2025,25/11/25,4.0,"105,0%",4.3,Medio,FSH0606,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000795,FSH0575,2024,2024-11-28,2.9,82.4,"3,0",Medio,FSH0800,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000796,FSH0575,2025,18/12/2025,3.3,"88,5%",3.2,Medio,FSH0034,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000797,FSH-0576,2025,2026-01-02,3.1,"100,1",3.0,Alto,FSH0248,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000798,FSH0577,2025,20/12/2025,"2,1",74.0,1.9,Medio,FSH0500,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000799,FSH0578,2024,2024-11-26,"4,3","97,7",3.9,Medio,FSH0518,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000800,FSH0578,2025,23-11-25,"3,5",78.8,3.3,Alto,FSH0172,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000801,FSH0579,2025,2026-01-05,3.2,"89,0",3.4,Medio,FSH0107,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000802,FSH0580,2024,2024-11-17,2.6,"85,7%",2.5,Medio,FSH0170,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000803,FSH0580,2025,2025-11-18,"2,3",86.1%,"1,9",Bajo,FSH0351,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000804,FSH0581,2025,2025-12-24,2.1,97.6%,2.3,Medio,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000805,FSH0582,2025,2025-12-21,3.6,100.7,3.3,Bajo,FSH0455,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000806,FSH0583,2025,2025-12-27,4.8,113.7,"4,7",Bajo,fsh0399,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000807,FSH0584,2024,2025-01-13,"3,8","94,8",3.8,Medio,FSH0023,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000808,FSH0584,2025,2025-11-28,"4,1","89,2%","3,9",Medio,FSH0552,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000809,FSH0585,2025,2025-12-31,"3,5","85,2","3,3",Bajo,FSH0091,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000810,FSH0586,2025,2025-12-25,4.0,93.9%,3.7,Medio,FSH0506,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000811,FSH0587,2024,2024-11-16,4.5,109.0,4.7,Alto,FSH0762,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000812,FSH0587,2025,29/11/2025,4.7,"94,2",4.9,Alto,FSH0560,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000813,FSH0588,2025,2026-01-12,2.1,"66,1",2.7,Alto,FSH0584,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000814,FSH0589,2024,12/01/2025,4.1,93.0,4.2,Medio,FSH0500,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000815,FSH0589,2025,25/12/25,3.6,82.6,3.6,Alto,FSH0757,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000816,FSH0590,2025,01/12/25,"3,0","87,5%",2.8,Alto,FSH0234,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000817,FSH0591,2025,2025-12-30,"3,3",87.7,"3,2",Medio,FSH0506,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000818,FSH0592,2024,16/11/2024,"1,8",72.6,1.4,Medio,FSH0617,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000819, FSH0592 ,2025,2025-12-24,"2,2","89,5",2.0,Muy alto,FSH0252,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000820,fsh0593,2025,2025-12-12,"4,0","87,2","4,2",Bajo,FSH0126,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000821,FSH0594,2025,16/12/2025,"3,4","95,2","3,6",Alto,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000822,FSH0595,2024,10-12-24,4.9,119.9,"4,9",Medio,FSH0501,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000823,FSH0595,2025,2025-12-09,4.6,90.1,"4,7",Medio,FSH0482,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000824,FSH0596,2024,2025-01-10,"3,1",81.9,3.1,Alto,FSH0814,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000825,FSH0596,2025,2025-12-06,"3,3",98.3%,"3,1",Medio,FSH0091,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000826,FSH0597,2025,02-01-26,2.5,95.2%,2.3,Bajo,FSH0092,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000827,FSH0598,2024,2024-12-19,2.4,87.4%,2.3,Alto,FSH0251,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000828,FSH0598,2025,16-11-25,2.5,70.8%,2.7,Medio,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000829,FSH0599,2024,30/11/2024,1.9,86.0,1.6,Alto,FSH0107,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000830,FSH0599,2025,2025-12-09,2.1,73.1%,"2,3",Medio,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000831,FSH0600,2025,05/12/25,"3,2","93,3","3,1",Medio,FSH0568,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000832,FSH0601,2024,20/11/2024,"2,9","80,8","3,0",Alto,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000833,FSH0601,2025,2025-12-27,"2,8","88,4%","2,7",Medio,FSH0185,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000834,FSH0602,2024,19/11/24,4.7,103.2%,"4,7",Medio,FSH0682,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000835,FSH0602,2025,13/01/26,"5,0",101.3,4.7,Muy alto,FSH0760,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000836,FSH0603,2025,15/11/2025,3.0,"89,1","2,9",Alto,FSH0748,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000837,FSH0604,2024,2024-12-28,2.7,87.3%,"3,1",Bajo,FSH0584,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000838,FSH0604,2025,2025-12-01,"3,1",86.9%,3.5,Medio,FSH0386,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000839,FSH0605,2024,01/01/2025,"5,0","97,4",,Medio,FSH0283,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000840,FSH0605,2025,2025-11-26,4.5,"117,8","4,5",Medio,FSH0091,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000841,FSH0606,2025,19-11-25,5.0,"105,3","4,6",Bajo,FSH0126,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000842,FSH0607,2025,2025-11-19,"3,4","87,9%",3.5,Medio,FSH0678,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000843,FSH0608,2025,2025-12-22,"3,1",109.2,3.1,Bajo,FSH0800,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000844,FSH0609,2025,2026-01-04,3.7,"81,3",3.3,Alto,FSH0614,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000845,FSH0610,2024,2024-12-04,"3,1","99,1",3.2,Medio,FSH0342,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000846,FSH0610,2025,09/12/25,"3,1",93.5,3.4,Medio,FSH0399,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000847,FSH0611,2024,2024-12-04,"3,7","95,1",3.6,Medio,FSH0234,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000848,FSH0611,2025,02-01-26,"4,0",94.8,3.7,Alto,FSH0054,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000849,FSH0612,2025,2025-11-29,2.8,"84,6%",2.8,Medio,FSH0155,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000850,FSH0613,2024,2024-12-18,2.6,84.3,2.7,Medio,FSH0280,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000851,FSH0613,2025,2026-01-10,"2,7","96,5%",3.0,Alto,FSH0123,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000852,FSH0614,2025,2026-01-12,2.9,"94,3%","2,6",Medio,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000853,FSH0615,2025,2026-01-06,4.2,"95,7",4.1,Medio,FSH0039,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000854,FSH0616,2024,2024-12-24,"3,6",96.3,"3,2",Alto,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000855,FSH0616,2025,2025-12-28,3.8,"108,9%","4,1",Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000856,FSH0617,2024,2024-12-20,"4,4",99.4,,Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000857,FSH0617,2025,28/11/2025,"4,2","104,1%",4.5,Medio,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000858,FSH0618,2024,2025-01-09,5.0,"119,1","5,0",Alto,FSH0332,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000859,FSH0618,2025,02-01-26,"5,0",109.1,5.0,Medio,FSH0237,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000860,FSH0619,2024,2024-11-27,"3,9",86.5,"3,9",Bajo,FSH0552,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000861,FSH0619,2025,2025-12-17,4.0,"96,5",,Alto,FSH0300,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000862,FSH0620,2024,21-12-24,4.4,101.7%,4.5,Medio,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000863,FSH0620,2025,2025-11-19,"4,0",94.4,"4,2",Muy alto,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000864,FSH0621,2025,08/01/2026,"1,8","85,0","2,0",Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000865,FSH0622,2025,2025-11-21,"3,6","89,8",3.9,Alto,FSH0288,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000866,FSH0623,2025,2025-12-14,2.3,98.1,"2,5",Medio,FSH0463,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000867,FSH0624,2025,28/11/2025,3.2,84.1,3.0,Alto,FSH0560,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000868,FSH0625,2025,2025-12-23,4.0,"94,0",3.9,Medio,FSH0808,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000869,FSH0626,2025,2025-12-03,"4,1",97.2,"4,3",Bajo,FSH0251,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000870,FSH0627,2024,2024-12-02,2.8,89.0%,"2,7",Medio,FSH0326,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000871,FSH0627,2025,18/12/2025,"2,7",86.0,2.9,Medio,fsh0649,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000872,FSH0628,2024,07/01/2025,2.9,"88,1",3.0,Medio,FSH0427,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000873,FSH0628,2025,2025-11-19,3.6,"100,1","3,3",Alto,FSH0300,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000874,FSH0629,2024,2025-01-05,3.9,101.1,"3,5",Medio,FSH0404,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000875,FSH0629,2025,2026-01-05,"4,3","110,1%",4.4,Medio,FSH0100,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000876,FSH0630,2024,2024-12-01,5.0,"96,3","4,9",Medio,FSH0560,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000877, FSH0630 ,2025,2025-11-17,"4,5","81,7%","4,3",Medio,FSH0038,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000878,FSH0631,2025,2025-11-24,4.5,"99,5",4.0,Alto,FSH0095,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000879,FSH0632,2024,2024-11-16,4.5,"84,8",4.4,Alto,FSH0180,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000880,FSH0632,2025,2025-11-28,"4,6",111.0,4.6,Bajo,FSH0416,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000881,FSH0633,2024,2024-12-03,4.2,104.7%,"4,5",Alto,FSH0513,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000882,FSH0633,2025,06/01/2026,"3,6",87.7,3.4,Medio,FSH0172,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000883,FSH0634,2025,12/12/25,3.6,"96,6",,Muy alto,FSH0069,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000884,FSH0635,2025,08/01/2026,3.1,"93,6",3.0,Alto,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000885,FSH-0636,2024,2024-12-01,4.9,109.4,"5,0",Medio,FSH0051,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000886,FSH0636,2025,2026-01-03,4.4,"94,2","4,7",Alto,FSH0552,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000887,FSH0637,2025,2025-12-05,"3,1","101,4","3,1",Bajo,FSH0100,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000888, FSH0638 ,2025,2025-12-22,4.2,92.7,"4,0",Alto,FSH0180,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000889,FSH0639,2025,30/12/25,"3,7",104.5,4.4,Alto,FSH0491,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000890,FSH0640,2024,2024-12-22,"2,7",77.8%,2.9,Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000891,FSH0640,2025,14/01/2026,"3,0",83.0,"3,3",Alto,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000892,FSH0641,2025,2025-12-20,2.6,89.5,2.6,Medio,FSH0034,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000893,FSH0642,2025,2025-12-09,4.9,"107,7%",5.0,Alto,FSH0346,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000894,FSH0643,2025,17-11-25,3.3,"90,0",2.9,Medio,FSH0645,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000895,FSH0644,2025,2025-12-16,3.0,90.4,"3,4",Medio,FSH0326,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000896,FSH0645,2025,2025-11-15,4.0,84.1,3.8,Alto,FSH0126,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000897,FSH0646,2025,2026-01-03,"3,6",97.2,3.6,Muy alto,FSH0145,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000898,FSH0647,2024,28/12/2024,3.9,91.0%,4.2,Bajo,FSH0300,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000899,FSH0647,2025,16-12-25,"3,8","95,8","4,0",Alto,FSH0063,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000900,FSH0648,2025,2026-01-08,3.9,98.8,"3,9",Medio,FSH0054,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000901,FSH0649,2025,2025-11-25,2.9,"93,2%",2.9,Alto,FSH0678,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000902,FSH0650,2025,2026-01-01,4.4,90.7,4.7,Medio,FSH0481,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000903,FSH0651,2025,09/01/2026,"2,9",94.7,2.4,Medio,FSH0423,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000904,FSH0652,2025,03-12-25,3.3,"86,2%",,Medio,FSH0185,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000905,fsh0653,2024,2024-11-17,"3,9",103.4,"3,8",Medio,FSH0596,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000906,FSH0653,2025,21-11-25,4.5,111.7%,"4,5",Medio,FSH0069,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000907,FSH0654,2025,2025-12-19,3.5,87.2,3.6,Alto,FSH0039,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000908,FSH0655,2025,2026-01-03,2.9,88.0%,2.7,Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000909,FSH0656,2025,18/12/2025,"3,9",113.9,3.7,Alto,FSH0321,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000910,FSH0657,2024,2024-11-22,"1,4","89,0","1,3",Medio,FSH0164,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000911,FSH0657,2025,2025-12-06,"2,2","80,2","2,1",Medio,FSH0682,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000912,FSH0658,2025,29/11/25,3.9,91.6,"3,7",Medio,FSH0692,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000913,FSH0659,2025,03/01/2026,3.3,83.4,"3,3",Medio,FSH0690,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000914,FSH0660,2024,26/12/2024,"4,2",104.1%,4.3,Medio,FSH0069,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000915,FSH0660,2025,12/12/2025,4.3,"92,0","4,3",Alto,FSH0043,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000916,FSH0661,2024,27/11/2024,3.5,"84,7",3.6,Medio,FSH0635,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000917,FSH0661,2025,2025-12-30,3.6,92.8,3.5,Medio,FSH0702,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000918,FSH0662,2025,18/12/2025,3.6,"87,0",3.3,Alto,FSH0346,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000919,FSH0663,2025,2026-01-09,2.6,101.7,2.7,Medio,FSH0300,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000920,FSH0664,2025,2025-12-01,4.3,"90,7",4.4,Alto,FSH0762,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000921,FSH0665,2024,2024-12-08,"2,4","85,3",2.7,Bajo,FSH0023,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000922,FSH0665,2025,2025-11-17,2.0,68.7%,"1,5",Alto,FSH0649,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000923,FSH0666,2024,2025-01-12,"2,5","87,1",1.7,Medio,FSH0560,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000924,FSH0666,2025,2025-12-12,"2,4",79.2%,2.1,Bajo,FSH0078,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000925,FSH0667,2025,28/12/2025,"3,3",80.3,"3,0",Medio,FSH0421,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000926,FSH0668,2024,16-12-24,"2,7",78.5,2.5,Alto,FSH0636,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000927,FSH0668,2025,27/12/2025,"2,5",72.0,2.8,Medio,FSH0584,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000928,FSH0669,2025,2025-12-29,2.3,"86,9",1.7,Bajo,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000929,FSH0670,2025,05/12/25,"3,0","81,1%","3,1",Alto,FSH0784,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000930,FSH0671,2024,19/12/24,"3,6",100.9,3.6,Medio,FSH0152,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000931,FSH0671,2025,08-01-26,Pendiente,75.1,3.4,Bajo,FSH0384,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000932,FSH0672,2024,2024-12-22,4.3,99.9,"4,3",Alto,FSH0449,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000933,FSH0672,2025,2025-11-30,"4,4","89,4",4.5,Alto,FSH0401,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000934,FSH0673,2025,30-11-25,3.2,92.4,3.1,Medio,FSH0584,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000935,FSH0674,2024,07-12-24,"2,9","76,9","2,8",Medio,FSH0686,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000936,FSH0674,2025,2025-12-04,2.7,86.8,2.3,Alto,FSH0692,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000937,FSH0675,2024,20/12/24,5.0,"110,7","4,9",Alto,FSH0401,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000938,FSH0675,2025,12/01/26,"5,0",104.7%,5.0,Medio,FSH0123,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000939,FSH0676,2024,09/01/2025,3.6,"91,1",3.3,Medio,FSH0476,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000940,FSH0676,2025,2025-12-29,"3,7","94,5%",3.6,Bajo,FSH0325,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000941,FSH0677,2025,03/12/2025,4.7,106.6,"4,8",Muy alto,FSH0645,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000942,FSH0678,2025,05/01/2026,"3,5",99.3,3.4,Alto,FSH0100,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000943,FSH0679,2024,21/11/2024,2.1,88.0,2.2,Muy alto,FSH0048,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000944,FSH0679,2025,09-01-26,"2,9","83,1",3.0,Medio,FSH0724,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000945,FSH0680,2024,2025-01-14,1.6,86.0,1.5,Medio,FSH0518,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000946,FSH-0680,2025,2025-11-18,2.1,75.2,"1,9",Medio,FSH0518,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000947,FSH0681,2024,06/01/2025,"3,2","90,7","3,2",Bajo,FSH0416,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000948,FSH0681,2025,2025-12-26,3.3,88.0,3.4,Medio,FSH0180,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000949,FSH0682,2025,27-12-25,"3,6",93.9%,,Bajo,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000950,FSH0683,2025,27-11-25,3.5,86.6,3.7,Muy alto,FSH0109,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000951,FSH0684,2025,2025-12-25,"3,4",96.4,"3,4",Medio,FSH0069,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000952,FSH0685,2025,2025-12-05,"3,1","97,2","2,6",Muy alto,FSH0617,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000953,fsh0686,2024,2024-12-11,"4,5","91,8%",5.0,Bajo,FSH0308,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000954,FSH0686,2025,2025-12-21,"4,7",108.3%,"4,7",Medio,FSH0109,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000955,FSH0687,2025,01/01/2026,4.7,108.9%,"5,0",Bajo,FSH0117,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000956,FSH0688,2024,2024-11-26,2.7,"93,9","2,6",Alto,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000957,FSH0688,2025,17/11/2025,2.3,"79,4","2,1",Medio,FSH0107,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000958,FSH0689,2025,10/01/26,,104.2,"4,4",Muy alto,FSH0686,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000959,FSH0690,2025,2025-12-31,"4,4",96.9,"4,3",Medio,FSH0288,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000960,FSH0691,2025,2025-12-19,3.4,103.8,"3,6",Medio,FSH0095,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000961,FSH0692,2025,2026-01-06,3.6,"108,4%","3,7",Medio,FSH0332,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000962,FSH0693,2025,2025-11-18,3.9,96.7,"3,9",Medio,FSH0506,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000963,FSH0694,2024,01/12/2024,3.3,"81,7","3,5",Medio,FSH0478,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000964,FSH0694,2025,24/12/25,3.7,"87,1","3,8",Bajo,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000965,FSH0695,2024,2024-12-10,"4,3",94.0,"4,8",Alto,FSH0500,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000966,FSH0695,2025,2025-11-25,3.9,"88,3%","4,1",Medio,FSH0606,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000967,FSH0696,2025,2025-11-30,4.6,105.2,"4,9",Medio,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000968,FSH0697,2024,2025-01-02,"2,3",101.9,"2,3",Alto,FSH0268,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000969, FSH0697 ,2025,2025-11-15,"2,7",92.0%,"3,1",Alto,FSH0476,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA000970,FSH0698,2025,25/11/25,"4,6",97.0,"4,8",Medio,FSH0404,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000971,FSH0699,2025,11-01-26,2.9,82.0%,"3,2",Medio,fsh0185,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000972,FSH-0700,2025,2025-12-09,"3,7","88,5",3.7,Alto,FSH0614,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000973,FSH0701,2025,2026-01-05,3.1,92.2,3.3,Medio,FSH0280,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000974,FSH0702,2024,2025-01-14,"3,7",90.9%,"4,0",Muy alto,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000975,FSH0702,2025,16/12/2025,3.0,"104,8",3.0,Medio,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000976,FSH0703,2025,13/01/2026,"4,9",99.8,4.5,Medio,FSH0524,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000977,FSH0704,2024,25/11/2024,"4,3",97.1,4.0,Medio,FSH0757,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000978,FSH0704,2025,17/12/2025,"3,6","82,9","3,3",Medio,FSH0117,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000979,FSH0705,2024,26-11-24,"3,6","102,4","3,8",Medio,FSH0817,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000980,FSH0705,2025,2025-12-10,"3,3",92.5%,"3,0",Alto,FSH0506,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000981,FSH0706,2025,07-01-26,"5,0",99.2,"4,7",Medio,FSH0800,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000982,FSH0707,2025,09/01/2026,3.3,"96,0%","3,0",Alto, FSH0716 ,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000983,FSH0708,2025,2025-12-04,4.0,"91,3","4,0",Medio, FSH0152 ,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000984,FSH0709,2025,25/12/25,"5,0","91,6",5.0,Muy alto,FSH0620,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000985,FSH0710,2025,06/12/25,"3,6",92.9%,3.9,Medio,FSH0061,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000986,FSH0711,2024,2024-12-13,3.2,"80,3","3,1",Medio,FSH0416,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000987,FSH0711,2025,20/11/2025,3.5,"84,2","3,5",Medio,FSH0332,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000988,FSH0712,2025,04/12/2025,"3,7","79,7%",3.5,Medio,FSH0694,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000989,FSH0713,2025,16/11/2025,3.8,88.0,"3,9",Medio,FSH0043,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000990,fsh0714,2025,2026-01-04,"3,3",84.9,"2,9",Medio,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000991,FSH0715,2024,2024-11-29,"4,0",99.8%,4.0,Medio,FSH0048,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000992,FSH0715,2025,2025-12-06,"4,1","92,9","3,9",Bajo,FSH0383,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000993,FSH0716,2025,25/12/2025,"4,5",101.9,4.3,Medio,FSH0288,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA000994,FSH0717,2024,17/11/24,Pendiente,91.7%,2.3,Medio,FSH0061,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA000995,FSH0717,2025,2025-11-30,2.7,86.3,"2,3",Medio,FSH0423,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000996,FSH0718,2025,22/11/2025,3.1,91.6%,"2,9",Alto,FSH0762,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA000997,FSH0719,2025,05/01/2026,3.9,"104,4%","3,5",Medio,FSH0682,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA000998,FSH0720,2024,2024-11-19,"4,5",110.4,4.2,Medio,FSH0210,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA000999,FSH0720,2025,2025-11-29,4.3,"92,5%","4,1",Medio,FSH0716,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001000,FSH0721,2025,2026-01-02,5.0,"101,1%","5,0",Medio,FSH0560,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001001,FSH0722,2024,2024-12-31,3.4,83.2%,2.9,Muy alto,FSH0767,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001002,FSH0722,2025,2025-12-28,"3,6",106.6,"4,0",Medio,FSH0325,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001003,FSH0723,2025,2025-12-23,"1,7",83.1,"1,5",Alto, FSH0107 ,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001004,FSH0724,2024,2024-12-20,"4,6","109,1",4.5,Medio,FSH0533,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001005,FSH0724,2025,21/12/2025,"4,3","99,7","4,6",Bajo,FSH0048,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001006,FSH0725,2025,11-01-26,3.8,82.3,,Alto,FSH0160,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001007,FSH0726,2025,2025-12-15,"2,4",81.7,"2,1",Bajo,FSH0476,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001008,FSH0727,2025,2026-01-09,"4,8",95.2%,"4,6",Alto,FSH0123,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001009,FSH0728,2025,15-12-25,3.2,"80,9%","3,6",Alto,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001010,FSH0729,2024,2025-01-06,3.9,104.5%,"4,0",Bajo,FSH0716,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001011,FSH0729,2025,28/12/2025,3.7,95.1,"3,7",Bajo,FSH0584,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001012,FSH0730,2024,2024-11-29,4.6,99.0,4.2,Bajo,FSH0152,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001013,FSH0730,2025,06/12/2025,"4,7","111,3",,Bajo,FSH0640,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001014,FSH0731,2024,2024-12-05,"3,3","107,7","3,4",Medio,FSH0767,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001015,FSH0731,2025,2025-11-26,3.7,"96,0","3,9",Medio,FSH0645,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001016,FSH0732,2025,2025-12-17,4.1,85.5,"3,8",Alto,FSH0283,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001017,FSH0733,2025,16/12/2025,3.7,"91,0","3,5",Medio,FSH0271,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001018,fsh0734,2024,20/11/24,3.7,"98,3",4.0,Medio,FSH0268,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001019,FSH0734,2025,06/12/2025,3.7,101.1,"3,5",Medio,FSH0767,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001020,FSH0735,2024,2024-12-09,"3,1","84,4","2,8",Muy alto,FSH0482,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001021,FSH0735,2025,2025-12-27,"3,2",80.6,"3,6",Bajo,FSH0784,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001022,FSH0736,2025,2026-01-02,"3,3",91.5,"3,2",Medio,FSH0080,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001023,FSH0737,2025,2025-12-16,4.1,101.7,"4,2",Medio,FSH0201,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001024,FSH-0738,2024,2025-01-05,4.6,95.8,"4,7",Medio,FSH0682,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001025,FSH0738,2025,2025-12-10,4.2,"91,3%","4,2",Medio,FSH0160,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001026,FSH0739,2025,26-12-25,"3,5",93.5,"3,5",Alto,FSH0808,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001027,FSH0740,2025,15/12/2025,4.1,98.7,4.3,Alto,FSH0782,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001028,FSH0741,2025,2025-12-05,2.9,83.4,2.9,Medio,FSH0636,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001029,fsh0742,2025,2025-12-01,2.4,78.1%,3.1,Medio,FSH0237,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001030,FSH0743,2025,2026-01-06,"3,6",86.5,"3,4",Medio,FSH0617,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001031,FSH0744,2024,17/12/24,3.8,"92,0","4,0",Medio,FSH0331,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001032,FSH0744,2025,2025-12-01,"3,5",94.2%,3.4,Medio,FSH0150,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001033,FSH0745,2025,2025-11-18,2.8,81.4%,2.6,Alto,FSH0423,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001034,FSH0746,2025,22/12/2025,"5,0","101,9",5.0,Medio,FSH0123,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001035,FSH0747,2025,09-12-25,4.1,91.1,4.1,Medio,FSH0288,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001036,FSH0748,2025,2025-11-22,"3,9",87.4,"4,1",Medio,FSH0145,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001037,FSH0749,2024,2024-12-16,"3,9",90.8,3.7,Medio,FSH0616,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001038,FSH0749,2025,2025-12-24,3.6,95.2,"3,9",Medio,FSH0716,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001039,FSH0750,2024,26/12/24,"3,4","81,1",3.7,Medio,FSH0363,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001040,FSH0750,2025,29/12/25,"2,9",87.7%,2.9,Medio,FSH0363,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001041,FSH0751,2025,03-12-25,"4,1",101.8,4.0,Medio,FSH0069,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001042,FSH0752,2025,2025-12-13,3.1,"98,6",3.5,Muy alto,FSH0061,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001043,FSH0753,2025,2025-12-10,"3,0","100,7%","2,5",Medio, FSH0160 ,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001044,FSH0754,2025,2026-01-08,"3,5",91.2,3.0,Medio,FSH0092,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001045,FSH0755,2025,31/12/2025,No evaluado,"90,1","3,3",Medio,FSH0500,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001046,FSH0756,2025,2025-11-29,4.3,103.0,4.4,Alto,FSH0423,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001047,FSH0757,2025,11/12/2025,"3,2",87.1,"3,0",Medio,FSH0767,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001048,FSH0758,2025,2025-12-13,3.0,91.5%,2.7,Medio,FSH0117,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001049,fsh0759,2025,2026-01-13,2.6,77.2%,2.3,Bajo,FSH0170,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001050,FSH0760,2025,2025-12-04,"4,8",101.8%,"4,7",Medio,FSH-0326,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001051,FSH0761,2025,2025-12-02,"4,2",95.5%,4.3,Muy alto,FSH0326,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001052,FSH0762,2024,2024-12-07,4.1,109.7,4.2,Bajo,,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001053,FSH0762,2025,10/01/2026,3.8,"98,2",3.8,Alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001054,FSH0763,2025,2025-12-08,"2,2",69.2%,"2,1",Alto,FSH0614,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001055,FSH0764,2024,01/01/2025,2.3,79.1,"2,3",Medio,FSH0702,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001056,FSH0764,2025,2026-01-14,,82.4,"2,2",Medio,FSH0622,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001057,FSH0765,2025,26-12-25,3.0,87.8,"2,8",Alto,FSH0237,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001058,FSH0766,2024,2024-11-28,2.8,76.1,2.8,Medio,FSH0181,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001059,FSH0766,2025,30/11/2025,3.7,"103,3",3.1,Medio,FSH0199,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001060,FSH-0767,2025,30/12/2025,3.5,"86,0",3.6,Medio,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001061,FSH0768,2025,27-11-25,"3,0","96,0%","2,9",Medio,FSH0221,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001062,FSH0769,2025,2025-12-07,2.1,76.3,"2,4",Medio,FSH0491,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001063,FSH0770,2025,21-11-25,"4,3",105.8%,"4,5",Bajo,FSH0107,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001064,FSH0771,2025,2025-12-17,3.2,"86,9",3.5,Medio,FSH0500,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001065,FSH0772,2025,30/12/2025,"3,6",78.2%,"3,9",Medio,FSH0091,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001066,FSH0773,2025,08/01/26,"3,9",95.7%,"3,9",Bajo,FSH0595,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001067,FSH0774,2025,04-12-25,"5,0","97,4%","4,5",Alto,FSH0109,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001068,FSH0775,2025,2025-12-26,"3,1",90.7,"3,2",Muy alto,,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001069, FSH0776 ,2024,2024-12-17,4.3,104.5,4.4,Medio,FSH0487,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001070,FSH0776,2025,2025-11-25,,"90,4","4,3",Muy alto,FSH0716,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001071,FSH0777,2024,20-11-24,3.8,104.6,3.8,Medio,FSH0538,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001072,FSH0777,2025,2025-11-25,4.2,"98,2%",4.4,Alto,FSH0386,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001073,FSH0778,2025,2026-01-11,"2,4",92.2,2.6,Medio,FSH0465,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001074,FSH0779,2025,21/11/25,"3,1","83,2","3,3",Muy alto,FSH0107,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001075,FSH0780,2024,2024-12-04,"3,2",97.0,2.9,Medio,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001076,FSH0780,2025,2026-01-14,3.5,92.3,3.3,Medio,FSH0423,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001077,FSH0781,2024,2024-11-19,5.0,"113,9",5.0,Medio,FSH0384,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001078,FSH0781,2025,2025-11-21,"5,0",106.3,"5,0",Bajo,FSH0075,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001079,FSH0782,2025,08/12/2025,"3,1",98.8%,"3,1",Muy alto,FSH0342,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001080,FSH0783,2025,2026-01-10,"3,9",92.2,"4,1",Alto,FSH0482,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001081,FSH0784,2025,2025-12-22,4.6,86.9,"4,8",Medio,FSH0427,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001082,FSH0785,2025,03/12/2025,3.8,"89,7",3.7,Medio,FSH0043,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001083,FSH0786,2024,2025-01-08,"4,9","101,0%","5,0",Muy alto,FSH0814,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001084,FSH0786,2025,2025-12-09,4.6,110.9,"4,6",Medio,FSH0772,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001085,FSH0787,2024,13/12/2024,4.4,99.3,4.4,Medio,FSH0095,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001086,FSH0787,2025,2025-12-05,4.3,90.5,4.2,Medio,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001087,FSH0788,2024,15/12/2024,3.1,83.0,"2,6",Alto,FSH0061,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001088,FSH0788,2025,2025-12-07,"3,6",95.9,"4,0",Medio,FSH0107,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001089,FSH0789,2025,2025-12-15,3.8,"91,8","4,0",Bajo,FSH0294,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001090,fsh0790,2024,2024-11-19,"3,9","86,6%",3.6,Bajo,FSH0107,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001091, FSH0790 ,2025,08/12/2025,3.5,100.9,3.5,Medio,FSH0095,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001092,FSH0791,2024,2024-12-10,,84.3,3.2,Medio,FSH0237,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001093,FSH0791,2025,11-01-26,3.5,86.6%,2.8,Bajo,FSH0252,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001094,FSH0792,2025,2025-12-29,"2,4","81,6",2.3,Medio,FSH0487,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001095, FSH0793 ,2024,26-11-24,"4,5","111,1",4.5,Alto,FSH0080,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001096,FSH0793,2025,17/12/2025,4.5,"102,9","4,8",Medio,FSH0736,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001097,FSH0794,2024,2024-11-21,3.4,"109,3","3,1",Bajo,FSH0506,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001098,FSH0794,2025,2026-01-04,"3,4",84.7,3.6,Medio,FSH0355,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001099,FSH0795,2025,01/01/2026,"2,5",95.0%,2.4,Medio,FSH0183,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001100, FSH0796 ,2025,2026-01-02,"4,1","89,7",4.5,Alto,FSH0107,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001101,FSH0797,2025,2025-11-25,3.0,"82,7%",3.1,Alto,FSH0326,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001102,FSH0798,2025,2026-01-05,3.4,102.7,3.3,Muy alto,FSH0536,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001103,FSH0799,2025,2025-11-19,2.6,"80,8%","2,5",Medio,FSH0080,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001104,FSH0800,2024,08/01/25,4.7,"111,2",4.7,Medio,FSH0126,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001105,FSH0800,2025,2026-01-13,4.4,115.3,"4,4",Alto,FSH0757,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001106,FSH0801,2024,28/11/2024,4.4,96.4%,4.9,Medio,FSH0181,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001107,FSH0801,2025,2025-11-18,"3,9","108,8%",3.9,Bajo,FSH0537,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001108,FSH0802,2024,2024-11-24,4.8,"114,5%","5,0",Bajo,,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001109,FSH0802,2025,24/12/2025,4.3,79.5,4.5,Alto,,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001110,FSH0803,2025,2025-11-28,4.1,"102,1",4.2,Muy alto,FSH0716,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001111,FSH0804,2025,2025-12-17,3.4,93.9,"3,5",Medio,FSH0645,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001112,FSH0805,2025,2025-11-23,2.7,96.9,2.8,Medio,FSH0452,Necesita reforzar priorización y comunicación con el equipo.,Plataforma desempeño
+EVA001113,FSH0806,2024,03/01/2025,4.5,"109,9%","4,6",Medio,fsh0416,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001114,FSH0806,2025,2026-01-10,4.4,104.3%,"4,9",Alto,FSH0308,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001115,FSH0807,2025,2025-11-19,"4,4",96.7%,,Muy alto,FSH0325,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001116,FSH-0808,2025,2026-01-09,"4,7",103.2,4.8,Alto,FSH0552,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001117,FSH0809,2025,22/12/25,3.7,100.4,3.7,Alto,FSH0325,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001118,FSH0810,2025,2025-11-30,4.2,104.6,4.8,Alto,FSH0221,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001119,FSH0811,2024,2024-11-24,3.0,96.7%,2.9,Medio,FSH0280,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001120,FSH0811,2025,2025-11-29,2.7,"75,5","2,1",Bajo,FSH0817,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001121,FSH0812,2025,2026-01-01,"3,5",88.9,2.9,Medio,FSH0142,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001122,FSH0813,2025,13/01/2026,3.2,94.7,3.1,Medio,FSH0351,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001123,FSH0814,2024,2024-12-19,"1,9","81,6",1.8,Alto,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001124,FSH0814,2025,26/11/25,2.4,"87,8",2.6,Alto,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001125,FSH0815,2025,01/01/26,4.0,"91,4",3.9,Bajo,FSH0164,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001126,FSH0816,2025,2025-12-09,3.9,"97,9%","3,5",Medio,FSH0172,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001127,FSH0817,2024,2025-01-08,"5,0","93,6",5.0,Alto,,Cumple objetivos y mantiene buena orientación al cliente.,Plataforma desempeño
+EVA001128,FSH0817,2025,23/12/25,5.0,"101,5","4,6",Medio,,Se observan avances desde la última evaluación.,Plataforma desempeño
+EVA001129,FSH0818,2025,25/12/2025,"3,9","91,6","3,8",Alto,FSH0210,Buen desempeño en campañas con presión operativa.,Plataforma desempeño
+EVA001130,FSH0819,2025,15-11-25,4.1,"106,3%",4.1,Medio,FSH0054,Potencial de crecimiento si consolida habilidades de liderazgo.,Plataforma desempeño
+EVA001131,FSH0820,2024,22/12/2024,"4,3","112,3",4.4,Medio,FSH0288,Requiere acompañamiento para mejorar autonomía y seguimiento.,Plataforma desempeño
+EVA001132,FSH0820,2025,2026-01-02,4.6,"99,1",4.2,Medio,FSH0288,Se observan avances desde la última evaluación.,Plataforma desempeño

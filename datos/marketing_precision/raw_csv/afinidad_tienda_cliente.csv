@@ -1,0 +1,101 @@
+﻿customer_id,store_id_preferida,store_id_mas_cercana,distancia_km_store_mas_cercana,frecuencia_visita_tienda_12m,gasto_tienda_12m_eur,gasto_online_12m_eur,click_collect_propension,probabilidad_visita_30d,cluster_local,es_capturable_localmente,ciudad_residencia,provincia_residencia
+C0001,S005,S004,36.0,3,1787.09,2631.83,0.299,0.235,metropolitano,1,Sevilla,Sevilla
+C0002,S001,S005,32.9,2,2009.49,7674.73,0.577,0.082,metropolitano,1,Gijón,Asturias
+C0003,S004,S004,13.9,1,1365.53,3185.16,0.368,0.279,urbano_proximo,1,Córdoba,Córdoba
+C0004,S004,S002,23.0,2,2185.12,5320.98,0.809,0.357,metropolitano,1,Palma,Illes Balears
+C0005,S001,S002,30.8,3,7639.76,5613.8,0.825,0.218,metropolitano,1,Palma,Illes Balears
+C0006,S002,S004,14.1,1,4222.88,9030.55,0.772,0.222,urbano_proximo,1,Sevilla,Sevilla
+C0007,S001,S006,38.1,2,4845.27,8192.02,0.727,0.149,metropolitano,1,Granada,Granada
+C0008,S003,S003,7.0,2,1342.57,1846.55,0.494,0.301,urbano_proximo,1,Murcia,Murcia
+C0009,S001,S002,36.1,2,1507.08,2341.78,0.354,0.192,metropolitano,1,Palma,Illes Balears
+C0010,S002,S006,6.8,1,2203.93,1892.49,0.78,0.306,urbano_proximo,1,Granada,Granada
+C0011,S002,S001,34.8,2,2862.83,3908.49,0.7,0.129,metropolitano,1,Madrid,Madrid
+C0012,S002,S001,19.8,2,1857.89,2874.93,0.789,0.378,metropolitano,1,Madrid,Madrid
+C0013,S001,S001,3.2,1,670.22,5804.55,0.331,0.231,urbano_proximo,1,Madrid,Madrid
+C0014,S001,S005,31.8,1,1116.61,2656.81,0.444,0.163,metropolitano,1,Vigo,Pontevedra
+C0015,S003,S002,38.3,3,2897.19,3629.07,0.749,0.197,metropolitano,1,Zaragoza,Zaragoza
+C0016,S005,S004,16.5,4,2960.1,5053.63,0.461,0.383,metropolitano,1,Sevilla,Sevilla
+C0017,S003,S004,13.0,3,4366.85,3548.4,0.749,0.357,urbano_proximo,1,Córdoba,Córdoba
+C0018,S002,S006,31.6,2,933.88,5314.48,0.268,0.141,metropolitano,1,Granada,Granada
+C0019,S005,S003,23.4,1,1312.63,2166.21,0.687,0.263,metropolitano,1,Murcia,Murcia
+C0020,S003,S004,9.6,1,426.32,8178.41,0.326,0.338,urbano_proximo,1,Córdoba,Córdoba
+C0021,S002,S005,27.6,2,3792.48,10132.97,0.709,0.32,metropolitano,1,Bilbao,Bizkaia
+C0022,S004,S005,27.1,3,3360.07,5863.02,0.793,0.388,metropolitano,1,Vigo,Pontevedra
+C0023,S003,S006,6.2,1,163.45,618.45,0.36,0.331,urbano_proximo,1,Granada,Granada
+C0024,S01,S004,21.3,1,1729.35,2256.07,0.637,0.212,metropolitano,1,Córdoba,Córdoba
+C0025,S004,S003,7.3,2,3394.75,10362.84,0.786,0.319,urbano_proximo,1,Alicante,Alicante
+C0026,S002,S005,31.5,3,2790.87,2244.96,0.7,0.2,metropolitano,1,San Sebastián,Gipuzkoa
+C0027,S002,S003,31.6,3,1855.61,5401.93,0.709,0.217,metropolitano,1,Murcia,Murcia
+C0028,S003,S005,11.7,1,2688.35,1877.56,0.715,0.257,urbano_proximo,1,Pamplona,Navarra
+C0029,S003,S004,33.9,3,999.55,3449.4,0.772,0.162,metropolitano,1,Sevilla,Sevilla
+C0030,S005,S005,9.5,2,3616.44,0.0,0.584,0.337,urbano_proximo,1,Bilbao,Bizkaia
+C0031,S005,S005,8.6,3,1316.16,1276.47,0.388,0.315,urbano_proximo,1,Bilbao,Bizkaia
+C0032,S001,S005,30.2,2,407.23,8739.74,0.25,0.073,metropolitano,1,Gijón,Asturias
+C0033,S003,S001,9.7,2,5163.64,7500.07,0.665,0.334,urbano_proximo,1,Madrid,Madrid
+C0034,S005,S005,12.9,2,2216.74,8556.86,0.713,0.388,urbano_proximo,1,San Sebastián,Gipuzkoa
+C0035,S004,S006,36.2,1,1645.89,1135.47,0.791,0.074,metropolitano,1,Granada,Granada
+C0036,S005,S001,15.9,3,1197.76,5326.88,0.316,0.32,metropolitano,1,Toledo,Toledo
+C0037,S003,S004,23.2,2,1228.69,2918.8,0.25,0.336,metropolitano,1,Córdoba,Córdoba
+C0038,S001,S005,28.2,3,1775.04,2330.39,0.688,0.253,metropolitano,1,La Coruña,A Coruña
+C0039,S002,S005,35.3,2,2555.91,3719.31,0.34,0.174,metropolitano,1,San Sebastián,Gipuzkoa
+C0040,S004,S003,30.1,3,3642.22,3001.94,0.863,0.176,metropolitano,1,Valencia,Valencia
+C0041,S002,S003,8.4,1,6678.48,766.32,0.76,0.293,urbano_proximo,1,Murcia,Murcia
+C0042,S002,S004,24.8,2,3149.88,1661.63,0.804,0.331,metropolitano,1,Córdoba,Córdoba
+C0043,S003,S002,9.1,1,1990.1,9255.42,0.3,0.242,urbano_proximo,1,Palma,Illes Balears
+C0044,S005,S003,42.0,3,1493.81,4699.12,0.348,0.107,metropolitano,1,Alicante,Alicante
+C0045,S002,S001,28.6,1,6672.08,6339.91,0.718,0.192,metropolitano,1,Valladolid,Valladolid
+C0046,S002,S002,9.2,5,2577.57,3224.32,0.77,0.45,urbano_proximo,1,Barcelona,Barcelona
+C0047,S001,S001,9.3,3,8824.86,5471.5,0.95,0.365,urbano_proximo,1,Valladolid,Valladolid
+C0048,S003,S006,27.9,2,2110.03,2290.73,0.216,0.326,metropolitano,1,Málaga,Málaga
+C0049,S004,S001,18.3,3,3308.95,2041.73,0.708,0.303,metropolitano,1,Toledo,Toledo
+C0050,S004,S005,5.9,1,1127.26,8749.18,0.482,0.289,urbano_proximo,1,Santander,Cantabria
+C0051,S001,S002,10.6,2,2252.73,5108.45,0.662,0.21,urbano_proximo,1,Palma,Illes Balears
+C0052,S004,S002,31.9,5,2629.92,5210.32,0.38,0.356,metropolitano,1,Barcelona,Barcelona
+C0053,S004,S005,35.7,3,33478.1,4467.64,0.811,0.16,metropolitano,1,Vigo,Pontevedra
+C0054,S004,S005,14.2,1,1564.39,4789.03,0.666,0.236,urbano_proximo,1,Santander,Cantabria
+C0055,S004,S005,19.8,2,2690.45,3665.83,0.674,0.36,metropolitano,1,Santander,Cantabria
+C0056,S001,S003,17.7,3,2495.43,5450.06,0.816,0.363,metropolitano,1,Alicante,Alicante
+C0057,S002,S006,25.6,3,1968.42,3729.05,0.734,0.301,metropolitano,1,Málaga,Málaga
+C0058,S004,S003,11.6,1,1135.73,5063.29,0.358,0.206,urbano_proximo,1,Alicante,Alicante
+C0059,S005,S005,17.9,3,979.75,5030.39,0.405,0.435,metropolitano,1,Vigo,Pontevedra
+C0060,S004,S005,40.6,2,959.61,9364.96,0.37,0.177,metropolitano,1,Vigo,Pontevedra
+C0061,S003,S005,17.6,2,1650.14,9981.89,0.759,0.285,metropolitano,1,San Sebastián,Gipuzkoa
+C0062,S004,S003,19.9,2,2183.0,5859.4,0.774,0.402,metropolitano,1,Valencia,Valencia
+C0063,S002,S003,15.5,2,1016.13,1302.97,0.294,0.228,metropolitano,1,Alicante,Alicante
+C0064,S002,S005,9.9,3,1040.88,5556.01,0.883,0.329,urbano_proximo,1,Bilbao,Bizkaia
+C0065,S001,S003,12.2,4,4307.05,3222.12,0.861,0.304,urbano_proximo,1,Valencia,Valencia
+C0066,S005,S002,17.4,4,3202.0,1853.35,0.793,0.346,metropolitano,1,Zaragoza,Zaragoza
+C0067,S003,S003,9.5,2,2730.37,4008.35,0.732,0.33,urbano_proximo,1,Alicante,Alicante
+C0068,S002,S001,14.2,2,3080.34,4758.95,0.75,0.349,urbano_proximo,1,Madrid,Madrid
+C0069,S002,S005,9.9,3,4502.06,6785.16,0.741,0.289,urbano_proximo,1,Vigo,Pontevedra
+C0070,S004,S005,28.2,2,1284.45,2170.95,0.316,0.29,metropolitano,1,Gijón,Asturias
+C0071,S001,S003,33.6,2,4248.05,3913.38,0.627,0.162,metropolitano,1,Murcia,Murcia
+C0072,S002,S003,10.0,3,2579.39,2932.38,0.784,0.311,urbano_proximo,1,Murcia,Murcia
+C0073,S001,S005,17.0,2,1195.64,8636.09,0.472,0.342,metropolitano,1,Santander,Cantabria
+C0074,S005,S004,43.2,1,408.57,14157.53,0.366,0.088,metropolitano,1,Córdoba,Córdoba
+C0075,S004,S005,6.0,4,1524.14,5833.54,0.416,0.381,urbano_proximo,1,Gijón,Asturias
+C0076,S002,S002,2.8,1,1061.84,6105.08,0.756,0.294,urbano_proximo,1,Barcelona,Barcelona
+C0077,S003,S005,43.6,7,15667.55,20663.41,0.878,0.259,metropolitano,1,San Sebastián,Gipuzkoa
+C0078,S005,S002,37.2,1,661.25,3649.84,0.264,0.095,metropolitano,1,Barcelona,Barcelona
+C0079,S004,S006,5.7,2,2946.35,6864.22,0.844,0.266,urbano_proximo,1,Granada,Granada
+C0080,S004,S002,36.9,1,903.79,1407.52,0.21,0.12,metropolitano,1,Palma,Illes Balears
+C0081,S001,S004,29.2,1,4074.05,5475.38,0.693,0.227,metropolitano,1,Córdoba,Córdoba
+C0082,S004,S004,12.1,4,3472.66,6894.91,0.603,0.282,urbano_proximo,1,Córdoba,Córdoba
+C0083,S005,S002,14.9,1,2040.18,5451.04,0.64,0.214,urbano_proximo,1,Zaragoza,Zaragoza
+C0084,S001,S005,37.7,3,3944.59,1623.58,0.95,0.12,metropolitano,1,Bilbao,Bizkaia
+C0085,S001,S002,28.8,2,1156.35,5457.09,0.413,0.414,metropolitano,1,Zaragoza,Zaragoza
+C0086,S004,S006,17.4,3,1842.53,2247.8,0.372,0.387,metropolitano,1,Granada,Granada
+C0087,S004,S001,11.6,3,3511.66,3487.15,0.714,0.332,urbano_proximo,1,Valladolid,Valladolid
+C0088,S001,S005,9.6,4,3018.87,6097.28,0.726,0.354,urbano_proximo,1,Bilbao,Bizkaia
+C0089,S002,S003,12.0,3,2262.7,12325.66,0.35,0.368,urbano_proximo,1,Valencia,Valencia
+C0090,S004,S002,32.2,1,1292.92,1638.75,0.396,0.151,metropolitano,1,Barcelona,Barcelona
+C0091,S001,S002,25.2,2,1410.24,8936.25,0.737,0.267,metropolitano,1,Barcelona,Barcelona
+C0092,S001,S001,1.7,2,1100.34,1768.55,0.391,0.436,urbano_proximo,1,Madrid,Madrid
+C0093,S002,S001,27.8,2,793.9,3526.8,0.417,0.264,metropolitano,1,Toledo,Toledo
+C0094,S002,S006,19.9,4,3711.53,8272.1,0.761,0.303,metropolitano,1,Granada,Granada
+C0095,S004,S003,38.3,2,2107.2,3738.21,0.752,0.189,metropolitano,1,Valencia,Valencia
+C0096,S002,S002,2.7,3,1760.21,5244.41,0.473,0.367,urbano_proximo,1,Zaragoza,Zaragoza
+C0097,S005,S001,44.2,2,4083.37,3267.61,0.69,0.176,metropolitano,1,Toledo,Toledo
+C0098,S002,S002,11.9,3,6760.91,6742.48,0.721,0.334,urbano_proximo,1,Barcelona,Barcelona
+C0099,S001,S004,26.4,1,325.06,936.19,0.399,0.368,metropolitano,1,Córdoba,Córdoba
+C0100,S003,S005,23.5,2,1149.77,2275.38,0.369,0.321,metropolitano,1,San Sebastián,Gipuzkoa

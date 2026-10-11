@@ -1,0 +1,32 @@
+# Sitio generado por MkDocs
+site/
+
+# Estado y configuración local (credenciales, IDs de tenant, despliegues)
+.local/
+.agent/
+.env
+**/config.local.json
+
+# Salidas generadas al ejecutar las demos
+**/output_clean/
+**/output_integrated/
+**/output_features/
+**/output_ml/
+**/output_models/
+**/output_scoring/
+escenarios/05-marketing-precision/outputs/
+escenarios/04-analitica-ventas-ml/artifacts/alumnos_sales_models_artifact.joblib
+escenarios/02-fabric-preparacion-datos/notebooks/data_quality_report_provisional.csv
+
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+~$*
+.vscode/

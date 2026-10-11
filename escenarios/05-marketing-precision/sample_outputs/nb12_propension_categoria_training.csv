@@ -1,0 +1,147 @@
+customer_id,snapshot_date,web_pageviews_30d,web_searches_30d,web_add_to_cart_30d,web_checkout_30d,hist_tx_120d,hist_revenue_120d,hist_discount_120d,hist_category_diversity_120d,last_category,top_viewed_category,target_category
+C0014,2025-04-01,1,1,0,0,0,0.0,,0,,Muebles,Muebles
+C0006,2025-04-01,1,0,0,0,0,0.0,,0,,Muebles,Muebles
+C0006,2025-08-01,0,0,0,0,1,4222.88,0.0,2,Muebles,,Muebles
+C9999,2024-06-01,0,0,0,0,1,211.46,20.0,1,Decoración,,Decoración
+C0034,2024-06-01,1,0,0,0,1,543.16,15.0,3,Decoración,Decoración,Iluminación
+C0061,2025-02-01,0,0,0,0,1,1844.1200000000001,5.0,2,Nan,,Muebles
+C0061,2025-04-01,0,0,0,0,2,5152.56,1.6666666666666667,4,Textil Hogar,,Muebles
+CX123,2024-06-01,0,0,0,0,1,2490.9399999999996,3.75,2,Muebles,,Muebles
+CX123,2024-08-01,0,0,0,0,2,2734.4999999999995,7.5,2,Muebles,,Decoración
+CX123,2024-12-01,0,0,0,0,1,1162.21,41.25,3,Iluminación,,Decoración
+C0025,2024-12-01,1,1,0,0,0,0.0,,0,,Muebles,Textil Hogar
+C0025,2025-02-01,0,0,0,0,1,235.6,0.0,1,Textil Hogar,,Muebles
+C0025,2025-04-01,0,0,0,0,2,1150.72,7.5,2,Muebles,,Iluminación
+C0094,2024-12-01,1,1,1,0,0,0.0,,0,,Muebles,Muebles
+C0094,2025-02-01,1,1,0,0,1,2108.5899999999997,10.833333333333334,4,Muebles,Muebles,Iluminación
+C0075,2025-06-01,1,1,1,0,0,0.0,,0,,Muebles,Decoración
+C0075,2025-08-01,0,0,0,0,2,888.49,0.0,2,Textil Hogar,,Muebles
+C0033,2025-02-01,1,1,1,0,0,0.0,,0,,Muebles,Decoración
+C0033,2025-08-01,1,0,0,0,0,0.0,,0,,Muebles,Decoración
+C0085,2024-12-01,0,0,0,0,1,597.4200000000001,1.6666666666666667,3,Textil Hogar,,Textil Hogar
+C0052,2025-02-01,0,0,0,0,1,46.21,15.0,1,Iluminación,,Iluminación
+C0052,2025-04-01,0,0,0,0,1,46.21,15.0,1,Iluminación,,Iluminación
+C0040,2025-02-01,1,1,0,0,0,0.0,,0,,Muebles,Iluminación
+C0040,2025-04-01,1,0,0,0,1,1310.45,0.0,3,Decoración,Muebles,Textil Hogar
+C0059,2024-10-01,0,0,0,0,1,1562.5499999999997,2.5,3,Iluminación,,Iluminación
+C0059,2025-02-01,0,0,0,0,1,252.45,12.5,3,Iluminación,,Decoración
+C0059,2025-06-01,1,1,1,0,2,594.22,6.25,3,Iluminación,Decoración,Iluminación
+C0091,2024-06-01,1,1,1,0,1,2004.13,13.75,3,Iluminación,Iluminación,Iluminación
+C0037,2025-06-01,1,1,1,0,1,775.77,8.333333333333334,2,Iluminación,Iluminación,Muebles
+C0101,2024-12-01,0,0,0,0,1,803.62,6.25,3,Muebles,,Decoración
+C0101,2025-02-01,0,0,0,0,2,1279.79,6.875,3,Decoración,,Muebles
+C0064,2025-02-01,0,0,0,0,2,4605.9800000000005,10.833333333333334,3,Textil Hogar,,Decoración
+C0064,2025-04-01,0,0,0,0,2,4605.9800000000005,10.833333333333334,3,Textil Hogar,,Decoración
+C0064,2025-06-01,0,0,0,0,1,322.71000000000004,8.75,2,Decoración,,Iluminación
+C0064,2025-08-01,0,0,0,0,2,1106.7,10.0,3,Textil Hogar,,Decoración
+C0038,2025-06-01,1,1,0,0,1,609.97,12.5,1,Decoración,Decoración,Decoración
+C0077,2024-06-01,0,0,0,0,1,1926.21,1.6666666666666667,2,Muebles,,Muebles
+C0077,2024-12-01,0,0,0,0,0,0.0,,0,,Muebles,Muebles
+C0077,2025-04-01,1,0,0,0,1,4041.8799999999997,10.0,2,Muebles,Decoración,Decoración
+C0077,2025-06-01,1,1,1,0,4,1656.4499999999998,11.666666666666666,1,Decoración,Muebles,Muebles
+C0036,2025-06-01,0,0,0,0,2,975.1099999999999,8.75,2,Textil Hogar,,Decoración
+C0048,2025-02-01,0,0,0,0,1,814.58,10.0,3,Decoración,,Decoración
+C0001,2025-08-01,0,0,0,0,1,142.45,5.0,2,Textil Hogar,,Decoración
+C0074,2025-02-01,0,0,0,0,1,1960.64,0.0,1,Muebles,,Muebles
+C0074,2025-04-01,0,0,0,0,1,383.87,10.0,1,Muebles,,Textil Hogar
+C0074,2025-06-01,0,0,0,0,3,1071.4899999999998,7.142857142857143,4,Iluminación,,Decoración
+C0081,2025-06-01,1,1,1,0,0,0.0,,0,,Muebles,Iluminación
+C0081,2025-08-01,2,1,0,0,1,718.48,0.0,1,Iluminación,Muebles,Decoración
+C0009,2025-08-01,0,0,0,0,2,491.19000000000005,11.25,3,Iluminación,,Decoración
+C0044,2025-08-01,1,1,0,0,0,0.0,,0,,Muebles,Textil Hogar
+C0056,2024-08-01,1,1,1,0,0,0.0,,0,,Muebles,Muebles
+C0011,2025-04-01,0,0,0,0,1,2539.72,9.0,3,Iluminación,,Decoración
+C0011,2025-08-01,0,0,0,0,1,150.35,25.0,1,Decoración,,Iluminación
+C0054,2024-08-01,0,0,0,0,1,310.07,7.5,2,Iluminación,,Muebles
+C0054,2024-10-01,0,0,0,0,1,793.87,40.0,4,Muebles,,Decoración
+C0016,2024-08-01,1,0,0,0,0,0.0,,0,,Muebles,Muebles
+C0016,2024-10-01,0,0,0,0,1,894.73,0.0,3,Decoración,,Muebles
+C0016,2024-12-01,1,1,1,0,2,1020.79,7.5,3,Muebles,Muebles,Textil Hogar
+C0089,2024-10-01,0,0,0,0,1,1764.6200000000001,11.666666666666666,3,Textil Hogar,,Iluminación
+C0089,2024-12-01,0,0,0,0,2,3165.11,4.375,4,Textil Hogar,,Textil Hogar
+C0089,2025-02-01,0,0,0,0,2,1522.3999999999999,5.0,3,Textil Hogar,,Muebles
+C0089,2025-04-01,0,0,0,0,3,546.56,12.5,3,Decoración,,Muebles
+C0089,2025-08-01,1,0,0,0,0,0.0,,0,,Iluminación,Muebles
+C0076,2025-02-01,1,0,0,0,0,0.0,,0,,Muebles,Decoración
+C0076,2025-04-01,0,0,0,0,2,1580.9,36.666666666666664,3,Muebles,,Iluminación
+C0076,2025-06-01,1,1,1,0,3,1991.3300000000002,27.5,3,Iluminación,Iluminación,Muebles
+C0076,2025-08-01,1,1,0,0,2,884.1700000000001,20.0,4,Muebles,Muebles,Muebles
+C0032,2025-06-01,0,0,0,0,1,358.5,0.0,1,Muebles,,Iluminación
+C0047,2025-04-01,0,0,0,0,1,1156.41,0.0,1,Muebles,,Iluminación
+C0047,2025-08-01,0,0,0,0,2,1558.8600000000001,5.0,2,Iluminación,,Textil Hogar
+C0068,2024-10-01,1,1,0,0,0,0.0,,0,,Iluminación,Muebles
+C0068,2025-04-01,0,0,0,0,1,2763.33,10.0,4,Decoración,,Decoración
+C0012,2025-06-01,1,0,0,0,0,0.0,,0,,Iluminación,Textil Hogar
+C0012,2025-08-01,0,0,0,0,1,23.6,0.0,1,Textil Hogar,,Decoración
+C0069,2025-04-01,0,0,0,0,1,140.52,0.0,1,Decoración,,Muebles
+C0069,2025-06-01,1,1,0,0,2,1205.99,13.333333333333334,3,Iluminación,Muebles,Iluminación
+C0069,2025-08-01,0,0,0,0,2,2156.36,14.0,2,Iluminación,,Muebles
+C0083,2024-12-01,2,1,1,0,0,0.0,,0,,Muebles,Muebles
+C0083,2025-02-01,0,0,0,0,1,1860.6800000000003,5.833333333333333,3,Iluminación,,Textil Hogar
+C0083,2025-06-01,0,0,0,0,1,20.57,35.0,1,Textil Hogar,,Muebles
+C0083,2025-08-01,0,0,0,0,1,2040.18,0.0,3,Muebles,,Textil Hogar
+C0005,2025-02-01,1,0,0,0,0,0.0,,0,,Muebles,Muebles
+C0005,2025-04-01,0,0,0,0,1,2815.63,10.0,3,Nan,,Decoración
+C0004,2025-04-01,1,1,1,0,1,1377.21,10.0,3,Iluminación,Iluminación,Iluminación
+C0004,2025-08-01,0,0,0,0,1,488.5,15.0,1,Iluminación,,Decoración
+C0051,2024-08-01,1,1,1,0,0,0.0,,0,,Textil Hogar,Textil Hogar
+C0051,2025-04-01,0,0,0,0,1,921.02,7.5,2,Nan,,Iluminación
+C0051,2025-06-01,0,0,0,0,1,797.6999999999999,6.666666666666667,2,Textil Hogar,,Muebles
+C0051,2025-08-01,0,0,0,0,3,1586.75,5.0,3,Muebles,,Textil Hogar
+C0053,2025-02-01,1,0,0,0,0,0.0,,0,,Muebles,Decoración
+C0053,2025-04-01,0,0,0,0,1,187.1,0.0,1,Decoración,,Muebles
+C0053,2025-08-01,0,0,0,0,1,1893.3700000000001,16.25,3,Muebles,,Muebles
+C0071,2024-06-01,0,0,0,0,4,1707.5100000000002,23.636363636363637,3,Textil Hogar,,Iluminación
+C0071,2025-08-01,1,1,1,0,1,777.3,15.0,2,Iluminación,Decoración,Muebles
+C0043,2025-02-01,2,2,0,0,0,0.0,,0,,Muebles,Iluminación
+C0021,2025-02-01,1,1,0,0,0,0.0,,0,,Muebles,Muebles
+C0021,2025-06-01,0,0,0,0,1,759.37,0.0,1,Muebles,,Decoración
+C0092,2025-08-01,0,0,0,0,2,928.5899999999999,17.5,1,Decoración,,Decoración
+C0041,2025-02-01,1,0,0,0,0,0.0,,0,,Decoración,Decoración
+C0042,2025-04-01,0,0,0,0,2,2528.64,20.0,2,Muebles,,Textil Hogar
+C0042,2025-06-01,0,0,0,0,3,3377.98,13.333333333333334,4,Textil Hogar,,Muebles
+C0022,2024-06-01,1,1,1,0,0,0.0,,0,,Muebles,Muebles
+C0022,2025-04-01,0,0,0,0,3,1559.47,17.5,3,Decoración,,Textil Hogar
+C0022,2025-08-01,0,0,0,0,1,120.85,0.0,1,Textil Hogar,,Decoración
+C0086,2025-06-01,0,0,0,0,1,1108.68,0.0,1,Decoración,,Muebles
+C0020,2024-06-01,0,0,0,0,1,352.45,6.666666666666667,3,Textil Hogar,,Muebles
+C0020,2024-12-01,1,0,0,0,0,0.0,,0,,Muebles,Iluminación
+C0018,2025-06-01,0,0,0,0,1,224.0,0.0,1,Muebles,,Muebles
+C0066,2025-02-01,1,1,1,0,0,0.0,,0,,Muebles,Iluminación
+C0088,2025-08-01,1,1,1,0,1,2415.59,27.5,2,Muebles,Muebles,Iluminación
+C0090,2024-08-01,0,0,0,0,1,1300.22,25.0,3,Muebles,,Iluminación
+C0090,2025-08-01,0,0,0,0,1,1292.92,0.0,1,Muebles,,Iluminación
+C0049,2025-04-01,0,0,0,0,1,2242.96,3.3333333333333335,2,Muebles,,Decoración
+C0049,2025-06-01,0,0,0,0,2,2293.52,2.5,3,Decoración,,Decoración
+C0098,2025-04-01,0,0,0,0,1,1089.12,5.0,2,Muebles,,Muebles
+C0067,2025-02-01,0,0,0,0,1,1384.82,12.5,1,Muebles,,Iluminación
+C0067,2025-04-01,0,0,0,0,2,1798.61,8.333333333333334,2,Iluminación,,Decoración
+C0067,2025-08-01,0,0,0,0,1,1129.1,-1.6666666666666667,3,Muebles,,Textil Hogar
+C0013,2025-02-01,2,1,0,0,1,140.13,15.0,1,Decoración,Muebles,Decoración
+C0057,2025-02-01,1,0,0,0,0,0.0,,0,,Decoración,Textil Hogar
+C0097,2025-08-01,1,1,0,0,2,3875.9199999999996,15.833333333333334,3,Decoración,Muebles,Muebles
+C0062,2024-06-01,0,0,0,0,1,1006.17,7.5,2,Iluminación,,Muebles
+C0007,2024-08-01,0,0,0,0,1,18.41,10.0,1,Textil Hogar,,Muebles
+C0007,2025-08-01,0,0,0,0,1,42.92,15.0,1,Decoración,,Muebles
+C0028,2025-06-01,0,0,0,0,1,334.31,3.75,2,Textil Hogar,,Decoración
+C0028,2025-08-01,0,0,0,0,3,1503.03,12.5,4,Decoración,,Muebles
+C0046,2025-02-01,0,0,0,0,1,237.64999999999998,1.25,1,Textil Hogar,,Textil Hogar
+C0046,2025-04-01,0,0,0,0,1,237.64999999999998,1.25,1,Textil Hogar,,Textil Hogar
+C0046,2025-06-01,0,0,0,0,1,293.28,27.5,1,Textil Hogar,,Decoración
+C0046,2025-08-01,0,0,0,0,2,787.8599999999999,0.0,3,Decoración,,Textil Hogar
+C0026,2024-08-01,1,1,1,0,0,0.0,,0,,Muebles,Iluminación
+C0026,2024-10-01,1,1,0,0,1,109.14,7.5,2,Textil Hogar,Muebles,Muebles
+C0026,2024-12-01,1,1,0,0,1,1256.6599999999999,3.3333333333333335,1,Muebles,Muebles,Decoración
+C0026,2025-02-01,0,0,0,0,2,2061.8199999999997,5.714285714285714,3,Decoración,,Decoración
+C0029,2024-12-01,1,1,1,0,0,0.0,,0,,Muebles,Decoración
+C0029,2025-04-01,1,0,0,0,1,277.26,6.666666666666667,1,Decoración,Muebles,Iluminación
+C0065,2024-10-01,0,0,0,0,1,387.13,8.333333333333334,3,Textil Hogar,,Muebles
+C0065,2024-12-01,0,0,0,0,1,2113.15,15.0,3,Decoración,,Textil Hogar
+C0072,2025-08-01,0,0,0,0,1,1066.1,0.0,2,Muebles,,Muebles
+C0078,2025-04-01,0,0,0,0,1,282.33000000000004,10.0,1,Decoración,,Muebles
+C0078,2025-06-01,1,1,1,0,2,943.58,11.666666666666666,3,Decoración,Iluminación,Iluminación
+C0030,2025-02-01,1,1,0,0,1,872.97,0.0,2,Decoración,Muebles,Iluminación
+GUEST,2025-02-01,0,0,0,0,1,76.4,0.0,1,Iluminación,,Muebles
+GUEST,2025-04-01,0,0,0,0,3,3442.9900000000002,6.0,3,Decoración,,Decoración
+GUEST,2025-06-01,0,0,0,0,3,3705.7700000000004,6.0,2,Decoración,,Decoración
+GUEST,2025-08-01,0,0,0,0,3,2947.7999999999997,5.0,2,Textil Hogar,,Iluminación
