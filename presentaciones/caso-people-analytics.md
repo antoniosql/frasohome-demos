@@ -1,4 +1,4 @@
-# FraSoHome_presentacion_caso_IFFE
+# FraSoHome_presentacion_caso
 
 ## Slide 1: FraSoHome
 
@@ -9,7 +9,6 @@
 
 ## Slide 2: CONTEXTO
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Dónde encaja el caso FraSoHome
 El caso convierte contenidos previos de RR.HH. en preguntas, datos, análisis y decisiones.
@@ -39,8 +38,6 @@ Idea fuerza: no empezamos por la herramienta; empezamos por una pregunta de RR.H
 
 ## Slide 3: CASO
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
-
 - FraSoHome en 60 segundos
 Una empresa retail omnicanal que quiere convertir datos de personas en decisiones accionables.
 
@@ -67,7 +64,6 @@ El reto no es “contar bajas”; es entender patrones, priorizar acciones y com
 
 ## Slide 4: RETO
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - El reto de Dirección de Personas
 Preparar un diagnóstico ejecutivo sobre rotación, abandono y acciones de retención.
@@ -99,7 +95,6 @@ Resultado esperado: un informe con evidencias, hipótesis y recomendaciones defe
 
 ## Slide 5: OBJETIVOS
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Qué van a practicar los alumnos
 Un recorrido completo: de texto y datos dispersos a un informe de People Analytics.
@@ -129,7 +124,6 @@ La clave didáctica es comparar herramientas: ChatGPT ayuda a estructurar lengua
 
 ## Slide 6: DATOS
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Datos disponibles para el caso
 CSV sintéticos y anonimizados para trabajar texto, rotación y riesgo de abandono.
@@ -147,7 +141,6 @@ CSV sintéticos y anonimizados para trabajar texto, rotación y riesgo de abando
 
 ## Slide 7: VARIABLES
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Variables clave: de la evidencia al indicador
 El alumno debe distinguir entre pasado, señal de riesgo y acción recomendada.
@@ -178,7 +171,6 @@ Criterio: el score de abandono es una señal para priorizar conversaciones y an�
 
 ## Slide 8: ACTIVIDAD A
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Pruebas en ChatGPT: comparar tipos de prompt
 Antes de abrir Power BI, los alumnos trabajan la voz del empleado y la calidad de las instrucciones.
@@ -203,7 +195,6 @@ Objetivo: no delegar el diagnóstico, sino aprender a pedir, revisar y contrasta
 
 ## Slide 9: ACTIVIDAD A
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Cómo evaluar los prompts
 El mejor prompt no es el más largo: es el que ayuda a generar evidencia útil y revisable.
@@ -232,8 +223,6 @@ Entregable: tabla comparativa con prompt usado, salida obtenida, fortalezas, lim
 
 ## Slide 10: ACTIVIDAD B
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
-
 - Power BI Service: cargar CSV y crear informe
 La parte de BI se trabaja desde el navegador y con modelos semánticos creados desde CSV.
 
@@ -260,8 +249,6 @@ Consejo de aula: si Power BI no reconoce una fecha o decimal por configuración 
 
 
 ## Slide 11: INFORME 1
-
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Análisis de rotación de personal
 Objetivo: responder dónde y cuándo se concentran las salidas voluntarias.
@@ -298,8 +285,6 @@ Objetivo: responder dónde y cuándo se concentran las salidas voluntarias.
 
 ## Slide 12: INFORME 2
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
-
 - Detección de abandono: empleados activos con señales de riesgo
 El informe debe priorizar revisión y conversación, no decisiones automáticas.
 
@@ -328,8 +313,6 @@ Mensaje de interpretación: el score ayuda a priorizar conversaciones de permane
 
 
 ## Slide 13: FACTORES
-
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Factores explicativos: conectar causas cuantitativas y cualitativas
 El objetivo es contrastar si los temas detectados por ChatGPT coinciden con patrones en Power BI.
@@ -366,8 +349,6 @@ El objetivo es contrastar si los temas detectados por ChatGPT coinciden con patr
 
 ## Slide 14: NARRATIVA
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
-
 - Narrativa del informe: presentación, nudo y desenlace
 El dashboard debe contar una historia sencilla y accionable para Dirección.
 
@@ -394,8 +375,6 @@ Regla de los 5 segundos: cada página debe permitir entender el mensaje principa
 
 
 ## Slide 15: ENTREGABLES
-
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Qué deben entregar los alumnos
 El caso combina evidencia analítica, comparación de prompts y síntesis ejecutiva.
@@ -424,8 +403,6 @@ Criterio transversal: cada conclusión debe estar conectada con evidencia cuanti
 
 
 ## Slide 16: EVALUACIÓN
-
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Criterios de evaluación del caso
 Una rúbrica sencilla para valorar diagnóstico, herramienta, recomendaciones y gobierno.
@@ -462,8 +439,6 @@ La evaluación debe premiar el razonamiento: explicar por qué un visual, un pro
 
 ## Slide 17: ÉTICA
 
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
-
 - Ética y gobierno: el score no decide
 La analítica de personas debe reforzar la confianza, no convertir empleados en etiquetas.
 
@@ -482,8 +457,6 @@ Cierre ético para el alumno: “Las decisiones finales dependen de profesionale
 
 
 ## Slide 18: GUÍA
-
-Todos los derechos reservados. Queda prohibida la difusión y reproducción, total o parcial de este documento, por cualquier medio, sin el previo y expreso consentimiento por escrito del IFFE Business School, S.L.
 
 - Secuencia de facilitación sugerida
 Una ruta práctica para presentar el caso y acompañar el trabajo de los alumnos.
@@ -519,4 +492,4 @@ Frase de transición: “Ahora vamos a comprobar cómo una hipótesis de RR.HH. 
 
 - Convertir datos de personas en decisiones responsables
 - Prompt → evidencia textual → informe Power BI → recomendación → cautela ética
-- IFFE Business School
+

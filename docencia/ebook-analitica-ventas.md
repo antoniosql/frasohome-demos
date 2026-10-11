@@ -4,7 +4,7 @@
 
 ### Autoría y contexto
 
-Material docente elaborado para una sesión de Analítica de Ventas en el Máster de Big Data de IFFE, usando el caso FraSoHome como hilo conductor. El alumnado ya ha trabajado contenidos de Inteligencia de Clientes, fuentes de datos, modelización y explotación de la información. Este ebook no pretende repetir esa teoría desde cero, sino mostrar cómo se articula un proyecto analítico completo en un contexto comercial realista.
+Material docente elaborado para una sesión de Analítica de Ventas, usando el caso FraSoHome como hilo conductor. El alumnado ya ha trabajado contenidos de Inteligencia de Clientes, fuentes de datos, modelización y explotación de la información. Este ebook no pretende repetir esa teoría desde cero, sino mostrar cómo se articula un proyecto analítico completo en un contexto comercial realista.
 
 FraSoHome es una empresa ficticia, pero los problemas que representa son muy reales: datos dispersos, clientes no identificados, ventas en tienda y online, devoluciones, campañas, stock, costes, feedback de clientes y la presión constante de vender más sin destruir margen.
 
