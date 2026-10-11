@@ -2,7 +2,7 @@
 
 ## Ebook narrativo aplicado al caso FraSoHome
 
-### Máster Big Data · IFFE
+### Máster Big Data
 
 ---
 

@@ -73,7 +73,7 @@ Todos en [`datos/people_analytics/raw_csv`](../../datos/people_analytics/README.
 | [Caso para alumnos](caso-alumnos.md) | Enunciado, actividades y entregables |
 | [Caso con Power BI y ChatGPT](caso-powerbi-chatgpt.md) | Versión con las dos actividades integradas |
 | [Fuentes simuladas](fuentes-simuladas.md) | Tabla de sistemas, granularidad y uso |
-| [Presentación del caso (IFFE)](../../presentaciones/caso-people-analytics-iffe.md) | Guion de diapositivas |
+| [Presentación del caso](../../presentaciones/caso-people-analytics.md) | Guion de diapositivas |
 
 ## Cómo ejecutarla
 

@@ -43,7 +43,7 @@ La directora general hace una pregunta sencilla: **¿cuánto vendimos el mes pas
 | [La empresa en cifras](../../historia/empresa.md) | Ficha de FraSoHome |
 | [Los problemas de datos](../../historia/problemas-de-datos.md) | Silos y errores intencionados |
 | [Universo de datos](../../historia/universo-de-datos.md) | Diagramas de dominios y arquitectura |
-| [Presentación Fabric](../../presentaciones/fabric-intro-deck.md) · [Presentación caso IFFE](../../presentaciones/caso-people-analytics-iffe.md) | Guiones de diapositivas reutilizables |
+| [Presentación Fabric](../../presentaciones/fabric-intro-deck.md) · [Presentación caso People Analytics](../../presentaciones/caso-people-analytics.md) | Guiones de diapositivas reutilizables |
 
 ## Cómo ejecutarla
 

@@ -200,6 +200,6 @@ nav:
   - Presentaciones:
       - presentaciones/README.md
       - FraSoHome y Microsoft Fabric: presentaciones/fabric-intro-deck.md
-      - Caso People Analytics (IFFE): presentaciones/caso-people-analytics-iffe.md
+      - Caso People Analytics: presentaciones/caso-people-analytics.md
   - Diagramas: diagramas/README.md
   - Origen del material: ORIGEN.md

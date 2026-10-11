@@ -5,7 +5,6 @@
 - Presentación del caso práctico
 - People Analytics con Power BI y ChatGPT
 - Guía para introducir el reto, las actividades y los entregables del alumno
-- IFFE Business School · Mayo 2026
 
 ## Slide 2: CONTEXTO
 
