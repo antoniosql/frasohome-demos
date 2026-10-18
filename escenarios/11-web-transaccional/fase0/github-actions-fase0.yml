@@ -1,0 +1,28 @@
+# FraSoHome Live · fase 0 · alternativa de publicación con GitHub Actions.
+# Úsala solo si `desplegar.ps1` no consigue publicar la función con la CLI de Static Web Apps.
+#   1. Copia este fichero a .github/workflows/frasohome-live-fase0.yml
+#   2. Crea el secreto AZURE_STATIC_WEB_APPS_API_TOKEN_FASE0 con:
+#        az staticwebapp secrets list -n swa-frasohome-live -g rg-frasohome-live --query properties.apiKey -o tsv
+#   3. Lánzalo a mano desde la pestaña Actions (workflow_dispatch).
+# Aquí la acción sí compila la API con Oryx (Python 3.11), sin empaquetar dependencias a mano.
+name: frasohome-live-fase0
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_FASE0 }}
+          action: upload
+          app_location: escenarios/11-web-transaccional/fase0/app
+          api_location: escenarios/11-web-transaccional/fase0/api
+          output_location: ""
+          skip_app_build: true
