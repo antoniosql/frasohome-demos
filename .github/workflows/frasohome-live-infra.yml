@@ -1,0 +1,91 @@
+# FraSoHome Live · infraestructura (escenarios/11-web-transaccional/infra).
+#  - En cada pull request o push que toque infra/: compila y valida los Bicep, sin entrar en Azure.
+#  - A mano (Actions → Run workflow): what-if o despliegue de main.bicep con la identidad OIDC
+#    id-frasohome-live-github. No hay contraseñas de Azure guardadas en GitHub.
+# El presupuesto y la propia identidad los despliega desplegar_infra.ps1 desde tu equipo:
+# crear asignaciones de rol exige ser propietario y esta identidad solo es colaboradora.
+name: frasohome-live-infra
+
+on:
+  pull_request:
+    paths:
+      - escenarios/11-web-transaccional/infra/**
+      - .github/workflows/frasohome-live-infra.yml
+  push:
+    branches: [main]
+    paths:
+      - escenarios/11-web-transaccional/infra/**
+      - .github/workflows/frasohome-live-infra.yml
+  workflow_dispatch:
+    inputs:
+      accion:
+        description: what-if solo muestra los cambios; desplegar los aplica
+        type: choice
+        options: [what-if, desplegar]
+        default: what-if
+
+permissions:
+  contents: read
+
+concurrency:
+  group: frasohome-live-infra
+  cancel-in-progress: false
+
+env:
+  INFRA_DIR: escenarios/11-web-transaccional/infra
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Compilar y validar los Bicep
+        run: |
+          az bicep install
+          for f in main presupuesto github-oidc; do
+            az bicep build --file "$INFRA_DIR/$f.bicep" --stdout > /dev/null
+            az bicep lint --file "$INFRA_DIR/$f.bicep"
+          done
+      - name: Compilar los parámetros (valores de prueba)
+        env:
+          FSH_ENTRA_ADMIN_OBJECT_ID: 00000000-0000-0000-0000-000000000000
+          FSH_ENTRA_ADMIN_LOGIN: admin@example.com
+          FSH_ALERT_EMAIL: alertas@example.com
+        run: az bicep build-params --file "$INFRA_DIR/main.bicepparam" --stdout > /dev/null
+
+  azure:
+    if: github.event_name == 'workflow_dispatch'
+    needs: validar
+    runs-on: ubuntu-latest
+    environment: frasohome-live
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: azure/login@v2
+        with:
+          client-id: ${{ vars.AZURE_CLIENT_ID }}
+          tenant-id: ${{ vars.AZURE_TENANT_ID }}
+          subscription-id: ${{ vars.AZURE_SUBSCRIPTION_ID }}
+      - name: What-if
+        env:
+          FSH_ENTRA_ADMIN_OBJECT_ID: ${{ secrets.FSH_ENTRA_ADMIN_OBJECT_ID }}
+          FSH_ENTRA_ADMIN_LOGIN: ${{ secrets.FSH_ENTRA_ADMIN_LOGIN }}
+          FSH_ALERT_EMAIL: ${{ secrets.FSH_ALERT_EMAIL }}
+          RESOURCE_GROUP: ${{ vars.FSH_RESOURCE_GROUP }}
+        run: |
+          az deployment group what-if -g "$RESOURCE_GROUP" -n frasohome-live-infra \
+            -p "$INFRA_DIR/main.bicepparam"
+      - name: Desplegar
+        if: inputs.accion == 'desplegar'
+        env:
+          FSH_ENTRA_ADMIN_OBJECT_ID: ${{ secrets.FSH_ENTRA_ADMIN_OBJECT_ID }}
+          FSH_ENTRA_ADMIN_LOGIN: ${{ secrets.FSH_ENTRA_ADMIN_LOGIN }}
+          FSH_ALERT_EMAIL: ${{ secrets.FSH_ALERT_EMAIL }}
+          RESOURCE_GROUP: ${{ vars.FSH_RESOURCE_GROUP }}
+        run: |
+          az deployment group create -g "$RESOURCE_GROUP" -n frasohome-live-infra \
+            -p "$INFRA_DIR/main.bicepparam" -o none
+          az deployment group show -g "$RESOURCE_GROUP" -n frasohome-live-infra \
+            --query "properties.outputs.{sql:sqlServerFqdn.value, cosmos:cosmosAccountName.value, contenedores:cosmosContainers.value, web:swaHostname.value}" -o jsonc

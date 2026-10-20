@@ -24,6 +24,22 @@ Hallazgos que condicionan las fases siguientes:
 - **El host de Functions reescribe la cookie** y añade `domain=` vacío. Los navegadores lo ignoran (RFC 6265), pero `http.cookiejar` de Python descarta la cookie: los clientes Python de las pruebas y del generador de tráfico deben reenviarla a mano.
 - **Los DNS de dataging.com están en Cloudflare** (`jose` y `meera.ns.cloudflare.com`) y `frasohome.dataging.com` todavía no existe.
 
+## Resultado en Azure
+
+Desplegado en `rg-frasohome-live` (SQL y Static Web App en West Europe, Cosmos DB en Sweden Central porque West Europe no tenía capacidad para la suscripción):
+
+| Comprobación | Resultado |
+| --- | --- |
+| `/api/health` en las managed Functions | Python 3.11, `mssql-python` y `pyodbc` conectan con SQL; Cosmos lee y escribe |
+| Cookie de sesión | Solo llega con `Domain` explícito: si el worker de Python emite `domain=` vacío, SWA descarta la cabecera `Set-Cookie`. Con `Domain` explícito, SWA lo reescribe al host público |
+| `/.auth/login/*` | 404, sin redirección |
+| `/.auth/me` | 200 con `clientPrincipal: null`: es interno de SWA y no se puede bloquear, pero nunca habrá nadie identificado |
+
+Hallazgos de Azure que condicionan las fases siguientes:
+
+- **La API siempre pone `Domain` en sus cookies**, tomado de `X-Forwarded-Host`.
+- **Cosmos DB y SQL están en regiones distintas.** Cada llamada de la función a Cosmos cruza de West Europe a Sweden Central y suma unas decenas de milisegundos, así que la API debe agrupar las lecturas de Cosmos de cada petición.
+
 ## Lo que queda por comprobar en Azure
 
 Necesita tu sesión de Azure, así que se ejecuta en tu equipo. Requisitos: CLI de Azure, Python 3.10+ y Node.js.
