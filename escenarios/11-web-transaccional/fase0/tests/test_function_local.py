@@ -65,9 +65,10 @@ def test_cookie_requires_csrf_header(fa):
 
 
 def test_cookie_is_httponly_secure_strict(fa):
-    resp, body = _call(fa, "cookie_set", method="POST", headers={"X-FSH-CSRF": "1"})
+    resp, body = _call(fa, "cookie_set", method="POST",
+                       headers={"X-FSH-CSRF": "1", "X-Forwarded-Host": "frasohome.dataging.com"})
     cookie = resp.headers["Set-Cookie"]
-    for flag in ("HttpOnly", "Secure", "SameSite=Strict", "Path=/"):
+    for flag in ("HttpOnly", "Secure", "SameSite=Strict", "Path=/", "Domain=frasohome.dataging.com"):
         assert flag in cookie
     value = body["sent"]
     _, back = _call(fa, "cookie_check", headers={"Cookie": f"otra=1; fsh_fase0={value}"})

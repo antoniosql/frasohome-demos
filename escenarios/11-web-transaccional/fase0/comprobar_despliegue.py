@@ -58,13 +58,21 @@ def main() -> int:
     checks.append(("Página principal", status == 200 and "FraSoHome Live" in body, f"HTTP {status}"))
     checks.append(("Cabeceras de seguridad", not missing, "faltan: " + ", ".join(missing) if missing else "presentes"))
 
-    # 2. Autenticación integrada bloqueada
+    # 2. Autenticación integrada bloqueada: los proveedores de login dan 404. /.auth/me es
+    #    interno de SWA y no se puede bloquear, pero debe decir que no hay nadie identificado.
     auth = {}
-    for path in ("/.auth/login/github", "/.auth/login/aad", "/.auth/me"):
+    for path in ("/.auth/login/github", "/.auth/login/aad"):
         st, hd, _ = request(raw, base + path)
         auth[path] = st if st != 302 else "302 -> " + hd.get("Location", "")
+    st, _, body = request(raw, base + "/.auth/me")
+    try:
+        me_ok = st == 404 or (st == 200 and json.loads(body).get("clientPrincipal") is None)
+    except json.JSONDecodeError:
+        me_ok = False
+    auth["/.auth/me"] = f"{st} {body.strip()[:60]}"
     detail["auth"] = auth
-    checks.append(("/.auth/* devuelve 404", all(v == 404 for v in auth.values()), json.dumps(auth)))
+    checks.append(("Login integrado de SWA bloqueado", all(auth[p] == 404 for p in ("/.auth/login/github", "/.auth/login/aad")) and me_ok,
+                   json.dumps(auth, ensure_ascii=False)))
 
     # 3. Salud: SQL y Cosmos (la base gratuita puede estar en pausa: hasta 3 intentos)
     health = None
@@ -98,6 +106,13 @@ def main() -> int:
     checks.append(("Cookie con HttpOnly, Secure y SameSite=Strict", flags_ok, set_cookie or "sin Set-Cookie"))
     checks.append(("La cookie vuelve en la siguiente petición", sent is not None and sent == received, f"{sent} / {received}"))
 
+    # Diagnóstico: qué variantes de cookie deja pasar Static Web Apps (no cuenta como comprobación).
+    variants = {}
+    for variant in ("dominio", "sin-dominio", "expires"):
+        st_v, hd_v, _ = request(raw, base + "/api/cookie?variante=" + variant, method="POST", headers={"X-FSH-CSRF": "1"})
+        variants[variant] = next((v for k, v in hd_v.items() if k.lower() == "set-cookie"), None) if st_v == 200 else f"HTTP {st_v}"
+    detail["cookie_variants"] = variants
+
     # 5. Escritura sin cabecera CSRF
     st, _, _ = request(raw, base + "/api/cookie", method="POST")
     checks.append(("Escritura sin X-FSH-CSRF rechazada", st == 400, f"HTTP {st}"))
@@ -105,6 +120,10 @@ def main() -> int:
     width = max(len(c[0]) for c in checks)
     for name, ok, info in checks:
         print(f"{'OK ' if ok else 'MAL'}  {name.ljust(width)}  {info}")
+    print()
+    print("Diagnóstico de cookies (qué variante llega al navegador):")
+    for variant, header in variants.items():
+        print(f"  {variant.ljust(12)} {'llega   ' if header and not str(header).startswith('HTTP') else 'NO llega'}  {header or ''}")
     detail["checks"] = [{"check": n, "ok": ok, "info": i} for n, ok, i in checks]
     if args.json:
         with open(args.json, "w", encoding="utf-8") as fh:
