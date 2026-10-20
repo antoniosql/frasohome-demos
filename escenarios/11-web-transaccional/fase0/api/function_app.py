@@ -121,13 +121,38 @@ def health(req: func.HttpRequest) -> func.HttpResponse:
     return _json(result, 200 if result["ok"] else 503)
 
 
+def _public_host(req: func.HttpRequest) -> str:
+    """Host que ve el navegador (SWA lo pasa en X-Forwarded-Host), sin puerto."""
+    host = req.headers.get("X-Forwarded-Host") or req.headers.get("Host") or ""
+    return host.split(",")[0].strip().split(":")[0]
+
+
+# El worker de Python convierte Set-Cookie en un objeto cookie y, si no lleva Domain, lo
+# reemite con "domain=" vacío. Static Web Apps descarta esa cookie. Variantes para comprobarlo:
+#   dominio (por defecto): Domain = host público -> la que usará la API real
+#   sin-dominio: sin Domain (sale "domain=" vacío)
+#   expires: sin Domain y con Expires en vez de Max-Age
+COOKIE_VARIANTS = ("dominio", "sin-dominio", "expires")
+
+
 @app.route(route="cookie", methods=["POST"])
 def cookie_set(req: func.HttpRequest) -> func.HttpResponse:
     if req.headers.get("X-FSH-CSRF") != "1":
         return _json({"ok": False, "error": "Falta la cabecera X-FSH-CSRF"}, 400)
+    variant = req.params.get("variante", "dominio")
+    if variant not in COOKIE_VARIANTS:
+        return _json({"ok": False, "error": f"Variante desconocida; usa {', '.join(COOKIE_VARIANTS)}"}, 400)
     value = secrets.token_urlsafe(16)
-    cookie = f"{COOKIE_NAME}={value}; Path=/; Max-Age=600; HttpOnly; Secure; SameSite=Strict"
-    return _json({"ok": True, "sent": value}, headers={"Set-Cookie": cookie})
+    cookie = f"{COOKIE_NAME}={value}; Path=/; HttpOnly; Secure; SameSite=Strict"
+    if variant == "expires":
+        cookie += "; Expires=Wed, 21 Oct 2037 07:28:00 GMT"
+    else:
+        cookie += "; Max-Age=600"
+    host = _public_host(req)
+    if variant == "dominio" and host:
+        cookie += f"; Domain={host}"
+    return _json({"ok": True, "sent": value, "variant": variant, "attempted_set_cookie": cookie},
+                 headers={"Set-Cookie": cookie})
 
 
 @app.route(route="cookie", methods=["GET"])

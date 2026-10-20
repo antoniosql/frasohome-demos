@@ -14,12 +14,14 @@
 
 .EXAMPLE
   .\desplegar.ps1 -Region westeurope
+  .\desplegar.ps1 -Region westeurope -CosmosRegion northeurope   # Cosmos en otra región
   .\desplegar.ps1 -Region westeurope -SoloCodigo      # vuelve a publicar solo app y api
 #>
 param(
     [Parameter(Mandatory = $true)][string]$Region,
     [string]$ResourceGroup = 'rg-frasohome-live',
     [ValidateSet('westeurope', 'westus2', 'centralus', 'eastus2', 'eastasia')][string]$WebRegion = 'westeurope',
+    [string]$CosmosRegion,
     [switch]$SinCosmosFreeTier,
     [switch]$SoloCodigo,
     [switch]$Force
@@ -28,6 +30,7 @@ param(
 . (Join-Path $PSScriptRoot 'comun.ps1')
 $SwaCli = '@azure/static-web-apps-cli@2.0.10'
 
+if (-not $CosmosRegion) { $CosmosRegion = $Region }
 $acc = Assert-AzLogin
 foreach ($tool in @('node', 'npx')) {
     if (-not (Get-Command $tool -ErrorAction SilentlyContinue)) { throw 'Necesito Node.js (node y npx) para la CLI de Static Web Apps: https://nodejs.org' }
@@ -42,7 +45,7 @@ if (-not (Test-Path $venv)) { & $pyExe @pyArgs -m venv $venv; if ($LASTEXITCODE 
 $venvPy = Join-Path $venv 'Scripts\python.exe'
 if (-not (Test-Path $venvPy)) { $venvPy = Join-Path $venv 'bin/python' }
 
-Write-Host "Suscripción: $($acc.name) · grupo: $ResourceGroup · datos: $Region · web: $WebRegion" -ForegroundColor Cyan
+Write-Host "Suscripción: $($acc.name) · grupo: $ResourceGroup · SQL: $Region · Cosmos: $CosmosRegion · web: $WebRegion" -ForegroundColor Cyan
 
 if (-not $SoloCodigo) {
     if (-not $Force) {
@@ -60,15 +63,31 @@ if (-not $SoloCodigo) {
 
     Write-Host '1/5 Grupo de recursos y Bicep (tarda unos minutos)...' -ForegroundColor Cyan
     Invoke-Az group create -n $ResourceGroup -l $Region --tags proyecto=frasohome-live fase=0 -o none | Out-Null
+    # Una cuenta Cosmos que falló al crearse (p. ej. sin capacidad en la región) bloquea el nombre: se borra.
+    $failedCosmos = @(Invoke-AzJson cosmosdb list -g $ResourceGroup --query "[?provisioningState=='Failed'].name")
+    foreach ($name in $failedCosmos) {
+        if (-not $name) { continue }
+        Write-Host "    Borrando la cuenta Cosmos fallida $name (tarda unos minutos)..." -ForegroundColor Yellow
+        Invoke-Az cosmosdb delete -g $ResourceGroup -n $name --yes | Out-Null
+    }
     $freeTier = 'true'; if ($SinCosmosFreeTier) { $freeTier = 'false' }
-    $outputs = Invoke-AzJson deployment group create -g $ResourceGroup -n fase0 -f (Join-Path $Fase0Dir 'infra\fase0.bicep') `
-        --parameters dataLocation=$Region webLocation=$WebRegion sqlAdminLogin=$($secretos.sqlAdminLogin) `
-                     sqlAdminPassword=$($secretos.sqlAdminPassword) entraAdminObjectId=$($me.id) entraAdminLogin=$($me.upn) `
-                     cosmosFreeTier=$freeTier `
-        --query properties.outputs
+    try {
+        $outputs = Invoke-AzJson deployment group create -g $ResourceGroup -n fase0 -f (Join-Path $Fase0Dir 'infra\fase0.bicep') `
+            --parameters dataLocation=$Region cosmosLocation=$CosmosRegion webLocation=$WebRegion sqlAdminLogin=$($secretos.sqlAdminLogin) `
+                         sqlAdminPassword=$($secretos.sqlAdminPassword) entraAdminObjectId=$($me.id) entraAdminLogin=$($me.upn) `
+                         cosmosFreeTier=$freeTier `
+            --query properties.outputs
+    } catch {
+        Write-Host $_.Exception.Message -ForegroundColor Red
+        Write-Host ''
+        Write-Host 'Recursos que fallaron en el despliegue:' -ForegroundColor Yellow
+        & az deployment operation group list -g $ResourceGroup -n fase0 `
+            --query "[?properties.provisioningState=='Failed'].{recurso:properties.targetResource.resourceName, codigo:properties.statusMessage.error.code, mensaje:properties.statusMessage.error.message}" -o table
+        throw 'El despliegue de Bicep falló: mira el código y el mensaje de arriba.'
+    }
 
     $estado = [pscustomobject]@{
-        subscriptionId = $acc.id; resourceGroup = $ResourceGroup; dataLocation = $Region; webLocation = $WebRegion
+        subscriptionId = $acc.id; resourceGroup = $ResourceGroup; dataLocation = $Region; cosmosLocation = $CosmosRegion; webLocation = $WebRegion
         sqlServerName = $outputs.sqlServerName.value; sqlServerFqdn = $outputs.sqlServerFqdn.value
         sqlDatabaseId = $outputs.sqlDatabaseId.value; cosmosAccountName = $outputs.cosmosAccountName.value
         swaName = $outputs.swaName.value; swaHostname = $outputs.swaHostname.value

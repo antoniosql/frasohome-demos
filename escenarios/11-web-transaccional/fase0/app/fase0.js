@@ -35,12 +35,16 @@ $("btn-cookie").addEventListener("click", async () => {
 });
 
 $("btn-auth").addEventListener("click", async () => {
-  const paths = ["/.auth/login/github", "/.auth/login/aad", "/.auth/me"];
   const results = {};
-  for (const p of paths) {
+  for (const p of ["/.auth/login/github", "/.auth/login/aad"]) {
     const r = await fetch(p, { redirect: "manual", cache: "no-store" });
     results[p] = r.type === "opaqueredirect" ? "redirige (MAL)" : r.status;
   }
+  // /.auth/me es interno de SWA y no se puede bloquear: debe decir que no hay nadie identificado.
+  const me = await fetch("/.auth/me", { cache: "no-store" });
+  let meOk = me.status === 404;
+  if (me.status === 200) { const b = await me.json(); meOk = b.clientPrincipal === null; results["/.auth/me"] = b; }
+  else { results["/.auth/me"] = me.status; }
   $("out-auth").textContent = JSON.stringify(results, null, 2);
-  mark("st-auth", Object.values(results).every((s) => s === 404));
+  mark("st-auth", results["/.auth/login/github"] === 404 && results["/.auth/login/aad"] === 404 && meOk);
 });

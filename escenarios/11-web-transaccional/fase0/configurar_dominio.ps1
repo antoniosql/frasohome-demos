@@ -33,7 +33,7 @@ if ($cname[0] -ne $target) {
 }
 Write-Host "CNAME correcto: $Dominio -> $target" -ForegroundColor Green
 
-& az staticwebapp hostname show -n $estado.swaName -g $estado.resourceGroup --hostname $Dominio -o none 2>$null
+Invoke-Quiet az staticwebapp hostname show -n $estado.swaName -g $estado.resourceGroup --hostname $Dominio -o none | Out-Null
 if ($LASTEXITCODE -ne 0) {
     Write-Host 'Enlazando el dominio en la Static Web App (validación por CNAME)...' -ForegroundColor Cyan
     Invoke-Az staticwebapp hostname set -n $estado.swaName -g $estado.resourceGroup --hostname $Dominio --no-wait -o none | Out-Null

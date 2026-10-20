@@ -10,6 +10,9 @@ targetScope = 'resourceGroup'
 @description('Región de SQL y Cosmos. La oferta gratuita de SQL la fija para todas las bases gratuitas de la suscripción: usa la de la futura capacidad Fabric.')
 param dataLocation string
 
+@description('Región de Cosmos DB. Por defecto la de los datos; otra si esa región no tiene capacidad de Cosmos para la suscripción.')
+param cosmosLocation string = dataLocation
+
 @description('Región de Static Web Apps (solo algunas regiones admiten el recurso).')
 @allowed([ 'westeurope', 'westus2', 'centralus', 'eastus2', 'eastasia' ])
 param webLocation string = 'westeurope'
@@ -93,7 +96,7 @@ resource sqlDb 'Microsoft.Sql/servers/databases@2023-08-01-preview' = {
 
 resource cosmos 'Microsoft.DocumentDB/databaseAccounts@2024-11-15' = {
   name: 'cosmos-frasohome-${suffix}'
-  location: dataLocation
+  location: cosmosLocation
   tags: tags
   kind: 'GlobalDocumentDB'
   properties: {
@@ -104,7 +107,7 @@ resource cosmos 'Microsoft.DocumentDB/databaseAccounts@2024-11-15' = {
     }
     locations: [
       {
-        locationName: dataLocation
+        locationName: cosmosLocation
         failoverPriority: 0
         isZoneRedundant: false
       }

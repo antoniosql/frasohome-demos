@@ -9,11 +9,44 @@ $LocalDir = Join-Path $RepoRoot '.local\fase0'          # .local/ está en .giti
 $EstadoFile = Join-Path $LocalDir 'estado.json'          # nombres de recursos, sin secretos
 $SecretosFile = Join-Path $LocalDir 'secretos.json'      # contraseña del administrador SQL
 
+function Hide-Secrets([string]$Text) {
+    # Oculta contraseñas y claves antes de mostrar un comando o un error.
+    return ($Text -replace '(?i)((password|pwd|key|token)[^=\s]*=)[^\s;"]+', '$1***')
+}
+
 function Invoke-Az {
-    # Ejecuta az y falla si az falla. Devuelve la salida como texto.
-    $out = & az @args
-    if ($LASTEXITCODE -ne 0) { throw "Falló: az $($args -join ' ')" }
+    # Ejecuta az y falla si az falla, con el mensaje de error de Azure y sin secretos.
+    # En Windows PowerShell 5.1, con ErrorActionPreference=Stop, cualquier línea que un programa
+    # escriba en stderr redirigido (un simple WARNING de az) detiene el script. Se relaja solo aquí.
+    $errFile = [System.IO.Path]::GetTempFileName()
+    $prevPref = $ErrorActionPreference
+    $ErrorActionPreference = 'Continue'
+    try {
+        $out = & az @args 2> $errFile
+        $code = $LASTEXITCODE
+        $err = Get-Content $errFile -Raw -ErrorAction SilentlyContinue
+    } finally {
+        $ErrorActionPreference = $prevPref
+        Remove-Item $errFile -ErrorAction SilentlyContinue
+    }
+    if ($code -ne 0) {
+        $detail = 'sin detalle'
+        if ($err) { $detail = $err.Trim() }
+        throw (Hide-Secrets "Falló: az $($args -join ' ')`n$detail")
+    }
     return ($out -join "`n")
+}
+
+function Invoke-Quiet {
+    # Ejecuta un programa descartando stderr sin que PowerShell 5.1 lo convierta en error.
+    # Devuelve la salida; el código de salida queda en $LASTEXITCODE.
+    # Sin bloque param: así opciones como -c o -o llegan intactas al programa en $args.
+    $exe = $args[0]
+    $rest = @($args | Select-Object -Skip 1)
+    $prevPref = $ErrorActionPreference
+    $ErrorActionPreference = 'Continue'
+    try { $out = & $exe @rest 2>$null } finally { $ErrorActionPreference = $prevPref }
+    return $out
 }
 
 function Invoke-AzJson {
@@ -26,7 +59,7 @@ function Assert-AzLogin {
     if (-not (Get-Command az -ErrorAction SilentlyContinue)) {
         throw 'No encuentro la CLI de Azure (az). Instálala: https://learn.microsoft.com/cli/azure/install-azure-cli-windows'
     }
-    $acc = & az account show -o json 2>$null
+    $acc = Invoke-Quiet az account show -o json
     if ($LASTEXITCODE -ne 0) { throw 'No hay sesión en Azure. Ejecuta: az login' }
     return ($acc | ConvertFrom-Json)
 }
@@ -58,7 +91,7 @@ function Get-PythonCommand {
         if (Get-Command $cmd -ErrorAction SilentlyContinue) {
             $args3 = @()
             if ($cmd -eq 'py') { $args3 = @('-3') }
-            & $cmd @args3 -c "import sys; sys.exit(0 if sys.version_info >= (3, 10) else 1)" 2>$null
+            Invoke-Quiet $cmd @args3 -c "import sys; sys.exit(0 if sys.version_info >= (3, 10) else 1)" | Out-Null
             if ($LASTEXITCODE -eq 0) { $found = @($cmd) + $args3; return , $found }
         }
     }
