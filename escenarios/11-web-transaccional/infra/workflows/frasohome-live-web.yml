@@ -1,0 +1,83 @@
+# FraSoHome Live · publicación de la web y la API en la Static Web App.
+# Empaqueta las dependencias de la API para Python 3.11 (el máximo de las managed Functions de SWA),
+# obtiene el token de despliegue con la identidad OIDC (no se guarda en GitHub) y publica.
+# Después lanza las comprobaciones contra la URL publicada.
+# Desde la fase 3 publica la API (api/) y su consola (app/); la fase 4 sustituirá la consola por la web.
+name: frasohome-live-web
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - escenarios/11-web-transaccional/app/**
+      - escenarios/11-web-transaccional/api/**
+      - .github/workflows/frasohome-live-web.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: frasohome-live-web
+  cancel-in-progress: false
+
+env:
+  APP_DIR: escenarios/11-web-transaccional/app
+  API_DIR: escenarios/11-web-transaccional/api
+  CHECK_SCRIPT: escenarios/11-web-transaccional/tools/comprobar_api.py
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment: frasohome-live
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Dependencias de la API (Linux, Python 3.11)
+        run: |
+          rm -rf "$API_DIR/tests"   # las pruebas no se publican
+          python -m pip install --disable-pip-version-check --quiet \
+            -r "$API_DIR/requirements.txt" --target "$API_DIR/.python_packages/lib/site-packages"
+
+      - uses: azure/login@v2
+        with:
+          client-id: ${{ vars.AZURE_CLIENT_ID }}
+          tenant-id: ${{ vars.AZURE_TENANT_ID }}
+          subscription-id: ${{ vars.AZURE_SUBSCRIPTION_ID }}
+
+      - name: Token de despliegue y URL
+        id: swa
+        env:
+          RESOURCE_GROUP: ${{ vars.FSH_RESOURCE_GROUP }}
+          SWA_NAME: ${{ vars.FSH_SWA_NAME }}
+        run: |
+          token=$(az staticwebapp secrets list -n "$SWA_NAME" -g "$RESOURCE_GROUP" --query properties.apiKey -o tsv)
+          echo "::add-mask::$token"
+          echo "SWA_DEPLOYMENT_TOKEN=$token" >> "$GITHUB_ENV"
+          host=$(az staticwebapp show -n "$SWA_NAME" -g "$RESOURCE_GROUP" --query defaultHostname -o tsv)
+          echo "url=https://$host" >> "$GITHUB_OUTPUT"
+
+      - name: Publicar
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ env.SWA_DEPLOYMENT_TOKEN }}
+          action: upload
+          app_location: ${{ env.APP_DIR }}
+          api_location: ${{ env.API_DIR }}
+          output_location: ""
+          skip_app_build: true
+          skip_api_build: true
+
+      - name: Comprobaciones contra la URL publicada
+        env:
+          URL: ${{ steps.swa.outputs.url }}
+        run: |
+          sleep 30
+          python "$CHECK_SCRIPT" --url "$URL"
