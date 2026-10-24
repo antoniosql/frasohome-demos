@@ -1,0 +1,3 @@
+# Carga inicial de FraSoHome Live (Python 3.10 o superior). Sin pandas: solo los drivers.
+mssql-python==1.15.0
+azure-cosmos==4.17.1

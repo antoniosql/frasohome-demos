@@ -101,3 +101,20 @@ function Show-FailedOperations([string]$ResourceGroup, [string]$DeploymentName) 
             -o table | Out-String -Width 220 | Write-Host
     } finally { $ErrorActionPreference = $prevPref }
 }
+
+function Get-PythonCommand {
+    # Devuelve el comando de Python 3.10+ como array (p. ej. @('py', '-3')).
+    foreach ($cmd in @('py', 'python', 'python3')) {
+        if (Get-Command $cmd -ErrorAction SilentlyContinue) {
+            $extra = @()
+            if ($cmd -eq 'py') { $extra = @('-3') }
+            Invoke-Quiet $cmd @extra -c "import sys; sys.exit(0 if sys.version_info >= (3, 10) else 1)" | Out-Null
+            if ($LASTEXITCODE -eq 0) { $found = @($cmd) + $extra; return , $found }
+        }
+    }
+    throw 'Necesito Python 3.10 o superior en el PATH (py, python o python3).'
+}
+
+function Get-PublicIp {
+    return (Invoke-RestMethod -Uri 'https://api.ipify.org' -TimeoutSec 20).ToString().Trim()
+}
