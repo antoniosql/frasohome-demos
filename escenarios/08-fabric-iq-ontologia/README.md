@@ -116,3 +116,9 @@ Si el grafo o el agente tardan en refrescar, el [guion](docs/guion-demo-15-min.m
 - La ventaja no está en acumular otra tabla, sino en que personas, analítica y agentes compartan el mismo modelo mental del negocio.
 - Formalizar el significado también es formalizar sus límites: una señal no es una previsión.
 - La privacidad se diseña en el contrato semántico: lo que no se publica no se puede filtrar.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de retail y de marketing: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio retail,marketing`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

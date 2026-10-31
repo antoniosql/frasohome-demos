@@ -97,3 +97,9 @@ Cada notebook escribe sus CSV en `escenarios/05-marketing-precision/outputs/` (i
 - Sin resolución de identidad no hay Customer 360, y sin Customer 360 la personalización es una suposición.
 - Recomendar lo que no hay en stock o lo que se devuelve destruye margen.
 - La IA generativa en marketing se prepara con datos y reglas de marca antes de escribir el primer *prompt*.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de marketing y de retail: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio marketing,retail`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

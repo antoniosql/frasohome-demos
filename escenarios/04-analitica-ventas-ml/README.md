@@ -90,3 +90,9 @@ Los notebooks localizan la raíz del repositorio buscando las carpetas `datos/` 
 ## Siguiente paso
 
 [05 · Marketing de precisión](../05-marketing-precision/README.md) amplía los casos de uso, y [09 · Interpretabilidad GenAI](../09-genai-interpretabilidad/README.md) convierte estos scores en recomendaciones trazables.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de retail y de marketing: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio retail,marketing`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

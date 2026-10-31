@@ -11,7 +11,7 @@ Este repositorio cuenta la historia de FraSoHome y reúne, en un solo sitio, tod
 | Carpeta | Qué contiene |
 | --- | --- |
 | [historia](historia/README.md) | La empresa, su problema, su universo de datos y los capítulos de la historia. |
-| [escenarios](escenarios/README.md) | Diez demos. Cada una tiene una ficha con audiencia, duración, recursos necesarios y pasos para ejecutarla. |
+| [escenarios](escenarios/README.md) | Once demos. Cada una tiene una ficha con audiencia, duración, recursos necesarios y pasos para ejecutarla. |
 | [datos](datos/README.md) | Los datos originales en CSV, los documentos de la base de conocimiento y las tablas puente entre dominios. |
 | [docencia](docencia/README.md) | Temarios, ebooks y propuestas de sesión construidos sobre el caso. |
 | [presentaciones](presentaciones/README.md) | Guiones de presentación para introducir el caso. |

@@ -1,6 +1,6 @@
 # Escenarios de demo
 
-Diez demos que recorren la [historia de FraSoHome](../historia/README.md). Todas usan el mismo universo de [datos](../datos/README.md), así que se pueden encadenar en un taller o presentar por separado.
+Once demos que recorren la [historia de FraSoHome](../historia/README.md). Todas usan el mismo universo de [datos](../datos/README.md), así que se pueden encadenar en un taller o presentar por separado.
 
 [![Mapa de escenarios](../diagramas/mapa-escenarios.drawio.svg)](../diagramas/mapa-escenarios.drawio.svg)
 
@@ -18,6 +18,7 @@ Diez demos que recorren la [historia de FraSoHome](../historia/README.md). Todas
 | 08 | [Fabric IQ: ontología, grafo y agente](08-fabric-iq-ontologia/README.md) | Estrategia de datos, arquitectura, IA empresarial | Fabric IQ Ontology, Graph, Data Agent | 15 min demo · 6 labs | PowerShell desplegable |
 | 09 | [Interpretabilidad GenAI](09-genai-interpretabilidad/README.md) | IA aplicada, gobierno de IA, máster | Python (RAG local sin APIs) | 4 h | Notebooks locales |
 | 10 | [Agentes con Foundry](10-agentes-foundry/README.md) | IA aplicada, arquitectura, estrategia | Microsoft Foundry Agent Service | 45–90 min | Diseño para construir |
+| 11 | [Web transaccional (FraSoHome Live)](11-web-transaccional/README.md) | Arquitectura, ingeniería de datos, desarrollo | Azure Static Web Apps, Azure SQL, Cosmos DB, Python, Bicep | 20–30 min demo · 2 h recorrido | Desplegable en Azure (niveles gratuitos) |
 
 ## Rutas sugeridas
 
@@ -26,6 +27,8 @@ Diez demos que recorren la [historia de FraSoHome](../historia/README.md). Todas
 **Analítica comercial (dos sesiones de 8 h + 4 h).** 01 → 04 → 05 → 09. Es la secuencia de los temarios de [docencia](../docencia/README.md).
 
 **Preventa Microsoft Fabric (una hora).** 01 (5 min) → 02 (20 min) → 08 (15 min) → preguntas.
+
+**Aplicación y datos vivos (media jornada).** 01 → 11 → 03. De dónde salen los datos y cómo se guardan.
 
 **Dirección de personas (medio día).** 01 → 06.
 

@@ -120,3 +120,9 @@ La app lee directamente `datos/retail_omnicanal/raw_csv`. Si existe `output_scor
 - Infraestructura SQL para las capas Raw, Core y Analytics: [escenario 03](../03-sql-raw-core-analytics/README.md).
 - Versión agéntica del mismo pipeline: [escenario 10](../10-agentes-foundry/README.md).
 - Caso original completo: [preparación de datos en retail omnicanal](../../historia/caso-preparacion-datos.md).
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de `datos/retail_omnicanal/raw_csv`: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio retail`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

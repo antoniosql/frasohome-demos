@@ -122,3 +122,20 @@ escenario,tipo,recurso,ruta,obligatorio,nota
 10 · Agentes con Foundry,Datos,productos.csv,datos/retail_omnicanal/raw_csv/productos.csv,Sí,Data Pipeline
 10 · Agentes con Foundry,Datos,fact_transacciones.csv,datos/retail_omnicanal/raw_csv/fact_transacciones.csv,Sí,TrendHunter
 10 · Agentes con Foundry,Material,"Diseños multiagente (Data Pipeline, TrendHunter, TrendScout v2)",escenarios/10-agentes-foundry/,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,Suscripción de Azure con permisos de propietario (servicios gratuitos),,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,Azure CLI 2.53 o superior,,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,Python 3.10+ (los scripts preparan su entorno),,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,Node.js (CLI de Static Web Apps),,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,PowerShell,,Sí,
+11 · Web transaccional (FraSoHome Live),Entorno,GitHub CLI y entorno de GitHub Actions,,No,Publicación automática
+11 · Web transaccional (FraSoHome Live),Entorno,Navegador actual,,Sí,
+11 · Web transaccional (FraSoHome Live),Datos,Los 64 CSV de datos/,datos/,Sí,58 se cargan en SQL y Cosmos; 6 se recalculan al exportar
+11 · Web transaccional (FraSoHome Live),Material,Ficha y guiones de los 16 escenarios,escenarios/11-web-transaccional/README.md,Sí,
+11 · Web transaccional (FraSoHome Live),Material,Cómo está hecha la web,escenarios/11-web-transaccional/web.md,No,
+11 · Web transaccional (FraSoHome Live),Material,app/ (web),escenarios/11-web-transaccional/app/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,api/ (143 endpoints),escenarios/11-web-transaccional/api/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,sql/ (modelo y procedimientos),escenarios/11-web-transaccional/sql/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,seed/ (carga inicial y reinicio),escenarios/11-web-transaccional/seed/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,infra/ (Bicep y GitHub Actions),escenarios/11-web-transaccional/infra/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,"tools/ (usuarios, configuración y publicación)",escenarios/11-web-transaccional/tools/,Sí,
+11 · Web transaccional (FraSoHome Live),Material,arquitectura-web-transaccional.drawio.svg,diagramas/arquitectura-web-transaccional.drawio.svg,No,

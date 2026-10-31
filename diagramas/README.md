@@ -10,6 +10,7 @@ Diagramas del caso en formato draw.io. Cada diagrama existe en dos ficheros con 
 | Universo de datos y relaciones entre dominios | [`universo-datos.drawio.svg`](universo-datos.drawio.svg) · [`universo-datos.drawio`](universo-datos.drawio) | [Universo de datos](../historia/universo-de-datos.md) |
 | De los sistemas origen al consumo analítico y de IA | [`arquitectura-datos.drawio.svg`](arquitectura-datos.drawio.svg) · [`arquitectura-datos.drawio`](arquitectura-datos.drawio) | [Universo de datos](../historia/universo-de-datos.md) |
 | Capítulos de la historia y escenarios | [`mapa-escenarios.drawio.svg`](mapa-escenarios.drawio.svg) · [`mapa-escenarios.drawio`](mapa-escenarios.drawio) | [Escenarios](../escenarios/README.md) |
+| Arquitectura de FraSoHome Live (web transaccional) | [`arquitectura-web-transaccional.drawio.svg`](arquitectura-web-transaccional.drawio.svg) · [`arquitectura-web-transaccional.drawio`](arquitectura-web-transaccional.drawio) | [Escenario 11](../escenarios/11-web-transaccional/README.md) |
 
 ## Universo de datos
 
@@ -22,5 +23,9 @@ Diagramas del caso en formato draw.io. Cada diagrama existe en dos ficheros con 
 ## Mapa de escenarios
 
 [![Mapa de escenarios](mapa-escenarios.drawio.svg)](mapa-escenarios.drawio.svg)
+
+## Web transaccional
+
+[![Arquitectura de FraSoHome Live](arquitectura-web-transaccional.drawio.svg)](arquitectura-web-transaccional.drawio.svg)
 
 Si editas un `.drawio.svg` en diagrams.net, guárdalo con el mismo nombre para que las páginas sigan mostrándolo. Si editas el `.drawio`, exporta también el `.drawio.svg` (Archivo → Exportar como → SVG, con "Incluir copia del diagrama").

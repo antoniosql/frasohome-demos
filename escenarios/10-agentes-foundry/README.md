@@ -87,3 +87,9 @@ Para comparar, el mismo pipeline de datos está implementado de forma determinis
 - Un agente por responsabilidad, con sus herramientas y su conocimiento.
 - El humano en el bucle se coloca donde una decisión es difícil de deshacer.
 - Los agentes heredan la calidad de los datos y las definiciones: sin los capítulos anteriores, esto no funciona.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de retail: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio retail`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

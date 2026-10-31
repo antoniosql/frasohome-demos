@@ -120,3 +120,9 @@ Resultado: las once tablas `raw.*` de retail.
 
 - Los DDL de Core y Analytics crean la estructura. Su carga desde Raw se hace con las reglas de los notebooks del escenario 02 o como ejercicio de T-SQL.
 - El [perfil de datos](../02-fabric-preparacion-datos/perfil-datos.md) documenta las decisiones de modelado de cada capa.
+
+## Con datos vivos (opcional)
+
+Esta demo usa todos los CSV de `datos/`: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

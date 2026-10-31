@@ -108,3 +108,9 @@ Los códigos de tienda y producto de este dominio se traducen a los de retail co
 - Las preguntas métricas no se responden leyendo documentos: necesitan datos y un cálculo trazable.
 - Citar no es decoración: es el requisito operativo que permite auditar una respuesta.
 - Se evalúa la recuperación y la respuesta por separado, con un *test set* antes de publicar.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los ficheros del escenario RAG: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio rag`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.

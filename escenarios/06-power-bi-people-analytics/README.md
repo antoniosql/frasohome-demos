@@ -108,3 +108,9 @@ La [guía ETL](guia-etl-datos-brutos.md) tiene los pasos, las fórmulas DAX y el
 - El riesgo de abandono es una combinación (satisfacción, *engagement*, reconocimiento, manager, carga), no una causa.
 - La IA ayuda a leer texto; las conclusiones se validan contra los datos.
 - Los datos de personas exigen anonimización, propósito claro y supervisión humana.
+
+## Con datos vivos (opcional)
+
+Esta demo usa los CSV de personas y la asignación de empleados a tiendas: una fotografía de 2024–2025 con errores intencionados. Si quieres trabajar con datos que cambien, el [escenario 11](../11-web-transaccional/README.md) es una web real donde se venden, devuelven y atienden pedidos sobre Azure SQL y Cosmos DB, y su exportación (`tools/export_csv.py` `--dominio people,relaciones`) los devolverá al mismo formato que `datos/`, sin tocar el código de esta demo.
+
+La exportación todavía no está construida (fase 5 del escenario 11). Hasta entonces, usa `datos/` como hasta ahora.
