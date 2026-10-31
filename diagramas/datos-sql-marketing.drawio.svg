@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1420" height="740" viewBox="0 0 1420 740" content="&lt;mxfile host=&quot;frasohome-demos&quot; compressed=&quot;false&quot;&gt;&lt;diagram id=&quot;datos-sql-marketing&quot; name=&quot;FraSoHome Live · SQL · marketing, cupones y costes&quot;&gt;&lt;mxGraphModel dx=&quot;1420&quot; dy=&quot;740&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1420&quot; pageHeight=&quot;740&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;title&quot; value=&quot;FraSoHome Live · SQL · marketing, cupones y costes&quot; style=&quot;text;html=1;fontSize=18;fontStyle=1;fontColor=#263238;align=left;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;10&quot; width=&quot;1380&quot; height=&quot;30&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;mkt.campaign_contact&quot; value=&quot;&amp;lt;b&amp;gt;mkt.campaign_contact&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;480 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; contact_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; campaign_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;contacted_at  datetime2(0)&amp;lt;br&amp;gt;contact_channel  nvarchar(20)&amp;lt;br&amp;gt;experiment_group  nvarchar(20)&amp;lt;br&amp;gt;is_control  bit&amp;lt;br&amp;gt;assigned_segment  nvarchar(50)&amp;lt;br&amp;gt;… y 15 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;mkt.coupon&quot; value=&quot;&amp;lt;b&amp;gt;mkt.coupon&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;367 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; coupon_instance_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; campaign_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;coupon_code  nvarchar(30)&amp;lt;br&amp;gt;issued_at  datetime2(0)&amp;lt;br&amp;gt;valid_from  datetime2(0)&amp;lt;br&amp;gt;valid_to  datetime2(0)&amp;lt;br&amp;gt;coupon_type  nvarchar(20)&amp;lt;br&amp;gt;… y 13 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;mkt.promotion&quot; value=&quot;&amp;lt;b&amp;gt;mkt.promotion&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;98 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; promo_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; related_campaign_id  nvarchar(30)&amp;lt;br&amp;gt;promo_name  nvarchar(200)&amp;lt;br&amp;gt;starts_at  datetime2(0)&amp;lt;br&amp;gt;ends_at  datetime2(0)&amp;lt;br&amp;gt;scope_type  nvarchar(30)&amp;lt;br&amp;gt;… y 9 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;168&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;mkt.campaign&quot; value=&quot;&amp;lt;b&amp;gt;mkt.campaign&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;26 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; campaign_id  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; target_store_id  nvarchar(50)&amp;lt;br&amp;gt;campaign_name  nvarchar(200)&amp;lt;br&amp;gt;objective  nvarchar(50)&amp;lt;br&amp;gt;channel  nvarchar(20)&amp;lt;br&amp;gt;starts_at  datetime2(0)&amp;lt;br&amp;gt;ends_at  datetime2(0)&amp;lt;br&amp;gt;target_segment  nvarchar(50)&amp;lt;br&amp;gt;target_category  nvarchar(100)&amp;lt;br&amp;gt;… y 11 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;198&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;fin.transaction_cost&quot; value=&quot;&amp;lt;b&amp;gt;fin.transaction_cost&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;1.829 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; transaction_cost_id  nvarchar(30)&amp;lt;br&amp;gt;document_type  nvarchar(10)&amp;lt;br&amp;gt;order_id  nvarchar(50)&amp;lt;br&amp;gt;ticket_id  nvarchar(50)&amp;lt;br&amp;gt;customer_id  nvarchar(50)&amp;lt;br&amp;gt;transaction_at  datetime2(0)&amp;lt;br&amp;gt;… y 15 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;153&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;crm.customer&quot; value=&quot;&amp;lt;b&amp;gt;crm.customer&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;clientes (ver ventas)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#1565C0;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;mkt.customer_store_affinity&quot; value=&quot;&amp;lt;b&amp;gt;mkt.customer_store_affinity&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;100 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;preferred_store_id  nvarchar(50)&amp;lt;br&amp;gt;nearest_store_id  nvarchar(50)&amp;lt;br&amp;gt;nearest_store_km  decimal(9,1)&amp;lt;br&amp;gt;store_visits_12m  int&amp;lt;br&amp;gt;store_spend_12m_eur  decimal(12,2)&amp;lt;br&amp;gt;online_spend_12m_eur  decimal(12,2)&amp;lt;br&amp;gt;… y 7 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;168&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;store.store&quot; value=&quot;&amp;lt;b&amp;gt;store.store&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;tiendas (ver ventas)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#2E7D32;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r0&quot; value=&quot;campaign_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.campaign_contact&quot; target=&quot;mkt.campaign&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r1&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.campaign_contact&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r2&quot; value=&quot;campaign_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.coupon&quot; target=&quot;mkt.campaign&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r3&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.coupon&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r4&quot; value=&quot;related_campaign_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.promotion&quot; target=&quot;mkt.campaign&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r5&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.promotion&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r6&quot; value=&quot;target_store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.campaign&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r7&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;mkt.customer_store_affinity&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;n0&quot; value=&quot;Marketing y costes&amp;lt;br&amp;gt;Una campaña tiene contactos (el grupo de control&amp;lt;br&amp;gt;es experiment_group = control), cupones y&amp;lt;br&amp;gt;promociones relacionadas.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;mkt.coupon.coupon_instance_id se guarda en el&amp;lt;br&amp;gt;pedido o ticket donde se canjea. Sus eventos y&amp;lt;br&amp;gt;creatividades viven en Cosmos DB (ver&amp;lt;br&amp;gt;datos-cosmos).&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;fin.transaction_cost: coste por transacción y canal.&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontSize=11;fillColor=#F5F5F5;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;330&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+<rect width="1420" height="740" fill="#FFFFFF"/>
+<text x="20" y="32" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="bold" fill="#263238">FraSoHome Live · SQL · marketing, cupones y costes</text>
+<line x1="314.8" y1="243.0" x2="380.0" y2="284.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="314.8" y1="243.0" x2="326.7" y2="244.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="314.8" y1="243.0" x2="324.9" y2="249.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="314.8" y1="243.0" x2="321.1" y2="253.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="375.9" y1="275.7" x2="370.6" y2="284.2" stroke="#78909C" stroke-width="1.5"/>
+<rect x="312.6" y="253.6" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="347.4" y="264.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">campaign_id</text>
+<line x1="320.0" y1="139.1" x2="740.0" y2="104.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="139.1" x2="330.3" y2="133.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="139.1" x2="332.0" y2="138.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="139.1" x2="331.2" y2="143.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="731.6" y1="100.1" x2="732.4" y2="110.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="495.2" y="111.8" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="530.0" y="122.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<line x1="320.0" y1="374.6" x2="380.0" y2="375.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="374.6" x2="330.9" y2="369.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="374.6" x2="332.0" y2="374.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="374.6" x2="330.7" y2="380.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="372.1" y1="370.7" x2="371.9" y2="380.7" stroke="#78909C" stroke-width="1.5"/>
+<rect x="315.2" y="365.2" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="350.0" y="376.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">campaign_id</text>
+<line x1="320.0" y1="313.3" x2="807.6" y2="124.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="313.3" x2="328.2" y2="304.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="313.3" x2="331.2" y2="308.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="313.3" x2="332.0" y2="314.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="798.3" y1="122.2" x2="801.9" y2="131.6" stroke="#78909C" stroke-width="1.5"/>
+<rect x="529.0" y="208.6" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="563.8" y="219.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<line x1="317.5" y1="500.0" x2="380.0" y2="464.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="317.5" y1="500.0" x2="324.3" y2="490.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="317.5" y1="500.0" x2="327.9" y2="494.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="317.5" y1="500.0" x2="329.5" y2="499.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="370.6" y1="464.0" x2="375.5" y2="472.7" stroke="#78909C" stroke-width="1.5"/>
+<rect x="291.6" y="472.2" width="114.4" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="348.8" y="483.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">related_campaign_id</text>
+<line x1="320.0" y1="573.2" x2="740.0" y2="542.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="573.2" x2="330.4" y2="567.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="573.2" x2="332.0" y2="572.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="573.2" x2="331.2" y2="577.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="731.7" y1="538.4" x2="732.4" y2="548.4" stroke="#78909C" stroke-width="1.5"/>
+<rect x="503.6" y="548.0" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="530.0" y="559.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="680.0" y1="442.8" x2="814.7" y2="500.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="442.8" x2="692.0" y2="442.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="442.8" x2="691.0" y2="447.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="442.8" x2="687.9" y2="451.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="809.3" y1="492.3" x2="805.4" y2="501.5" stroke="#78909C" stroke-width="1.5"/>
+<rect x="701.4" y="461.4" width="92.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="747.4" y="472.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">target_store_id</text>
+<line x1="890.0" y1="280.0" x2="890.0" y2="124.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="890.0" y1="280.0" x2="884.8" y2="269.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="890.0" y1="280.0" x2="890.0" y2="268.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="890.0" y1="280.0" x2="895.2" y2="269.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="885.0" y1="132.0" x2="895.0" y2="132.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="855.2" y="192.0" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="890.0" y="203.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<rect x="20" y="60" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M20,86 V66 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V86 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="30" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">mkt.campaign_contact</text>
+<text x="30" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">480 filas tras la carga inicial</text>
+<text x="28" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="64" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">contact_id  nvarchar(30)</text>
+<text x="28" y="128" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">campaign_id  nvarchar(30)</text>
+<text x="28" y="143" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="64" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">contacted_at  datetime2(0)</text>
+<text x="64" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">contact_channel  nvarchar(20)</text>
+<text x="64" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">experiment_group  nvarchar(20)</text>
+<text x="64" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">is_control  bit</text>
+<text x="64" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">assigned_segment  nvarchar(50)</text>
+<text x="64" y="233" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 15 columnas más</text>
+<rect x="20" y="280" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M20,306 V286 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V306 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="30" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">mkt.coupon</text>
+<text x="30" y="316" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">367 filas tras la carga inicial</text>
+<text x="28" y="333" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="64" y="333" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">coupon_instance_id  nvarchar(30)</text>
+<text x="28" y="348" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="348" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">campaign_id  nvarchar(30)</text>
+<text x="28" y="363" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="363" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="64" y="378" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">coupon_code  nvarchar(30)</text>
+<text x="64" y="393" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">issued_at  datetime2(0)</text>
+<text x="64" y="408" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">valid_from  datetime2(0)</text>
+<text x="64" y="423" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">valid_to  datetime2(0)</text>
+<text x="64" y="438" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">coupon_type  nvarchar(20)</text>
+<text x="64" y="453" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 13 columnas más</text>
+<rect x="20" y="500" width="300" height="168" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M20,526 V506 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V526 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="30" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">mkt.promotion</text>
+<text x="30" y="536" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">98 filas tras la carga inicial</text>
+<text x="28" y="553" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="64" y="553" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">promo_id  nvarchar(30)</text>
+<text x="28" y="568" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="568" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="28" y="583" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="64" y="583" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">related_campaign_id  nvarchar(30)</text>
+<text x="64" y="598" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">promo_name  nvarchar(200)</text>
+<text x="64" y="613" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">starts_at  datetime2(0)</text>
+<text x="64" y="628" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ends_at  datetime2(0)</text>
+<text x="64" y="643" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scope_type  nvarchar(30)</text>
+<text x="64" y="658" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 9 columnas más</text>
+<rect x="380" y="280" width="300" height="198" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M380,306 V286 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V306 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="390" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">mkt.campaign</text>
+<text x="390" y="316" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">26 filas tras la carga inicial</text>
+<text x="388" y="333" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="424" y="333" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">campaign_id  nvarchar(30)</text>
+<text x="388" y="348" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="424" y="348" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">target_store_id  nvarchar(50)</text>
+<text x="424" y="363" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">campaign_name  nvarchar(200)</text>
+<text x="424" y="378" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">objective  nvarchar(50)</text>
+<text x="424" y="393" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">channel  nvarchar(20)</text>
+<text x="424" y="408" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">starts_at  datetime2(0)</text>
+<text x="424" y="423" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ends_at  datetime2(0)</text>
+<text x="424" y="438" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">target_segment  nvarchar(50)</text>
+<text x="424" y="453" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">target_category  nvarchar(100)</text>
+<text x="424" y="468" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 11 columnas más</text>
+<rect x="1100" y="500" width="300" height="153" rx="6" fill="#FFFFFF" stroke="#424242" stroke-width="1.2"/>
+<path d="M1100,526 V506 a6,6 0 0 1 6,-6 H1394 a6,6 0 0 1 6,6 V526 Z" fill="#F5F5F5" stroke="#424242" stroke-width="1.2"/>
+<text x="1110" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#424242">fin.transaction_cost</text>
+<text x="1110" y="536" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">1.829 filas tras la carga inicial</text>
+<text x="1108" y="553" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#424242">PK</text>
+<text x="1144" y="553" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">transaction_cost_id  nvarchar(30)</text>
+<text x="1144" y="568" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">document_type  nvarchar(10)</text>
+<text x="1144" y="583" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">order_id  nvarchar(50)</text>
+<text x="1144" y="598" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_id  nvarchar(50)</text>
+<text x="1144" y="613" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="1144" y="628" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">transaction_at  datetime2(0)</text>
+<text x="1144" y="643" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 15 columnas más</text>
+<rect x="740" y="60" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#1565C0" stroke-width="1.2"/>
+<path d="M740,86 V66 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V86 Z" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.2"/>
+<text x="750" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#1565C0">crm.customer</text>
+<text x="748" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">PK</text>
+<text x="784" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="784" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">clientes (ver ventas)</text>
+<rect x="740" y="280" width="300" height="168" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M740,306 V286 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V306 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="750" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">mkt.customer_store_affinity</text>
+<text x="750" y="316" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">100 filas tras la carga inicial</text>
+<text x="748" y="333" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK, FK</text>
+<text x="784" y="333" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="784" y="348" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">preferred_store_id  nvarchar(50)</text>
+<text x="784" y="363" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">nearest_store_id  nvarchar(50)</text>
+<text x="784" y="378" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">nearest_store_km  decimal(9,1)</text>
+<text x="784" y="393" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_visits_12m  int</text>
+<text x="784" y="408" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_spend_12m_eur  decimal(12,2)</text>
+<text x="784" y="423" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">online_spend_12m_eur  decimal(12,2)</text>
+<text x="784" y="438" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 7 columnas más</text>
+<rect x="740" y="500" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#2E7D32" stroke-width="1.2"/>
+<path d="M740,526 V506 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V526 Z" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.2"/>
+<text x="750" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#2E7D32">store.store</text>
+<text x="748" y="539" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#2E7D32">PK</text>
+<text x="784" y="539" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="784" y="554" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">tiendas (ver ventas)</text>
+<rect x="1100" y="60" width="300" height="330" rx="6" fill="#F5F5F5" stroke="#424242"/>
+<text x="1110" y="78" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#263238">Marketing y costes</text>
+<text x="1110" y="93" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Una campaña tiene contactos (el grupo de control</text>
+<text x="1110" y="108" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">es experiment_group = control), cupones y</text>
+<text x="1110" y="123" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">promociones relacionadas.</text>
+<text x="1110" y="138" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238"></text>
+<text x="1110" y="153" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">mkt.coupon.coupon_instance_id se guarda en el</text>
+<text x="1110" y="168" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">pedido o ticket donde se canjea. Sus eventos y</text>
+<text x="1110" y="183" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">creatividades viven en Cosmos DB (ver</text>
+<text x="1110" y="198" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">datos-cosmos).</text>
+<text x="1110" y="213" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238"></text>
+<text x="1110" y="228" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">fin.transaction_cost: coste por transacción y canal.</text>
+</svg>

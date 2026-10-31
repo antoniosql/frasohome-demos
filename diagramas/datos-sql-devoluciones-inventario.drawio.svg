@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1420" height="720" viewBox="0 0 1420 720" content="&lt;mxfile host=&quot;frasohome-demos&quot; compressed=&quot;false&quot;&gt;&lt;diagram id=&quot;datos-sql-devoluciones-inventario&quot; name=&quot;FraSoHome Live · SQL · devoluciones e inventario&quot;&gt;&lt;mxGraphModel dx=&quot;1420&quot; dy=&quot;720&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1420&quot; pageHeight=&quot;720&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;title&quot; value=&quot;FraSoHome Live · SQL · devoluciones e inventario&quot; style=&quot;text;html=1;fontSize=18;fontStyle=1;fontColor=#263238;align=left;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;10&quot; width=&quot;1380&quot; height=&quot;30&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;crm.customer&quot; value=&quot;&amp;lt;b&amp;gt;crm.customer&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;clientes (ver ventas)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#1565C0;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;returns.return_header&quot; value=&quot;&amp;lt;b&amp;gt;returns.return_header&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;389 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; return_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;returned_at  datetime2(0)&amp;lt;br&amp;gt;return_channel  nvarchar(50)&amp;lt;br&amp;gt;original_ticket_id  nvarchar(50)&amp;lt;br&amp;gt;original_order_id  nvarchar(50)&amp;lt;br&amp;gt;return_status  nvarchar(50)&amp;lt;br&amp;gt;… y 6 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;returns.return_line&quot; value=&quot;&amp;lt;b&amp;gt;returns.return_line&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;395 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; return_line_id  nvarchar(80)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; return_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;original_ticket_line_id  nvarchar(50)&amp;lt;br&amp;gt;original_order_line_id  nvarchar(50)&amp;lt;br&amp;gt;returned_quantity  int&amp;lt;br&amp;gt;refund_amount  decimal(18,2)&amp;lt;br&amp;gt;return_reason  nvarchar(200)&amp;lt;br&amp;gt;… y 2 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#AD1457;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;catalog.product&quot; value=&quot;&amp;lt;b&amp;gt;catalog.product&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;catálogo (ver ventas)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#2E7D32;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;store.store&quot; value=&quot;&amp;lt;b&amp;gt;store.store&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;tiendas (ver ventas)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#2E7D32;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;330&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;inventory.stock_snapshot&quot; value=&quot;&amp;lt;b&amp;gt;inventory.stock_snapshot&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;1.892 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; snapshot_date  date&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;closing_stock_qty  decimal(18,2)&amp;lt;br&amp;gt;reserved_stock_qty  decimal(18,2)&amp;lt;br&amp;gt;in_transit_stock_qty  decimal(18,2)&amp;lt;br&amp;gt;minimum_stock_qty  decimal(18,2)&amp;lt;br&amp;gt;source_system  nvarchar(50)&amp;lt;br&amp;gt;… y 2 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;330&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;inventory.stock_level&quot; value=&quot;&amp;lt;b&amp;gt;inventory.stock_level&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;567 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;on_hand_qty  int&amp;lt;br&amp;gt;reserved_qty  int&amp;lt;br&amp;gt;in_transit_qty  int&amp;lt;br&amp;gt;minimum_qty  int&amp;lt;br&amp;gt;updated_at  datetime2(0)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;330&quot; width=&quot;300&quot; height=&quot;153&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;inventory.stock_movement&quot; value=&quot;&amp;lt;b&amp;gt;inventory.stock_movement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;se llena con el uso de la web&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; movement_id  bigint&amp;lt;br&amp;gt;moved_at  datetime2(0)&amp;lt;br&amp;gt;store_id  nvarchar(50)&amp;lt;br&amp;gt;product_id  nvarchar(50)&amp;lt;br&amp;gt;movement_type  nvarchar(30)&amp;lt;br&amp;gt;on_hand_delta  int&amp;lt;br&amp;gt;reserved_delta  int&amp;lt;br&amp;gt;in_transit_delta  int&amp;lt;br&amp;gt;… y 4 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;330&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r0&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;returns.return_header&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r1&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;returns.return_header&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r2&quot; value=&quot;return_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;returns.return_line&quot; target=&quot;returns.return_header&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r3&quot; value=&quot;product_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;returns.return_line&quot; target=&quot;catalog.product&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r4&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;inventory.stock_snapshot&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r5&quot; value=&quot;product_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;inventory.stock_snapshot&quot; target=&quot;catalog.product&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r6&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;inventory.stock_level&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r7&quot; value=&quot;product_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;inventory.stock_level&quot; target=&quot;catalog.product&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r8&quot; value=&quot;&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;dashed=1;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;inventory.stock_movement&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;n0&quot; value=&quot;Qué hay aquí&amp;lt;br&amp;gt;returns: cabecera y líneas de devolución, de tienda y online. Se reembolsa y, al reembolsar, la mercancía vuelve al stock.&amp;lt;br&amp;gt;inventory: stock_level es el stock vivo (en mano, reservado, en tránsito, mínimo); stock_snapshot es la foto diaria que sale del cierre;&amp;lt;br&amp;gt;stock_movement es el libro de movimientos. Sus store_id y product_id no son claves foráneas declaradas.&amp;lt;br&amp;gt;Línea de puntos: relación lógica sin FK.&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontSize=11;fillColor=#F5F5F5;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;560&quot; width=&quot;700&quot; height=&quot;120&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+<rect width="1420" height="720" fill="#FFFFFF"/>
+<text x="20" y="32" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="bold" fill="#263238">FraSoHome Live · SQL · devoluciones e inventario</text>
+<line x1="380.0" y1="239.2" x2="224.7" y2="330.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="239.2" x2="373.3" y2="249.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="239.2" x2="369.6" y2="245.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="239.2" x2="368.0" y2="240.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="234.2" y1="330.3" x2="229.1" y2="321.6" stroke="#78909C" stroke-width="1.5"/>
+<rect x="276.0" y="274.6" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="302.4" y="285.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="380.0" y1="126.7" x2="320.0" y2="116.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="126.7" x2="368.5" y2="130.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="126.7" x2="368.2" y2="124.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="126.7" x2="370.2" y2="119.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="327.1" y1="123.0" x2="328.7" y2="113.2" stroke="#78909C" stroke-width="1.5"/>
+<rect x="315.2" y="111.8" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="350.0" y="122.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<line x1="740.0" y1="151.5" x2="680.0" y2="151.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="729.2" y2="156.7" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="728.0" y2="151.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="729.2" y2="146.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="688.0" y1="156.5" x2="688.0" y2="146.5" stroke="#78909C" stroke-width="1.5"/>
+<rect x="680.8" y="141.5" width="58.4" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="710.0" y="152.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">return_id</text>
+<line x1="1040.0" y1="126.7" x2="1100.0" y2="116.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="126.7" x2="1049.8" y2="119.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="126.7" x2="1051.8" y2="124.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="126.7" x2="1051.5" y2="130.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1091.3" y1="113.2" x2="1092.9" y2="123.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="1038.0" y="111.8" width="64.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="1070.0" y="122.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">product_id</text>
+<line x1="380.0" y1="396.7" x2="320.0" y2="386.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="396.7" x2="368.5" y2="400.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="396.7" x2="368.2" y2="394.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="396.7" x2="370.2" y2="389.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="327.1" y1="393.0" x2="328.7" y2="383.2" stroke="#78909C" stroke-width="1.5"/>
+<rect x="323.6" y="381.8" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="350.0" y="392.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="680.0" y1="352.9" x2="1180.1" y2="124.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="352.9" x2="687.7" y2="343.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="352.9" x2="690.9" y2="347.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="352.9" x2="692.0" y2="353.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1170.7" y1="122.8" x2="1174.9" y2="131.9" stroke="#78909C" stroke-width="1.5"/>
+<rect x="898.0" y="228.4" width="64.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="930.0" y="239.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">product_id</text>
+<line x1="740.0" y1="397.2" x2="320.0" y2="371.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="397.2" x2="728.9" y2="401.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="397.2" x2="728.0" y2="396.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="397.2" x2="729.5" y2="391.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="327.7" y1="376.8" x2="328.3" y2="366.8" stroke="#78909C" stroke-width="1.5"/>
+<rect x="503.6" y="374.2" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="530.0" y="385.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="977.6" y1="330.0" x2="1213.4" y2="124.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="977.6" y1="330.0" x2="982.3" y2="319.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="977.6" y1="330.0" x2="986.6" y2="322.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="977.6" y1="330.0" x2="989.1" y2="326.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1204.1" y1="125.5" x2="1210.6" y2="133.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="1063.5" y="217.0" width="64.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="1095.5" y="228.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">product_id</text>
+<line x1="1100.0" y1="413.2" x2="320.0" y2="370.3" stroke="#78909C" stroke-width="1.3" stroke-dasharray="5 4"/>
+<line x1="1100.0" y1="413.2" x2="1088.9" y2="417.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1100.0" y1="413.2" x2="1088.0" y2="412.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1100.0" y1="413.2" x2="1089.5" y2="407.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="327.7" y1="375.7" x2="328.3" y2="365.7" stroke="#78909C" stroke-width="1.5"/>
+<rect x="20" y="60" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#1565C0" stroke-width="1.2"/>
+<path d="M20,86 V66 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V86 Z" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.2"/>
+<text x="30" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#1565C0">crm.customer</text>
+<text x="28" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">PK</text>
+<text x="64" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="64" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">clientes (ver ventas)</text>
+<rect x="380" y="60" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M380,86 V66 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V86 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="390" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">returns.return_header</text>
+<text x="390" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">389 filas tras la carga inicial</text>
+<text x="388" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="424" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_id  nvarchar(50)</text>
+<text x="388" y="128" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="424" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="388" y="143" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="424" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="424" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">returned_at  datetime2(0)</text>
+<text x="424" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_channel  nvarchar(50)</text>
+<text x="424" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">original_ticket_id  nvarchar(50)</text>
+<text x="424" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">original_order_id  nvarchar(50)</text>
+<text x="424" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_status  nvarchar(50)</text>
+<text x="424" y="233" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 6 columnas más</text>
+<rect x="740" y="60" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#AD1457" stroke-width="1.2"/>
+<path d="M740,86 V66 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V86 Z" fill="#FCE4EC" stroke="#AD1457" stroke-width="1.2"/>
+<text x="750" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#AD1457">returns.return_line</text>
+<text x="750" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">395 filas tras la carga inicial</text>
+<text x="748" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">PK</text>
+<text x="784" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_line_id  nvarchar(80)</text>
+<text x="748" y="128" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="784" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_id  nvarchar(50)</text>
+<text x="748" y="143" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#AD1457">FK</text>
+<text x="784" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="784" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">original_ticket_line_id  nvarchar(50)</text>
+<text x="784" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">original_order_line_id  nvarchar(50)</text>
+<text x="784" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">returned_quantity  int</text>
+<text x="784" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">refund_amount  decimal(18,2)</text>
+<text x="784" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">return_reason  nvarchar(200)</text>
+<text x="784" y="233" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 2 columnas más</text>
+<rect x="1100" y="60" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#2E7D32" stroke-width="1.2"/>
+<path d="M1100,86 V66 a6,6 0 0 1 6,-6 H1394 a6,6 0 0 1 6,6 V86 Z" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.2"/>
+<text x="1110" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#2E7D32">catalog.product</text>
+<text x="1108" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#2E7D32">PK</text>
+<text x="1144" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="1144" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">catálogo (ver ventas)</text>
+<rect x="20" y="330" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#2E7D32" stroke-width="1.2"/>
+<path d="M20,356 V336 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V356 Z" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.2"/>
+<text x="30" y="347" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#2E7D32">store.store</text>
+<text x="28" y="369" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#2E7D32">PK</text>
+<text x="64" y="369" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="64" y="384" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">tiendas (ver ventas)</text>
+<rect x="380" y="330" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M380,356 V336 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V356 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="390" y="347" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">inventory.stock_snapshot</text>
+<text x="390" y="366" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">1.892 filas tras la carga inicial</text>
+<text x="388" y="383" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="424" y="383" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">snapshot_date  date</text>
+<text x="388" y="398" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="424" y="398" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="388" y="413" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="424" y="413" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="424" y="428" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">closing_stock_qty  decimal(18,2)</text>
+<text x="424" y="443" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">reserved_stock_qty  decimal(18,2)</text>
+<text x="424" y="458" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">in_transit_stock_qty  decimal(18,2)</text>
+<text x="424" y="473" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">minimum_stock_qty  decimal(18,2)</text>
+<text x="424" y="488" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">source_system  nvarchar(50)</text>
+<text x="424" y="503" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 2 columnas más</text>
+<rect x="740" y="330" width="300" height="153" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M740,356 V336 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V356 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="750" y="347" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">inventory.stock_level</text>
+<text x="750" y="366" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">567 filas tras la carga inicial</text>
+<text x="748" y="383" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="784" y="383" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="748" y="398" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="784" y="398" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="784" y="413" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">on_hand_qty  int</text>
+<text x="784" y="428" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">reserved_qty  int</text>
+<text x="784" y="443" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">in_transit_qty  int</text>
+<text x="784" y="458" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">minimum_qty  int</text>
+<text x="784" y="473" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">updated_at  datetime2(0)</text>
+<rect x="1100" y="330" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M1100,356 V336 a6,6 0 0 1 6,-6 H1394 a6,6 0 0 1 6,6 V356 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="1110" y="347" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">inventory.stock_movement</text>
+<text x="1110" y="366" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">se llena con el uso de la web</text>
+<text x="1108" y="383" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="1144" y="383" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">movement_id  bigint</text>
+<text x="1144" y="398" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">moved_at  datetime2(0)</text>
+<text x="1144" y="413" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="1144" y="428" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="1144" y="443" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">movement_type  nvarchar(30)</text>
+<text x="1144" y="458" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">on_hand_delta  int</text>
+<text x="1144" y="473" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">reserved_delta  int</text>
+<text x="1144" y="488" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">in_transit_delta  int</text>
+<text x="1144" y="503" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 4 columnas más</text>
+<rect x="20" y="560" width="700" height="120" rx="6" fill="#F5F5F5" stroke="#424242"/>
+<text x="30" y="578" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#263238">Qué hay aquí</text>
+<text x="30" y="593" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">returns: cabecera y líneas de devolución, de tienda y online. Se reembolsa y, al reembolsar, la mercancía vuelve al stock.</text>
+<text x="30" y="608" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">inventory: stock_level es el stock vivo (en mano, reservado, en tránsito, mínimo); stock_snapshot es la foto diaria que sale del cierre;</text>
+<text x="30" y="623" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">stock_movement es el libro de movimientos. Sus store_id y product_id no son claves foráneas declaradas.</text>
+<text x="30" y="638" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Línea de puntos: relación lógica sin FK.</text>
+</svg>

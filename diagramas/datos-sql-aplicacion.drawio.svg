@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1420" height="700" viewBox="0 0 1420 700" content="&lt;mxfile host=&quot;frasohome-demos&quot; compressed=&quot;false&quot;&gt;&lt;diagram id=&quot;datos-sql-aplicacion&quot; name=&quot;FraSoHome Live · SQL · aplicación (usuarios, sesiones, outbox)&quot;&gt;&lt;mxGraphModel dx=&quot;1420&quot; dy=&quot;700&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1420&quot; pageHeight=&quot;700&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;title&quot; value=&quot;FraSoHome Live · SQL · aplicación (usuarios, sesiones, outbox)&quot; style=&quot;text;html=1;fontSize=18;fontStyle=1;fontColor=#263238;align=left;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;10&quot; width=&quot;1380&quot; height=&quot;30&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.app_user&quot; value=&quot;&amp;lt;b&amp;gt;app.app_user&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; user_id  int&amp;lt;br&amp;gt;login  nvarchar(100)&amp;lt;br&amp;gt;display_name  nvarchar(200)&amp;lt;br&amp;gt;password_hash  varbinary(64)&amp;lt;br&amp;gt;password_salt  varbinary(32)&amp;lt;br&amp;gt;scrypt_n  int&amp;lt;br&amp;gt;scrypt_r  int&amp;lt;br&amp;gt;scrypt_p  int&amp;lt;br&amp;gt;is_active  bit&amp;lt;br&amp;gt;… y 6 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;184&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.user_role&quot; value=&quot;&amp;lt;b&amp;gt;app.user_role&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; user_id  int&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; role_name  nvarchar(30)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;64&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.user_scope&quot; value=&quot;&amp;lt;b&amp;gt;app.user_scope&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK, FK&amp;lt;/b&amp;gt; user_id  int&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; scope_type  nvarchar(20)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; scope_value  nvarchar(50)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;79&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.user_session&quot; value=&quot;&amp;lt;b&amp;gt;app.user_session&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; session_hash  varbinary(32)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; user_id  int&amp;lt;br&amp;gt;created_at  datetime2(0)&amp;lt;br&amp;gt;expires_at  datetime2(0)&amp;lt;br&amp;gt;user_agent  nvarchar(300)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;109&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.idempotency_key&quot; value=&quot;&amp;lt;b&amp;gt;app.idempotency_key&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; idempotency_key  nvarchar(100)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; user_id  int&amp;lt;br&amp;gt;request_path  nvarchar(200)&amp;lt;br&amp;gt;status_code  int&amp;lt;br&amp;gt;response_body  nvarchar(max)&amp;lt;br&amp;gt;created_at  datetime2(0)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;124&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.outbox&quot; value=&quot;&amp;lt;b&amp;gt;app.outbox&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; outbox_id  bigint&amp;lt;br&amp;gt;container_name  nvarchar(50)&amp;lt;br&amp;gt;operation  nvarchar(10)&amp;lt;br&amp;gt;document_json  nvarchar(max)&amp;lt;br&amp;gt;created_at  datetime2(0)&amp;lt;br&amp;gt;attempts  int&amp;lt;br&amp;gt;last_error  nvarchar(1000)&amp;lt;br&amp;gt;sent_at  datetime2(0)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;154&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.audit_log&quot; value=&quot;&amp;lt;b&amp;gt;app.audit_log&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; audit_id  bigint&amp;lt;br&amp;gt;logged_at  datetime2(0)&amp;lt;br&amp;gt;user_login  nvarchar(100)&amp;lt;br&amp;gt;action_name  nvarchar(100)&amp;lt;br&amp;gt;entity_name  nvarchar(100)&amp;lt;br&amp;gt;entity_id  nvarchar(100)&amp;lt;br&amp;gt;detail  nvarchar(2000)&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;139&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.id_counter&quot; value=&quot;&amp;lt;b&amp;gt;app.id_counter&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; kind  nvarchar(30)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; period_key  smallint&amp;lt;br&amp;gt;prefix_template  nvarchar(30)&amp;lt;br&amp;gt;number_width  tinyint&amp;lt;br&amp;gt;next_value  bigint&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;109&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;app.id_kind&quot; value=&quot;&amp;lt;b&amp;gt;app.id_kind&amp;lt;/b&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; kind  nvarchar(30)&amp;lt;br&amp;gt;prefix_template  nvarchar(30)&amp;lt;br&amp;gt;number_width  tinyint&amp;lt;br&amp;gt;per_year  bit&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;94&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r0&quot; value=&quot;user_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;app.user_role&quot; target=&quot;app.app_user&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r1&quot; value=&quot;user_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;app.user_scope&quot; target=&quot;app.app_user&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r2&quot; value=&quot;user_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;app.user_session&quot; target=&quot;app.app_user&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r3&quot; value=&quot;user_id (lógica)&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;dashed=1;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;app.idempotency_key&quot; target=&quot;app.app_user&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r4&quot; value=&quot;kind (lógica)&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;dashed=1;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;app.id_counter&quot; target=&quot;app.id_kind&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;n0&quot; value=&quot;Aplicación (esquema app)&amp;lt;br&amp;gt;Lo que necesita la web además del negocio:&amp;lt;br&amp;gt;• usuarios, roles y ámbitos (a qué cliente, tienda&amp;lt;br&amp;gt;  o empleado está atado cada uno)&amp;lt;br&amp;gt;• sesiones: solo se guarda el hash del token&amp;lt;br&amp;gt;• Idempotency-Key: repetir un cobro no lo duplica&amp;lt;br&amp;gt;• outbox: eventos pendientes de enviar a Cosmos&amp;lt;br&amp;gt;• auditoría de cambios&amp;lt;br&amp;gt;• contadores de identificadores (C0001, O-…)&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Contiene contraseñas con scrypt y sesiones:&amp;lt;br&amp;gt;no se da lectura a este esquema (ver conexión).&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontSize=11;fillColor=#FFF8E1;strokeColor=#E65100;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;330&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+<rect width="1420" height="700" fill="#FFFFFF"/>
+<text x="20" y="32" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="bold" fill="#263238">FraSoHome Live · SQL · aplicación (usuarios, sesiones, outbox)</text>
+<line x1="211.1" y1="124.0" x2="411.7" y2="280.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="211.1" y1="124.0" x2="222.9" y2="126.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="211.1" y1="124.0" x2="220.6" y2="131.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="211.1" y1="124.0" x2="216.5" y2="134.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="408.5" y1="271.1" x2="402.3" y2="279.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="287.8" y="192.0" width="47.2" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="311.4" y="203.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">user_id</text>
+<line x1="320.0" y1="341.4" x2="380.0" y2="350.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="341.4" x2="331.4" y2="337.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="341.4" x2="331.9" y2="343.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="320.0" y1="341.4" x2="329.9" y2="348.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="372.8" y1="344.0" x2="371.4" y2="353.9" stroke="#78909C" stroke-width="1.5"/>
+<rect x="326.4" y="335.8" width="47.2" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="350.0" y="346.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">user_id</text>
+<line x1="277.5" y1="500.0" x2="380.0" y2="448.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="277.5" y1="500.0" x2="284.8" y2="490.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="277.5" y1="500.0" x2="288.2" y2="494.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="277.5" y1="500.0" x2="289.5" y2="499.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="370.6" y1="447.2" x2="375.1" y2="456.1" stroke="#78909C" stroke-width="1.5"/>
+<rect x="305.2" y="464.0" width="47.2" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="328.8" y="475.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">user_id</text>
+<line x1="800.7" y1="184.0" x2="662.5" y2="280.0" stroke="#78909C" stroke-width="1.3" stroke-dasharray="5 4"/>
+<line x1="800.7" y1="184.0" x2="794.8" y2="194.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="800.7" y1="184.0" x2="790.9" y2="190.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="800.7" y1="184.0" x2="788.9" y2="185.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="671.9" y1="279.5" x2="666.2" y2="271.3" stroke="#78909C" stroke-width="1.5"/>
+<rect x="682.8" y="222.0" width="97.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="731.6" y="233.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">user_id (lógica)</text>
+<line x1="530.0" y1="169.0" x2="530.0" y2="500.0" stroke="#78909C" stroke-width="1.3" stroke-dasharray="5 4"/>
+<line x1="530.0" y1="169.0" x2="535.2" y2="179.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="530.0" y1="169.0" x2="530.0" y2="181.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="530.0" y1="169.0" x2="524.8" y2="179.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="535.0" y1="492.0" x2="525.0" y2="492.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="489.6" y="324.5" width="80.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="530.0" y="335.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">kind (lógica)</text>
+<rect x="380" y="280" width="300" height="184" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M380,306 V286 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V306 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="390" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.app_user</text>
+<text x="388" y="319" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="424" y="319" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_id  int</text>
+<text x="424" y="334" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">login  nvarchar(100)</text>
+<text x="424" y="349" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">display_name  nvarchar(200)</text>
+<text x="424" y="364" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">password_hash  varbinary(64)</text>
+<text x="424" y="379" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">password_salt  varbinary(32)</text>
+<text x="424" y="394" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scrypt_n  int</text>
+<text x="424" y="409" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scrypt_r  int</text>
+<text x="424" y="424" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scrypt_p  int</text>
+<text x="424" y="439" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">is_active  bit</text>
+<text x="424" y="454" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 6 columnas más</text>
+<rect x="20" y="60" width="300" height="64" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M20,86 V66 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V86 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="30" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.user_role</text>
+<text x="28" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="64" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_id  int</text>
+<text x="28" y="114" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="64" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">role_name  nvarchar(30)</text>
+<rect x="20" y="280" width="300" height="79" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M20,306 V286 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V306 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="30" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.user_scope</text>
+<text x="28" y="319" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK, FK</text>
+<text x="64" y="319" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_id  int</text>
+<text x="28" y="334" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="64" y="334" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scope_type  nvarchar(20)</text>
+<text x="28" y="349" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="64" y="349" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">scope_value  nvarchar(50)</text>
+<rect x="20" y="500" width="300" height="109" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M20,526 V506 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V526 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="30" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.user_session</text>
+<text x="28" y="539" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="64" y="539" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">session_hash  varbinary(32)</text>
+<text x="28" y="554" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">FK</text>
+<text x="64" y="554" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_id  int</text>
+<text x="64" y="569" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">created_at  datetime2(0)</text>
+<text x="64" y="584" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">expires_at  datetime2(0)</text>
+<text x="64" y="599" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_agent  nvarchar(300)</text>
+<rect x="740" y="60" width="300" height="124" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M740,86 V66 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V86 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="750" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.idempotency_key</text>
+<text x="748" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="784" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">idempotency_key  nvarchar(100)</text>
+<text x="748" y="114" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="784" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_id  int</text>
+<text x="784" y="129" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">request_path  nvarchar(200)</text>
+<text x="784" y="144" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">status_code  int</text>
+<text x="784" y="159" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">response_body  nvarchar(max)</text>
+<text x="784" y="174" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">created_at  datetime2(0)</text>
+<rect x="740" y="280" width="300" height="154" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M740,306 V286 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V306 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="750" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.outbox</text>
+<text x="748" y="319" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="784" y="319" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">outbox_id  bigint</text>
+<text x="784" y="334" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">container_name  nvarchar(50)</text>
+<text x="784" y="349" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">operation  nvarchar(10)</text>
+<text x="784" y="364" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">document_json  nvarchar(max)</text>
+<text x="784" y="379" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">created_at  datetime2(0)</text>
+<text x="784" y="394" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">attempts  int</text>
+<text x="784" y="409" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">last_error  nvarchar(1000)</text>
+<text x="784" y="424" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">sent_at  datetime2(0)</text>
+<rect x="740" y="500" width="300" height="139" rx="6" fill="#FFFFFF" stroke="#E65100" stroke-width="1.2"/>
+<path d="M740,526 V506 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V526 Z" fill="#FFF8E1" stroke="#E65100" stroke-width="1.2"/>
+<text x="750" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#E65100">app.audit_log</text>
+<text x="748" y="539" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#E65100">PK</text>
+<text x="784" y="539" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">audit_id  bigint</text>
+<text x="784" y="554" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">logged_at  datetime2(0)</text>
+<text x="784" y="569" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">user_login  nvarchar(100)</text>
+<text x="784" y="584" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">action_name  nvarchar(100)</text>
+<text x="784" y="599" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">entity_name  nvarchar(100)</text>
+<text x="784" y="614" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">entity_id  nvarchar(100)</text>
+<text x="784" y="629" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">detail  nvarchar(2000)</text>
+<rect x="380" y="60" width="300" height="109" rx="6" fill="#FFFFFF" stroke="#424242" stroke-width="1.2"/>
+<path d="M380,86 V66 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V86 Z" fill="#F5F5F5" stroke="#424242" stroke-width="1.2"/>
+<text x="390" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#424242">app.id_counter</text>
+<text x="388" y="99" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#424242">PK</text>
+<text x="424" y="99" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">kind  nvarchar(30)</text>
+<text x="388" y="114" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#424242">PK</text>
+<text x="424" y="114" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">period_key  smallint</text>
+<text x="424" y="129" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">prefix_template  nvarchar(30)</text>
+<text x="424" y="144" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">number_width  tinyint</text>
+<text x="424" y="159" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">next_value  bigint</text>
+<rect x="380" y="500" width="300" height="94" rx="6" fill="#FFFFFF" stroke="#424242" stroke-width="1.2"/>
+<path d="M380,526 V506 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V526 Z" fill="#F5F5F5" stroke="#424242" stroke-width="1.2"/>
+<text x="390" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#424242">app.id_kind</text>
+<text x="388" y="539" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#424242">PK</text>
+<text x="424" y="539" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">kind  nvarchar(30)</text>
+<text x="424" y="554" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">prefix_template  nvarchar(30)</text>
+<text x="424" y="569" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">number_width  tinyint</text>
+<text x="424" y="584" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">per_year  bit</text>
+<rect x="1100" y="60" width="300" height="330" rx="6" fill="#FFF8E1" stroke="#E65100"/>
+<text x="1110" y="78" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#263238">Aplicación (esquema app)</text>
+<text x="1110" y="93" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Lo que necesita la web además del negocio:</text>
+<text x="1110" y="108" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• usuarios, roles y ámbitos (a qué cliente, tienda</text>
+<text x="1110" y="123" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">  o empleado está atado cada uno)</text>
+<text x="1110" y="138" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• sesiones: solo se guarda el hash del token</text>
+<text x="1110" y="153" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• Idempotency-Key: repetir un cobro no lo duplica</text>
+<text x="1110" y="168" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• outbox: eventos pendientes de enviar a Cosmos</text>
+<text x="1110" y="183" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• auditoría de cambios</text>
+<text x="1110" y="198" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">• contadores de identificadores (C0001, O-…)</text>
+<text x="1110" y="213" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238"></text>
+<text x="1110" y="228" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Contiene contraseñas con scrypt y sesiones:</text>
+<text x="1110" y="243" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">no se da lectura a este esquema (ver conexión).</text>
+</svg>

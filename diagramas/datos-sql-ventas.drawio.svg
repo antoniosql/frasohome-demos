@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1420" height="740" viewBox="0 0 1420 740" content="&lt;mxfile host=&quot;frasohome-demos&quot; compressed=&quot;false&quot;&gt;&lt;diagram id=&quot;datos-sql-ventas&quot; name=&quot;FraSoHome Live · SQL · ventas online y en tienda&quot;&gt;&lt;mxGraphModel dx=&quot;1420&quot; dy=&quot;740&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1420&quot; pageHeight=&quot;740&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;title&quot; value=&quot;FraSoHome Live · SQL · ventas online y en tienda&quot; style=&quot;text;html=1;fontSize=18;fontStyle=1;fontColor=#263238;align=left;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;10&quot; width=&quot;1380&quot; height=&quot;30&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;crm.customer&quot; value=&quot;&amp;lt;b&amp;gt;crm.customer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;100 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;first_name  nvarchar(100)&amp;lt;br&amp;gt;last_name  nvarchar(150)&amp;lt;br&amp;gt;email  nvarchar(255)&amp;lt;br&amp;gt;email_is_valid  bit&amp;lt;br&amp;gt;phone  nvarchar(50)&amp;lt;br&amp;gt;loyalty_joined_at  date&amp;lt;br&amp;gt;… y 16 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#1565C0;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;168&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;sales.online_order&quot; value=&quot;&amp;lt;b&amp;gt;sales.online_order&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;650 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; order_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;ordered_at  datetime2(0)&amp;lt;br&amp;gt;online_user_id  nvarchar(50)&amp;lt;br&amp;gt;order_total  decimal(18,2)&amp;lt;br&amp;gt;currency_code  char(3)&amp;lt;br&amp;gt;shipping_amount  decimal(18,2)&amp;lt;br&amp;gt;shipping_address  nvarchar(255)&amp;lt;br&amp;gt;… y 11 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#1565C0;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;sales.online_order_line&quot; value=&quot;&amp;lt;b&amp;gt;sales.online_order_line&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;1.883 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; order_line_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; order_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;product_description  nvarchar(255)&amp;lt;br&amp;gt;category  nvarchar(100)&amp;lt;br&amp;gt;subcategory  nvarchar(100)&amp;lt;br&amp;gt;quantity  int&amp;lt;br&amp;gt;unit_price  decimal(18,2)&amp;lt;br&amp;gt;… y 6 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#1565C0;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;catalog.product&quot; value=&quot;&amp;lt;b&amp;gt;catalog.product&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;100 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;product_name  nvarchar(255)&amp;lt;br&amp;gt;category  nvarchar(100)&amp;lt;br&amp;gt;subcategory  nvarchar(100)&amp;lt;br&amp;gt;brand  nvarchar(100)&amp;lt;br&amp;gt;supplier  nvarchar(100)&amp;lt;br&amp;gt;material  nvarchar(100)&amp;lt;br&amp;gt;… y 13 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#2E7D32;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;60&quot; width=&quot;300&quot; height=&quot;168&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;sales.pos_ticket&quot; value=&quot;&amp;lt;b&amp;gt;sales.pos_ticket&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;1.196 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; ticket_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; customer_id  nvarchar(50)&amp;lt;br&amp;gt;ticket_at  datetime2(0)&amp;lt;br&amp;gt;till_id  nvarchar(50)&amp;lt;br&amp;gt;cashier_id  nvarchar(50)&amp;lt;br&amp;gt;cashier_employee_id  nvarchar(20)&amp;lt;br&amp;gt;currency_code  char(3)&amp;lt;br&amp;gt;… y 8 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#00695C;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;sales.pos_ticket_line&quot; value=&quot;&amp;lt;b&amp;gt;sales.pos_ticket_line&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;2.459 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; ticket_line_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; ticket_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; product_id  nvarchar(50)&amp;lt;br&amp;gt;product_description  nvarchar(255)&amp;lt;br&amp;gt;category  nvarchar(100)&amp;lt;br&amp;gt;subcategory  nvarchar(100)&amp;lt;br&amp;gt;quantity  int&amp;lt;br&amp;gt;unit_price  decimal(18,2)&amp;lt;br&amp;gt;… y 6 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#00695C;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;280&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;sales.store_payment&quot; value=&quot;&amp;lt;b&amp;gt;sales.store_payment&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;1.590 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; payment_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; ticket_id  nvarchar(50)&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;paid_at  datetime2(0)&amp;lt;br&amp;gt;till_id  nvarchar(50)&amp;lt;br&amp;gt;cashier_id  nvarchar(50)&amp;lt;br&amp;gt;cashier_employee_id  nvarchar(20)&amp;lt;br&amp;gt;payment_method  nvarchar(50)&amp;lt;br&amp;gt;… y 6 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#00695C;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;380&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;183&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;store.till_session&quot; value=&quot;&amp;lt;b&amp;gt;store.till_session&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;se llena con el uso de la web&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; till_session_id  bigint&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;FK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;till_id  nvarchar(50)&amp;lt;br&amp;gt;cashier_id  nvarchar(50)&amp;lt;br&amp;gt;opened_at  datetime2(0)&amp;lt;br&amp;gt;opening_cash  decimal(18,2)&amp;lt;br&amp;gt;… y 4 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#00695C;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;740&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;153&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;store.store&quot; value=&quot;&amp;lt;b&amp;gt;store.store&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;&amp;lt;font color=&amp;quot;#607D8B&amp;quot; style=&amp;quot;font-size:10px&amp;quot;&amp;gt;7 filas tras la carga inicial&amp;lt;/font&amp;gt;&amp;lt;hr&amp;gt;&amp;lt;b&amp;gt;PK&amp;lt;/b&amp;gt; store_id  nvarchar(50)&amp;lt;br&amp;gt;store_name  nvarchar(150)&amp;lt;br&amp;gt;location_type  nvarchar(50)&amp;lt;br&amp;gt;channel  nvarchar(50)&amp;lt;br&amp;gt;city  nvarchar(100)&amp;lt;br&amp;gt;province  nvarchar(100)&amp;lt;br&amp;gt;address_line  nvarchar(255)&amp;lt;br&amp;gt;… y 14 columnas más&quot; style=&quot;rounded=1;arcSize=3;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=2;fontSize=11;fillColor=#FFFFFF;strokeColor=#2E7D32;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;1100&quot; y=&quot;500&quot; width=&quot;300&quot; height=&quot;168&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r0&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.online_order&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r1&quot; value=&quot;order_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.online_order_line&quot; target=&quot;sales.online_order&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r2&quot; value=&quot;product_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.online_order_line&quot; target=&quot;catalog.product&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r3&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.pos_ticket&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r4&quot; value=&quot;customer_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.pos_ticket&quot; target=&quot;crm.customer&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r5&quot; value=&quot;ticket_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.pos_ticket_line&quot; target=&quot;sales.pos_ticket&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r6&quot; value=&quot;product_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.pos_ticket_line&quot; target=&quot;catalog.product&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r7&quot; value=&quot;ticket_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.store_payment&quot; target=&quot;sales.pos_ticket&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r8&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;sales.store_payment&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;r9&quot; value=&quot;store_id&quot; style=&quot;endArrow=ERmandOne;startArrow=ERmany;endFill=0;startFill=0;html=1;strokeColor=#78909C;strokeWidth=1.3;fontSize=10;fontColor=#546E7A;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;store.till_session&quot; target=&quot;store.store&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;n0&quot; value=&quot;Cómo leerlo&amp;lt;br&amp;gt;Cada caja es una tabla; PK = clave primaria, FK = clave&amp;lt;br&amp;gt;foránea. La pata de gallo marca el lado «muchos».&amp;lt;br&amp;gt;Se muestran las claves y las primeras columnas;&amp;lt;br&amp;gt;la lista completa está en referencia-sql.md.&amp;lt;br&amp;gt;Fechas y horas en UTC (datetime2). Dinero en EUR&amp;lt;br&amp;gt;con 2 decimales.&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;fontSize=11;fillColor=#F5F5F5;strokeColor=#424242;fontColor=#263238;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;330&quot; width=&quot;320&quot; height=&quot;200&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+<rect width="1420" height="740" fill="#FFFFFF"/>
+<text x="20" y="32" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="bold" fill="#263238">FraSoHome Live · SQL · ventas online y en tienda</text>
+<line x1="380.0" y1="148.4" x2="320.0" y2="147.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="148.4" x2="369.1" y2="153.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="148.4" x2="368.0" y2="148.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="380.0" y1="148.4" x2="369.3" y2="142.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="327.9" y1="152.3" x2="328.1" y2="142.3" stroke="#78909C" stroke-width="1.5"/>
+<rect x="315.2" y="137.8" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="350.0" y="148.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<line x1="740.0" y1="151.5" x2="680.0" y2="151.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="729.2" y2="156.7" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="728.0" y2="151.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="151.5" x2="729.2" y2="146.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="688.0" y1="156.5" x2="688.0" y2="146.5" stroke="#78909C" stroke-width="1.5"/>
+<rect x="683.6" y="141.5" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="710.0" y="152.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">order_id</text>
+<line x1="1040.0" y1="148.4" x2="1100.0" y2="147.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="148.4" x2="1050.7" y2="142.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="148.4" x2="1052.0" y2="148.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="148.4" x2="1050.9" y2="153.4" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1091.9" y1="142.3" x2="1092.1" y2="152.3" stroke="#78909C" stroke-width="1.5"/>
+<rect x="1038.0" y="137.8" width="64.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="1070.0" y="148.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">product_id</text>
+<line x1="680.0" y1="415.8" x2="1100.0" y2="539.7" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="415.8" x2="691.8" y2="413.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="415.8" x2="691.5" y2="419.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="415.8" x2="688.9" y2="423.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1093.7" y1="532.7" x2="1090.9" y2="542.3" stroke="#78909C" stroke-width="1.5"/>
+<rect x="863.6" y="467.8" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="890.0" y="478.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="385.2" y1="280.0" x2="302.9" y2="228.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="385.2" y1="280.0" x2="373.3" y2="278.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="385.2" y1="280.0" x2="375.1" y2="273.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="385.2" y1="280.0" x2="378.9" y2="269.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="307.0" y1="236.5" x2="312.4" y2="228.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="309.3" y="244.0" width="69.6" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="344.1" y="255.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">customer_id</text>
+<line x1="740.0" y1="371.5" x2="680.0" y2="371.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="371.5" x2="729.2" y2="376.7" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="371.5" x2="728.0" y2="371.5" stroke="#78909C" stroke-width="1.3"/>
+<line x1="740.0" y1="371.5" x2="729.2" y2="366.3" stroke="#78909C" stroke-width="1.3"/>
+<line x1="688.0" y1="376.5" x2="688.0" y2="366.5" stroke="#78909C" stroke-width="1.5"/>
+<rect x="680.8" y="361.5" width="58.4" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="710.0" y="372.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">ticket_id</text>
+<line x1="1034.8" y1="280.0" x2="1117.1" y2="228.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1034.8" y1="280.0" x2="1041.1" y2="269.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1034.8" y1="280.0" x2="1044.9" y2="273.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1034.8" y1="280.0" x2="1046.7" y2="278.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1107.6" y1="228.0" x2="1113.0" y2="236.5" stroke="#78909C" stroke-width="1.5"/>
+<rect x="1043.9" y="244.0" width="64.0" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="1075.9" y="255.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">product_id</text>
+<line x1="530.0" y1="500.0" x2="530.0" y2="463.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="530.0" y1="500.0" x2="524.8" y2="489.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="530.0" y1="500.0" x2="530.0" y2="488.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="530.0" y1="500.0" x2="535.2" y2="489.2" stroke="#78909C" stroke-width="1.3"/>
+<line x1="525.0" y1="471.0" x2="535.0" y2="471.0" stroke="#78909C" stroke-width="1.5"/>
+<rect x="500.8" y="471.5" width="58.4" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="530.0" y="482.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">ticket_id</text>
+<line x1="680.0" y1="589.9" x2="1100.0" y2="585.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="589.9" x2="690.8" y2="584.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="589.9" x2="692.0" y2="589.8" stroke="#78909C" stroke-width="1.3"/>
+<line x1="680.0" y1="589.9" x2="690.9" y2="595.0" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1091.9" y1="580.6" x2="1092.1" y2="590.6" stroke="#78909C" stroke-width="1.5"/>
+<rect x="863.6" y="577.8" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="890.0" y="588.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<line x1="1040.0" y1="579.6" x2="1100.0" y2="580.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="579.6" x2="1050.9" y2="574.6" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="579.6" x2="1052.0" y2="579.9" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1040.0" y1="579.6" x2="1050.7" y2="585.1" stroke="#78909C" stroke-width="1.3"/>
+<line x1="1092.1" y1="575.7" x2="1091.9" y2="585.7" stroke="#78909C" stroke-width="1.5"/>
+<rect x="1043.6" y="570.2" width="52.8" height="14" fill="#FFFFFF" opacity="0.92"/>
+<text x="1070.0" y="581.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="9.5" fill="#546E7A">store_id</text>
+<rect x="20" y="60" width="300" height="168" rx="6" fill="#FFFFFF" stroke="#1565C0" stroke-width="1.2"/>
+<path d="M20,86 V66 a6,6 0 0 1 6,-6 H314 a6,6 0 0 1 6,6 V86 Z" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.2"/>
+<text x="30" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#1565C0">crm.customer</text>
+<text x="30" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">100 filas tras la carga inicial</text>
+<text x="28" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">PK</text>
+<text x="64" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="64" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">first_name  nvarchar(100)</text>
+<text x="64" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">last_name  nvarchar(150)</text>
+<text x="64" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">email  nvarchar(255)</text>
+<text x="64" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">email_is_valid  bit</text>
+<text x="64" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">phone  nvarchar(50)</text>
+<text x="64" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">loyalty_joined_at  date</text>
+<text x="64" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 16 columnas más</text>
+<rect x="380" y="60" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#1565C0" stroke-width="1.2"/>
+<path d="M380,86 V66 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V86 Z" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.2"/>
+<text x="390" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#1565C0">sales.online_order</text>
+<text x="390" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">650 filas tras la carga inicial</text>
+<text x="388" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">PK</text>
+<text x="424" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">order_id  nvarchar(50)</text>
+<text x="388" y="128" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">FK</text>
+<text x="424" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="424" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ordered_at  datetime2(0)</text>
+<text x="424" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">online_user_id  nvarchar(50)</text>
+<text x="424" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">order_total  decimal(18,2)</text>
+<text x="424" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">currency_code  char(3)</text>
+<text x="424" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">shipping_amount  decimal(18,2)</text>
+<text x="424" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">shipping_address  nvarchar(255)</text>
+<text x="424" y="233" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 11 columnas más</text>
+<rect x="740" y="60" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#1565C0" stroke-width="1.2"/>
+<path d="M740,86 V66 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V86 Z" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.2"/>
+<text x="750" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#1565C0">sales.online_order_line</text>
+<text x="750" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">1.883 filas tras la carga inicial</text>
+<text x="748" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">PK</text>
+<text x="784" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">order_line_id  nvarchar(50)</text>
+<text x="748" y="128" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">FK</text>
+<text x="784" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">order_id  nvarchar(50)</text>
+<text x="748" y="143" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#1565C0">FK</text>
+<text x="784" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="784" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_description  nvarchar(255)</text>
+<text x="784" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">category  nvarchar(100)</text>
+<text x="784" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">subcategory  nvarchar(100)</text>
+<text x="784" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">quantity  int</text>
+<text x="784" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">unit_price  decimal(18,2)</text>
+<text x="784" y="233" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 6 columnas más</text>
+<rect x="1100" y="60" width="300" height="168" rx="6" fill="#FFFFFF" stroke="#2E7D32" stroke-width="1.2"/>
+<path d="M1100,86 V66 a6,6 0 0 1 6,-6 H1394 a6,6 0 0 1 6,6 V86 Z" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.2"/>
+<text x="1110" y="77" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#2E7D32">catalog.product</text>
+<text x="1110" y="96" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">100 filas tras la carga inicial</text>
+<text x="1108" y="113" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#2E7D32">PK</text>
+<text x="1144" y="113" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="1144" y="128" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_name  nvarchar(255)</text>
+<text x="1144" y="143" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">category  nvarchar(100)</text>
+<text x="1144" y="158" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">subcategory  nvarchar(100)</text>
+<text x="1144" y="173" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">brand  nvarchar(100)</text>
+<text x="1144" y="188" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">supplier  nvarchar(100)</text>
+<text x="1144" y="203" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">material  nvarchar(100)</text>
+<text x="1144" y="218" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 13 columnas más</text>
+<rect x="380" y="280" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#00695C" stroke-width="1.2"/>
+<path d="M380,306 V286 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V306 Z" fill="#E0F2F1" stroke="#00695C" stroke-width="1.2"/>
+<text x="390" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#00695C">sales.pos_ticket</text>
+<text x="390" y="316" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">1.196 filas tras la carga inicial</text>
+<text x="388" y="333" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">PK</text>
+<text x="424" y="333" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_id  nvarchar(50)</text>
+<text x="388" y="348" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="424" y="348" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="388" y="363" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="424" y="363" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">customer_id  nvarchar(50)</text>
+<text x="424" y="378" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_at  datetime2(0)</text>
+<text x="424" y="393" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">till_id  nvarchar(50)</text>
+<text x="424" y="408" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">cashier_id  nvarchar(50)</text>
+<text x="424" y="423" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">cashier_employee_id  nvarchar(20)</text>
+<text x="424" y="438" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">currency_code  char(3)</text>
+<text x="424" y="453" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 8 columnas más</text>
+<rect x="740" y="280" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#00695C" stroke-width="1.2"/>
+<path d="M740,306 V286 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V306 Z" fill="#E0F2F1" stroke="#00695C" stroke-width="1.2"/>
+<text x="750" y="297" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#00695C">sales.pos_ticket_line</text>
+<text x="750" y="316" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">2.459 filas tras la carga inicial</text>
+<text x="748" y="333" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">PK</text>
+<text x="784" y="333" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_line_id  nvarchar(50)</text>
+<text x="748" y="348" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="784" y="348" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_id  nvarchar(50)</text>
+<text x="748" y="363" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="784" y="363" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_id  nvarchar(50)</text>
+<text x="784" y="378" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">product_description  nvarchar(255)</text>
+<text x="784" y="393" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">category  nvarchar(100)</text>
+<text x="784" y="408" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">subcategory  nvarchar(100)</text>
+<text x="784" y="423" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">quantity  int</text>
+<text x="784" y="438" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">unit_price  decimal(18,2)</text>
+<text x="784" y="453" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 6 columnas más</text>
+<rect x="380" y="500" width="300" height="183" rx="6" fill="#FFFFFF" stroke="#00695C" stroke-width="1.2"/>
+<path d="M380,526 V506 a6,6 0 0 1 6,-6 H674 a6,6 0 0 1 6,6 V526 Z" fill="#E0F2F1" stroke="#00695C" stroke-width="1.2"/>
+<text x="390" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#00695C">sales.store_payment</text>
+<text x="390" y="536" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">1.590 filas tras la carga inicial</text>
+<text x="388" y="553" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">PK</text>
+<text x="424" y="553" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">payment_id  nvarchar(50)</text>
+<text x="388" y="568" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="424" y="568" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">ticket_id  nvarchar(50)</text>
+<text x="388" y="583" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="424" y="583" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="424" y="598" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">paid_at  datetime2(0)</text>
+<text x="424" y="613" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">till_id  nvarchar(50)</text>
+<text x="424" y="628" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">cashier_id  nvarchar(50)</text>
+<text x="424" y="643" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">cashier_employee_id  nvarchar(20)</text>
+<text x="424" y="658" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">payment_method  nvarchar(50)</text>
+<text x="424" y="673" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 6 columnas más</text>
+<rect x="740" y="500" width="300" height="153" rx="6" fill="#FFFFFF" stroke="#00695C" stroke-width="1.2"/>
+<path d="M740,526 V506 a6,6 0 0 1 6,-6 H1034 a6,6 0 0 1 6,6 V526 Z" fill="#E0F2F1" stroke="#00695C" stroke-width="1.2"/>
+<text x="750" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#00695C">store.till_session</text>
+<text x="750" y="536" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">se llena con el uso de la web</text>
+<text x="748" y="553" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">PK</text>
+<text x="784" y="553" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">till_session_id  bigint</text>
+<text x="748" y="568" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#00695C">FK</text>
+<text x="784" y="568" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="784" y="583" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">till_id  nvarchar(50)</text>
+<text x="784" y="598" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">cashier_id  nvarchar(50)</text>
+<text x="784" y="613" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">opened_at  datetime2(0)</text>
+<text x="784" y="628" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">opening_cash  decimal(18,2)</text>
+<text x="784" y="643" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 4 columnas más</text>
+<rect x="1100" y="500" width="300" height="168" rx="6" fill="#FFFFFF" stroke="#2E7D32" stroke-width="1.2"/>
+<path d="M1100,526 V506 a6,6 0 0 1 6,-6 H1394 a6,6 0 0 1 6,6 V526 Z" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.2"/>
+<text x="1110" y="517" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="bold" fill="#2E7D32">store.store</text>
+<text x="1110" y="536" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#607D8B">7 filas tras la carga inicial</text>
+<text x="1108" y="553" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" fill="#2E7D32">PK</text>
+<text x="1144" y="553" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_id  nvarchar(50)</text>
+<text x="1144" y="568" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">store_name  nvarchar(150)</text>
+<text x="1144" y="583" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">location_type  nvarchar(50)</text>
+<text x="1144" y="598" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">channel  nvarchar(50)</text>
+<text x="1144" y="613" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">city  nvarchar(100)</text>
+<text x="1144" y="628" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">province  nvarchar(100)</text>
+<text x="1144" y="643" font-family="Helvetica,Arial,sans-serif" font-size="10.5" fill="#263238">address_line  nvarchar(255)</text>
+<text x="1144" y="658" font-family="Helvetica,Arial,sans-serif" font-size="10.5" font-style="italic" fill="#78909C">… y 14 columnas más</text>
+<rect x="20" y="330" width="320" height="200" rx="6" fill="#F5F5F5" stroke="#424242"/>
+<text x="30" y="348" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#263238">Cómo leerlo</text>
+<text x="30" y="363" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Cada caja es una tabla; PK = clave primaria, FK = clave</text>
+<text x="30" y="378" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">foránea. La pata de gallo marca el lado «muchos».</text>
+<text x="30" y="393" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Se muestran las claves y las primeras columnas;</text>
+<text x="30" y="408" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">la lista completa está en referencia-sql.md.</text>
+<text x="30" y="423" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">Fechas y horas en UTC (datetime2). Dinero en EUR</text>
+<text x="30" y="438" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#263238">con 2 decimales.</text>
+</svg>

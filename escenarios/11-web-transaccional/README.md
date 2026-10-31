@@ -71,6 +71,8 @@ Los 64 CSV de [`datos/`](../../datos/README.md). De ellos, 58 se guardan en las 
 | Carpeta | Contenido |
 | --- | --- |
 | [`web.md`](web.md) | Cómo está hecha la web, por escenarios y por roles |
+| [`datos-en-vivo.md`](datos-en-vivo.md) | Modelo de datos de SQL y Cosmos DB, diagramas y cómo conectar desde otras demos |
+| [`referencia-sql.md`](referencia-sql.md) | Las 59 tablas con sus columnas, tipos y claves |
 | [`app/`](app/index.html) | La web: HTML, CSS y JavaScript |
 | [`api/`](api/README.md) | La API: 143 endpoints, autenticación y transacciones |
 | [`sql/`](sql/01_core.sql) | Modelo de datos y 44 procedimientos almacenados |
@@ -301,6 +303,8 @@ Entra como `profesor.demo`.
 
 ## Con el resto de escenarios
 
+Para crear demos nuevas que lean estos datos directamente, mira [Datos en vivo](datos-en-vivo.md): diagramas, usuario de solo lectura y ejemplos de conexión.
+
 La exportación a los mismos CSV de `datos/` es la fase 5 y todavía no está construida. Cuando lo esté, cada escenario leerá su parte con `--dominio`:
 
 | Escenarios | Dominio de la exportación |
@@ -317,6 +321,7 @@ Hasta entonces, el resto de escenarios sigue funcionando con `datos/`, que se co
 ## Material complementario
 
 - [Cómo está hecha la web](web.md)
+- [Datos en vivo: modelo y conexión](datos-en-vivo.md) y [referencia del esquema SQL](referencia-sql.md)
 - [La API](api/README.md)
 - [Infraestructura como código](infra/README.md)
 - [Carga inicial de datos](seed/README.md)
