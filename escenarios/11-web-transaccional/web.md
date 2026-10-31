@@ -1,6 +1,8 @@
 # Fase 4 · Web
 
-La web de FraSoHome Live: HTML, CSS y JavaScript plano (módulos ES), sin framework ni dependencias, servida por Static Web Apps junto a la API de [`../api/`](../api/README.md). Todo el JavaScript es del mismo origen, porque la política de seguridad de contenido de [`staticwebapp.config.json`](staticwebapp.config.json) (`script-src 'self'`) no admite scripts en línea ni CDN.
+El código está en `escenarios/11-web-transaccional/app/`; esta ficha vive fuera de esa carpeta porque el sitio de documentación excluye `app/` (su `index.html` chocaría con el README).
+
+La web de FraSoHome Live: HTML, CSS y JavaScript plano (módulos ES), sin framework ni dependencias, servida por Static Web Apps junto a la API de [`api/`](api/README.md). Todo el JavaScript es del mismo origen, porque la política de seguridad de contenido de `app/staticwebapp.config.json` (`script-src 'self'`) no admite scripts en línea ni CDN.
 
 ## Estado por escenarios
 
@@ -19,14 +21,14 @@ La web de FraSoHome Live: HTML, CSS y JavaScript plano (módulos ES), sin framew
 
 | Pieza | Qué hace |
 | --- | --- |
-| [`index.html`](index.html) | Cabecera, menú, zona de contenido y avisos. Un único `<script type="module">` |
-| [`js/main.js`](js/main.js) | Enrutador por hash (`#/seccion/subruta?param=valor`), menú según el rol y control de acceso en el navegador. La API vuelve a comprobar rol y ámbito en cada petición |
-| [`js/nav.js`](js/nav.js) | Registro de secciones: título, escenario, roles que la ven y módulo que la pinta. Añadir un escenario es añadir una línea aquí y un fichero en `js/vistas/` |
-| [`js/api.js`](js/api.js) | `fetch` con cookie de sesión y cabecera `X-FSH-CSRF`. En las operaciones con dinero o stock genera la `Idempotency-Key`; si se reintenta la misma petición, reutiliza la clave |
-| [`js/ui.js`](js/ui.js) | Construcción de DOM con `h()` (siempre `textContent`, nunca `innerHTML` con datos de la API), tablas, diálogos con formulario, avisos, formatos es-ES |
-| [`js/sesion.js`](js/sesion.js) | Usuario de `/api/auth/me` y comprobaciones de rol |
-| [`js/vistas/`](js/vistas/) | Un módulo por sección, con `export async function render(contenedor, contexto)` |
-| [`css/app.css`](css/app.css) | Una hoja de estilos, con modo oscuro, móvil e impresión del ticket |
+| `app/index.html` | Cabecera, menú, zona de contenido y avisos. Un único `<script type="module">` |
+| `app/js/main.js` | Enrutador por hash (`#/seccion/subruta?param=valor`), menú según el rol y control de acceso en el navegador. La API vuelve a comprobar rol y ámbito en cada petición |
+| `app/js/nav.js` | Registro de secciones: título, escenario, roles que la ven y módulo que la pinta. Añadir un escenario es añadir una línea aquí y un fichero en `js/vistas/` |
+| `app/js/api.js` | `fetch` con cookie de sesión y cabecera `X-FSH-CSRF`. En las operaciones con dinero o stock genera la `Idempotency-Key`; si se reintenta la misma petición, reutiliza la clave |
+| `app/js/ui.js` | Construcción de DOM con `h()` (siempre `textContent`, nunca `innerHTML` con datos de la API), tablas, diálogos con formulario, avisos, formatos es-ES |
+| `app/js/sesion.js` | Usuario de `/api/auth/me` y comprobaciones de rol |
+| `app/js/vistas/` | Un módulo por sección, con `export async function render(contenedor, contexto)` |
+| `app/css/app.css` | Una hoja de estilos, con modo oscuro, móvil e impresión del ticket |
 
 ## Reglas
 
