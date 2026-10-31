@@ -1,5 +1,0 @@
-# Python 3.11 (máximo que admiten las managed Functions de Static Web Apps).
-# azure-functions 2.x exige Python 3.13: hay que quedarse en 1.x.
-azure-functions==1.25.0
-mssql-python==1.15.0
-azure-cosmos==4.17.1
