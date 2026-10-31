@@ -14,8 +14,17 @@ La web de FraSoHome Live: HTML, CSS y JavaScript plano (módulos ES), sin framew
 | 3 · Devoluciones | `devoluciones.js` | Publicado |
 | 4 · Inventario y reposición | `inventario.js` | Publicado |
 | 5 · Catálogo y tiendas | `maestros.js` | Publicado |
-| 6–10 · CRM, campañas, promociones, atención, voz del cliente | | Pendiente |
-| 11–16 · RR. HH., portal, paneles, administración, laboratorio | | Pendiente |
+| 6 · Clientes y fidelización | `clientes.js` (CRM e identidad), `cuenta.js` (mi cuenta) | Publicado |
+| 7 · Gestión de campañas | `campanas.js` | Publicado |
+| 8 · Promociones | `promociones.js` | Publicado |
+| 9 · Atención al cliente | `atencion.js` (bandeja), `soporte.js` (mis casos) | Publicado |
+| 10 · Voz del cliente | `voz.js` | Publicado |
+| 11 · Ciclo de vida del empleado | `personas.js` | Publicado |
+| 12 · Tiempo y desempeño | `tiempo.js` | Publicado |
+| 13 · Portal del empleado | `portal.js` | Publicado |
+| 14 · Paneles de dirección | `paneles.js`, `grafico.js` | Publicado |
+| 15 · Administración de datos | `datos.js` | Publicado (la exportación a CSV y el reinicio de la demo llegan en la fase 5) |
+| 16 · Laboratorio docente | `laboratorio.js` | Publicado |
 
 ## Cómo está hecha
 
@@ -37,6 +46,17 @@ La web de FraSoHome Live: HTML, CSS y JavaScript plano (módulos ES), sin framew
 - **El carrito vive en Cosmos DB** (`carritos`) y los eventos de navegación del catálogo van a `eventos_web`: la tienda alimenta los mismos contenedores que la carga inicial.
 - **Accesibilidad básica:** etiquetas en todos los campos, foco visible, `aria-current` en el menú y pestañas, avisos con `aria-live`.
 
+## Detalles que conviene saber
+
+- **Las creatividades pasan por los guardrails de marca.** Si incumplen una regla de severidad alta (por ejemplo, anunciar un descuento sin condiciones legibles, GR-006), la API las rechaza y la web muestra qué regla y por qué.
+- **Una campaña sigue un orden:** borrador, audiencia (con grupo de control), cupones, lanzamiento, atribución a 30 días y cierre. Las creatividades solo se editan antes de lanzar.
+- **Opinar** exige haber comprado el producto; desde el detalle de un pedido entregado el enlace «Opinar» ya lleva el producto y el pedido.
+- **Los gráficos de dirección** (`app/js/grafico.js`) son SVG propios: columnas apiladas y líneas, con leyenda, información al pasar el ratón, colores validados para daltonismo (azul y naranja de la paleta de referencia) y una tabla equivalente bajo cada gráfico.
+- **Un manager solo ve a su equipo y sin salarios; RR. HH. ve toda la plantilla.** La API lo comprueba en cada petición.
+- **El portal del empleado** solo aparece si el usuario tiene un empleado asociado. La encuesta de clima se responde una vez por trimestre.
+- **El administrador** ve usuarios y roles; el profesor, solo la calidad de la carga y los metadatos, y además su laboratorio. Las contraseñas temporales se muestran una vez.
+- **Mi cuenta, Mis casos y Opiniones** son las vistas del rol `cliente`; Clientes, Atención y la moderación son del personal.
+
 ## Probar
 
 Contra el sitio publicado, con la sesión de un usuario de demo (`tools\usuarios.ps1 list`). El primer acceso obliga a cambiar la contraseña.
@@ -49,3 +69,11 @@ Contra el sitio publicado, con la sesión de un usuario de demo (`tools\usuarios
 | `cajero` | Abrir caja, ticket con cobro mixto y cliente, devolución desde el ticket, cierre |
 | `atencion` | Aceptar y reembolsar devoluciones |
 | `admin` | Alta, edición y baja de productos; ficha de tienda; cierre diario del stock |
+| `atencion` | Bandeja con SLA, resolver con cupón, CRM, consola de identidad, moderar opiniones |
+| `marketing` | Campaña completa (brief a resultados), promociones, CRM de solo consulta |
+| `rrhh` | Alta, movimiento, revisión salarial y baja con entrevista; ausencias, formación, evaluaciones; aprobar horas extra |
+| `manager` | Mi equipo, evaluar, aprobar horas extra de su equipo (sin ver salarios) |
+| `empleado` | Portal: horas extra, cursos, ausencias y encuesta de clima |
+| `direccion` | Ventas con gráfico, cliente 360, empleado 360, rotación, comentarios |
+| `profesor` | Evaluación de identidad, juegos RAG editables, prompts, backlog, tablas RAG, calidad y metadatos |
+| `cliente` | Mi cuenta, consulta a atención y valoración (CSAT), opinar con NPS o reseña |

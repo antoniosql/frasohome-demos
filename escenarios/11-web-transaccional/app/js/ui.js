@@ -46,12 +46,22 @@ function aFecha(s) {
 export const fecha = (s) => { const d = aFecha(s); return d ? FECHA.format(d) : "—"; };
 export const fechaHora = (s) => { const d = aFecha(s); return d ? FECHA_HORA.format(d) : "—"; };
 export const hoy = () => new Date().toISOString().slice(0, 10);
+/** Valor para <input type="datetime-local"> dentro de `dias` días (hora local, a las 09:00). */
+export function ahoraLocal(dias = 0) {
+  const d = new Date(Date.now() + dias * 864e5);
+  d.setHours(9, 0, 0, 0);
+  return new Date(d.getTime() - d.getTimezoneOffset() * 6e4).toISOString().slice(0, 16);
+}
+/** Valor de una fecha de la API (UTC sin zona) para datetime-local. */
+export const aLocal = (s) => (s ? String(s).slice(0, 16) : "");
+export const corta = (t, n = 90) => (t && t.length > n ? t.slice(0, n - 1) + "…" : t || "—");
+export const sino = (v) => (v ? "Sí" : "No");
 
 // ------------------------------------------------------------------ avisos
 
 export function aviso(texto, tipo = "ok") {
   const cont = document.getElementById("avisos");
-  const el = h("div", { class: "aviso " + tipo, role: tipo === "ko" ? "alert" : "status" }, texto);
+  const el = h("div", { class: "toast " + tipo, role: tipo === "ko" ? "alert" : "status" }, texto);
   cont.append(el);
   setTimeout(() => el.remove(), tipo === "ko" ? 9000 : 4500);
 }
@@ -74,9 +84,10 @@ export const vacio = (texto) => h("p", { class: "vacio" }, texto);
 // ------------------------------------------------------------------ componentes
 
 const TONOS = {
-  ok: ["Activo", "Activa", "Entregado", "Aceptada", "Reembolsada", "Abierta", "Cerrada", "emitido"],
-  aviso: ["Pendiente", "En preparación", "Planificada", "Devuelto Parcial", "Media"],
-  ko: ["Cancelado", "Rechazada", "Descatalogado", "Devuelto Total", "Alta", "caducado"],
+  ok: ["Activo", "Activa", "Entregado", "Aceptada", "Reembolsada", "Abierta", "Cerrada", "emitido", "activa", "finalizada", "Resuelto",
+    "Publicada", "Positivo", "Respondida", "entregado"],
+  aviso: ["Pendiente", "En preparación", "Planificada", "Devuelto Parcial", "Media", "borrador", "audiencia", "Escalado", "Inactivo", "Neutral"],
+  ko: ["Cancelado", "Rechazada", "Descatalogado", "Devuelto Total", "Alta", "caducado", "cancelada", "Bloqueado", "Vencido", "Negativo"],
 };
 export function insignia(texto) {
   const t = Object.keys(TONOS).find((k) => TONOS[k].includes(texto)) || "neutro";
@@ -95,6 +106,17 @@ export function tabla(columnas, filas, { alClic, sinDatos = "No hay resultados."
   return h("div", { class: "tabla-caja" }, h("table", {},
     h("thead", {}, h("tr", {}, columnas.map((c) => h("th", { class: c.cls, scope: "col" }, c.t)))),
     h("tbody", {}, cuerpo)));
+}
+
+/** Tabla con las columnas que traiga el primer registro (datos de laboratorio y metadatos, de esquema variable). */
+export function tablaDinamica(filas, { max = 60 } = {}) {
+  if (!filas || !filas.length) return vacio("No hay datos.");
+  const claves = Object.keys(filas[0]);
+  return tabla(claves.map((k) => ({ t: k, f: (f) => {
+    const v = f[k];
+    if (v === null || v === undefined || v === "") return "—";
+    return corta(typeof v === "object" ? JSON.stringify(v) : String(v), max);
+  } })), filas);
 }
 
 let _n = 0;
@@ -176,6 +198,21 @@ export function dialogo(titulo, campos, alEnviar, { enviar = "Guardar", intro } 
   dlg.showModal();
   const primero = form.querySelector("input, select, textarea");
   if (primero) primero.focus();
+  return dlg;
+}
+
+/** Muestra un dato que solo se ve una vez (p. ej. una contraseña temporal), con botón de copiar. */
+export function secreto(titulo, intro, valor) {
+  const dlg = h("dialog", { class: "dialogo" });
+  const cerrar = () => { dlg.close(); dlg.remove(); };
+  const copiar = h("button", { type: "button", onclick: async () => {
+    try { await navigator.clipboard.writeText(valor); copiar.textContent = "Copiado"; } catch (e) { copiar.textContent = "Selecciónala y copia"; }
+  } }, "Copiar");
+  dlg.append(h("h2", {}, titulo), h("p", { class: "ayuda" }, intro), h("p", {}, h("code", { class: "secreto" }, valor)),
+    h("div", { class: "acciones" }, copiar, h("button", { type: "button", class: "primary", onclick: cerrar }, "Hecho")));
+  dlg.addEventListener("cancel", () => dlg.remove());
+  document.body.append(dlg);
+  dlg.showModal();
   return dlg;
 }
 

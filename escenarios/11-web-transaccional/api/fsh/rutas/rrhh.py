@@ -80,7 +80,7 @@ def ver(req: Request):
     return ficha(an_id(req.params["employee_id"], "employee"), req.user)
 
 
-@route("GET", "/rrhh/departamentos", HR_OR_MANAGER)
+@route("GET", "/rrhh/departamentos", HR_OR_MANAGER | {"direccion"})
 def departamentos(req: Request):
     return db.query("""SELECT department_std AS departamento, MAX(hr_area) AS area, MAX(business_channel) AS canal,
                               CAST(MAX(CAST(critical_turnover_default AS INT)) AS BIT) AS area_critica
