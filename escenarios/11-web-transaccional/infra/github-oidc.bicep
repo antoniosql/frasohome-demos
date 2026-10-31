@@ -13,6 +13,12 @@ param githubRepo string = 'antoniosql/frasohome-demos'
 @description('Entorno de GitHub desde el que se despliega (admite reglas de aprobación).')
 param githubEnvironment string = 'frasohome-live'
 
+@description('Id numérico del propietario del repositorio (gh api users/<propietario> --jq .id).')
+param githubOwnerId string = '11750421'
+
+@description('Id numérico del repositorio (gh api repos/<propietario>/<nombre> --jq .id).')
+param githubRepoId string = '1414212531'
+
 param location string = resourceGroup().location
 
 var contributorRoleId = 'b24988ac-6180-42a0-ab88-20f7382dd24c'
@@ -31,6 +37,20 @@ resource federated 'Microsoft.ManagedIdentity/userAssignedIdentities/federatedId
   properties: {
     issuer: 'https://token.actions.githubusercontent.com'
     subject: 'repo:${githubRepo}:environment:${githubEnvironment}'
+    audiences: [ 'api://AzureADTokenExchange' ]
+  }
+}
+
+// GitHub emite ahora el subject con los ids inmutables del propietario y del repositorio
+// (repo:propietario@id/nombre@id:...). Se acepta también, además del formato clásico.
+// Las credenciales federadas de una misma identidad se crean una tras otra.
+resource federatedIds 'Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials@2023-01-31' = {
+  parent: identity
+  name: 'github-${githubEnvironment}-ids'
+  dependsOn: [ federated ]
+  properties: {
+    issuer: 'https://token.actions.githubusercontent.com'
+    subject: 'repo:${split(githubRepo, '/')[0]}@${githubOwnerId}/${split(githubRepo, '/')[1]}@${githubRepoId}:environment:${githubEnvironment}'
     audiences: [ 'api://AzureADTokenExchange' ]
   }
 }

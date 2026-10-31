@@ -19,6 +19,7 @@ exclude_docs: |
   /requirements*.txt
   **/output_*/
   /escenarios/05-marketing-precision/outputs/
+  /escenarios/11-web-transaccional/app/
   __pycache__/
 
 not_in_nav: |

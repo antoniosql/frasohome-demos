@@ -1,6 +1,6 @@
 # Fase 3 · API, autenticación y transacciones
 
-La API de FraSoHome Live: 143 endpoints para los 16 escenarios, con usuarios y contraseñas propios, transacciones en procedimientos almacenados de Azure SQL y documentos en Cosmos DB. Corre en las managed Functions de Static Web Apps (Python 3.11). La web de la fase 4 ([`../app/`](../app/README.md)) la consume.
+La API de FraSoHome Live: 143 endpoints para los 16 escenarios, con usuarios y contraseñas propios, transacciones en procedimientos almacenados de Azure SQL y documentos en Cosmos DB. Corre en las managed Functions de Static Web Apps (Python 3.11). La web de la fase 4 ([web de la fase 4](../web.md)) la consume.
 
 ## Cómo está hecha
 
