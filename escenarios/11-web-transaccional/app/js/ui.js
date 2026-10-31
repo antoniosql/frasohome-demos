@@ -108,6 +108,17 @@ export function tabla(columnas, filas, { alClic, sinDatos = "No hay resultados."
     h("tbody", {}, cuerpo)));
 }
 
+/** Tabla con las columnas que traiga el primer registro (datos de laboratorio y metadatos, de esquema variable). */
+export function tablaDinamica(filas, { max = 60 } = {}) {
+  if (!filas || !filas.length) return vacio("No hay datos.");
+  const claves = Object.keys(filas[0]);
+  return tabla(claves.map((k) => ({ t: k, f: (f) => {
+    const v = f[k];
+    if (v === null || v === undefined || v === "") return "—";
+    return corta(typeof v === "object" ? JSON.stringify(v) : String(v), max);
+  } })), filas);
+}
+
 let _n = 0;
 /** Campo de formulario con su etiqueta. */
 export function campo(etiqueta, control, ayuda) {
@@ -187,6 +198,21 @@ export function dialogo(titulo, campos, alEnviar, { enviar = "Guardar", intro } 
   dlg.showModal();
   const primero = form.querySelector("input, select, textarea");
   if (primero) primero.focus();
+  return dlg;
+}
+
+/** Muestra un dato que solo se ve una vez (p. ej. una contraseña temporal), con botón de copiar. */
+export function secreto(titulo, intro, valor) {
+  const dlg = h("dialog", { class: "dialogo" });
+  const cerrar = () => { dlg.close(); dlg.remove(); };
+  const copiar = h("button", { type: "button", onclick: async () => {
+    try { await navigator.clipboard.writeText(valor); copiar.textContent = "Copiado"; } catch (e) { copiar.textContent = "Selecciónala y copia"; }
+  } }, "Copiar");
+  dlg.append(h("h2", {}, titulo), h("p", { class: "ayuda" }, intro), h("p", {}, h("code", { class: "secreto" }, valor)),
+    h("div", { class: "acciones" }, copiar, h("button", { type: "button", class: "primary", onclick: cerrar }, "Hecho")));
+  dlg.addEventListener("cancel", () => dlg.remove());
+  document.body.append(dlg);
+  dlg.showModal();
   return dlg;
 }
 

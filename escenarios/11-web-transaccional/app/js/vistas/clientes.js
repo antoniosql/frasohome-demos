@@ -39,7 +39,7 @@ export function camposCliente(c = {}, { completo = true } = {}) {
     ...contacto,
     { k: "fecha_nacimiento", etiqueta: "Fecha de nacimiento", tipo: "date", valor: c.birth_date ? String(c.birth_date).slice(0, 10) : "" },
     { k: "genero", etiqueta: "Género", valor: n(c.gender), maxlength: 30 },
-    { k: "nivel", etiqueta: "Nivel de fidelización", valor: n(c.loyalty_tier), maxlength: 50 },
+    { k: "nivel", etiqueta: "Nivel de fidelización", tipo: "select", opciones: [["", "Sin nivel"], "Bronce", "Plata", "Oro", "Platino"], valor: n(c.loyalty_tier) },
     { k: "origen_alta", etiqueta: "Origen del alta", tipo: "select", opciones: ORIGENES, valor: ORIGENES.includes(c.acquisition_source) ? c.acquisition_source : "tienda" },
   ];
 }
