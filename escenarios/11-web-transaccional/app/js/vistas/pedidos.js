@@ -101,9 +101,9 @@ async function detalle(cuerpo, id, ctx) {
       { t: "Cant.", k: "quantity", cls: "num" }, { t: "Precio", f: (l) => eur(l.unit_price), cls: "num" },
       { t: "Descuento", f: (l) => (l.discount_amount ? `−${eur(l.discount_amount)}` : "—"), cls: "num" },
       { t: "Importe", f: (l) => eur(l.line_amount), cls: "num" },
-      puedeDevolver ? { t: "", f: (l) => (l.devolvible > 0
-        ? h("button", { type: "button", onclick: () => devolver(l) }, "Devolver")
-        : h("small", {}, "Devuelto")) } : { t: "Devolvible", k: "devolvible", cls: "num" },
+      puedeDevolver ? { t: "", f: (l) => h("div", { class: "fila" },
+        l.devolvible > 0 ? h("button", { type: "button", onclick: () => devolver(l) }, "Devolver") : h("small", {}, "Devuelto"),
+        h("a", { href: `#/voz/nueva?producto=${l.product_id}&pedido=${o.order_id}` }, "Opinar")) } : { t: "Devolvible", k: "devolvible", cls: "num" },
     ], o.lineas),
     o.devoluciones.length ? [h("h2", {}, "Devoluciones de este pedido"), tabla([
       { t: "Devolución", f: (d) => h("a", { href: `#/devoluciones/${d.return_id}` }, d.return_id) },

@@ -46,12 +46,22 @@ function aFecha(s) {
 export const fecha = (s) => { const d = aFecha(s); return d ? FECHA.format(d) : "—"; };
 export const fechaHora = (s) => { const d = aFecha(s); return d ? FECHA_HORA.format(d) : "—"; };
 export const hoy = () => new Date().toISOString().slice(0, 10);
+/** Valor para <input type="datetime-local"> dentro de `dias` días (hora local, a las 09:00). */
+export function ahoraLocal(dias = 0) {
+  const d = new Date(Date.now() + dias * 864e5);
+  d.setHours(9, 0, 0, 0);
+  return new Date(d.getTime() - d.getTimezoneOffset() * 6e4).toISOString().slice(0, 16);
+}
+/** Valor de una fecha de la API (UTC sin zona) para datetime-local. */
+export const aLocal = (s) => (s ? String(s).slice(0, 16) : "");
+export const corta = (t, n = 90) => (t && t.length > n ? t.slice(0, n - 1) + "…" : t || "—");
+export const sino = (v) => (v ? "Sí" : "No");
 
 // ------------------------------------------------------------------ avisos
 
 export function aviso(texto, tipo = "ok") {
   const cont = document.getElementById("avisos");
-  const el = h("div", { class: "aviso " + tipo, role: tipo === "ko" ? "alert" : "status" }, texto);
+  const el = h("div", { class: "toast " + tipo, role: tipo === "ko" ? "alert" : "status" }, texto);
   cont.append(el);
   setTimeout(() => el.remove(), tipo === "ko" ? 9000 : 4500);
 }
@@ -74,9 +84,10 @@ export const vacio = (texto) => h("p", { class: "vacio" }, texto);
 // ------------------------------------------------------------------ componentes
 
 const TONOS = {
-  ok: ["Activo", "Activa", "Entregado", "Aceptada", "Reembolsada", "Abierta", "Cerrada", "emitido"],
-  aviso: ["Pendiente", "En preparación", "Planificada", "Devuelto Parcial", "Media"],
-  ko: ["Cancelado", "Rechazada", "Descatalogado", "Devuelto Total", "Alta", "caducado"],
+  ok: ["Activo", "Activa", "Entregado", "Aceptada", "Reembolsada", "Abierta", "Cerrada", "emitido", "activa", "finalizada", "Resuelto",
+    "Publicada", "Positivo", "Respondida", "entregado"],
+  aviso: ["Pendiente", "En preparación", "Planificada", "Devuelto Parcial", "Media", "borrador", "audiencia", "Escalado", "Inactivo", "Neutral"],
+  ko: ["Cancelado", "Rechazada", "Descatalogado", "Devuelto Total", "Alta", "caducado", "cancelada", "Bloqueado", "Vencido", "Negativo"],
 };
 export function insignia(texto) {
   const t = Object.keys(TONOS).find((k) => TONOS[k].includes(texto)) || "neutro";

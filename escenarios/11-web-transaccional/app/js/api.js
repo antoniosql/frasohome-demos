@@ -1,10 +1,11 @@
 // FraSoHome Live · cliente de la API. Cookie de sesión HttpOnly + cabecera CSRF en las escrituras.
 
 export class ApiError extends Error {
-  constructor(estado, mensaje, codigo) {
+  constructor(estado, mensaje, codigo, datos) {
     super(mensaje);
     this.estado = estado;
     this.codigo = codigo || null;
+    this.datos = datos || null;   // cuerpo completo de la respuesta (p. ej. las infracciones de marca)
   }
 }
 
@@ -43,7 +44,7 @@ export async function api(metodo, ruta, { cuerpo, idem = false, params } = {}) {
   let datos = null;
   try { datos = await r.json(); } catch (e) { datos = null; }
   if (!r.ok) {
-    const e = new ApiError(r.status, (datos && datos.error) || `Error ${r.status}.`, datos && datos.codigo);
+    const e = new ApiError(r.status, (datos && datos.error) || `Error ${r.status}.`, datos && datos.codigo, datos);
     if (r.status === 401 && ruta !== "/auth/me" && ruta !== "/auth/login") document.dispatchEvent(new CustomEvent("fsh:sin-sesion"));
     if (e.codigo === "cambiar_contrasena") document.dispatchEvent(new CustomEvent("fsh:sin-sesion"));
     throw e;

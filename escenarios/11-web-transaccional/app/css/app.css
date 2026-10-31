@@ -117,6 +117,22 @@ td .fila { margin: 0; flex-wrap: nowrap; }
 .stock { font-size: 14px; } .stock.ok { color: var(--ok); } .stock.ko { color: var(--ko); }
 .opiniones { padding-left: 18px; } .opiniones blockquote { margin: 4px 0 8px; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); }
 
+/* campañas */
+.pasos { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; padding: 0; margin: 8px 0 12px; counter-reset: paso; }
+.pasos li { counter-increment: paso; padding: 3px 12px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 14px; }
+.pasos li::before { content: counter(paso) " · "; }
+.pasos li.hecho { color: var(--ok); border-color: var(--ok); }
+.pasos li[aria-current="step"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.conversacion { display: flex; flex-direction: column; gap: 8px; margin: 8px 0 12px; }
+.mensaje { max-width: 80ch; padding: 8px 12px; border-radius: var(--radio); border: 1px solid var(--line); background: var(--panel); }
+.mensaje.agente { margin-left: 24px; border-color: var(--accent); }
+.mensaje small { display: block; }
+.mensaje p { margin: 2px 0 0; white-space: pre-wrap; }
+
+.oculto { display: none; }
+form.estrecho { max-width: 520px; }
+textarea { width: 100%; max-width: 520px; font: inherit; }
+
 /* diálogos y avisos */
 dialog.dialogo { border: 1px solid var(--line); border-radius: var(--radio); background: var(--panel); color: var(--ink);
   padding: 20px; width: min(520px, calc(100vw - 24px)); max-height: calc(100vh - 24px); overflow-y: auto; }
@@ -124,8 +140,8 @@ dialog.dialogo::backdrop { background: rgb(0 0 0 / .45); }
 dialog.dialogo h2 { margin-top: 0; }
 .acciones { display: flex; justify-content: flex-end; gap: 8px; margin-top: 12px; }
 #avisos { position: fixed; right: 12px; bottom: 12px; display: flex; flex-direction: column; gap: 8px; z-index: 30; max-width: min(420px, calc(100vw - 24px)); }
-.aviso { padding: 10px 14px; border-radius: var(--radio); background: var(--panel); border: 1px solid var(--ok); color: var(--ink); box-shadow: 0 4px 16px rgb(0 0 0 / .2); }
-.aviso.ko { border-color: var(--ko); }
+.toast { padding: 10px 14px; border-radius: var(--radio); background: var(--panel); border: 1px solid var(--ok); color: var(--ink); box-shadow: 0 4px 16px rgb(0 0 0 / .2); }
+.toast.ko { border-color: var(--ko); }
 
 @media (max-width: 640px) {
   main { padding-top: 14px; }
