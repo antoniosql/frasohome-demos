@@ -11,12 +11,13 @@
 
 SET NOCOUNT ON;
 
-DECLARE @schemas TABLE (name SYSNAME PRIMARY KEY);
+-- COLLATE CATALOG_DEFAULT: en una base contenida los nombres de los catálogos usan otra intercalación.
+DECLARE @schemas TABLE (name SYSNAME COLLATE CATALOG_DEFAULT PRIMARY KEY);
 INSERT INTO @schemas (name) VALUES
     (N'crm'), (N'catalog'), (N'store'), (N'sales'), (N'returns'), (N'inventory'), (N'quality'),
     (N'hr'), (N'mkt'), (N'fin'), (N'ref'), (N'xref'), (N'rag'), (N'meta'), (N'lab'), (N'exp'), (N'exp_rag'), (N'app');
 
-DECLARE @keep TABLE (name SYSNAME PRIMARY KEY);
+DECLARE @keep TABLE (name SYSNAME COLLATE CATALOG_DEFAULT PRIMARY KEY);
 INSERT INTO @keep (name) VALUES (N'app.app_user'), (N'app.user_role'), (N'app.user_scope');
 
 DECLARE @sql NVARCHAR(MAX);

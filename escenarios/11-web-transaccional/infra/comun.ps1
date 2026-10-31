@@ -118,3 +118,31 @@ function Get-PythonCommand {
 function Get-PublicIp {
     return (Invoke-RestMethod -Uri 'https://api.ipify.org' -TimeoutSec 20).ToString().Trim()
 }
+
+function Initialize-Venv([string[]]$Requirements) {
+    # Entorno de Python compartido de los scripts (.local\frasohome-live\venv). Devuelve su python.
+    $python = Get-PythonCommand
+    $pyExe = $python[0]; $pyArgs = @(); if ($python.Count -gt 1) { $pyArgs = $python[1..($python.Count - 1)] }
+    $venv = Join-Path $LocalDir 'venv'
+    if (-not (Test-Path $venv)) {
+        & $pyExe @pyArgs -m venv $venv
+        if ($LASTEXITCODE -ne 0) { throw 'No se pudo crear el entorno virtual.' }
+    }
+    $venvPy = Join-Path $venv 'Scripts\python.exe'
+    if (-not (Test-Path $venvPy)) { $venvPy = Join-Path $venv 'bin/python' }
+    foreach ($req in $Requirements) {
+        Invoke-Quiet $venvPy -m pip install --quiet --disable-pip-version-check -r $req | Out-Null
+        if ($LASTEXITCODE -ne 0) { throw "No se pudieron instalar las dependencias de $req." }
+    }
+    return $venvPy
+}
+
+function Set-SqlFirewallForMe($Estado, [string]$Ip) {
+    # Regla «equipo-carga» del servidor SQL con la IP pública actual (la crea o la actualiza).
+    if (-not $Ip) { $Ip = Get-PublicIp }
+    Invoke-Quiet az sql server firewall-rule show -g $Estado.resourceGroup -s $Estado.sqlServerName -n equipo-carga -o none | Out-Null
+    $verb = 'create'; if ($LASTEXITCODE -eq 0) { $verb = 'update' }
+    Invoke-Az sql server firewall-rule $verb -g $Estado.resourceGroup -s $Estado.sqlServerName -n equipo-carga `
+        --start-ip-address $Ip --end-ip-address $Ip -o none | Out-Null
+    return $Ip
+}

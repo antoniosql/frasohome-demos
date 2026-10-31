@@ -9,8 +9,8 @@ Se construye por fases:
 | [0 · Comprobaciones](fase0/README.md) | Función de prueba, infraestructura mínima y scripts de verificación | Validada en Azure (falta el dominio) |
 | [1 · Infraestructura como código](infra/README.md) | Bicep completo, alertas de cuota y presupuesto, GitHub Actions | Desplegada en Azure |
 | [2 · Modelo y carga inicial](seed/README.md) | DDL, carga de los CSV en SQL y Cosmos, verificación | Cargada en Azure |
-| [3 · API y autenticación](api/README.md) | Usuarios y contraseñas propios, transacciones, 141 endpoints | Lista para ejecutar en Azure |
-| 4 · Web | 16 escenarios | Pendiente |
+| [3 · API y autenticación](api/README.md) | Usuarios y contraseñas propios, transacciones, 143 endpoints | Desplegada en Azure |
+| [4 · Web](app/README.md) | 16 escenarios | En curso: acceso y escenarios 1–5 publicados |
 | 5 · Exportación a CSV | Mismo formato que `datos/` | Pendiente |
 | 6 · Tráfico, dominio y operación | Generador de tráfico, guía | Pendiente |
 | 7 · Documentación | Guiones de demo | Pendiente |

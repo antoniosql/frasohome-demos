@@ -2,6 +2,7 @@
 
     python load_sql.py              # carga sobre tablas vacías (falla si ya hay datos)
     python load_sql.py --recrear    # borra y crea el esquema y vuelve a cargar
+    python load_sql.py --solo-procedimientos   # aplica sql/03_procedimientos.sql sin tocar datos
 
 La cadena de conexión llega en FSH_SQL_CONNECTION_STRING (la pone
 seed/cargar_datos.ps1). Todo se hace en una transacción: si algo falla, la base
@@ -16,7 +17,8 @@ import time
 from collections import Counter
 from datetime import datetime, timezone
 
-from comun import (DDL_FILES, DROP_FILE, connect_sql, insert_rows, run_script, save_report, scalar,
+import limpieza as L
+from comun import (DDL_FILES, DROP_FILE, connect_sql, insert_rows, read_csv, run_script, save_report, scalar,
                    table_columns)
 from fuentes_sql import CargaSQL
 
@@ -34,6 +36,19 @@ ID_SOURCES = {
     "absence": ("hr.absence", "absence_id"), "overtime": ("hr.overtime", "overtime_id"),
     "training": ("hr.training", "training_id"), "review": ("hr.performance_review", "review_id"),
     "payroll": ("hr.compensation", "payroll_id"),
+}
+
+
+COSMOS_ID_SOURCES = {
+    "web_event": ("marketing_precision/raw_csv/eventos_web_app.csv", "event_id"),
+    "web_session": ("marketing_precision/raw_csv/eventos_web_app.csv", "session_id"),
+    "campaign_event": ("marketing_precision/raw_csv/eventos_campana.csv", "event_id"),
+    "identity": ("marketing_precision/raw_csv/identidades_cliente.csv", "identity_signal_id"),
+    "feedback": ("marketing_precision/raw_csv/feedback_clientes.csv", "feedback_id"),
+    "service": ("marketing_precision/raw_csv/tickets_atencion_cliente.csv", "service_ticket_id"),
+    "creative": ("marketing_precision/raw_csv/creatividades_segmento.csv", "creative_id"),
+    "survey": ("people_analytics/raw_csv/raw_encuesta_clima_respuestas.csv", "respuesta_id"),
+    "exit": ("people_analytics/raw_csv/raw_exit_interviews.csv", "exit_interview_id"),
 }
 
 
@@ -69,11 +84,22 @@ def seed_counters(conn, kinds: dict[str, list[str]]) -> dict[str, int]:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--recrear", action="store_true", help="borra y crea el esquema antes de cargar")
+    ap.add_argument("--solo-procedimientos", action="store_true",
+                    help="aplica los procedimientos (CREATE OR ALTER) sin tocar los datos")
     args = ap.parse_args()
 
     t0 = time.time()
     conn = connect_sql()
     print("Conectado a SQL.")
+
+    if args.solo_procedimientos:
+        if scalar(conn, "SELECT OBJECT_ID('crm.customer')") is None:
+            print("No existe el esquema: carga antes los datos (seed/cargar_datos.ps1).")
+            return 2
+        n = run_script(conn, "03_procedimientos.sql")
+        procs = scalar(conn, "SELECT COUNT(*) FROM sys.procedures")
+        print(f"Procedimientos aplicados ({n} lotes); la base tiene {procs} procedimientos.")
+        return 0
 
     if args.recrear:
         print("Borrando y creando el esquema...")
@@ -115,6 +141,10 @@ def main() -> int:
         print(f"    {'quality.data_quality_issue':<34} {counts['quality.data_quality_issue']:>6}")
 
         kinds = {kind: [r.get(col) for r in carga.tables.get(table, [])] for kind, (table, col) in ID_SOURCES.items()}
+        # Los contadores de los documentos de Cosmos también se siembran desde sus CSV: así una
+        # recarga solo de SQL no reutiliza identificadores que ya existen en Cosmos.
+        for kind, (rel, col) in COSMOS_ID_SOURCES.items():
+            kinds[kind] = [L.generic_id(r[col]) for r in read_csv(rel).rows]
         counters = seed_counters(conn, kinds)
         conn.commit()
     except Exception:

@@ -48,6 +48,14 @@ def editar_producto(req: Request):
     return _product(req.json(), an_id(req.params["product_id"], "product"), req.user.login)
 
 
+@route("GET", "/admin/tiendas", ADMIN)
+def tiendas_lista(req: Request):
+    """Todas las tiendas con los campos editables (el listado público no trae gerente ni apertura)."""
+    return db.query("""SELECT store_id, store_name, channel, city, province, region, opening_hours, phone, manager_name,
+                              store_status, opened_at
+                       FROM store.store ORDER BY store_id""")
+
+
 @route("PUT", "/admin/tiendas/{store_id}", ADMIN)
 def editar_tienda(req: Request):
     sid = an_id(req.params["store_id"], "store")

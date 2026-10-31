@@ -114,6 +114,20 @@ def ver_ticket(req: Request):
     return _ticket(an_id(req.params["ticket_id"], "ticket"), req.user)
 
 
+@route("GET", "/tpv/pedidos/{order_id}", {"cajero", "atencion"})
+def pedido_online(req: Request):
+    """Pedido online, para devolver en tienda una compra online: líneas y unidades que quedan por devolver."""
+    oid = an_id(req.params["order_id"], "order")
+    order = db.one("""SELECT order_id, ordered_at, customer_id, order_status, order_total
+                      FROM sales.online_order WHERE order_id = ?""", oid)
+    if order is None:
+        raise not_found("El pedido no existe.")
+    order["lineas"] = db.query("""SELECT l.order_line_id, l.product_id, l.product_description, l.quantity, l.unit_price, l.line_amount,
+                                         l.quantity - [returns].fn_returned_qty(l.order_line_id, NULL) AS devolvible
+                                  FROM sales.online_order_line l WHERE l.order_id = ? ORDER BY l.order_line_id""", oid)
+    return order
+
+
 @route("GET", "/tpv/clientes", {"cajero", "atencion"})
 def buscar_cliente(req: Request):
     """Cliente por tarjeta de fidelización (señales de Cosmos), id, email o teléfono."""

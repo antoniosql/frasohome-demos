@@ -9,6 +9,7 @@ Los CSV de [`datos/`](../../../datos/README.md) entran una vez en Azure SQL y Co
 | [`../sql/00_borrar.sql`](../sql/00_borrar.sql) | Borra los objetos de datos para recrearlos. Conserva los usuarios de la web |
 | [`../sql/01_core.sql`](../sql/01_core.sql) | Retail: clientes, catálogo, tiendas, pedidos, TPV, pagos, devoluciones, stock y `quality.data_quality_issue` |
 | [`../sql/02_hr_mkt_fin_ref_xref.sql`](../sql/02_hr_mkt_fin_ref_xref.sql) | Personas, marketing, costes, tablas de referencia y puentes entre dominios |
+| [`../sql/03_procedimientos.sql`](../sql/03_procedimientos.sql) | Transacciones de la web (fase 3). Se aplica el último porque usa objetos de 04 y 05 |
 | [`../sql/04_app.sql`](../sql/04_app.sql) | Usuarios y sesiones propios, contadores de identificadores, outbox hacia Cosmos, idempotencia y auditoría |
 | [`../sql/05_rag_meta_lab.sql`](../sql/05_rag_meta_lab.sql) | Semilla de Copilot Studio, metadatos fila a fila y material de laboratorio |
 | [`limpieza.py`](limpieza.py) | Reglas de limpieza: fechas, importes, identificadores y valores de categoría |
@@ -19,7 +20,7 @@ Los CSV de [`datos/`](../../../datos/README.md) entran una vez en Azure SQL y Co
 | [`cargar_datos.ps1`](cargar_datos.ps1) | Lo ejecuta todo contra Azure desde tu equipo |
 | [`tests/`](tests/test_limpieza.py) | Pruebas de las reglas con los casos sucios reales |
 
-Los números 03 (procedimientos de las transacciones) y 06 (vistas de exportación) quedan libres para las fases 3 y 5.
+El número 06 (vistas de exportación) queda libre para la fase 5. `load_sql.py --solo-procedimientos` vuelve a aplicar 03 sin tocar los datos.
 
 ## Cómo cargar
 

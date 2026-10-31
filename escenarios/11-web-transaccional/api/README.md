@@ -1,6 +1,6 @@
 # Fase 3 · API, autenticación y transacciones
 
-La API de FraSoHome Live: 141 endpoints para los 16 escenarios, con usuarios y contraseñas propios, transacciones en procedimientos almacenados de Azure SQL y documentos en Cosmos DB. Corre en las managed Functions de Static Web Apps (Python 3.11). La web de la fase 4 la usará; mientras tanto, [`../app/`](../app/index.html) publica una consola mínima para entrar, cambiar la contraseña y probar lecturas.
+La API de FraSoHome Live: 143 endpoints para los 16 escenarios, con usuarios y contraseñas propios, transacciones en procedimientos almacenados de Azure SQL y documentos en Cosmos DB. Corre en las managed Functions de Static Web Apps (Python 3.11). La web de la fase 4 ([`../app/`](../app/README.md)) la consume.
 
 ## Cómo está hecha
 
@@ -29,10 +29,10 @@ Reglas que cumple toda la API:
 | # | Escenario | Rol | Módulo | Endpoints |
 | --- | --- | --- | --- | --- |
 | 1 | Compra online | cliente (catálogo público) | `catalogo`, `pedidos` | 15 |
-| 2 | Venta en tienda (TPV) | cajero, tienda | `tpv` | 8 |
+| 2 | Venta en tienda (TPV) | cajero, tienda | `tpv` | 9 |
 | 3 | Devoluciones | cliente, cajero, atencion, tienda | `devoluciones` | 5 |
 | 4 | Inventario y reposición | tienda | `inventario` | 8 |
-| 5 | Catálogo y tiendas | admin | `admin` | 4 |
+| 5 | Catálogo y tiendas | admin | `admin` | 5 |
 | 6 | Clientes, fidelización e identidad | atencion, marketing, cliente | `clientes` | 11 |
 | 7–8 | Campañas y promociones | marketing | `campanas` | 19 |
 | 9 | Atención al cliente | atencion, cliente | `atencion` | 9 |
@@ -64,7 +64,7 @@ cd escenarios\11-web-transaccional\tools
 
 Las contraseñas temporales se muestran una sola vez (con `-GuardarDemo` también quedan en `.local\frasohome-live\usuarios_demo.txt`) y cada usuario la cambia al entrar.
 
-`desplegar_api.ps1` sustituye la web de comprobaciones de la fase 0 por la consola y la API, y lanza [`../tools/comprobar_api.py`](../tools/comprobar_api.py): salud, catálogo, CSRF, error genérico, rutas protegidas, `/.auth` bloqueado y cabeceras. Con `FSH_CHECK_LOGIN` y `FSH_CHECK_PASSWORD` de un usuario que ya cambió su contraseña, comprueba también la sesión completa.
+`desplegar_api.ps1` sustituye la web anterior por `app/` y la API, y lanza [`../tools/comprobar_api.py`](../tools/comprobar_api.py): salud, catálogo, CSRF, error genérico, rutas protegidas, `/.auth` bloqueado y cabeceras. Con `FSH_CHECK_LOGIN` y `FSH_CHECK_PASSWORD` de un usuario que ya cambió su contraseña, comprueba también la sesión completa.
 
 El workflow [`frasohome-live-web`](../../../.github/workflows/frasohome-live-web.yml) publica lo mismo desde GitHub en cada cambio de `app/` o `api/` en `main`.
 

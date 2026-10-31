@@ -21,9 +21,9 @@ DATOS_DIR = REPO_ROOT / "datos"
 SQL_DIR = SCENARIO_DIR / "sql"
 LOCAL_DIR = REPO_ROOT / ".local" / "frasohome-live"
 
-# Orden de los scripts de esquema. 03 (procedimientos) y 06 (vistas de exportación)
-# llegan en las fases 3 y 5.
-DDL_FILES = ["01_core.sql", "02_hr_mkt_fin_ref_xref.sql", "04_app.sql", "05_rag_meta_lab.sql"]
+# Orden de los scripts de esquema: los procedimientos (03) usan objetos de 04 y 05.
+# 06 (vistas de exportación) llega en la fase 5.
+DDL_FILES = ["01_core.sql", "02_hr_mkt_fin_ref_xref.sql", "04_app.sql", "05_rag_meta_lab.sql", "03_procedimientos.sql"]
 DROP_FILE = "00_borrar.sql"
 
 

@@ -2,15 +2,15 @@
 # Empaqueta las dependencias de la API para Python 3.11 (el máximo de las managed Functions de SWA),
 # obtiene el token de despliegue con la identidad OIDC (no se guarda en GitHub) y publica.
 # Después lanza las comprobaciones contra la URL publicada.
-# Hasta la fase 4 publica la web de comprobaciones de la fase 0; entonces cambiarán APP_DIR y API_DIR.
+# Desde la fase 3 publica la API (api/) y su consola (app/); la fase 4 sustituirá la consola por la web.
 name: frasohome-live-web
 
 on:
   push:
     branches: [main]
     paths:
-      - escenarios/11-web-transaccional/fase0/app/**
-      - escenarios/11-web-transaccional/fase0/api/**
+      - escenarios/11-web-transaccional/app/**
+      - escenarios/11-web-transaccional/api/**
       - .github/workflows/frasohome-live-web.yml
   workflow_dispatch:
 
@@ -22,9 +22,9 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  APP_DIR: escenarios/11-web-transaccional/fase0/app
-  API_DIR: escenarios/11-web-transaccional/fase0/api
-  CHECK_SCRIPT: escenarios/11-web-transaccional/fase0/comprobar_despliegue.py
+  APP_DIR: escenarios/11-web-transaccional/app
+  API_DIR: escenarios/11-web-transaccional/api
+  CHECK_SCRIPT: escenarios/11-web-transaccional/tools/comprobar_api.py
 
 jobs:
   publicar:
@@ -42,6 +42,7 @@ jobs:
 
       - name: Dependencias de la API (Linux, Python 3.11)
         run: |
+          rm -rf "$API_DIR/tests"   # las pruebas no se publican
           python -m pip install --disable-pip-version-check --quiet \
             -r "$API_DIR/requirements.txt" --target "$API_DIR/.python_packages/lib/site-packages"
 
